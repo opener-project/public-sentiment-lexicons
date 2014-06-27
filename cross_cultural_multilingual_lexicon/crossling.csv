@@ -1,0 +1,2483 @@
+********************************************************************************************
+ OpeNER crosslingual sentiment lexicon : crosslingual scales grouped in aspect groups 
+ Owner OpeNER and VU-UniversityAmsterdam (CLTL)
+ de(german) nl(dutch) fr(french) it(italian) es(spanish) en(english)
+********************************************************************************************
+
+
+language;entry;sentiment;aspectCategory;clsId
+de;altmodisch;negative;BEHAVIOUR;1
+fr;démodé;negative;BEHAVIOUR;1
+fr;vieillot;negative;BEHAVIOUR;1
+nl;ouderwetse;negative;BEHAVIOUR;1
+de;inkompetent;negative;BEHAVIOUR;2
+es;incompetente;negative;BEHAVIOUR;2
+fr;incompétent;negative;BEHAVIOUR;2
+it;incompetente;negative;BEHAVIOUR;2
+de;nach unangenehm Diskussion;negative;BEHAVIOUR;3
+de;nicht ganz so charmant;negative;BEHAVIOUR;4
+de;nicht sehr ansprechend;negative;BEHAVIOUR;5
+de;nicht wirklich angenehm;negative;BEHAVIOUR;6
+de;nur in Lobbybereich;negative;BEHAVIOUR;7
+de;sehr langsam;negative;BEHAVIOUR;8
+en;very slow;strongnegative;BEHAVIOUR;8
+es;muy lento;strongnegative;BEHAVIOUR;8
+de;sein eher unfreundlich gestalten;negative;BEHAVIOUR;9
+de;sprechen kaum Englisch;negative;BEHAVIOUR;10
+de;unfreundlich;negative;BEHAVIOUR;11
+en;unfriendly;negative;BEHAVIOUR;11
+fr;très peu aimable;strongnegative;BEHAVIOUR;11
+nl;niet bepaald vriendelijk;negative;BEHAVIOUR;11
+nl;alles behalve vriendelijk;strongnegative;BEHAVIOUR;11
+en;not friendly at all;strongnegative;BEHAVIOUR;11
+fr;pas aimable;negative;BEHAVIOUR;11
+nl;niet vriendelijk;negative;BEHAVIOUR;11
+de;wenige Leistung;negative;BEHAVIOUR;12
+de;sehr unkompetent;strongnegative;BEHAVIOUR;13
+en;not always efficient;negative;BEHAVIOUR;14
+en;not pleasant;negative;BEHAVIOUR;15
+nl;niet prettig;negative;BEHAVIOUR;15
+nl;niet aangenaam;strongnegative;BEHAVIOUR;15
+en;not the nicest;negative;BEHAVIOUR;16
+en;quite slow;negative;BEHAVIOUR;17
+nl;langzaam;negative;BEHAVIOUR;17
+en;rude;negative;BEHAVIOUR;18
+es;grosero;negative;BEHAVIOUR;18
+en;kinda rude;negative;BEHAVIOUR;18
+en;should pay more attention;negative;BEHAVIOUR;19
+en;extremely rude;strongnegative;BEHAVIOUR;20
+en;extremely unpleasant;strongnegative;BEHAVIOUR;21
+en;hysterical !!!;strongnegative;BEHAVIOUR;22
+es;no disponen;negative;BEHAVIOUR;23
+es;no disponía de;negative;BEHAVIOUR;23
+nl;niet beschikbaar;negative;BEHAVIOUR;23
+es;poco atentos;negative;BEHAVIOUR;24
+es;maleducado;negative;BEHAVIOUR;24
+es;un tanto maleducado;negative;BEHAVIOUR;24
+es;caótica;strongnegative;BEHAVIOUR;25
+es;muy poco servicial;strongnegative;BEHAVIOUR;26
+fr;difficile de comprendre;negative;BEHAVIOUR;27
+fr;n' être pas souriant;negative;BEHAVIOUR;28
+fr;ne parle pas anglais;negative;BEHAVIOUR;29
+nl;een paar woordjes engels;negative;BEHAVIOUR;29
+fr;ne parle qu' anglais;negative;BEHAVIOUR;30
+fr;parler anglais seulement;negative;BEHAVIOUR;30
+fr;parle peu francais;negative;BEHAVIOUR;31
+fr;particulièrement désagréable;negative;BEHAVIOUR;32
+fr;pas acceuillant;negative;BEHAVIOUR;33
+fr;pas professionnel du tout;negative;BEHAVIOUR;34
+fr;brille par son incompétence;strongnegative;BEHAVIOUR;35
+fr;même plutôt désagréable;strongnegative;BEHAVIOUR;36
+fr;pas toujours agréable;strongnegative;BEHAVIOUR;37
+it;non efficiente;negative;BEHAVIOUR;38
+it;non essere molto cortese;negative;BEHAVIOUR;39
+it;non essere molto gradevole;negative;BEHAVIOUR;40
+it;non essere piu' disponibile;negative;BEHAVIOUR;41
+it;non parla italiano;negative;BEHAVIOUR;42
+it;non professionale;negative;BEHAVIOUR;43
+de;untrainiert;negative;BEHAVIOUR;43
+nl;maar niet erg professioneel;negative;BEHAVIOUR;43
+it;poco professionale;negative;BEHAVIOUR;44
+it;scorbutico;negative;BEHAVIOUR;45
+it;assolutamente scortese;strongnegative;BEHAVIOUR;46
+nl;onbeleefd !!;strongnegative;BEHAVIOUR;46
+it;per niente disponibile;strongnegative;BEHAVIOUR;47
+nl;chagerijnig;negative;BEHAVIOUR;48
+nl;chagrijnig;negative;BEHAVIOUR;48
+nl;niet behulpzaam;negative;BEHAVIOUR;49
+nl;niet echt kindvriendelijk;negative;BEHAVIOUR;50
+nl;nogal opdringerig;negative;BEHAVIOUR;51
+nl;onervaren;negative;BEHAVIOUR;52
+nl;sprak amper engels;negative;BEHAVIOUR;53
+nl;spreekt slecht engels;negative;BEHAVIOUR;54
+nl;zo onvriendelijk;negative;BEHAVIOUR;55
+nl;afsnauwen;strongnegative;BEHAVIOUR;56
+nl;agressief;strongnegative;BEHAVIOUR;57
+de;angemessen;positive;BEHAVIOUR;58
+es;adecuado;positive;BEHAVIOUR;58
+de;aufmerksam;positive;BEHAVIOUR;59
+en;attentive;positive;BEHAVIOUR;59
+es;atento;positive;BEHAVIOUR;59
+es;atentos;positive;BEHAVIOUR;59
+fr;attentif;positive;BEHAVIOUR;59
+fr;attentifs;positive;BEHAVIOUR;59
+fr;attentionné;positive;BEHAVIOUR;59
+it;attento;positive;BEHAVIOUR;59
+it;premuroso;positive;BEHAVIOUR;59
+nl;attent;positive;BEHAVIOUR;59
+de;deutschsprachig;positive;BEHAVIOUR;60
+de;die freundlich Begrüßung;positive;BEHAVIOUR;61
+de;durchweg hilfsbereit;positive;BEHAVIOUR;62
+de;immer hilfsbereit;strongpositive;BEHAVIOUR;62
+en;always helpful;strongpositive;BEHAVIOUR;62
+it;sempre disponibile;positive;BEHAVIOUR;62
+de;fleißig;positive;BEHAVIOUR;63
+de;freundlich;positive;BEHAVIOUR;64
+en;friendly;positive;BEHAVIOUR;64
+it;gentilissimo;positive;BEHAVIOUR;64
+nl;vriendelijk;positive;BEHAVIOUR;64
+de;Freundlichkeit;positive;BEHAVIOUR;65
+fr;gentillesse;positive;BEHAVIOUR;65
+it;cordialita';positive;BEHAVIOUR;65
+it;gentilezza;positive;BEHAVIOUR;65
+nl;vriendelijkheid;positive;BEHAVIOUR;65
+de;herzlich;positive;BEHAVIOUR;66
+es;cordial;positive;BEHAVIOUR;66
+it;cordiale;positive;BEHAVIOUR;66
+de;hilfsbereit;positive;BEHAVIOUR;67
+en;available;positive;BEHAVIOUR;67
+en;helpful;positive;BEHAVIOUR;67
+en;helpfull;positive;BEHAVIOUR;67
+es;servicial;positive;BEHAVIOUR;67
+fr;disponible;positive;BEHAVIOUR;67
+fr;serviable;positive;BEHAVIOUR;67
+it;disponibile;positive;BEHAVIOUR;67
+nl;behulpzaam;positive;BEHAVIOUR;67
+de;Hilfsbereitschaft;positive;BEHAVIOUR;68
+de;höflich;positive;BEHAVIOUR;69
+es;educado;positive;BEHAVIOUR;69
+fr;courtois;positive;BEHAVIOUR;69
+fr;poli;positive;BEHAVIOUR;69
+it;cortese;positive;BEHAVIOUR;69
+de;idyllisch;positive;BEHAVIOUR;70
+de;immer höfflich;positive;BEHAVIOUR;71
+de;kompetent;positive;BEHAVIOUR;72
+en;competent;positive;BEHAVIOUR;72
+es;competente;positive;BEHAVIOUR;72
+fr;compétent;positive;BEHAVIOUR;72
+it;competente;positive;BEHAVIOUR;72
+de;Kompetenz;positive;BEHAVIOUR;73
+de;sehr familienfreundlich;positive;BEHAVIOUR;74
+de;sehr freundlich;positive;BEHAVIOUR;75
+en;very friendly;strongpositive;BEHAVIOUR;75
+es;muy amable;strongpositive;BEHAVIOUR;75
+es;muy amables;strongpositive;BEHAVIOUR;75
+fr;très sympathique;strongpositive;BEHAVIOUR;75
+it;molto cordiale;positive;BEHAVIOUR;75
+nl;zeer vriendelijk;strongpositive;BEHAVIOUR;75
+de;sehr hilfsbereit;positive;BEHAVIOUR;76
+en;very helpful;strongpositive;BEHAVIOUR;76
+en;very helpfull;strongpositive;BEHAVIOUR;76
+es;muy atentos;strongpositive;BEHAVIOUR;76
+es;muy servicial;strongpositive;BEHAVIOUR;76
+es;muy serviciales;strongpositive;BEHAVIOUR;76
+fr;très serviable;positive;BEHAVIOUR;76
+fr;tres serviable;strongpositive;BEHAVIOUR;76
+it;molto disponibile;positive;BEHAVIOUR;76
+nl;erg behulpzaam;strongpositive;BEHAVIOUR;76
+nl;heel behulpzaam;strongpositive;BEHAVIOUR;76
+nl;zeer behulpzaam;strongpositive;BEHAVIOUR;76
+nl;zeer hulpvaardig;strongpositive;BEHAVIOUR;76
+de;sehr nett;positive;BEHAVIOUR;77
+de;sprechen gut englisch;positive;BEHAVIOUR;78
+de;über alle Maß freundlich;positive;BEHAVIOUR;79
+de;ausnehmend freundlich;strongpositive;BEHAVIOUR;80
+de;äußerst aufmerksam;strongpositive;BEHAVIOUR;81
+de;immer freundlich;strongpositive;BEHAVIOUR;82
+de;sehr herzlich;strongpositive;BEHAVIOUR;83
+es;muy cordial;strongpositive;BEHAVIOUR;83
+de;sehr kinderfreundlich;strongpositive;BEHAVIOUR;84
+nl;zeer kind vriendelijk;strongpositive;BEHAVIOUR;84
+de;sehr professionell;strongpositive;BEHAVIOUR;85
+en;very professional;strongpositive;BEHAVIOUR;85
+fr;très professionnel;strongpositive;BEHAVIOUR;85
+it;molto professionale;positive;BEHAVIOUR;85
+de;sehr zuvorkommend;strongpositive;BEHAVIOUR;86
+fr;tres courtois;strongpositive;BEHAVIOUR;86
+it;molto cortese;positive;BEHAVIOUR;86
+de;total freundlich;strongpositive;BEHAVIOUR;87
+de;total leck;strongpositive;BEHAVIOUR;88
+en;always smile;positive;BEHAVIOUR;89
+fr;toujours souriant;strongpositive;BEHAVIOUR;89
+en;answer politely;positive;BEHAVIOUR;90
+en;available all day long;positive;BEHAVIOUR;91
+en;can speak good english;positive;BEHAVIOUR;92
+en;charme;positive;BEHAVIOUR;93
+es;encanto;strongpositive;BEHAVIOUR;93
+en;come quickly;positive;BEHAVIOUR;94
+en;contemporary;positive;BEHAVIOUR;95
+en;efficient;positive;BEHAVIOUR;96
+es;eficaz;positive;BEHAVIOUR;96
+es;eficiente;positive;BEHAVIOUR;96
+fr;efficace;positive;BEHAVIOUR;96
+it;efficiente;positive;BEHAVIOUR;96
+it;efficientissimo;positive;BEHAVIOUR;96
+nl;efficiente;positive;BEHAVIOUR;96
+en;help quickly;positive;BEHAVIOUR;97
+en;include;positive;BEHAVIOUR;98
+es;destacamos;positive;BEHAVIOUR;98
+it;includere;positive;BEHAVIOUR;98
+en;kind;positive;BEHAVIOUR;99
+it;gentile;positive;BEHAVIOUR;99
+en;kindly help;positive;BEHAVIOUR;100
+en;professional;positive;BEHAVIOUR;101
+es;profesional;positive;BEHAVIOUR;101
+it;professionale;positive;BEHAVIOUR;101
+en;quite swift;positive;BEHAVIOUR;102
+en;very fast;strongpositive;BEHAVIOUR;102
+es;muy rápidos;strongpositive;BEHAVIOUR;102
+fr;très rapide;strongpositive;BEHAVIOUR;102
+en;smile;positive;BEHAVIOUR;103
+fr;souriant;positive;BEHAVIOUR;103
+en;so helpful;positive;BEHAVIOUR;104
+en;so kind;positive;BEHAVIOUR;105
+en;the only efficient staff;positive;BEHAVIOUR;106
+en;understanding;positive;BEHAVIOUR;107
+en;welcome;positive;BEHAVIOUR;108
+fr;bon accueil;positive;BEHAVIOUR;108
+fr;accueil;negative;BEHAVIOUR;108
+it;accolti;positive;BEHAVIOUR;108
+it;ben accolti;positive;BEHAVIOUR;108
+nl;vriendelijk ontvangen;positive;BEHAVIOUR;108
+nl;welkom;positive;BEHAVIOUR;108
+en;really kind;strongpositive;BEHAVIOUR;109
+en;really professionell;strongpositive;BEHAVIOUR;110
+en;speak excellent english;strongpositive;BEHAVIOUR;111
+en;very attentive;strongpositive;BEHAVIOUR;112
+es;muy atenta;strongpositive;BEHAVIOUR;112
+es;muy atento;strongpositive;BEHAVIOUR;112
+en;very helpful;strongpositive;BEHAVIOUR;113
+it;molto disponibile;positive;BEHAVIOUR;113
+nl;zeer hulpvaardig;strongpositive;BEHAVIOUR;113
+es;habla español;positive;BEHAVIOUR;114
+es;habla inglés;positive;BEHAVIOUR;115
+es;humano;positive;BEHAVIOUR;116
+es;respetuoso;positive;BEHAVIOUR;117
+es;es muy agradable;strongpositive;BEHAVIOUR;118
+es;es muy atento;strongpositive;BEHAVIOUR;119
+es;fueron muy atentos;strongpositive;BEHAVIOUR;120
+es;grandes profesionales;strongpositive;BEHAVIOUR;121
+es;más que atento;strongpositive;BEHAVIOUR;122
+es;muy educados;strongpositive;BEHAVIOUR;123
+es;realmente atento;strongpositive;BEHAVIOUR;124
+es;siempre tan amable;strongpositive;BEHAVIOUR;125
+es;trato super amable;strongpositive;BEHAVIOUR;126
+fr;, et sympa;positive;BEHAVIOUR;127
+fr;assez compétent;positive;BEHAVIOUR;128
+fr;avoir recommander;positive;BEHAVIOUR;129
+fr;globalement sympa;positive;BEHAVIOUR;130
+fr;plutôt sympa;positive;BEHAVIOUR;131
+fr;simpas;positive;BEHAVIOUR;132
+fr;somptueux;positive;BEHAVIOUR;133
+fr;sympathie;positive;BEHAVIOUR;134
+it;simpatia;positive;BEHAVIOUR;134
+fr;très acceuillant;positive;BEHAVIOUR;135
+fr;tres acceuillant;strongpositive;BEHAVIOUR;135
+it;molto accogliente;positive;BEHAVIOUR;135
+fr;très agrèable;positive;BEHAVIOUR;136
+fr;tres sympatiques;positive;BEHAVIOUR;137
+fr;absolument charmant;strongpositive;BEHAVIOUR;138
+fr;être très gentil;strongpositive;BEHAVIOUR;139
+fr;être très rapide;strongpositive;BEHAVIOUR;140
+fr;plein d' humour;strongpositive;BEHAVIOUR;141
+fr;plus accueillant;strongpositive;BEHAVIOUR;142
+fr;très efficace;strongpositive;BEHAVIOUR;143
+it;molto efficiente;strongpositive;BEHAVIOUR;143
+fr;tres sympatique serviable;strongpositive;BEHAVIOUR;144
+fr;un charmante;strongpositive;BEHAVIOUR;145
+fr;un professionalisme certain;strongpositive;BEHAVIOUR;146
+fr;vraiiment sympa;strongpositive;BEHAVIOUR;147
+fr;vraiment adorable;strongpositive;BEHAVIOUR;148
+it;cortesia;positive;BEHAVIOUR;149
+it;decisamente bello;positive;BEHAVIOUR;150
+it;sempre attento;positive;BEHAVIOUR;151
+it;sempre molto educato;positive;BEHAVIOUR;152
+it;veramente efficiente;positive;BEHAVIOUR;153
+it;estremamente educato;strongpositive;BEHAVIOUR;154
+it;fortemente consigliare;strongpositive;BEHAVIOUR;155
+it;grande disponibilita';strongpositive;BEHAVIOUR;156
+it;grande professionalita';strongpositive;BEHAVIOUR;157
+it;incredibilmente gentile;strongpositive;BEHAVIOUR;158
+it;molto molto disponibile;strongpositive;BEHAVIOUR;159
+it;sempre molto cortese;strongpositive;BEHAVIOUR;160
+it;squisitamente gentile;strongpositive;BEHAVIOUR;161
+nl;engels sprekend;positive;BEHAVIOUR;162
+nl;gastvrij;positive;BEHAVIOUR;163
+nl;gevoel voor humor;positive;BEHAVIOUR;164
+nl;helemaal niet opdringerig;positive;BEHAVIOUR;165
+nl;hielp goed;positive;BEHAVIOUR;166
+nl;hulp;positive;BEHAVIOUR;167
+nl;met veel humor;positive;BEHAVIOUR;168
+nl;spreek engels en duits;positive;BEHAVIOUR;169
+nl;spreekt goed engels;positive;BEHAVIOUR;170
+nl;vriendelijk en gastvrij geholpen;positive;BEHAVIOUR;171
+nl;was prettig;positive;BEHAVIOUR;172
+nl;was wel klantvriendelijk;positive;BEHAVIOUR;173
+nl;wel vriendelijk;positive;BEHAVIOUR;174
+nl;werden goed geholpen door;positive;BEHAVIOUR;175
+nl;zijn allemaal even vriendelijk;positive;BEHAVIOUR;176
+nl;zijn vriendelijke;positive;BEHAVIOUR;177
+nl;spreekt erg goed engels;strongpositive;BEHAVIOUR;178
+de;an Rand kaputt;negative;CLEAN;179
+de;blättern die Farbe ab;negative;CLEAN;180
+de;Blutfleck;negative;CLEAN;181
+nl;bloedvlekken;strongnegative;CLEAN;181
+de;defekt;negative;CLEAN;182
+en;faulty;negative;CLEAN;182
+it;difettoso;negative;CLEAN;182
+nl;defecte;negative;CLEAN;182
+de;feucht;negative;CLEAN;183
+en;humid;negative;CLEAN;183
+nl;vochtig;negative;CLEAN;183
+de;Flecken;negative;CLEAN;184
+en;stained;negative;CLEAN;184
+en;with stains;negative;CLEAN;184
+de;fleckig;negative;CLEAN;185
+es;llena de manchas;negative;CLEAN;185
+de;heruntergekommen;negative;CLEAN;186
+it;fatiscente;negative;CLEAN;186
+de;mies;negative;CLEAN;187
+de;lausig;strongnegative;CLEAN;187
+en;lousy;strongnegative;CLEAN;187
+de;nicht geputzt;negative;CLEAN;188
+de;nicht gereinigt;negative;CLEAN;188
+de;nicht ordentlich geputzt;negative;CLEAN;189
+de;nicht richtig sauber;negative;CLEAN;190
+de;schlecht gereinigt;negative;CLEAN;190
+de;nicht sauber;negative;CLEAN;191
+en;not clean;negative;CLEAN;191
+en;not that clean;negative;CLEAN;191
+fr;pas propre;negative;CLEAN;191
+nl;niet schoon;negative;CLEAN;191
+fr;pas nettoyé;strongnegative;CLEAN;191
+de;nicht sehr sauber;negative;CLEAN;192
+nl;niet heel schoon;negative;CLEAN;192
+de;nicht unbedingt sauber;negative;CLEAN;193
+de;nicht wirklich sauber;negative;CLEAN;193
+fr;pas vraiment propre;negative;CLEAN;193
+nl;niet echt schoon;negative;CLEAN;193
+de;nur oberflächlich sauber;negative;CLEAN;194
+de;Schimmel;negative;CLEAN;195
+de;schimmeln;negative;CLEAN;195
+de;Schwarzschimmel;strongnegative;CLEAN;195
+nl;schimmel;negative;CLEAN;195
+de;schmutzig;negative;CLEAN;196
+en;dirty;negative;CLEAN;196
+es;sucio;negative;CLEAN;196
+fr;sale;negative;CLEAN;196
+it;sporco;negative;CLEAN;196
+nl;vies;negative;CLEAN;196
+de;Seifenreste;negative;CLEAN;197
+de;Staub;negative;CLEAN;198
+de;stickig;negative;CLEAN;199
+fr;exigu;negative;CLEAN;199
+nl;benauwd;negative;CLEAN;199
+de;teilweise verfleckt;negative;CLEAN;200
+de;überall Flecken;negative;CLEAN;201
+de;verkrusten;negative;CLEAN;202
+de;Wasserfleck;negative;CLEAN;203
+de;fürchterlich stinkend;strongnegative;CLEAN;204
+de;riechen sehr unangenehm;strongnegative;CLEAN;205
+de;sehr dreckig !;strongnegative;CLEAN;206
+en;always dirty;negative;CLEAN;207
+en;cracked;negative;CLEAN;208
+en;ruin;negative;CLEAN;209
+en;smelly;negative;CLEAN;210
+fr;mauvais odeur;negative;CLEAN;210
+en;smoke;negative;CLEAN;211
+en;torn;negative;CLEAN;212
+fr;déchirer;negative;CLEAN;212
+it;strappato;negative;CLEAN;212
+en;uncomfortable smell;negative;CLEAN;213
+en;a really dirty place;strongnegative;CLEAN;214
+en;crappy;strongnegative;CLEAN;215
+es;cutres;negative;CLEAN;215
+es;incomodas;negative;CLEAN;215
+en;heavily stained;strongnegative;CLEAN;216
+es;a veces no limpiaron;negative;CLEAN;217
+es;manchas;negative;CLEAN;218
+nl;vlekken;negative;CLEAN;218
+es;ni limpiaron;negative;CLEAN;219
+es;no limpian;negative;CLEAN;220
+es;no nos limpiaba;negative;CLEAN;221
+fr;pas tres propre;negative;CLEAN;222
+fr;hypers sale;strongnegative;CLEAN;223
+fr;plutôt très sale;strongnegative;CLEAN;224
+fr;poils;strongnegative;CLEAN;225
+nl;haren;negative;CLEAN;225
+it;molesto;negative;CLEAN;226
+it;odore di stantio;negative;CLEAN;227
+it;poco pulire;negative;CLEAN;228
+it;rotto;negative;CLEAN;229
+it;senso di sporco;negative;CLEAN;230
+it;staccato;negative;CLEAN;231
+nl;afgebladerd;negative;CLEAN;232
+nl;erg rommelig;negative;CLEAN;233
+nl;flinke zwarte vochtplekken;negative;CLEAN;234
+nl;kapot;negative;CLEAN;235
+nl;kapotte;negative;CLEAN;236
+nl;niet dagelijks verschoond;negative;CLEAN;237
+nl;niet rookvrij;negative;CLEAN;238
+nl;roestplekken;negative;CLEAN;239
+nl;scheur;negative;CLEAN;240
+nl;veel vlekken;negative;CLEAN;241
+nl;vettigheid;negative;CLEAN;242
+nl;vies bruin;negative;CLEAN;243
+nl;echt smerig;strongnegative;CLEAN;244
+nl;gewoonweg vies;strongnegative;CLEAN;245
+nl;naar rotte eieren stinkende;strongnegative;CLEAN;246
+nl;ronduit vuil;strongnegative;CLEAN;247
+nl;te vuil;strongnegative;CLEAN;248
+nl;walgelijk;strongnegative;CLEAN;249
+nl;walgelijke snoepgeur;strongnegative;CLEAN;250
+de;annehmbar sauber;positive;CLEAN;251
+de;eine sauber Eindruck;positive;CLEAN;252
+de;farblich aufeinander abgestimmt;positive;CLEAN;253
+de;grundsätzlich sauber;positive;CLEAN;254
+de;halbwegs sauber;positive;CLEAN;255
+en;clean enough;positive;CLEAN;255
+es;bastante limpia;positive;CLEAN;255
+es;bastante limpio;positive;CLEAN;255
+it;abbastanza pulito;positive;CLEAN;255
+it;discretamente pulire;positive;CLEAN;255
+nl;redelijk schoon;positive;CLEAN;255
+de;immer sauber putzen;positive;CLEAN;256
+de;immer sehr ordentlich reinigen;positive;CLEAN;257
+de;nur bei Abreise reinigen;positive;CLEAN;258
+de;ordentlich;positive;CLEAN;259
+de;sauber;positive;CLEAN;259
+en;clean;positive;CLEAN;259
+en;tidy;positive;CLEAN;259
+es;limpio;positive;CLEAN;259
+fr;propre;strongpositive;CLEAN;259
+it;pulire;positive;CLEAN;259
+nl;keurig;positive;CLEAN;259
+nl;net;positive;CLEAN;259
+nl;netjes;positive;CLEAN;259
+nl;proper;positive;CLEAN;259
+nl;schoon;positive;CLEAN;259
+de;regelmäßig reinigen;positive;CLEAN;260
+de;sehr gepflegt;positive;CLEAN;261
+de;sofort wieder reinigen;positive;CLEAN;262
+de;täglich reinigen;positive;CLEAN;263
+de;werden ständig säubern;positive;CLEAN;264
+de;pikobello sauber;strongpositive;CLEAN;265
+de;sehr gepflegt Zustand;strongpositive;CLEAN;266
+de;sehr ordentlich;strongpositive;CLEAN;267
+es;muy prolijo;strongpositive;CLEAN;267
+it;molto ordinato;positive;CLEAN;267
+nl;erg netjes;strongpositive;CLEAN;267
+nl;heel netjes;strongpositive;CLEAN;267
+nl;uiterst nette;strongpositive;CLEAN;267
+de;sehr sauber;strongpositive;CLEAN;268
+de;überaus sauber;strongpositive;CLEAN;268
+en;very clean;strongpositive;CLEAN;268
+es;bien limpios;strongpositive;CLEAN;268
+es;extremadamente limpias;strongpositive;CLEAN;268
+es;muy limpia;strongpositive;CLEAN;268
+es;muy limpias;strongpositive;CLEAN;268
+es;muy limpio;strongpositive;CLEAN;268
+es;todo muy limpio;strongpositive;CLEAN;268
+fr;tres propre;positive;CLEAN;268
+fr;très propre;positive;CLEAN;268
+it;ben pulire;positive;CLEAN;268
+it;molto pulire;positive;CLEAN;268
+it;molto pulito;positive;CLEAN;268
+nl;erg schoon;strongpositive;CLEAN;268
+nl;zeer schone;strongpositive;CLEAN;268
+nl;zeer schoon;strongpositive;CLEAN;268
+de;super sauber;strongpositive;CLEAN;269
+nl;super schoon;strongpositive;CLEAN;269
+nl;superschoon;strongpositive;CLEAN;269
+de;tadellos tadellos;strongpositive;CLEAN;270
+de;Top sauber;strongpositive;CLEAN;271
+en;fine;positive;CLEAN;272
+nl;prima;positive;CLEAN;272
+en;kept clean;positive;CLEAN;273
+nl;goed schoon gehouden;positive;CLEAN;273
+nl;schoon gehouden;positive;CLEAN;273
+en;kept tidy;positive;CLEAN;274
+en;one of the cleanest;positive;CLEAN;275
+en;always clean;strongpositive;CLEAN;276
+fr;toujours bien nettoye;strongpositive;CLEAN;276
+it;sempre ben pulito;positive;CLEAN;276
+it;sempre pulito;positive;CLEAN;276
+en;exceptionally clean;strongpositive;CLEAN;277
+en;immaculately clean;strongpositive;CLEAN;277
+es;estaba limpio;positive;CLEAN;278
+es;si fueron limpiados;positive;CLEAN;279
+es;bien limpia;strongpositive;CLEAN;280
+nl;prima schoon;positive;CLEAN;280
+es;totalmente limpias;strongpositive;CLEAN;281
+fr;et propre;positive;CLEAN;282
+nl;en schoon;positive;CLEAN;282
+fr;impeccable;positive;CLEAN;283
+it;pulitissime;strongpositive;CLEAN;283
+fr;nettoyer;positive;CLEAN;284
+nl;schoonmaken;positive;CLEAN;284
+fr;toujours aussi propre;positive;CLEAN;285
+fr;nourriture excellent;strongpositive;CLEAN;286
+it;freschezza;positive;CLEAN;287
+it;molto curato;positive;CLEAN;288
+it;perfettamente pulito;strongpositive;CLEAN;289
+it;pulitissimi;strongpositive;CLEAN;290
+it;soprattutto pulitissimo;strongpositive;CLEAN;291
+it;veramente pulito;strongpositive;CLEAN;292
+nl;alles schoon;positive;CLEAN;293
+nl;dagelijks schoon;positive;CLEAN;294
+nl;elke dag schoongemaakt;positive;CLEAN;294
+nl;gewoon netjes;positive;CLEAN;295
+nl;goed schoon gemaakt;positive;CLEAN;296
+nl;lekker schoon;positive;CLEAN;297
+nl;ongedwongen;positive;CLEAN;298
+nl;oogt netjes;positive;CLEAN;299
+nl;voor italiaanse begrippen prima;positive;CLEAN;300
+nl;was verder keurig;positive;CLEAN;301
+nl;was werkelijk brandschoon;positive;CLEAN;302
+nl;blinkend;strongpositive;CLEAN;303
+nl;ontzettend goed schoon gehouden;strongpositive;CLEAN;304
+nl;perfect schoon gehouden;strongpositive;CLEAN;304
+nl;zeeeer proper;strongpositive;CLEAN;305
+nl;zijn kraaknet;strongpositive;CLEAN;305
+de;elegant;positive;GEN-EVAL;306
+en;stylish;positive;GEN-EVAL;306
+de;gepflegt;positive;GEN-EVAL;307
+en;well look after;positive;GEN-EVAL;307
+en;well maintain;positive;GEN-EVAL;307
+es;bien cuidado;positive;GEN-EVAL;307
+nl;goed onderhouden;positive;GEN-EVAL;307
+nl;goed verzorgd;positive;GEN-EVAL;307
+de;komfortabel;positive;GEN-EVAL;308
+en;comfortable;positive;GEN-EVAL;308
+en;comfy;positive;GEN-EVAL;308
+en;cozy;positive;GEN-EVAL;308
+es;acogedor;positive;GEN-EVAL;308
+es;confortable;positive;GEN-EVAL;308
+fr;confortable;positive;GEN-EVAL;308
+it;comodo;positive;GEN-EVAL;308
+it;confortevole;positive;GEN-EVAL;308
+nl;comfortabel;positive;GEN-EVAL;308
+nl;gezellig;positive;GEN-EVAL;308
+de;modern;positive;GEN-EVAL;309
+en;modern;positive;GEN-EVAL;309
+es;moderno;positive;GEN-EVAL;309
+fr;moderne;positive;GEN-EVAL;309
+it;moderno;positive;GEN-EVAL;309
+nl;modern;positive;GEN-EVAL;309
+de;neu;positive;GEN-EVAL;310
+en;new;positive;GEN-EVAL;310
+es;nuevo;positive;GEN-EVAL;310
+fr;nouveau;positive;GEN-EVAL;310
+it;nuovo;positive;GEN-EVAL;310
+nl;nieuw;positive;GEN-EVAL;310
+de;sehr gepflegt;positive;GEN-EVAL;311
+de;super pflegen;strongpositive;GEN-EVAL;311
+es;muy cuidadas;strongpositive;GEN-EVAL;311
+nl;zeer goed onderhouden;strongpositive;GEN-EVAL;311
+de;sehr komfortabel;strongpositive;GEN-EVAL;312
+en;very comfortable;strongpositive;GEN-EVAL;312
+fr;très confortable;positive;GEN-EVAL;312
+nl;zeer comfortabel;strongpositive;GEN-EVAL;312
+de;sehr modern;strongpositive;GEN-EVAL;313
+en;very modern;strongpositive;GEN-EVAL;313
+es;muy moderno;strongpositive;GEN-EVAL;313
+fr;très moderne;positive;GEN-EVAL;313
+en;luxury;positive;GEN-EVAL;314
+fr;luxe;strongpositive;GEN-EVAL;314
+it;lusso;positive;GEN-EVAL;314
+nl;luxe;positive;GEN-EVAL;314
+en;neatly decorate;positive;GEN-EVAL;315
+en;recently refurbish;positive;GEN-EVAL;316
+nl;onlangs gerenoveerd;positive;GEN-EVAL;316
+en;romantic;positive;GEN-EVAL;317
+it;romantico;positive;GEN-EVAL;317
+de;alt;negative;GEN-EVAL;318
+en;old;negative;GEN-EVAL;318
+es;viejo;negative;GEN-EVAL;318
+fr;vieux;positive;GEN-EVAL;318
+it;vecchio;negative;GEN-EVAL;318
+nl;oud;positive;GEN-EVAL;318
+de;dunkel;negative;GEN-EVAL;319
+en;dark;negative;GEN-EVAL;319
+nl;donker;negative;GEN-EVAL;319
+en;date;negative;GEN-EVAL;320
+it;datato;negative;GEN-EVAL;320
+nl;verouderd;negative;GEN-EVAL;320
+en;grey;negative;GEN-EVAL;321
+it;grigio;negative;GEN-EVAL;321
+en;very old;strongnegative;GEN-EVAL;322
+it;molto vecchio;strongnegative;GEN-EVAL;322
+de;abgenutzt;negative;GEN-EVAL;323
+de;abnutzen;negative;GEN-EVAL;323
+de;abwohnen;negative;GEN-EVAL;323
+en;tired;negative;GEN-EVAL;323
+nl;versleten;negative;GEN-EVAL;323
+de;auch nicht weiter empfehlen;negative;GEN-EVAL;324
+de;nicht weit zu empfehlen;negative;GEN-EVAL;324
+de;nicht zu empfehlen;negative;GEN-EVAL;324
+en;not recommend;negative;GEN-EVAL;324
+nl;niet aan te bevelen;negative;GEN-EVAL;324
+de;auf keine Fall weiterempfehlen;negative;GEN-EVAL;325
+de;beschweren;negative;GEN-EVAL;326
+en;complain;negative;GEN-EVAL;326
+es;queje;negative;GEN-EVAL;326
+nl;klaagde;strongnegative;GEN-EVAL;326
+de;defekt;negative;GEN-EVAL;327
+en;faulty;negative;GEN-EVAL;327
+it;difettoso;negative;GEN-EVAL;327
+nl;defecte;negative;GEN-EVAL;327
+de;dunkel;negative;GEN-EVAL;328
+en;dark;negative;GEN-EVAL;328
+it;scuro;negative;GEN-EVAL;328
+nl;donker;negative;GEN-EVAL;328
+de;dünn;negative;GEN-EVAL;329
+en;thin;negative;GEN-EVAL;329
+it;sottilissimi;negative;GEN-EVAL;329
+de;eher nicht zu empfehlen;negative;GEN-EVAL;330
+de;eher schmucklos;negative;GEN-EVAL;331
+de;einfach zu wenige;negative;GEN-EVAL;332
+de;gar nicht so schlecht;negative;GEN-EVAL;333
+de;heruntergekommen;negative;GEN-EVAL;334
+it;fatiscente;negative;GEN-EVAL;334
+nl;minder mooi;negative;GEN-EVAL;334
+de;in eine Problembezirk;negative;GEN-EVAL;335
+de;leer;negative;GEN-EVAL;336
+en;empty;negative;GEN-EVAL;336
+it;vuotare;negative;GEN-EVAL;336
+nl;leeg;negative;GEN-EVAL;336
+de;mäßig Qualität;negative;GEN-EVAL;337
+nl;matige kwaliteit;negative;GEN-EVAL;337
+de;nicht ausreichend;negative;GEN-EVAL;338
+it;non è sufficiente;negative;GEN-EVAL;338
+de;nicht ganz neu;negative;GEN-EVAL;339
+de;nicht ganz so charmant;negative;GEN-EVAL;340
+de;nicht gut;negative;GEN-EVAL;341
+en;not good;negative;GEN-EVAL;341
+es;no es bueno;negative;GEN-EVAL;341
+de;nicht in Ordnung;negative;GEN-EVAL;342
+en;out of order;negative;GEN-EVAL;342
+de;nicht perfekt;negative;GEN-EVAL;343
+it;non perfetto;negative;GEN-EVAL;343
+de;schlecht;negative;GEN-EVAL;344
+en;bad;negative;GEN-EVAL;344
+en;poor;negative;GEN-EVAL;344
+es;malo;negative;GEN-EVAL;344
+es;pobre;negative;GEN-EVAL;344
+nl;slecht;negative;GEN-EVAL;344
+de;so etwas schwierig;negative;GEN-EVAL;345
+de;stickig;negative;GEN-EVAL;346
+nl;benauwd;negative;GEN-EVAL;346
+de;unbequem;negative;GEN-EVAL;347
+en;uncomfortable;negative;GEN-EVAL;347
+es;incómoda;negative;GEN-EVAL;347
+it;scomoda;negative;GEN-EVAL;347
+it;scomodo;negative;GEN-EVAL;347
+de;unpersönlich;negative;GEN-EVAL;348
+en;impersonal;negative;GEN-EVAL;348
+de;ekelig;strongnegative;GEN-EVAL;349
+nl;walgelijk;strongnegative;GEN-EVAL;349
+de;katastrophal;strongnegative;GEN-EVAL;350
+es;desastroso;negative;GEN-EVAL;350
+es;desastrosas;strongnegative;GEN-EVAL;350
+de;keinesfalls zu empfehlen;strongnegative;GEN-EVAL;351
+de;mehr als schlecht;strongnegative;GEN-EVAL;352
+de;nicht akzeptabel;strongnegative;GEN-EVAL;353
+en;unacceptable;strongnegative;GEN-EVAL;353
+de;nie wieder;strongnegative;GEN-EVAL;354
+en;never again;strongnegative;GEN-EVAL;354
+it;mai piu';negative;GEN-EVAL;354
+it;mai piu;strongnegative;GEN-EVAL;354
+nl;nooit meer;negative;GEN-EVAL;354
+nl;dit nooit meer;strongnegative;GEN-EVAL;354
+de;sehr schlecht;strongnegative;GEN-EVAL;355
+en;very bad;strongnegative;GEN-EVAL;355
+en;very poor;strongnegative;GEN-EVAL;355
+it;pessimo;strongnegative;GEN-EVAL;355
+de;viel zu klein;strongnegative;GEN-EVAL;356
+nl;veel te klein;strongnegative;GEN-EVAL;356
+nl;veel te kleine;strongnegative;GEN-EVAL;356
+de;zu wenige;strongnegative;GEN-EVAL;357
+it;inadeguato;negative;GEN-EVAL;357
+it;insufficiente;negative;GEN-EVAL;357
+nl;onvoldoende;negative;GEN-EVAL;357
+nl;te weinig;negative;GEN-EVAL;357
+en;boring;negative;GEN-EVAL;358
+nl;vervelend;negative;GEN-EVAL;358
+en;brocken;negative;GEN-EVAL;359
+en;could have been better;negative;GEN-EVAL;360
+en;could have been bigger;negative;GEN-EVAL;361
+en;don 't recommend;negative;GEN-EVAL;362
+it;non lo consiglio;negative;GEN-EVAL;362
+nl;niet aan te raden;negative;GEN-EVAL;362
+en;not big;negative;GEN-EVAL;363
+en;not great;negative;GEN-EVAL;363
+it;non ottimo;negative;GEN-EVAL;363
+nl;niet groot;negative;GEN-EVAL;363
+en;not enough;negative;GEN-EVAL;364
+en;not pleasant;negative;GEN-EVAL;365
+nl;niet prettig;negative;GEN-EVAL;365
+nl;niet aangenaam;strongnegative;GEN-EVAL;365
+en;not powerful enough;negative;GEN-EVAL;366
+en;should pay more attention;negative;GEN-EVAL;367
+en;will not go back;negative;GEN-EVAL;368
+en;never come back;strongnegative;GEN-EVAL;368
+en;never again !;strongnegative;GEN-EVAL;368
+en;will not recommend;negative;GEN-EVAL;369
+en;would not recommend;negative;GEN-EVAL;369
+en;wouldn 't recommend;negative;GEN-EVAL;369
+en;awful;strongnegative;GEN-EVAL;370
+en;horrible;strongnegative;GEN-EVAL;370
+en;terrible;strongnegative;GEN-EVAL;370
+es;horrible;strongnegative;GEN-EVAL;370
+it;orribile;strongnegative;GEN-EVAL;370
+it;terribile;strongnegative;GEN-EVAL;370
+nl;verschrikkelijk;strongnegative;GEN-EVAL;370
+en;claustrophobic;strongnegative;GEN-EVAL;371
+nl;claustrofobisch;strongnegative;GEN-EVAL;371
+en;crappy;strongnegative;GEN-EVAL;372
+es;cutres;negative;GEN-EVAL;372
+es;incomodas;negative;GEN-EVAL;372
+en;really bad;strongnegative;GEN-EVAL;373
+es;muy mal;strongnegative;GEN-EVAL;373
+en;very deficient;strongnegative;GEN-EVAL;374
+en;very deteriorate;strongnegative;GEN-EVAL;375
+en;very limited;strongnegative;GEN-EVAL;376
+fr;limit;negative;GEN-EVAL;376
+nl;zeer beperkt;negative;GEN-EVAL;376
+nl;erg beperkt;strongnegative;GEN-EVAL;376
+es;bastante básica;negative;GEN-EVAL;377
+es;bastante mala;negative;GEN-EVAL;378
+es;bastante simple;negative;GEN-EVAL;379
+es;bordes;negative;GEN-EVAL;380
+es;caótico;negative;GEN-EVAL;381
+es;carece;negative;GEN-EVAL;382
+es;cobraban;negative;GEN-EVAL;383
+es;con apenas;negative;GEN-EVAL;384
+es;contrasta bastante;negative;GEN-EVAL;385
+es;de lo peor;negative;GEN-EVAL;386
+es;de no volver;negative;GEN-EVAL;387
+es;debiera mejorar un poco;negative;GEN-EVAL;388
+es;demasiado sencillo;negative;GEN-EVAL;389
+es;el gran problema;negative;GEN-EVAL;390
+es;el único inconveniente;negative;GEN-EVAL;391
+es;en el último piso;negative;GEN-EVAL;392
+es;es bastante básica;negative;GEN-EVAL;393
+es;funciona mal;negative;GEN-EVAL;394
+es;funcionaba un poco regular;negative;GEN-EVAL;395
+es;grasiento;negative;GEN-EVAL;396
+es;hicimos;negative;GEN-EVAL;397
+es;la peor;negative;GEN-EVAL;398
+es;la única pega;negative;GEN-EVAL;399
+es;laberíntico;negative;GEN-EVAL;400
+es;llegan;negative;GEN-EVAL;401
+es;lo peor;negative;GEN-EVAL;402
+es;lo único a mejorar;negative;GEN-EVAL;403
+es;maleducado;negative;GEN-EVAL;404
+es;más bien pequeño;negative;GEN-EVAL;405
+es;más feas;negative;GEN-EVAL;406
+es;mini;negative;GEN-EVAL;407
+nl;mini;negative;GEN-EVAL;407
+es;mis expectativas eran mayores;negative;GEN-EVAL;408
+es;muy simple;negative;GEN-EVAL;409
+es;necesita mejorar mucho;negative;GEN-EVAL;410
+es;necesita un poco;negative;GEN-EVAL;411
+es;necesita una reforma urgente;negative;GEN-EVAL;412
+es;único inconveniente;negative;GEN-EVAL;413
+es;caótica;strongnegative;GEN-EVAL;414
+es;lamentable;strongnegative;GEN-EVAL;415
+fr;lamentable;negative;GEN-EVAL;415
+es;muy dificiles;strongnegative;GEN-EVAL;416
+fr;très difficile;strongnegative;GEN-EVAL;416
+es;muy molesto;strongnegative;GEN-EVAL;417
+es;patetico;strongnegative;GEN-EVAL;418
+nl;zielig;negative;GEN-EVAL;418
+es;vomitivo;strongnegative;GEN-EVAL;419
+fr;ne conseiller pas;negative;GEN-EVAL;420
+fr;particulièrement désagréable;negative;GEN-EVAL;422
+fr;pas top;negative;GEN-EVAL;423
+fr;pas vraiment;negative;GEN-EVAL;424
+fr;pénible;negative;GEN-EVAL;425
+fr;plutôt mauvais;negative;GEN-EVAL;426
+fr;pouvoir être améliorer;negative;GEN-EVAL;427
+fr;pseudo;negative;GEN-EVAL;428
+fr;répétitive;negative;GEN-EVAL;429
+fr;retournerais pas;negative;GEN-EVAL;430
+it;certamente non ripeterei;negative;GEN-EVAL;430
+fr;très désagréable;negative;GEN-EVAL;431
+fr;très moyen;negative;GEN-EVAL;432
+fr;entasser rien pour plaire;strongnegative;GEN-EVAL;433
+fr;glacial;strongnegative;GEN-EVAL;434
+fr;gros problème;strongnegative;GEN-EVAL;435
+fr;mal de dos horrible;strongnegative;GEN-EVAL;436
+fr;même plutôt désagréable;strongnegative;GEN-EVAL;437
+fr;miteuse;strongnegative;GEN-EVAL;438
+fr;ne pas aller;strongnegative;GEN-EVAL;439
+fr;non entretenir;strongnegative;GEN-EVAL;440
+fr;pas toujours agréable;strongnegative;GEN-EVAL;441
+fr;plutôt très sale;strongnegative;GEN-EVAL;442
+fr;rien de bon;strongnegative;GEN-EVAL;443
+fr;très mal entretenir;strongnegative;GEN-EVAL;444
+fr;très très inconfortable;strongnegative;GEN-EVAL;445
+it;molto scomodo;strongnegative;GEN-EVAL;445
+fr;trés trés tasser;strongnegative;GEN-EVAL;446
+fr;trop long;strongnegative;GEN-EVAL;447
+fr;trop petit;strongnegative;GEN-EVAL;448
+fr;un gros moins;strongnegative;GEN-EVAL;449
+fr;un vrai arnaque;strongnegative;GEN-EVAL;450
+fr;vraiment à éviter;strongnegative;GEN-EVAL;451
+fr;vraiment trop petit;strongnegative;GEN-EVAL;452
+it;abbastanza lontano;negative;GEN-EVAL;453
+it;acqua che uscire dal;negative;GEN-EVAL;454
+it;anche se troppo affollare;negative;GEN-EVAL;455
+it;da migliorare;negative;GEN-EVAL;456
+it;ma non eccezionale;negative;GEN-EVAL;457
+it;non è dei migliori;negative;GEN-EVAL;458
+it;non è grandissimo;negative;GEN-EVAL;459
+it;non è molto comodo;negative;GEN-EVAL;460
+it;scandaloso;strongnegative;GEN-EVAL;461
+nl;schandalig;strongnegative;GEN-EVAL;461
+it;sconsigliabile assolutamente;strongnegative;GEN-EVAL;462
+it;sconsigliatissimo;strongnegative;GEN-EVAL;462
+it;sconsiglio assolutamente;strongnegative;GEN-EVAL;462
+nl;behoorlijke tegenvaller;negative;GEN-EVAL;463
+nl;een paar minpuntjes;negative;GEN-EVAL;464
+nl;enige nadeel;negative;GEN-EVAL;465
+nl;enige probleem;negative;GEN-EVAL;466
+nl;geen 3 sterren waard;negative;GEN-EVAL;467
+nl;geen 3 sterren waardig;negative;GEN-EVAL;467
+nl;geen drie sterren waard;negative;GEN-EVAL;467
+nl;heel groot nadeel;negative;GEN-EVAL;468
+nl;heel vreemd;negative;GEN-EVAL;469
+nl;helaas wat minder;negative;GEN-EVAL;470
+nl;herhaaldelijke keren geklaagd;negative;GEN-EVAL;471
+nl;kan veel beter;negative;GEN-EVAL;472
+nl;niet mooi;negative;GEN-EVAL;473
+nl;stelde niet veel voor;negative;GEN-EVAL;474
+nl;stelt weinig voor;negative;GEN-EVAL;475
+nl;was een stuk minder;negative;GEN-EVAL;476
+nl;wat een tegenvaller;negative;GEN-EVAL;477
+nl;weinig of geen;negative;GEN-EVAL;478
+nl;weinig tot geen;negative;GEN-EVAL;478
+nl;absoluut geen aanrader;strongnegative;GEN-EVAL;479
+nl;boek nooit;strongnegative;GEN-EVAL;480
+nl;een dikke tegenvaller;strongnegative;GEN-EVAL;481
+nl;een fikse tegenvaller;strongnegative;GEN-EVAL;481
+nl;een hele nare ervaring;strongnegative;GEN-EVAL;482
+nl;voor ons nooit meer;strongnegative;GEN-EVAL;483
+nl;vreselijk slechte;strongnegative;GEN-EVAL;484
+nl;vreselijk;strongnegative;GEN-EVAL;485
+nl;waanzin;strongnegative;GEN-EVAL;486
+nl;was erg slecht;strongnegative;GEN-EVAL;487
+nl;zeer karig;strongnegative;GEN-EVAL;488
+nl;zo verwaarloosd;strongnegative;GEN-EVAL;489
+de;extra;negative;GEN-EVAL;490
+en;extra;negative;GEN-EVAL;490
+nl;extra;negative;GEN-EVAL;490
+de;absolut in Ordnung;positive;GEN-EVAL;491
+en;absolutely alright;strongpositive;GEN-EVAL;491
+de;absolut zufrieden;positive;GEN-EVAL;492
+de;abwechslungsreich;positive;GEN-EVAL;493
+de;vielfältig;positive;GEN-EVAL;493
+es;variada;positive;GEN-EVAL;493
+es;variado;positive;GEN-EVAL;493
+it;variare;positive;GEN-EVAL;493
+it;variegata;positive;GEN-EVAL;493
+it;vario;positive;GEN-EVAL;493
+nl;gevarieerd;positive;GEN-EVAL;493
+de;alle empfehlen;positive;GEN-EVAL;494
+de;alle vorhanden;positive;GEN-EVAL;495
+de;auf jede Fall wiederkommen;positive;GEN-EVAL;496
+de;ausreichend;positive;GEN-EVAL;497
+en;adequate;positive;GEN-EVAL;497
+es;adecuado;positive;GEN-EVAL;497
+es;suficiente;positive;GEN-EVAL;497
+it;sufficiente;negative;GEN-EVAL;497
+de;äußerst zu empfehlen;positive;GEN-EVAL;498
+de;bedingungslos empfehlenswert;positive;GEN-EVAL;499
+de;beliebt;positive;GEN-EVAL;500
+it;rinomato;positive;GEN-EVAL;500
+de;bequem;positive;GEN-EVAL;501
+en;convenient;positive;GEN-EVAL;501
+de;besonders erwähnenswert;positive;GEN-EVAL;502
+de;einfach nur super !;positive;GEN-EVAL;503
+de;einfach nur toll;positive;GEN-EVAL;504
+de;einfach traumhaft;positive;GEN-EVAL;505
+de;einmal und nie wieder;positive;GEN-EVAL;506
+de;elegant;positive;GEN-EVAL;507
+de;stylisches;positive;GEN-EVAL;507
+en;stylish;positive;GEN-EVAL;507
+de;empfehlen;positive;GEN-EVAL;508
+en;recommend;positive;GEN-EVAL;508
+fr;recommander;positive;GEN-EVAL;508
+de;empfehlenswert familiengeführtes;positive;GEN-EVAL;509
+de;fröhlich;positive;GEN-EVAL;510
+es;alegre;positive;GEN-EVAL;510
+de;für jede etwas dabei;positive;GEN-EVAL;511
+de;für Städtereise empfehlenswert;positive;GEN-EVAL;512
+de;gediegen;positive;GEN-EVAL;513
+it;solido;positive;GEN-EVAL;513
+de;gepflegt;positive;GEN-EVAL;514
+es;bien cuidado;positive;GEN-EVAL;514
+it;ben tenere;positive;GEN-EVAL;514
+nl;goed onderhouden;positive;GEN-EVAL;514
+de;gerne wieder;positive;GEN-EVAL;515
+de;gut;positive;GEN-EVAL;516
+de;in Ordnung;positive;GEN-EVAL;516
+de;ok;positive;GEN-EVAL;516
+de;toll;positive;GEN-EVAL;516
+de;ausgezeichnet;strongpositive;GEN-EVAL;516
+en;alright;positive;GEN-EVAL;516
+en;better;positive;GEN-EVAL;516
+en;decent;positive;GEN-EVAL;516
+en;good;positive;GEN-EVAL;516
+en;great;positive;GEN-EVAL;516
+en;ok;positive;GEN-EVAL;516
+en;okay;positive;GEN-EVAL;516
+en;excellent;strongpositive;GEN-EVAL;516
+es;bueno;positive;GEN-EVAL;516
+es;gran;positive;GEN-EVAL;516
+es;mejor;positive;GEN-EVAL;516
+es;excelente;strongpositive;GEN-EVAL;516
+fr;bon;positive;GEN-EVAL;516
+fr;excellent;positive;GEN-EVAL;516
+fr;grand;positive;GEN-EVAL;516
+fr;meilleur;positive;GEN-EVAL;516
+fr;mieux;positive;GEN-EVAL;516
+it;buon;positive;GEN-EVAL;516
+it;buono;positive;GEN-EVAL;516
+it;eccellere;positive;GEN-EVAL;516
+it;grande;positive;GEN-EVAL;516
+it;ottimo;positive;GEN-EVAL;516
+it;migliore;strongpositive;GEN-EVAL;516
+nl;beter;positive;GEN-EVAL;516
+nl;goed;positive;GEN-EVAL;516
+nl;groot;positive;GEN-EVAL;516
+nl;in orde;positive;GEN-EVAL;516
+nl;leuk;positive;GEN-EVAL;516
+nl;wel goed;positive;GEN-EVAL;516
+nl;uitstekend;strongpositive;GEN-EVAL;516
+de;hell;positive;GEN-EVAL;517
+en;bright;positive;GEN-EVAL;517
+it;luminoso;positive;GEN-EVAL;517
+de;immer etwas Gute dabei;positive;GEN-EVAL;518
+de;interessant;positive;GEN-EVAL;519
+en;interesting;positive;GEN-EVAL;519
+es;interesante;positive;GEN-EVAL;519
+de;interessant;positive;GEN-EVAL;520
+en;interesting;positive;GEN-EVAL;520
+es;interesante;positive;GEN-EVAL;520
+it;interessante;positive;GEN-EVAL;520
+de;jedoch akzeptabel;positive;GEN-EVAL;521
+de;jedoch keine Problem;positive;GEN-EVAL;522
+de;keine Problem;positive;GEN-EVAL;523
+en;no problem;positive;GEN-EVAL;523
+es;ningun problema;positive;GEN-EVAL;523
+nl;geen probleem;positive;GEN-EVAL;523
+de;keinesfalls schlecht;positive;GEN-EVAL;524
+en;not bad;positive;GEN-EVAL;524
+es;no esta nada mal;positive;GEN-EVAL;524
+es;no está mal;positive;GEN-EVAL;524
+fr;pas désagréable;positive;GEN-EVAL;524
+fr;pas mal;positive;GEN-EVAL;524
+fr;plutôt pas mal;positive;GEN-EVAL;524
+it;non e male;positive;GEN-EVAL;524
+nl;niet slecht;positive;GEN-EVAL;524
+de;kommen gerne wieder;positive;GEN-EVAL;525
+de;lassen keine Wunsch offen;positive;GEN-EVAL;526
+de;lohnen sich;positive;GEN-EVAL;527
+de;lustig;positive;GEN-EVAL;528
+en;funny;positive;GEN-EVAL;528
+de;mehrfach Top Bewertung;positive;GEN-EVAL;529
+de;mit viele Extra;positive;GEN-EVAL;530
+de;noch mal herzlich Dank;positive;GEN-EVAL;531
+de;nur Gute berichten;positive;GEN-EVAL;532
+de;optimal;positive;GEN-EVAL;533
+nl;optimaal;strongpositive;GEN-EVAL;533
+de;perfekt;positive;GEN-EVAL;534
+en;perfect;positive;GEN-EVAL;534
+en;perfect;strongpositive;GEN-EVAL;534
+es;perfecta;strongpositive;GEN-EVAL;534
+es;perfectamente;strongpositive;GEN-EVAL;534
+es;perfectas;strongpositive;GEN-EVAL;534
+es;perfecto;strongpositive;GEN-EVAL;534
+it;perfetto;strongpositive;GEN-EVAL;534
+nl;perfect;positive;GEN-EVAL;534
+nl;een perfecte;strongpositive;GEN-EVAL;534
+nl;perfekt;strongpositive;GEN-EVAL;534
+de;perfekt;positive;GEN-EVAL;535
+en;perfect;strongpositive;GEN-EVAL;535
+es;perfecto;strongpositive;GEN-EVAL;535
+fr;parfait;strongpositive;GEN-EVAL;535
+it;perfetto;strongpositive;GEN-EVAL;535
+nl;perfect;positive;GEN-EVAL;535
+de;Problemlos;positive;GEN-EVAL;536
+en;smooth;positive;GEN-EVAL;536
+es;sin problemas;positive;GEN-EVAL;536
+de;rundum zufrieden;positive;GEN-EVAL;537
+de;schon zu empfehlen;positive;GEN-EVAL;538
+de;schon zu empfehlen;positive;GEN-EVAL;539
+de;sehr gepflegt;positive;GEN-EVAL;540
+de;super pflegen;strongpositive;GEN-EVAL;540
+en;very well service;strongpositive;GEN-EVAL;540
+es;muy cuidadas;strongpositive;GEN-EVAL;540
+fr;très bien entretenir;positive;GEN-EVAL;540
+fr;trés bien entretenir;strongpositive;GEN-EVAL;540
+it;molto ben curare;positive;GEN-EVAL;540
+it;molto ben tenere;positive;GEN-EVAL;540
+nl;prima verzorgd;positive;GEN-EVAL;540
+nl;heel goed onderhouden;strongpositive;GEN-EVAL;540
+nl;zeer goed onderhouden;strongpositive;GEN-EVAL;540
+nl;zeer goed verzorgd;strongpositive;GEN-EVAL;540
+de;sehr gut geführt Familienhotel;positive;GEN-EVAL;541
+de;sehr gut;positive;GEN-EVAL;542
+en;very good;positive;GEN-EVAL;542
+es;muy buena;positive;GEN-EVAL;542
+es;muy bien;strongpositive;GEN-EVAL;542
+es;muy bueno;strongpositive;GEN-EVAL;542
+fr;très bien;positive;GEN-EVAL;542
+fr;très bon;positive;GEN-EVAL;542
+de;sehr umfangreich gut;positive;GEN-EVAL;543
+de;sicherlich akzeptabel;positive;GEN-EVAL;544
+de;sicherlich mal nett einrichten;positive;GEN-EVAL;545
+de;Super;positive;GEN-EVAL;546
+de;wunderbar;strongpositive;GEN-EVAL;546
+en;wonderful;positive;GEN-EVAL;546
+en;super;strongpositive;GEN-EVAL;546
+en;superb;strongpositive;GEN-EVAL;546
+es;maravilloso;strongpositive;GEN-EVAL;546
+fr;merveilleux;positive;GEN-EVAL;546
+fr;superbe;positive;GEN-EVAL;546
+it;meraviglioso;strongpositive;GEN-EVAL;546
+nl;prachtig;positive;GEN-EVAL;546
+nl;super;strongpositive;GEN-EVAL;546
+de;Top;positive;GEN-EVAL;547
+nl;top;positive;GEN-EVAL;547
+de;überraschung;positive;GEN-EVAL;548
+en;surprise;positive;GEN-EVAL;548
+es;sorpresa;positive;GEN-EVAL;548
+es;sorprendernos;strongpositive;GEN-EVAL;548
+nl;verrassing;positive;GEN-EVAL;548
+de;unschlagbar;positive;GEN-EVAL;549
+es;inmejorables;strongpositive;GEN-EVAL;549
+fr;imbattable;strongpositive;GEN-EVAL;549
+de;viele Abwechslung;positive;GEN-EVAL;550
+de;viele Dank;positive;GEN-EVAL;551
+de;völlig in Ordnung;positive;GEN-EVAL;552
+de;vollkommen in Ordnung;positive;GEN-EVAL;553
+de;war gut;positive;GEN-EVAL;554
+it;era buono;positive;GEN-EVAL;554
+nl;was goed;positive;GEN-EVAL;554
+nl;was wel goed;positive;GEN-EVAL;554
+de;war super;positive;GEN-EVAL;555
+nl;was geweldig;strongpositive;GEN-EVAL;555
+de;wieder buchen;positive;GEN-EVAL;556
+de;wirklich toll;positive;GEN-EVAL;557
+de;zwar eine klein Problem;positive;GEN-EVAL;558
+de;zwar in Ordnung;positive;GEN-EVAL;559
+de;zwar kaum genießen;positive;GEN-EVAL;560
+de;zwar recht groß;positive;GEN-EVAL;561
+de;absolut empfehlenswert;strongpositive;GEN-EVAL;562
+es;absolutamente recomendable;strongpositive;GEN-EVAL;562
+it;assolutamente raccomandabile;strongpositive;GEN-EVAL;562
+nl;absoluut aanbevolen;strongpositive;GEN-EVAL;562
+de;besonders erwähneswert;strongpositive;GEN-EVAL;563
+de;besonders zu empfehlen;strongpositive;GEN-EVAL;564
+de;die absolut Knaller;strongpositive;GEN-EVAL;565
+de;echt Klasse;strongpositive;GEN-EVAL;566
+de;wirklich toll;strongpositive;GEN-EVAL;566
+en;really great;strongpositive;GEN-EVAL;566
+en;realy great;strongpositive;GEN-EVAL;566
+fr;vraiment super;strongpositive;GEN-EVAL;566
+nl;echt geweldig;positive;GEN-EVAL;566
+de;eine sehr gut Zustand;strongpositive;GEN-EVAL;567
+de;eine soooooooo schön;strongpositive;GEN-EVAL;568
+de;einfach nur Klasse;strongpositive;GEN-EVAL;569
+de;einfach super;strongpositive;GEN-EVAL;570
+de;einfach top;strongpositive;GEN-EVAL;571
+de;einige super;strongpositive;GEN-EVAL;572
+de;einzig gut;strongpositive;GEN-EVAL;573
+de;fantastisch;strongpositive;GEN-EVAL;574
+en;fantasic;strongpositive;GEN-EVAL;574
+en;fantastic;strongpositive;GEN-EVAL;574
+es;fantástico;strongpositive;GEN-EVAL;574
+it;fantastico;negative;GEN-EVAL;574
+nl;fantastisch;strongpositive;GEN-EVAL;574
+de;fehlen nicht;strongpositive;GEN-EVAL;575
+de;gern wieder;strongpositive;GEN-EVAL;576
+de;gerne jederzeit wieder;strongpositive;GEN-EVAL;577
+de;immer ausreichend vorhanden;strongpositive;GEN-EVAL;578
+de;imposant;strongpositive;GEN-EVAL;579
+de;in ausreichend Menge vorhanden;strongpositive;GEN-EVAL;580
+de;in top Zustand;strongpositive;GEN-EVAL;581
+de;klasklar;strongpositive;GEN-EVAL;582
+en;classic;positive;GEN-EVAL;582
+es;clásico;positive;GEN-EVAL;582
+nl;klassiek;positive;GEN-EVAL;582
+de;mehr als ausreichend;strongpositive;GEN-EVAL;583
+es;más que suficiente;positive;GEN-EVAL;583
+it;piu' che ampio;positive;GEN-EVAL;583
+de;mehr als reichhaltig;strongpositive;GEN-EVAL;584
+de;nur weit zu empfehlen;strongpositive;GEN-EVAL;585
+de;prompt beheben;strongpositive;GEN-EVAL;586
+de;sehr angenehm;strongpositive;GEN-EVAL;587
+de;sehr angenehm;strongpositive;GEN-EVAL;588
+en;really nice;strongpositive;GEN-EVAL;588
+en;very nice;strongpositive;GEN-EVAL;588
+en;very pleasant;strongpositive;GEN-EVAL;588
+es;muy agradable;strongpositive;GEN-EVAL;588
+fr;vraiment sympa;strongpositive;GEN-EVAL;588
+it;davvero bello;positive;GEN-EVAL;588
+it;molto bello;positive;GEN-EVAL;588
+it;molto piacevole;strongpositive;GEN-EVAL;588
+de;sehr attraktiv;strongpositive;GEN-EVAL;589
+de;sehr empfehlenswert;strongpositive;GEN-EVAL;590
+en;highly recommendable;strongpositive;GEN-EVAL;590
+en;very recommendable;strongpositive;GEN-EVAL;590
+de;sehr empfehlenswert;strongpositive;GEN-EVAL;591
+en;very recommendable;strongpositive;GEN-EVAL;591
+de;sehr zu empfehlen;strongpositive;GEN-EVAL;592
+en;highly recommend;strongpositive;GEN-EVAL;592
+de;sehr zufrieden;strongpositive;GEN-EVAL;593
+en;very satisfied;strongpositive;GEN-EVAL;593
+es;muy satisfecha;strongpositive;GEN-EVAL;593
+es;muy satisfechos;strongpositive;GEN-EVAL;593
+fr;très satisfait;positive;GEN-EVAL;593
+fr;trés satisfait;strongpositive;GEN-EVAL;593
+it;molto soddisfatto;positive;GEN-EVAL;593
+nl;bijzonder tevreden;strongpositive;GEN-EVAL;593
+nl;heel tevreden;strongpositive;GEN-EVAL;593
+nl;zeer tevreden;strongpositive;GEN-EVAL;593
+de;sehr zufrieden;strongpositive;GEN-EVAL;594
+en;very satisfied;strongpositive;GEN-EVAL;594
+fr;très satisfait;positive;GEN-EVAL;594
+nl;zeer tevreden;strongpositive;GEN-EVAL;594
+de;Spitzenhotel;strongpositive;GEN-EVAL;595
+es;primera;positive;GEN-EVAL;595
+de;superbequemen;strongpositive;GEN-EVAL;596
+de;supermodern;strongpositive;GEN-EVAL;597
+de;total begeistert;strongpositive;GEN-EVAL;598
+de;total leck;strongpositive;GEN-EVAL;599
+de;überall sehr freundlich;strongpositive;GEN-EVAL;600
+de;unbedingt empfehlenswert;strongpositive;GEN-EVAL;601
+de;unbedingt weiterempfehlen;strongpositive;GEN-EVAL;602
+de;unbedingt zu empfehlen sein;strongpositive;GEN-EVAL;603
+nl;zeker aan te raden;positive;GEN-EVAL;603
+de;unbeschreiblich gut;strongpositive;GEN-EVAL;604
+de;werden bestimmt mal wiederkommen;strongpositive;GEN-EVAL;605
+de;werden definitiv wiederkommen;strongpositive;GEN-EVAL;606
+de;werden erneut buchen;strongpositive;GEN-EVAL;607
+de;werden jederzeit wieder kommen;strongpositive;GEN-EVAL;608
+de;wirklich empfehlentswert;strongpositive;GEN-EVAL;609
+de;wirklich Klasse !;strongpositive;GEN-EVAL;610
+en;above average;positive;GEN-EVAL;611
+en;above average;positive;GEN-EVAL;612
+en;appreciate;positive;GEN-EVAL;613
+it;apprezzare;positive;GEN-EVAL;613
+en;continue go there;positive;GEN-EVAL;614
+en;efficient;positive;GEN-EVAL;615
+es;eficiente;positive;GEN-EVAL;615
+fr;efficace;positive;GEN-EVAL;615
+it;efficiente;positive;GEN-EVAL;615
+en;feel very welcome;positive;GEN-EVAL;616
+en;feels like come home;positive;GEN-EVAL;617
+en;fine;positive;GEN-EVAL;618
+nl;fijn;positive;GEN-EVAL;618
+en;glad;positive;GEN-EVAL;619
+en;good quality;positive;GEN-EVAL;620
+es;buena calidad;positive;GEN-EVAL;620
+it;qualità buono;positive;GEN-EVAL;620
+en;great value;positive;GEN-EVAL;621
+es;gran valía;positive;GEN-EVAL;621
+en;have a nice stay;positive;GEN-EVAL;622
+en;have great time;positive;GEN-EVAL;623
+en;hip;positive;GEN-EVAL;624
+en;keep come back;positive;GEN-EVAL;625
+en;like;positive;GEN-EVAL;626
+en;love stay;positive;GEN-EVAL;627
+en;lovely;positive;GEN-EVAL;628
+en;nice;positive;GEN-EVAL;628
+es;agradable;positive;GEN-EVAL;628
+es;precioso;positive;GEN-EVAL;628
+fr;charmant;positive;GEN-EVAL;628
+it;bello;positive;GEN-EVAL;628
+nl;heerlijk;positive;GEN-EVAL;628
+nl;mooi;positive;GEN-EVAL;628
+en;no problem;positive;GEN-EVAL;629
+nl;geen probleem;positive;GEN-EVAL;629
+en;really worth a visit;positive;GEN-EVAL;630
+en;relax and enjoy;positive;GEN-EVAL;631
+en;to return;positive;GEN-EVAL;632
+en;well equipped;positive;GEN-EVAL;633
+es;bien equipada;positive;GEN-EVAL;633
+nl;goed uitgerust;positive;GEN-EVAL;633
+en;will be back;positive;GEN-EVAL;634
+en;will come back;positive;GEN-EVAL;634
+en;will definitely  return;positive;GEN-EVAL;634
+en;will go back;positive;GEN-EVAL;634
+en;work better;positive;GEN-EVAL;635
+en;work well;positive;GEN-EVAL;636
+en;worked fine;positive;GEN-EVAL;637
+en;worth it;positive;GEN-EVAL;638
+es;vale la pena;positive;GEN-EVAL;638
+en;would happily return;positive;GEN-EVAL;639
+en;absolutely breathtaking;strongpositive;GEN-EVAL;640
+en;absolutely fantastic;strongpositive;GEN-EVAL;641
+en;absolutely gorgeous;strongpositive;GEN-EVAL;642
+en;absolutely stunning;strongpositive;GEN-EVAL;643
+en;absolutely wonderful;strongpositive;GEN-EVAL;644
+en;amazing;strongpositive;GEN-EVAL;645
+fr;incroyable;positive;GEN-EVAL;645
+en;awesome;strongpositive;GEN-EVAL;646
+es;impresionante;strongpositive;GEN-EVAL;646
+fr;impressionnant;positive;GEN-EVAL;646
+en;brilliant !;strongpositive;GEN-EVAL;647
+en;can 't be beaten;strongpositive;GEN-EVAL;648
+en;can not have be better;strongpositive;GEN-EVAL;649
+en;definitely recommend;strongpositive;GEN-EVAL;650
+es;recomendariamos sin duda alguna;positive;GEN-EVAL;650
+fr;recommander chaleureusement;strongpositive;GEN-EVAL;650
+it;consiglio vivamente;positive;GEN-EVAL;650
+en;especially great;strongpositive;GEN-EVAL;651
+en;exceptionally comfy;strongpositive;GEN-EVAL;652
+en;fabulous;strongpositive;GEN-EVAL;653
+it;favoloso;strongpositive;GEN-EVAL;653
+en;fantastic !;strongpositive;GEN-EVAL;654
+en;great !;strongpositive;GEN-EVAL;655
+en;great fun;strongpositive;GEN-EVAL;656
+es;muy entretenidos;strongpositive;GEN-EVAL;656
+fr;très amusant;strongpositive;GEN-EVAL;656
+en;higly recommend !!!!!!;strongpositive;GEN-EVAL;657
+en;really comfortable;strongpositive;GEN-EVAL;658
+it;davvero comodo;positive;GEN-EVAL;658
+it;davvero confortevole;positive;GEN-EVAL;658
+en;unforgettable;strongpositive;GEN-EVAL;659
+es;inolvidable;strongpositive;GEN-EVAL;659
+es;inolvidables;strongpositive;GEN-EVAL;659
+fr;inoubliable;strongpositive;GEN-EVAL;659
+it;indimenticabile;strongpositive;GEN-EVAL;659
+en;unforgettable;strongpositive;GEN-EVAL;660
+es;inolvidables;strongpositive;GEN-EVAL;660
+fr;inoubliable;strongpositive;GEN-EVAL;660
+it;indimenticabile;strongpositive;GEN-EVAL;660
+en;would highly recommend;strongpositive;GEN-EVAL;661
+es;necesita;negative;GEN-EVAL;662
+es;100 % recomendable;positive;GEN-EVAL;663
+es;100 % recomendable;positive;GEN-EVAL;664
+es;bonitas;positive;GEN-EVAL;665
+es;bonitos;positive;GEN-EVAL;666
+es;equipada;positive;GEN-EVAL;667
+fr;remplir;positive;GEN-EVAL;667
+fr;équiper;positive;GEN-EVAL;667
+it;attrezzare;positive;GEN-EVAL;667
+nl;gevuld;positive;GEN-EVAL;667
+es;es de agradecer;positive;GEN-EVAL;668
+es;esperábamos mucho menos;positive;GEN-EVAL;669
+es;facil;positive;GEN-EVAL;670
+es;fácil;positive;GEN-EVAL;670
+fr;facile;positive;GEN-EVAL;670
+es;familiar;positive;GEN-EVAL;671
+it;familiare;positive;GEN-EVAL;671
+es;famoso;positive;GEN-EVAL;672
+es;fue bastante satisfactoria;positive;GEN-EVAL;673
+es;hemos recomendado;positive;GEN-EVAL;674
+es;hemos sentido bien atendidos;positive;GEN-EVAL;675
+es;merece la pena;positive;GEN-EVAL;676
+es;nunca olvidaremos;positive;GEN-EVAL;677
+es;para evitar;positive;GEN-EVAL;678
+it;da evitare;negative;GEN-EVAL;678
+es;que hacen que vuelvas;positive;GEN-EVAL;679
+es;recomendado para todos;positive;GEN-EVAL;680
+es;recomendamos a nestros amigos;positive;GEN-EVAL;681
+es;repetiremos sin duda;positive;GEN-EVAL;682
+es;repetiremos;positive;GEN-EVAL;683
+es;satisfactorio;positive;GEN-EVAL;684
+it;soddisfaccente;positive;GEN-EVAL;684
+nl;naar genoegen;positive;GEN-EVAL;684
+es;uno de los mejores;positive;GEN-EVAL;685
+fr;le un des meilleurs;strongpositive;GEN-EVAL;685
+fr;un des meilleurs;strongpositive;GEN-EVAL;685
+es;completamente recomendable;strongpositive;GEN-EVAL;686
+es;fue también muy bueno;strongpositive;GEN-EVAL;687
+es;funciona muy bien;strongpositive;GEN-EVAL;688
+es;genial !;strongpositive;GEN-EVAL;689
+es;genial;strongpositive;GEN-EVAL;690
+es;genial.volveremos;strongpositive;GEN-EVAL;691
+es;gracias;strongpositive;GEN-EVAL;692
+fr;merci;positive;GEN-EVAL;692
+it;grazie;strongpositive;GEN-EVAL;692
+nl;bedankt;positive;GEN-EVAL;692
+es;inmejorable;strongpositive;GEN-EVAL;693
+es;insuperable !!!;strongpositive;GEN-EVAL;694
+es;insuperable;strongpositive;GEN-EVAL;695
+es;maravilloso !;strongpositive;GEN-EVAL;696
+es;más que aceptables;strongpositive;GEN-EVAL;697
+es;más que agradable;strongpositive;GEN-EVAL;698
+es;más que excelente;strongpositive;GEN-EVAL;699
+es;muy aceptable;strongpositive;GEN-EVAL;700
+fr;très acceptable;positive;GEN-EVAL;700
+es;muy agradable;strongpositive;GEN-EVAL;701
+es;muy bueno;strongpositive;GEN-EVAL;702
+es;muy recomemdado;strongpositive;GEN-EVAL;703
+es;muy recomendable;strongpositive;GEN-EVAL;704
+it;consigliatissimo;strongpositive;GEN-EVAL;704
+es;nos encantaría volver;strongpositive;GEN-EVAL;705
+es;ostentoso;strongpositive;GEN-EVAL;706
+es;paradisiaco;strongpositive;GEN-EVAL;707
+es;pasamos 4 días geniales;strongpositive;GEN-EVAL;708
+es;pedazo;strongpositive;GEN-EVAL;709
+nl;stuk;negative;GEN-EVAL;709
+es;perfecto !;strongpositive;GEN-EVAL;710
+es;perfecto para descansar;strongpositive;GEN-EVAL;711
+es;privilegiada;strongpositive;GEN-EVAL;712
+es;privilegiado;strongpositive;GEN-EVAL;713
+es;quede muy satisfecho;strongpositive;GEN-EVAL;714
+es;realmente atento;strongpositive;GEN-EVAL;715
+es;realmente excelente;strongpositive;GEN-EVAL;716
+es;recomiendo al 100 %;strongpositive;GEN-EVAL;717
+es;salimos muy contentos;strongpositive;GEN-EVAL;718
+es;sencillamente perfecto;strongpositive;GEN-EVAL;719
+es;simplemente impresionante;strongpositive;GEN-EVAL;720
+es;simplente increible;strongpositive;GEN-EVAL;721
+es;sin duda para repetir;strongpositive;GEN-EVAL;722
+es;son geniales !!;strongpositive;GEN-EVAL;723
+es;son perfectos;strongpositive;GEN-EVAL;724
+es;son preciosas;strongpositive;GEN-EVAL;725
+es;sorprendió mucho;strongpositive;GEN-EVAL;726
+es;súper amplias;strongpositive;GEN-EVAL;727
+es;super cómodas;strongpositive;GEN-EVAL;728
+es;súper cómodo;strongpositive;GEN-EVAL;729
+es;super cuidado !;strongpositive;GEN-EVAL;730
+es;super insonorizasdas;strongpositive;GEN-EVAL;731
+es;super recomendable;strongpositive;GEN-EVAL;732
+es;super recomiendo;strongpositive;GEN-EVAL;733
+es;superior en calidad;strongpositive;GEN-EVAL;734
+es;superó;strongpositive;GEN-EVAL;735
+es;tan gratificante;strongpositive;GEN-EVAL;736
+es;todo buenísimo;strongpositive;GEN-EVAL;737
+es;todo estuvo muy bien;strongpositive;GEN-EVAL;738
+es;totalmente recomendable;strongpositive;GEN-EVAL;739
+fr;assez calme;positive;GEN-EVAL;740
+it;abbastanza tranquillo;positive;GEN-EVAL;740
+fr;assez compétent;positive;GEN-EVAL;741
+fr;assez fin;positive;GEN-EVAL;742
+fr;avoir bien profiter;positive;GEN-EVAL;743
+nl;hebben genoten;strongpositive;GEN-EVAL;743
+nl;genoten van;positive;GEN-EVAL;743
+fr;avoir pouvoir profiter pleinement;positive;GEN-EVAL;744
+fr;bravo;positive;GEN-EVAL;745
+fr;choix excellent;positive;GEN-EVAL;746
+fr;toujours intéressant;positive;GEN-EVAL;747
+fr;très agrèable;positive;GEN-EVAL;748
+fr;très bien délimiter;positive;GEN-EVAL;749
+fr;très convenable;positive;GEN-EVAL;750
+fr;trés satisfaisant;positive;GEN-EVAL;751
+fr;tres satisfaisant;strongpositive;GEN-EVAL;751
+it;molto soddisfacente;strongpositive;GEN-EVAL;751
+fr;tres sympatiques;positive;GEN-EVAL;752
+fr;un bon séjour;positive;GEN-EVAL;753
+fr;un cadre magnifique;positive;GEN-EVAL;754
+fr;un meilleur hôtel;positive;GEN-EVAL;755
+fr;un moment très agréable;positive;GEN-EVAL;756
+fr;un séjour inoubliable;positive;GEN-EVAL;757
+fr;choix très impressionnant;strongpositive;GEN-EVAL;758
+fr;être excellement;strongpositive;GEN-EVAL;759
+nl;was uitstekend;strongpositive;GEN-EVAL;759
+fr;être parfait;strongpositive;GEN-EVAL;760
+nl;was perfect;strongpositive;GEN-EVAL;760
+fr;excellent.;strongpositive;GEN-EVAL;761
+it;ottimo.;strongpositive;GEN-EVAL;761
+fr;sublime;strongpositive;GEN-EVAL;762
+it;sublime;strongpositive;GEN-EVAL;762
+fr;super agréable;strongpositive;GEN-EVAL;763
+fr;super bien entretenir;strongpositive;GEN-EVAL;764
+fr;tres amusant;strongpositive;GEN-EVAL;765
+fr;très efficace;strongpositive;GEN-EVAL;766
+fr;molto efficiente;strongpositive;GEN-EVAL;766
+fr;très très bon;strongpositive;GEN-EVAL;767
+fr;un adresse à recommander;strongpositive;GEN-EVAL;768
+fr;vraiment parfait;strongpositive;GEN-EVAL;769
+fr;veramente tutto perfetto;strongpositive;GEN-EVAL;769
+fr;vraiment surprenant;strongpositive;GEN-EVAL;770
+fr;ci ritorno di sicuro;positive;GEN-EVAL;771
+it;da ritornare sicuramente;strongpositive;GEN-EVAL;771
+de;werden bestimmt wieder kommen;positive;GEN-EVAL;771
+de;werden gerne einmal wiederkommen;positive;GEN-EVAL;771
+it;da ritornarci assolutamente;positive;GEN-EVAL;771
+it;sicuramente tornare;strongpositive;GEN-EVAL;771
+nl;zeker nog eens teruggaan;positive;GEN-EVAL;771
+nl;zeker weer terug gaan;strongpositive;GEN-EVAL;771
+it;decisamente consigliare;positive;GEN-EVAL;772
+nl;zeker een aanrader;positive;GEN-EVAL;772
+it;funziona perfettamente;positive;GEN-EVAL;773
+it;gioiello;positive;GEN-EVAL;774
+it;grandezza sufficiente;positive;GEN-EVAL;775
+it;ideale soprattutto;positive;GEN-EVAL;776
+it;piu che accettabili;positive;GEN-EVAL;777
+it;piu' che buona;positive;GEN-EVAL;778
+it;riscaldare;positive;GEN-EVAL;779
+nl;verwarmd;positive;GEN-EVAL;779
+it;spero di tornarci;positive;GEN-EVAL;780
+it;ci ritorno volentieri;positive;GEN-EVAL;780
+it;tornare presto;positive;GEN-EVAL;781
+it;spettacolo grandioso;strongpositive;GEN-EVAL;782
+nl;gewoon goed;positive;GEN-EVAL;783
+nl;gezellig ingericht;positive;GEN-EVAL;784
+nl;goed eten;positive;GEN-EVAL;785
+nl;goed gelogeerd;positive;GEN-EVAL;786
+nl;goed meegevallen;positive;GEN-EVAL;787
+nl;gunstig;positive;GEN-EVAL;788
+nl;had alles voorhanden;positive;GEN-EVAL;789
+nl;heel functioneel;positive;GEN-EVAL;790
+nl;hele fijne tijd;positive;GEN-EVAL;791
+nl;kan bijna niet beter;positive;GEN-EVAL;792
+nl;kan je overal komen;positive;GEN-EVAL;793
+nl;keurig bijgehouden;positive;GEN-EVAL;794
+nl;komenhier nog terug;positive;GEN-EVAL;795
+nl;kwaliteitsvol;positive;GEN-EVAL;796
+nl;lekker groot;positive;GEN-EVAL;797
+nl;maar ach;positive;GEN-EVAL;798
+nl;maar zeer goed onderhouden;positive;GEN-EVAL;799
+nl;meer dan genoeg keuze;positive;GEN-EVAL;800
+nl;meer dan ruim genoeg;positive;GEN-EVAL;801
+nl;meerdere;positive;GEN-EVAL;802
+nl;mooi groot;positive;GEN-EVAL;803
+nl;naar volle tevredenheid;positive;GEN-EVAL;804
+nl;netjes verzorgd;positive;GEN-EVAL;805
+nl;niet zo erg;positive;GEN-EVAL;806
+nl;niets te klagen gehad;positive;GEN-EVAL;807
+nl;om bij te komen;positive;GEN-EVAL;808
+nl;ongedwongen;positive;GEN-EVAL;809
+nl;oogt wel mooi;positive;GEN-EVAL;810
+nl;op een beter niveau;positive;GEN-EVAL;811
+nl;overzichtelijk;positive;GEN-EVAL;812
+nl;pico bello;positive;GEN-EVAL;813
+nl;pluspunt;positive;GEN-EVAL;814
+nl;prima vermaakt;positive;GEN-EVAL;815
+nl;soms goed;positive;GEN-EVAL;816
+nl;totaal geen last;positive;GEN-EVAL;817
+nl;veel te bieden;positive;GEN-EVAL;818
+nl;verder goed;positive;GEN-EVAL;819
+nl;verrassend goed;positive;GEN-EVAL;820
+nl;verschillende;positive;GEN-EVAL;821
+nl;echt een aanrader !;strongpositive;GEN-EVAL;822
+nl;een echte aanrader !!;strongpositive;GEN-EVAL;822
+nl;een echte aanrader.;strongpositive;GEN-EVAL;822
+nl;een heel goed gevoel;strongpositive;GEN-EVAL;823
+nl;een onvergetelijke vakantie;strongpositive;GEN-EVAL;824
+nl;geweldig weekend gehad;strongpositive;GEN-EVAL;825
+nl;geweldige twee weken;strongpositive;GEN-EVAL;826
+nl;heel erg geschikt;strongpositive;GEN-EVAL;827
+nl;in 1 woord geweldig;strongpositive;GEN-EVAL;828
+nl;komen zeker terug !;strongpositive;GEN-EVAL;829
+nl;zeker weten terug;strongpositive;GEN-EVAL;829
+nl;letterlijk overweldigend;strongpositive;GEN-EVAL;830
+nl;magistraal;strongpositive;GEN-EVAL;831
+nl;meer dan aangenaam;strongpositive;GEN-EVAL;832
+es;fue magnifico;strongpositive;GEN-EVAL;833
+nl;was prachtig;strongpositive;GEN-EVAL;833
+de;keine frisch Obst;negative;FOOD;834
+de;mini Bar;negative;FOOD;835
+de;relativ geschmacksneutral sein;negative;FOOD;836
+en;fast food on breakfast;negative;FOOD;837
+en;inedible;negative;FOOD;838
+en;limited;negative;FOOD;839
+es;limitado;negative;FOOD;839
+fr;limiter;negative;FOOD;839
+en;not complimentary;negative;FOOD;840
+nl;niet gratis;negative;FOOD;840
+en;not enough;negative;FOOD;841
+fr;pas assez;negative;FOOD;841
+fr;pas assez d';negative;FOOD;841
+en;not much choice;negative;FOOD;842
+en;not so many;negative;FOOD;843
+en;rotten;negative;FOOD;844
+es;podridas;negative;FOOD;844
+en;smelly;negative;FOOD;845
+en;with little choice;negative;FOOD;846
+it;non troppo vario;negative;FOOD;846
+en;very limited;strongnegative;FOOD;847
+fr;très limiter;negative;FOOD;847
+nl;zeer beperkt;negative;FOOD;847
+nl;erg beperkt;strongnegative;FOOD;847
+es;no era abundante;negative;FOOD;848
+es;poca variedad;negative;FOOD;849
+it;poco varieta';negative;FOOD;849
+es;poco donde elegir;negative;FOOD;849
+es;sin variedad;negative;FOOD;850
+fr;en guise de minibar;negative;FOOD;851
+fr;en quantité limiter;negative;FOOD;852
+fr;insuffisant le soir;negative;FOOD;853
+fr;mauvais choix;negative;FOOD;854
+fr;minimaliste;negative;FOOD;855
+it;minimalista;negative;FOOD;855
+fr;produit non frais;negative;FOOD;856
+nl;niet vers;negative;FOOD;856
+fr;très peu de choix;negative;FOOD;857
+fr;plutôt très sale;strongnegative;FOOD;858
+it;15 minuto di coda;negative;FOOD;859
+it;code lunghissime;negative;FOOD;860
+de;Lange Wartezeit;negative;FOOD;860
+nl;lang wachten;negative;FOOD;860
+nl;taai;negative;FOOD;861
+it;piuttosto limitato;negative;FOOD;862
+it;puo' essere piu' abbondante;negative;FOOD;863
+it;salato;negative;FOOD;864
+it;scarso;negative;FOOD;865
+it;uno po ' limitato;negative;FOOD;866
+nl;alleen maar warm eten;negative;FOOD;867
+nl;dezelfde gerechten;negative;FOOD;868
+nl;geen bakkers broodjes;negative;FOOD;869
+nl;geen drinken inbegrepen;negative;FOOD;870
+nl;geen smaak;negative;FOOD;871
+nl;smakeloos;negative;FOOD;871
+nl;iets meer van verwacht;negative;FOOD;872
+nl;je eigen drankje betalen;negative;FOOD;873
+nl;kartonnen;negative;FOOD;874
+nl;lauw;negative;FOOD;875
+nl;minder keuze;negative;FOOD;876
+nl;miniafgebakken;negative;FOOD;877
+nl;misschien ook niet vers;negative;FOOD;878
+nl;niet eens patat;negative;FOOD;879
+nl;niet erg vers;negative;FOOD;880
+nl;niet inclusief;negative;FOOD;881
+nl;niet lekker;negative;FOOD;882
+nl;niet te drinken;negative;FOOD;883
+nl;niet zo uitgebreid;negative;FOOD;884
+nl;maar wel vers;strongnegative;FOOD;885
+de;andere Getränk;positive;FOOD;886
+de;angenehm Ambiente;positive;FOOD;887
+de;appetitlich;positive;FOOD;888
+de;geschmackvoll;positive;FOOD;888
+de;schmackhaft;positive;FOOD;888
+en;tasteful;positive;FOOD;888
+en;tasty;positive;FOOD;888
+es;gusto;positive;FOOD;888
+fr;appétissant;strongpositive;FOOD;888
+it;arredare;positive;FOOD;888
+it;gustoso;positive;FOOD;888
+nl;smakelijk;positive;FOOD;888
+de;eine gut Wahl;positive;FOOD;889
+de;eine Vielfallt an Getränk;positive;FOOD;890
+de;frisch;positive;FOOD;891
+en;fresh;positive;FOOD;891
+it;fresco;positive;FOOD;891
+nl;vers;positive;FOOD;891
+de;für jede etwas dabei;positive;FOOD;892
+de;für jede Geschmack;positive;FOOD;892
+es;para todos los gustos;positive;FOOD;892
+fr;pour tout le gouts;positive;FOOD;892
+nl;voor elk wat wils;positive;FOOD;892
+de;für unser Anspruch ausreichend;positive;FOOD;893
+de;gemischt;positive;FOOD;894
+de;sehr gut Essen;positive;FOOD;895
+de;lecker;positive;FOOD;896
+de;wunderbar;strongpositive;FOOD;896
+en;nice;positive;FOOD;896
+en;delicious;strongpositive;FOOD;896
+en;delightful;strongpositive;FOOD;896
+es;agradable;positive;FOOD;896
+es;delicioso;strongpositive;FOOD;896
+es;encantador;strongpositive;FOOD;896
+it;delizioso;positive;FOOD;896
+nl;heerlijk;positive;FOOD;896
+nl;lekker;positive;FOOD;896
+nl;lekkerste;strongpositive;FOOD;896
+de;schmackhaft;positive;FOOD;897
+en;tasty;positive;FOOD;897
+it;gustoso;positive;FOOD;897
+nl;smakelijk;positive;FOOD;897
+de;sehr viel zu Auswahl;strongpositive;FOOD;898
+de;super abwechslungsreich;strongpositive;FOOD;898
+es;mucha variedad;positive;FOOD;898
+es;con mucha variedad;strongpositive;FOOD;898
+es;hay mucha variedad;strongpositive;FOOD;898
+fr;beaucoup de choix;positive;FOOD;898
+nl;genoeg keuze;positive;FOOD;898
+nl;heel veel keuze;positive;FOOD;898
+nl;keuze genoeg;positive;FOOD;898
+nl;veel keus;positive;FOOD;898
+nl;veel keuze;positive;FOOD;898
+de;unbeschreiblich lecker;strongpositive;FOOD;899
+de;zwar super lecker;strongpositive;FOOD;899
+nl;overheerlijk;strongpositive;FOOD;899
+nl;verrukkelijk;strongpositive;FOOD;899
+en;edible;positive;FOOD;900
+en;healthy;positive;FOOD;901
+fr;sain;positive;FOOD;901
+en;included;positive;FOOD;902
+es;acceso;positive;FOOD;902
+es;incluido;positive;FOOD;902
+es;incluido en el precio;positive;FOOD;902
+es;incluída;positive;FOOD;902
+fr;inclure;positive;FOOD;902
+it;comprendere nel prezzo;positive;FOOD;902
+it;includere;positive;FOOD;902
+it;includere nel prezzo;positive;FOOD;902
+nl;inbegrepen;positive;FOOD;902
+nl;inbegrepen in de prijs;positive;FOOD;902
+en;mini fridge.;positive;FOOD;903
+en;really fresh;strongpositive;FOOD;904
+es;gran variedad;positive;FOOD;905
+es;multitud;strongpositive;FOOD;906
+es;muy calentitas;strongpositive;FOOD;907
+es;muy completas;strongpositive;FOOD;908
+es;super variado;strongpositive;FOOD;909
+es;superó las espectativas;strongpositive;FOOD;910
+fr;assez riche en choix;positive;FOOD;911
+nl;overdadige keuze;strongpositive;FOOD;911
+fr;jus d' orange frais;positive;FOOD;912
+fr;offrir un nourriture délicat;positive;FOOD;913
+fr;un mini bar;positive;FOOD;914
+fr;vraiment mangeable;positive;FOOD;915
+fr;nourriture excellent;strongpositive;FOOD;916
+it;accontentare tutti i gusti;positive;FOOD;917
+it;grande varieta';positive;FOOD;918
+fr;assez riche en choix;positive;FOOD;918
+nl;overdadige keuze;strongpositive;FOOD;918
+it;menu' a scelta;positive;FOOD;919
+it;ottima scelta;positive;FOOD;920
+it;riscaldato;positive;FOOD;921
+nl;verwarmd;positive;FOOD;921
+it;riservare;positive;FOOD;922
+it;scelta infinito di piatto;positive;FOOD;923
+it;si mangia molto bene;positive;FOOD;924
+nl;goed eten;positive;FOOD;924
+nl;echte , verse koffie;positive;FOOD;925
+nl;alles vers;positive;FOOD;926
+nl;behoorlijk uitgebreid;positive;FOOD;927
+nl;direct aangevuld;positive;FOOD;928
+nl;een enorme keus;positive;FOOD;929
+nl;een uitgebreide keus;positive;FOOD;929
+nl;meer dan genoeg keuze;positive;FOOD;929
+nl;goede keus;positive;FOOD;930
+nl;iets lekkers te vinden;positive;FOOD;931
+nl;smaakt;positive;FOOD;932
+nl;smaakten redelijk;positive;FOOD;933
+nl;veel restaurantjes;positive;FOOD;934
+nl;voldoende eetgelegenheden;positive;FOOD;935
+nl;voldoende keuze;positive;FOOD;936
+nl;voldoende uitgebreid;positive;FOOD;937
+nl;bijzonder lekker;strongpositive;FOOD;938
+nl;buitengewoon lekker;strongpositive;FOOD;939
+nl;heerlijkheden;strongpositive;FOOD;940
+de;ca. 200 m. entfernt;negative;FOOD;940
+de;deshalb null Strandblick;negative;LOCATION;941
+de;direkt Zugang zu Strand;negative;LOCATION;942
+de;dunkel;negative;LOCATION;943
+en;dark;negative;LOCATION;943
+it;scuro;negative;LOCATION;943
+nl;donker;negative;LOCATION;943
+de;etwas abliegen;negative;LOCATION;944
+nl;wat afgelegen;negative;LOCATION;944
+de;nicht ganz zentral;negative;LOCATION;945
+de;relativ abgelegen;negative;LOCATION;946
+de;zu Parkplatz hin;negative;LOCATION;947
+en;long distance;negative;LOCATION;948
+es;algo apartado del centro;negative;LOCATION;949
+es;mal situado;negative;LOCATION;950
+es;retirado del centro;negative;LOCATION;951
+fr;avoir préférer le plage;negative;LOCATION;952
+fr;loin de le plage;negative;LOCATION;953
+fr;loin du centre;negative;LOCATION;954
+it;lontano dal centro;negative;LOCATION;954
+fr;voir nul;strongnegative;LOCATION;955
+it;non essere così vicino;negative;LOCATION;956
+nl;10 meter van;negative;LOCATION;957
+nl;2 straten verderop;negative;LOCATION;958
+nl;afgelegen;negative;LOCATION;959
+nl;een kilometer wandelen tot;negative;LOCATION;960
+nl;eigenlijk geen uitzicht;negative;LOCATION;961
+nl;minstens 20 minuten rijden;negative;LOCATION;962
+de;direkt nebenan;negative;LOCATION;963
+es;justo al lado;positive;LOCATION;963
+de;Airportanbindung;positive;LOCATION;964
+de;alle 8 Minute;positive;LOCATION;965
+de;an Meer gelegen;positive;LOCATION;966
+de;angenehm Ambiente;positive;LOCATION;967
+de;auch in Strandbereich;positive;LOCATION;968
+de;Blick über die Strand;positive;LOCATION;969
+de;direkt an Hotel;positive;LOCATION;970
+de;direkt an Strand;positive;LOCATION;971
+de;direkt an Strip gelegen;positive;LOCATION;972
+de;direkt neben die Hauptbahnhof;positive;LOCATION;973
+fr;proche de le gare;positive;LOCATION;973
+nl;vlakbij het station;positive;LOCATION;973
+de;direkt Straßenbahnanbindung zu Stadt;positive;LOCATION;974
+de;direkt vor Ort;positive;LOCATION;975
+de;direkt;positive;LOCATION;976
+nl;direct aan;positive;LOCATION;976
+de;draußen;positive;LOCATION;977
+de;eine Strassenbahnstation;positive;LOCATION;978
+de;für Städtereise empfehlenswert;positive;LOCATION;979
+de;für Städtetrip ideal;positive;LOCATION;980
+de;gut für Stadtaufenthalt;positive;LOCATION;981
+de;gut gelegen;positive;LOCATION;982
+de;in guter Lage;positive;LOCATION;982
+en;well located;positive;LOCATION;982
+es;bien situado;positive;LOCATION;982
+es;bien ubicado;positive;LOCATION;982
+es;buen situado;positive;LOCATION;982
+es;esta bien situado;positive;LOCATION;982
+fr;bien placé;positive;LOCATION;982
+it;ben collocato;positive;LOCATION;982
+nl;goed gelegen;positive;LOCATION;982
+de;in 10min zu erreichen;positive;LOCATION;983
+de;in die Nähe;positive;LOCATION;984
+en;near;positive;LOCATION;984
+en;close;positive;LOCATION;984
+es;cerca;negative;LOCATION;984
+fr;proche;positive;LOCATION;984
+it;vicino;positive;LOCATION;984
+de;in direkter Strandlage;positive;LOCATION;985
+en;close to the beach;positive;LOCATION;985
+fr;à le plage;positive;LOCATION;985
+nl;dicht bij het strand;positive;LOCATION;985
+nl;vlakbij het strand;positive;LOCATION;985
+de;in einer ruhigen Wohngegend;positive;LOCATION;986
+de;in Gehdistanz;positive;LOCATION;987
+en;at walking distance;positive;LOCATION;987
+en;in walking distance;positive;LOCATION;987
+en;within walking distance;positive;LOCATION;987
+nl;in wandelafstand;positive;LOCATION;987
+nl;op loopafstand;positive;LOCATION;987
+it;raggiungibile a piede;positive;LOCATION;987
+it;raggiungibile anche a piede;positive;LOCATION;987
+it;a due passi;positive;LOCATION;987
+it;a pochi passi;positive;LOCATION;987
+de;in guter Lage;positive;LOCATION;988
+nl;op een goede locatie;positive;LOCATION;988
+nl;op goede locatie;positive;LOCATION;988
+de;liegt dennoch zentral;positive;LOCATION;989
+de;liegt verkehrsgünstig;positive;LOCATION;990
+de;Meerblick;positive;LOCATION;991
+de;mehrsprachig;positive;LOCATION;992
+fr;multilingue;positive;LOCATION;992
+it;multilingue;positive;LOCATION;992
+nl;meertalig;positive;LOCATION;992
+de;mit toll Ausblick;positive;LOCATION;993
+de;mitten in die Stadt;positive;LOCATION;994
+de;mitten in Zentrum;positive;LOCATION;995
+en;locate in the center;positive;LOCATION;995
+es;en el centro;positive;LOCATION;995
+es;en pleno centro;positive;LOCATION;995
+fr;en plein centre ville;positive;LOCATION;995
+it;in mezzo;positive;LOCATION;995
+it;nel centro;positive;LOCATION;995
+it;nel pieno centro;positive;LOCATION;995
+nl;in het centrum;positive;LOCATION;995
+nl;midden in het centrum;positive;LOCATION;995
+nl;midden in de stad;positive;LOCATION;995
+nl;middenin de stad;positive;LOCATION;995
+nl;ligt midden in het centrum;positive;LOCATION;995
+de;Nähe zu Bahnhof;positive;LOCATION;996
+en;close to railway station;positive;LOCATION;996
+en;close to the station;positive;LOCATION;996
+de;Nähe;positive;LOCATION;997
+fr;proximité;positive;LOCATION;997
+it;prossimità;positive;LOCATION;997
+it;vicinanza;positive;LOCATION;997
+de;nebenan;positive;LOCATION;998
+es;al lado;positive;LOCATION;998
+de;recht zentral;positive;LOCATION;999
+de;recht zentrumsnah;positive;LOCATION;1000
+de;Rheinblick;positive;LOCATION;1001
+de;ruhig Seitenstraße;positive;LOCATION;1002
+de;ruhig;positive;LOCATION;1003
+en;quiet;positive;LOCATION;1003
+es;tranquilo;positive;LOCATION;1003
+fr;calme;positive;LOCATION;1003
+it;tranquillo;positive;LOCATION;1003
+nl;rustig gelegen;positive;LOCATION;1003
+de;Sandwich;positive;LOCATION;1004
+de;schön;positive;LOCATION;1005
+de;wunderschön;positive;LOCATION;1005
+en;beautiful;positive;LOCATION;1005
+en;nice;positive;LOCATION;1005
+es;agradable;positive;LOCATION;1005
+es;hermoso;positive;LOCATION;1005
+fr;agréable;positive;LOCATION;1005
+fr;beau;positive;LOCATION;1005
+it;bellissima;positive;LOCATION;1005
+it;bello;positive;LOCATION;1005
+nl;mooi;positive;LOCATION;1005
+de;sehr gut begehbar;positive;LOCATION;1006
+de;sehr schön gelegen;positive;LOCATION;1007
+de;sehr schön;positive;LOCATION;1008
+en;very nice;strongpositive;LOCATION;1008
+es;muy agradable;strongpositive;LOCATION;1008
+fr;très agréable;positive;LOCATION;1008
+fr;très beau;positive;LOCATION;1008
+it;molto bello;positive;LOCATION;1008
+de;Straßenbahn;positive;LOCATION;1009
+de;Tennisplatz;positive;LOCATION;1010
+de;toll Stadthotel;positive;LOCATION;1011
+de;unmittelbar in Stadtzentrum gelegen;positive;LOCATION;1012
+de;verkehrstechnisch gut gelegen;positive;LOCATION;1013
+de;zentral Lage;positive;LOCATION;1014
+it;posizione centrale;positive;LOCATION;1014
+de;zentral;positive;LOCATION;1015
+en;central;positive;LOCATION;1015
+en;centrally locate;positive;LOCATION;1015
+es;centrico;positive;LOCATION;1015
+es;muy céntrico;strongpositive;LOCATION;1015
+fr;central;positive;LOCATION;1015
+it;centrale;positive;LOCATION;1015
+nl;centraal;positive;LOCATION;1015
+nl;zeer centraal gelegen;positive;LOCATION;1015
+de;zentrumsnah gelegen;positive;LOCATION;1016
+de;Zentrumsnahes;positive;LOCATION;1016
+de;direkt an schön Sandstrand;strongpositive;LOCATION;1017
+de;in Traumlage;strongpositive;LOCATION;1018
+de;Super Lage;strongpositive;LOCATION;1019
+de;traumhaft gelegen;strongpositive;LOCATION;1020
+en;close to metro;positive;LOCATION;1021
+en;next to a subway station;positive;LOCATION;1021
+en;close to the tube;positive;LOCATION;1021
+fr;à côté du métro;positive;LOCATION;1021
+fr;proche du métro;positive;LOCATION;1021
+en;close to restaurant and bar;positive;LOCATION;1022
+en;close to the airport;positive;LOCATION;1023
+en;everthing at walking distance;positive;LOCATION;1024
+en;located on a good spot;positive;LOCATION;1025
+en;in a great spot;strongpositive;LOCATION;1025
+en;next to a subway station;positive;LOCATION;1026
+en;only 10 minute;positive;LOCATION;1027
+en;outside the hotel;positive;LOCATION;1028
+es;fuera del hotel;negative;LOCATION;1028
+fr;hors de le hotel;negative;LOCATION;1028
+nl;buiten het hotel;negative;LOCATION;1028
+en;panoramic;positive;LOCATION;1029
+fr;panoramique;strongpositive;LOCATION;1029
+en;absolutely breathtaking;strongpositive;LOCATION;1030
+en;amazing view;strongpositive;LOCATION;1031
+it;vista mozzafiato;positive;LOCATION;1031
+en;great for walking;strongpositive;LOCATION;1032
+en;sensational located;strongpositive;LOCATION;1033
+en;perfectly located;strongpositive;LOCATION;1033
+en;splendid view;strongpositive;LOCATION;1034
+es;10 minutos caminando;positive;LOCATION;1035
+es;10min caminando;positive;LOCATION;1035
+es;a 10 minutos andando;positive;LOCATION;1035
+es;a 10 minutos;positive;LOCATION;1036
+es;a 15 minutos andando;positive;LOCATION;1037
+es;a 15 minutos andando;positive;LOCATION;1037
+it;15 minuti a piede;positive;LOCATION;1037
+es;a 200 metro;positive;LOCATION;1038
+es;a 30 segundos andando;positive;LOCATION;1039
+es;a dos pasos;positive;LOCATION;1040
+es;a pocos kilometros;positive;LOCATION;1041
+es;a pocos metros;positive;LOCATION;1042
+es;al aire libre;positive;LOCATION;1043
+es;al lado de;positive;LOCATION;1044
+es;bastante cerca;positive;LOCATION;1045
+it;abbastanza vicino;positive;LOCATION;1045
+es;caminando;positive;LOCATION;1046
+es;cercanos al hotel;positive;LOCATION;1047
+es;cinco minutos a pie;positive;LOCATION;1048
+es;debajo del hotel hay;positive;LOCATION;1049
+es;delante del hotel;positive;LOCATION;1050
+es;dentro del hotel;positive;LOCATION;1051
+es;en el medio;positive;LOCATION;1052
+es;en medio del;positive;LOCATION;1052
+es;en una zona tranquila;positive;LOCATION;1053
+nl;in een rustige omgeving;positive;LOCATION;1053
+es;está muy bien ubicado;positive;LOCATION;1054
+es;estratégica;positive;LOCATION;1055
+it;strategico;positive;LOCATION;1055
+es;fácil de localizar;positive;LOCATION;1056
+es;incluçia;positive;LOCATION;1057
+es;invitacion;positive;LOCATION;1058
+es;joven;positive;LOCATION;1059
+fr;jeune;positive;LOCATION;1059
+es;junto a;positive;LOCATION;1060
+es;lo unico bueno;positive;LOCATION;1061
+es;lugar curioso;positive;LOCATION;1062
+es;más o menos céntrico;positive;LOCATION;1063
+es;medium hora andando;positive;LOCATION;1064
+es;muy bien ubicado;positive;LOCATION;1065
+nl;mooi gelegen;positive;LOCATION;1065
+es;tiene cerca;positive;LOCATION;1066
+es;tiene cercanos;positive;LOCATION;1066
+es;proxima;positive;LOCATION;1066
+es;espectacularmente bien situado;strongpositive;LOCATION;1067
+es;esta muy bien ubicado;strongpositive;LOCATION;1068
+es;esta muy centrico;strongpositive;LOCATION;1069
+es;esta muy cerca;strongpositive;LOCATION;1070
+es;perfectamente ubicado;strongpositive;LOCATION;1071
+es;super bien situado;strongpositive;LOCATION;1071
+fr;bien situer géographiquement;positive;LOCATION;1072
+fr;proche du centre ville;positive;LOCATION;1073
+nl;dicht bij het centrum;positive;LOCATION;1073
+fr;relativement proche du centre;positive;LOCATION;1074
+it;100 mt di distanza;positive;LOCATION;1075
+it;abbastanza centrale;positive;LOCATION;1076
+it;appena fuori;positive;LOCATION;1077
+it;bel posto;positive;LOCATION;1078
+it;bella vista;positive;LOCATION;1079
+nl;mooi uitzicht;positive;LOCATION;1079
+it;buona posizione;positive;LOCATION;1080
+it;comodamente raggiungibile dall' aeroporto;positive;LOCATION;1081
+it;comodo per aeroporto;positive;LOCATION;1081
+it;è centralissimo;positive;LOCATION;1082
+it;facilmente raggiungibile;positive;LOCATION;1083
+it;immediato vicinanza;positive;LOCATION;1084
+it;nel centro della;positive;LOCATION;1085
+it;nel cuore;positive;LOCATION;1085
+it;posizione centrale;positive;LOCATION;1086
+it;posizione comoda;positive;LOCATION;1087
+it;posizione tranquilla;positive;LOCATION;1088
+it;posto molto bello;positive;LOCATION;1089
+it;vista spettacolare;positive;LOCATION;1090
+it;con vista spettacolare;strongpositive;LOCATION;1090
+it;vista impagabile;strongpositive;LOCATION;1090
+nl;heeft een prachtig uitzicht;positive;LOCATION;1090
+nl;goede uitvalsbasis;positive;LOCATION;1091
+nl;lekker centraal gelegen;positive;LOCATION;1092
+nl;lopend naar het centrum;positive;LOCATION;1093
+nl;makkelijk dichtbij;positive;LOCATION;1094
+nl;op wandelafstand;positive;LOCATION;1095
+nl;veel barretjes vlak bij;positive;LOCATION;1096
+nl;met perfecte ligging;strongpositive;LOCATION;1097
+nl;op perfecte locatie;strongpositive;LOCATION;1097
+nl;schitterend bosrijk gelegen;strongpositive;LOCATION;1098
+nl;super plek;strongpositive;LOCATION;1099
+de;an lauter Straße;negative;NOISE;1100
+de;Baulärm;negative;NOISE;1101
+de;dadurch kaum Straßenlärm;negative;NOISE;1102
+de;defekt;negative;NOISE;1103
+en;faulty;negative;NOISE;1103
+it;difettoso;negative;NOISE;1103
+nl;defecte;negative;NOISE;1103
+de;etwas hellhörig;negative;NOISE;1104
+nl;enigzins gehorig;negative;NOISE;1104
+de;laut;negative;NOISE;1105
+en;loud;negative;NOISE;1105
+en;noisy;negative;NOISE;1105
+es;ruidoso;negative;NOISE;1105
+fr;bruyant;negative;NOISE;1105
+it;rumoroso;negative;NOISE;1105
+nl;enigzins luidruchtig;negative;NOISE;1106
+fr;un peu bruyant;negative;NOISE;1106
+de;zu laut;negative;NOISE;1107
+de;hellhörig;strongnegative;NOISE;1108
+de;kämpfen;strongnegative;NOISE;1109
+de;Katastrophe;strongnegative;NOISE;1110
+de;laut Beschallung;strongnegative;NOISE;1111
+de;sehr hellhörig;strongnegative;NOISE;1112
+de;sehr laut;strongnegative;NOISE;1112
+en;very loud;strongnegative;NOISE;1112
+fr;très bruyant;negative;NOISE;1112
+fr;tres bruyant;strongnegative;NOISE;1112
+it;molto rumoroso;strongnegative;NOISE;1112
+nl;heel erg gehorig;strongnegative;NOISE;1112
+nl;hele luide;strongnegative;NOISE;1112
+nl;zeer gehorig;strongnegative;NOISE;1112
+de;sehr laut;strongnegative;NOISE;1113
+en;very loud;strongnegative;NOISE;1113
+fr;très bruyant;negative;NOISE;1113
+it;molto rumoroso;strongnegative;NOISE;1113
+nl;hele luide;strongnegative;NOISE;1113
+de;Super hellhörig;strongnegative;NOISE;1114
+en;noise;negative;NOISE;1115
+nl;lawaai;negative;NOISE;1115
+es;ruido;negative;NOISE;1115
+en;rather noisy;negative;NOISE;1116
+en;a lot of noise;strongnegative;NOISE;1117
+fr;énormément de bruit;strongnegative;NOISE;1117
+it;molto rumore;strongnegative;NOISE;1117
+nl;veel lawaai;negative;NOISE;1117
+nl;ontzettend veel lawaai;strongnegative;NOISE;1117
+en;extremely noisy;strongnegative;NOISE;1118
+en;play very loud music;strongnegative;NOISE;1119
+en;so loud;strongnegative;NOISE;1120
+es;demasiado tranquila;negative;NOISE;1121
+es;hacían mucho ruido;negative;NOISE;1122
+fr;notamment des tramway bruyant;negative;NOISE;1123
+it;che fa rumore;negative;NOISE;1124
+nl;vooral gehorig;negative;NOISE;1125
+nl;maakt ontzettend veel lawaai;strongnegative;NOISE;1126
+nl;met herrie;strongnegative;NOISE;1127
+fr;extrêment bruyant;negative;NOISE;1128
+fr;trop bruyant;strongnegative;NOISE;1128
+nl;uiterst gehorig;strongnegative;NOISE;1128
+nl;uitzonderlijk gehorig;strongnegative;NOISE;1128
+nl;wat een herrie;strongnegative;NOISE;1129
+de;Lärm;negative;NOISE;1130
+en;noise;negative;NOISE;1130
+es;noche;positive;NOISE;1130
+it;eccessivo;negative;NOISE;1130
+it;rumorosita;negative;NOISE;1130
+nl;lawaai;negative;NOISE;1130
+de;bei geschlossen Fenster ruhig;positive;NOISE;1131
+de;erholsam;positive;NOISE;1132
+en;relaxing;positive;NOISE;1132
+es;relajante;positive;NOISE;1132
+fr;relaxant;positive;NOISE;1132
+fr;reposant;positive;NOISE;1132
+fr;reposer;positive;NOISE;1132
+it;rilassare;positive;NOISE;1132
+nl;ontspannende;positive;NOISE;1132
+de;in eine ruhig Wohngegend;positive;NOISE;1133
+de;keine Strassenlärm;positive;NOISE;1134
+de;nicht hellhörig;positive;NOISE;1135
+de;nicht wirklich störend;positive;NOISE;1136
+de;ruhig Seitenstraße;positive;NOISE;1137
+de;ruhig;positive;NOISE;1138
+en;quiet;positive;NOISE;1138
+es;tranquilo;positive;NOISE;1138
+fr;calme;positive;NOISE;1138
+it;tranquillo;positive;NOISE;1138
+nl;rustig;positive;NOISE;1138
+de;schnell;positive;NOISE;1139
+de;zügig;positive;NOISE;1139
+fr;rapide;positive;NOISE;1139
+it;rapidissimo;strongpositive;NOISE;1139
+nl;snel;positive;NOISE;1139
+de;schon eher;positive;NOISE;1140
+de;sehr ruhig;positive;NOISE;1141
+de;wirklich ruhig;positive;NOISE;1141
+en;very quiet;strongpositive;NOISE;1141
+es;muy silenciosa;strongpositive;NOISE;1141
+es;muy tranquila;strongpositive;NOISE;1141
+es;muy tranquilo;strongpositive;NOISE;1141
+fr;très calme;positive;NOISE;1141
+fr;très silencieux;strongpositive;NOISE;1141
+fr;très tranquille;strongpositive;NOISE;1141
+it;molto tranquillo;positive;NOISE;1141
+it;tranquillissimo;positive;NOISE;1141
+nl;echt stil;strongpositive;NOISE;1141
+nl;erg rustig;strongpositive;NOISE;1141
+de;sehr ruhig;positive;NOISE;1142
+en;very quiet;strongpositive;NOISE;1142
+es;muy tranquilo;strongpositive;NOISE;1142
+fr;très calme;positive;NOISE;1142
+it;molto tranquillo;positive;NOISE;1142
+de;wohltuend;positive;NOISE;1143
+fr;avantageux;positive;NOISE;1143
+de;absolut ruhig;strongpositive;NOISE;1144
+de;für Rom sehr ruhig;strongpositive;NOISE;1145
+de;richtig gut entspannen;strongpositive;NOISE;1146
+de;sehr erholsam;strongpositive;NOISE;1147
+en;very relaxing;strongpositive;NOISE;1147
+es;muy relajante;strongpositive;NOISE;1147
+es;muy relajantes;strongpositive;NOISE;1147
+fr;tres reposer;strongpositive;NOISE;1147
+de;sehr ruhig !;strongpositive;NOISE;1148
+de;zu Relaxen sehr empfehlen;strongpositive;NOISE;1149
+en;quite noisy;positive;NOISE;1150
+en;relaxing;positive;NOISE;1151
+es;relajante;positive;NOISE;1151
+fr;relaxant;positive;NOISE;1151
+es;apartado de cualquier ruido;positive;NOISE;1152
+es;bastante relajante;positive;NOISE;1153
+es;bastante tranquila;positive;NOISE;1154
+fr;assez calme;positive;NOISE;1154
+it;abbastanza tranquillo;positive;NOISE;1154
+it;piuttosto tranquillo;positive;NOISE;1154
+es;en una zona tranquila;positive;NOISE;1155
+nl;in een rustige omgeving;positive;NOISE;1155
+es;no había excesivo ruido;positive;NOISE;1156
+es;no hay ruidos;positive;NOISE;1157
+es;sin ningun ruido;positive;NOISE;1158
+es;sin ruidos;positive;NOISE;1159
+es;de absoluta tranquilidad;strongpositive;NOISE;1160
+es;mucha tranquilidad.playa;strongpositive;NOISE;1161
+es;relajamos muchísimo;strongpositive;NOISE;1162
+es;super · relajante;strongpositive;NOISE;1163
+es;súper cómodo;strongpositive;NOISE;1164
+es;súper tranquilas;strongpositive;NOISE;1165
+fr;idéal pour se détendre;positive;NOISE;1166
+fr;insonorisation;positive;NOISE;1167
+fr;le plus calme;positive;NOISE;1168
+fr;n' être pas dérangeant;positive;NOISE;1169
+fr;pas de bruit nocturne;positive;NOISE;1170
+fr;peu bruyant;positive;NOISE;1171
+fr;tâcher;positive;NOISE;1172
+fr;tranquiles;positive;NOISE;1173
+fr;un rue calme;positive;NOISE;1174
+fr;ultra bruyant;strongpositive;NOISE;1175
+it;atmosfera rilassante;positive;NOISE;1176
+it;nella tranquillita';positive;NOISE;1177
+it;particolarmente tranquillo;positive;NOISE;1178
+it;posizione tranquillo;positive;NOISE;1179
+it;si dormire tranquillo;positive;NOISE;1180
+nl;geen geluidsoverlast;positive;NOISE;1181
+nl;geen harde muziek;positive;NOISE;1182
+nl;kunnen ontspannen;positive;NOISE;1183
+nl;lekker rustig;positive;NOISE;1184
+nl;mooie rustige;positive;NOISE;1185
+nl;rust;positive;NOISE;1186
+nl;rustige muziek;positive;NOISE;1187
+nl;was lekker stil;positive;NOISE;1188
+de;hochpreisig;negative;PRICE;1189
+de;mäßig Qualität;negative;PRICE;1190
+it;qualità mediocre;negative;PRICE;1190
+nl;matige kwaliteit;negative;PRICE;1190
+de;teuer;negative;PRICE;1191
+en;expensive;negative;PRICE;1191
+es;caro;negative;PRICE;1191
+fr;cher;negative;PRICE;1191
+nl;duur;negative;PRICE;1191
+de;überbezahlen;negative;PRICE;1192
+de;zu teuer;negative;PRICE;1193
+en;too expensive;strongnegative;PRICE;1193
+es;excesivamente caro;strongnegative;PRICE;1193
+fr;trop cher;strongnegative;PRICE;1193
+it;troppo costoso;strongnegative;PRICE;1193
+nl;te duur;negative;PRICE;1193
+de;zwar nicht günstig;negative;PRICE;1194
+en;a cheap hotel;negative;PRICE;1195
+en;bit pricey;negative;PRICE;1196
+en;expensive option;negative;PRICE;1197
+en;have not worth;negative;PRICE;1198
+en;have to pay;negative;PRICE;1199
+en;low budget room accommodation;negative;PRICE;1200
+en;low value;negative;PRICE;1201
+en;not cheap;negative;PRICE;1202
+en;not free;negative;PRICE;1203
+en;not worth;negative;PRICE;1204
+en;nothing special;negative;PRICE;1205
+es;nada del otro mundo;negative;PRICE;1205
+it;niente di speciale;negative;PRICE;1205
+it;nulla di speciale;negative;PRICE;1205
+nl;niks bijzonders;negative;PRICE;1205
+en;should be free;negative;PRICE;1206
+en;spend the extra money;negative;PRICE;1207
+en;very expensive;negative;PRICE;1208
+es;muy caro;strongnegative;PRICE;1208
+es;muy caros;strongnegative;PRICE;1208
+fr;très cher;negative;PRICE;1208
+fr;trés cher;negative;PRICE;1208
+it;molto caro;strongnegative;PRICE;1208
+nl;erg duur;strongnegative;PRICE;1208
+en;never worth;strongnegative;PRICE;1209
+en;really poor quality;strongnegative;PRICE;1210
+en;totally overpriced;strongnegative;PRICE;1211
+fr;à prix exhorbitant;strongnegative;PRICE;1211
+nl;schrikbarend duur;strongnegative;PRICE;1211
+es;pagas más;negative;PRICE;1212
+es;reducido;negative;PRICE;1213
+fr;reduite;negative;PRICE;1213
+fr;réduire;negative;PRICE;1213
+es;se tienen que pagar;negative;PRICE;1214
+es;senzillo;negative;PRICE;1215
+es;salidisimos;strongnegative;PRICE;1216
+fr;briser;negative;PRICE;1217
+it;costare di piu;negative;PRICE;1218
+it;decisamente troppo caro;strongnegative;PRICE;1220
+nl;geen 29,95 waard;negative;PRICE;1221
+nl;allemaal geld kosten;negative;PRICE;1222
+nl;bijbetalen;negative;PRICE;1223
+de;.;positive;PRICE;1223
+es;serviciales.;positive;PRICE;1223
+es;juntas.;negative;PRICE;1223
+fr;propre.;positive;PRICE;1223
+it;ineccepibile.;positive;PRICE;1223
+it;macchiati.;negative;PRICE;1223
+nl;behulpzaam.;positive;PRICE;1223
+nl;afgestompt.;negative;PRICE;1223
+nl;dweilen.;negative;PRICE;1223
+nl;cash betalen;negative;PRICE;1224
+nl;extra betaald worden;negative;PRICE;1225
+nl;geen 15 euro waard;negative;PRICE;1226
+nl;gefopt;negative;PRICE;1227
+nl;te betalen;negative;PRICE;1228
+nl;tegen betaling;negative;PRICE;1229
+nl;absoluut niets mag kosten;strongnegative;PRICE;1230
+nl;nog geen stuiver waard;strongnegative;PRICE;1231
+de;bei günstig Angebot ok;positive;PRICE;1232
+de;deutlich Qualitätssprung nach vorn;positive;PRICE;1233
+de;es wars wert;positive;PRICE;1234
+de;gratis;positive;PRICE;1235
+de;kostenlos;positive;PRICE;1235
+en;free;positive;PRICE;1235
+en;gratis;positive;PRICE;1235
+es;gratuíto;positive;PRICE;1235
+fr;gratuit;positive;PRICE;1235
+it;gratuito;positive;PRICE;1235
+nl;gratis;positive;PRICE;1235
+de;gut Qualität;positive;PRICE;1236
+de;gut und preiswert;positive;PRICE;1237
+de;jede Euro wert;positive;PRICE;1238
+de;kosten nichts extra;positive;PRICE;1239
+de;kostenlos Nutzung;positive;PRICE;1240
+de;mit kostenlos Handtuch;positive;PRICE;1241
+de;mit viele Extra;positive;PRICE;1242
+de;nicht zu teuer;positive;PRICE;1243
+fr;pas trop cher;positive;PRICE;1243
+de;nur @card@ € bezahlen;positive;PRICE;1244
+de;ohne Aufpreis;positive;PRICE;1245
+nl;zonder extra kosten;positive;PRICE;1245
+de;ohne zusätzlich Kosten;positive;PRICE;1246
+de;optimal;positive;PRICE;1247
+nl;optimaal;strongpositive;PRICE;1247
+de;preiswert;positive;PRICE;1248
+en;cheap;positive;PRICE;1248
+en;inexpensive;positive;PRICE;1248
+es;barato;positive;PRICE;1248
+fr;pas cher;positive;PRICE;1248
+it;costa poco;positive;PRICE;1248
+it;economico;positive;PRICE;1248
+de;relativ preiswert;positive;PRICE;1249
+de;verschieden Extra;positive;PRICE;1250
+de;von gut Qulität;positive;PRICE;1251
+de;hervorragend Qualität;strongpositive;PRICE;1252
+de;qualitativ herausragend;strongpositive;PRICE;1252
+nl;uitstekende kwaliteit;strongpositive;PRICE;1252
+de;hoch Qualität;strongpositive;PRICE;1253
+en;a good budget;positive;PRICE;1254
+en;affordable;positive;PRICE;1255
+es;asequible;positive;PRICE;1255
+fr;abordable;positive;PRICE;1255
+nl;betaalbaar;positive;PRICE;1255
+en;budget;positive;PRICE;1256
+en;good quality;positive;PRICE;1257
+es;buena calidad;positive;PRICE;1257
+en;quite cheap;positive;PRICE;1258
+en;very cheap;strongpositive;PRICE;1258
+fr;tres bon marché;strongpositive;PRICE;1258
+it;abbastanza economico;positive;PRICE;1258
+nl;heel goedkoop;strongpositive;PRICE;1258
+en;serve cheap carlsberg;positive;PRICE;1259
+en;the cheapest;positive;PRICE;1260
+en;incredibly cheap;strongpositive;PRICE;1261
+es;buenos precios;positive;PRICE;1262
+es;es gratis;positive;PRICE;1263
+es;es sin cargo;positive;PRICE;1264
+es;precioso;positive;PRICE;1265
+es;sin cargo;positive;PRICE;1266
+nl;geen last;positive;PRICE;1266
+es;sin coste;positive;PRICE;1267
+es;son preciosas;strongpositive;PRICE;1268
+fr;activité gratuit;positive;PRICE;1269
+fr;avec un animation gratuit;positive;PRICE;1270
+fr;coffre gratuit;positive;PRICE;1271
+fr;service de grand qualité;strongpositive;PRICE;1272
+fr;spatieuses;strongpositive;PRICE;1273
+fr;sublime;strongpositive;PRICE;1274
+it;sublime;strongpositive;PRICE;1274
+it;comprendere;positive;PRICE;1275
+it;nella hall gratuito;positive;PRICE;1276
+it;ottimo rapporto qualità prezzo;positive;PRICE;1277
+nl;doch kwaliteit goed;positive;PRICE;1278
+nl;prima kwaliteit;positive;PRICE;1279
+nl;wifi tegenwoordig gratis !;positive;PRICE;1280
+nl;zonder extra kosten;positive;PRICE;1281
+de;geräumig;positive;SIZE;1282
+de;reichlich;positive;SIZE;1282
+en;ample;positive;SIZE;1282
+en;spacious;positive;SIZE;1282
+es;amplio;positive;SIZE;1282
+fr;spacieux;positive;SIZE;1282
+it;ampio;positive;SIZE;1282
+it;spazioso;positive;SIZE;1282
+nl;ruim;positive;SIZE;1282
+de;groß;positive;SIZE;1283
+en;big;positive;SIZE;1283
+en;great;positive;SIZE;1283
+en;large;positive;SIZE;1283
+es;gran;positive;SIZE;1283
+es;grande;positive;SIZE;1283
+fr;grand;positive;SIZE;1283
+it;grande;positive;SIZE;1283
+nl;groot;positive;SIZE;1283
+nl;grote;positive;SIZE;1283
+de;ziemlich groß;strongpositive;SIZE;1284
+en;quite large;positive;SIZE;1284
+es;bastante grande;positive;SIZE;1284
+it;parecchio grande;positive;SIZE;1284
+en;big enough;positive;SIZE;1285
+fr;assez grand;positive;SIZE;1285
+it;abbastanza grande;positive;SIZE;1285
+nl;groot genoeg;positive;SIZE;1285
+en;enough space;positive;SIZE;1286
+en;very spacious;strongpositive;SIZE;1287
+es;muy espacioso;strongpositive;SIZE;1287
+es;muy grande;positive;SIZE;1288
+it;molto grande;positive;SIZE;1288
+nl;zeer ruim;strongpositive;SIZE;1288
+de;klein;positive;SIZE;1289
+de;sehr klein;negative;SIZE;1289
+de;winzig;negative;SIZE;1289
+en;small;positive;SIZE;1289
+en;little;negative;SIZE;1289
+en;tiny;strongnegative;SIZE;1289
+en;very small;strongnegative;SIZE;1289
+en;very tiny;strongnegative;SIZE;1289
+es;pequeño;positive;SIZE;1289
+fr;petit;positive;SIZE;1289
+fr;minuscule;negative;SIZE;1289
+fr;très petit;negative;SIZE;1289
+it;molto piccolo;negative;SIZE;1289
+it;piccolo;negative;SIZE;1289
+nl;klein;positive;SIZE;1289
+nl;kleine;negative;SIZE;1289
+de;eng;negative;SIZE;1290
+en;narrow;negative;SIZE;1290
+en;quite tiny;negative;SIZE;1291
+fr;tout petit;negative;SIZE;1291
+en;too huge;negative;SIZE;1292
+de;eine angenehm Größe;positive;SIZE;1294
+de;einigermaßen groß;positive;SIZE;1295
+de;für klein;positive;SIZE;1296
+de;für unser Anspruch ausreichend;positive;SIZE;1297
+de;genügend groß;positive;SIZE;1298
+de;groß genug;positive;SIZE;1299
+en;big enough;positive;SIZE;1299
+fr;assez grand;positive;SIZE;1299
+it;abbastanza grande;positive;SIZE;1299
+nl;groot genoeg;positive;SIZE;1299
+de;immer eine Platz finden;positive;SIZE;1300
+de;mittelgroß;positive;SIZE;1301
+de;relativ groß;positive;SIZE;1302
+de;schön klein;positive;SIZE;1303
+de;sein geräumig;positive;SIZE;1304
+es;son amplias;positive;SIZE;1304
+de;sein groß;positive;SIZE;1305
+de;sein toll;positive;SIZE;1305
+es;es grande;positive;SIZE;1305
+de;sein super;positive;SIZE;1306
+nl;was geweldig;strongpositive;SIZE;1306
+de;vergleichsweise groß;positive;SIZE;1307
+de;völlig ausreichend;positive;SIZE;1308
+de;zwar recht groß;positive;SIZE;1309
+de;sehr geräumig;strongpositive;SIZE;1310
+en;quite spacious;positive;SIZE;1310
+en;very spacious;strongpositive;SIZE;1310
+es;bastante amplias;positive;SIZE;1310
+es;bastante espaciosa;positive;SIZE;1310
+es;bastante espaciosas;positive;SIZE;1310
+es;son bastante espaciosas;positive;SIZE;1310
+es;muy espacioso;strongpositive;SIZE;1310
+es;muy espaciosos;strongpositive;SIZE;1310
+fr;assez spacieux;positive;SIZE;1310
+fr;suffisament spacieux;positive;SIZE;1310
+fr;très spacieux;strongpositive;SIZE;1310
+fr;trés spacieux;strongpositive;SIZE;1310
+it;abbastanza spazioso;positive;SIZE;1310
+it;molto spazioso;positive;SIZE;1310
+nl;ruim genoeg;positive;SIZE;1310
+nl;heel ruim;strongpositive;SIZE;1310
+nl;hele ruime;strongpositive;SIZE;1310
+nl;zeer ruim opgezet;strongpositive;SIZE;1310
+en;enough space;positive;SIZE;1311
+en;larger;positive;SIZE;1312
+en;minimal;positive;SIZE;1313
+nl;minimaal;strongnegative;SIZE;1313
+en;such a huge;positive;SIZE;1314
+es;era amplia;positive;SIZE;1315
+es;era pequeno;positive;SIZE;1316
+es;súper amplias;strongpositive;SIZE;1317
+fr;grand espace;positive;SIZE;1318
+fr;pas assez grand;positive;SIZE;1319
+fr;plutot grand;positive;SIZE;1320
+it;piuttosto alto;negative;SIZE;1320
+it;abbastanza largo;positive;SIZE;1321
+it;adeguatamente spazioso;positive;SIZE;1322
+it;bello spaziose;positive;SIZE;1323
+it;grandezza sufficiente;positive;SIZE;1324
+it;non essere troppo piccolo;positive;SIZE;1325
+it;non piccolo;positive;SIZE;1326
+nl;lekker groot;positive;SIZE;1327
+nl;meer dan ruim genoeg;positive;SIZE;1328
+nl;meer dan voldoende ruimte;positive;SIZE;1329
+nl;met ruime kamers;positive;SIZE;1330
+nl;midden op het plein;positive;SIZE;1331
+nl;mooi groot;positive;SIZE;1332
+nl;ruime bedden;positive;SIZE;1333
+nl;voldoende groot;positive;SIZE;1334
+nl;was ruim;positive;SIZE;1335
+nl;was schoon genoeg;positive;SIZE;1336
+nl;was wel redelijk ruim;positive;SIZE;1337
+nl;zijn groot genoeg;positive;SIZE;1338
+nl;zijn heel ruim;strongpositive;SIZE;1339
+de;ebenfalls klein;negative;SIZE;1340
+de;leider zu klein;negative;SIZE;1341
+de;recht klein;negative;SIZE;1342
+de;sehr klein;negative;SIZE;1343
+de;zu klein;negative;SIZE;1344
+de;viel zu klein;strongnegative;SIZE;1344
+de;viele zu klein;strongnegative;SIZE;1344
+en;too small;strongnegative;SIZE;1344
+fr;trop exigu;negative;SIZE;1344
+nl;te klein;negative;SIZE;1344
+nl;te kleine;negative;SIZE;1344
+nl;veel te klein;strongnegative;SIZE;1344
+nl;veel te kleine;strongnegative;SIZE;1344
+de;zwar etwas klein;negative;SIZE;1345
+es;con poco espacio;negative;SIZE;1345
+de;zwar sehr groß;negative;SIZE;1346
+de;extrem klein;strongnegative;SIZE;1347
+de;indiskutabel klein;strongnegative;SIZE;1348
+de;noch kleiner;strongnegative;SIZE;1349
+en;even smaller;negative;SIZE;1349
+de;sehr klein;strongnegative;SIZE;1350
+es;es muy pequeño;strongnegative;SIZE;1350
+de;sehr sehr klein;strongnegative;SIZE;1351
+it;molto molto piccolo;strongnegative;SIZE;1351
+de;viel zu wenige;strongnegative;SIZE;1352
+en;a bit small;negative;SIZE;1353
+it;uno pochino piccolo;negative;SIZE;1353
+fr;un peux petit;negative;SIZE;1353
+fr;un peu minuscule;negative;SIZE;1353
+fr;peu petit;negative;SIZE;1353
+fr;relativement petit;negative;SIZE;1353
+es;un poco pequeña;negative;SIZE;1353
+fr;un peu petit;negative;SIZE;1353
+it;uno po ' piccolina;negative;SIZE;1353
+it;uno po ' piccoline;negative;SIZE;1353
+it;uno po piccolo;negative;SIZE;1353
+de;relativ klein;negative;SIZE;1353
+de;eher klein;negative;SIZE;1353
+nl;wat klein;negative;SIZE;1353
+nl;wel klein;negative;SIZE;1353
+nl;wel kleine;negative;SIZE;1353
+nl;wel wat klein;negative;SIZE;1353
+nl;redelijk klein;negative;SIZE;1353
+en;anything but grand !;negative;SIZE;1354
+en;be not big;negative;SIZE;1355
+en;could have been bigger;negative;SIZE;1356
+en;even tinier;negative;SIZE;1357
+en;little small;negative;SIZE;1358
+en;not big;negative;SIZE;1359
+en;not great;negative;SIZE;1359
+en;not large;negative;SIZE;1359
+fr;pas super;negative;SIZE;1359
+it;non molto grande;negative;SIZE;1359
+it;non ottimo;negative;SIZE;1359
+nl;niet groot;negative;SIZE;1359
+en;on the small side;negative;SIZE;1360
+en;on the smaller side;negative;SIZE;1360
+nl;aan de kleine kant;negative;SIZE;1360
+en;so small;negative;SIZE;1361
+en;too huge;negative;SIZE;1362
+en;super small;strongnegative;SIZE;1363
+nl;super klein;strongnegative;SIZE;1363
+en;unbelievable small;strongnegative;SIZE;1364
+es;aunque pequeño;negative;SIZE;1365
+es;es pequeño;negative;SIZE;1366
+es;es poco amplio;negative;SIZE;1367
+es;mis expectativas eran mayores;negative;SIZE;1368
+es;más bien pequeño;negative;SIZE;1369
+es;no son grandes;negative;SIZE;1370
+es;no son muy grandes;negative;SIZE;1371
+es;pelin pequeño;negative;SIZE;1372
+es;senzillo;negative;SIZE;1373
+es;son un poco pequeñas;negative;SIZE;1374
+fr;assez petit;negative;SIZE;1375
+fr;le plus petit;negative;SIZE;1376
+fr;limiter;negative;SIZE;1377
+fr;n' être pas grand;negative;SIZE;1378
+fr;pas assez de place;strongnegative;SIZE;1379
+fr;trop petit;strongnegative;SIZE;1380
+fr;un gros moins;strongnegative;SIZE;1381
+fr;vraiment trop petit;strongnegative;SIZE;1382
+it;abbastanza lontano;negative;SIZE;1383
+it;alone;negative;SIZE;1384
+it;carente uno po;negative;SIZE;1385
+it;con poco;negative;SIZE;1386
+it;eccessivamente grande;negative;SIZE;1387
+it;ma non eccezionale;negative;SIZE;1388
+it;molto stringere;negative;SIZE;1389
+it;non particolarmente spazioso;negative;SIZE;1390
+nl;niet bijzonder ruim;negative;SIZE;1390
+it;non è grandissimo;negative;SIZE;1391
+nl;niet zo groot;negative;SIZE;1391
+it;poco spazio;negative;SIZE;1392
+it;polverose;negative;SIZE;1393
+it;si ricevere poco;negative;SIZE;1394
+nl;kleiner oogde;negative;SIZE;1395
+nl;net zo groot;negative;SIZE;1396
+nl;was piepklein;negative;SIZE;1397
+nl;echt te groot;strongnegative;SIZE;1398
+nl;erg kleine ruimte;strongnegative;SIZE;1399

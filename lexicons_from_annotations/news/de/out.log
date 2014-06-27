@@ -1,0 +1,5498 @@
+EXPRESSIONS
+Expression: schleppende#i-negative
+  lemmas: schleppend
+  pos: G
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  schleppende: 1
+Expression: grundfalsch#i-strongnegative
+  lemmas: grundfalsch
+  pos: G
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  grundfalsch: 1
+Expression: unverträglich#i-strongnegative
+  lemmas: unverträglich
+  pos: G
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  unverträglich: 1
+Expression: tiefergehend#i-positive
+  lemmas: tiefergehend
+  pos: G
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  tiefergehend: 1
+Expression: entschädigung#d-positive
+  lemmas: Entschädigung
+  pos: N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  entschädigung: 1
+Expression: hastigen#i-negative
+  lemmas: hastig
+  pos: G
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  hastigen: 1
+Expression: überzeugender#i-positive
+  lemmas: überzeugend
+  pos: G
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  überzeugender: 1
+Expression: verbat#d-strongnegative
+  lemmas: verbitten
+  pos: V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  verbat: 1
+Expression: lobten#d-positive
+  lemmas: loben
+  pos: V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  lobten: 1
+Expression: empören#d-negative
+  lemmas: empören
+  pos: V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  empören: 1
+Expression: gesunde#i-positive
+  lemmas: gesund
+  pos: G
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  gesunde: 1
+Expression: schamlose#i-negative
+  lemmas: schamlos
+  pos: G
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  schamlose: 1
+Expression: will#d-positive
+  lemmas: wollen
+  pos: V
+  rel  19
+  over 440
+  ratio 0
+  freqtokens  will: 440
+Expression: wollen#d-positive
+  lemmas: wollen
+  pos: V
+  rel  8
+  over 253
+  ratio 0
+  freqtokens  wollen: 253
+Expression: kritisierte#d-negative
+  lemmas: kritisieren
+  pos: V
+  rel  8
+  over 72
+  ratio 0
+  freqtokens  kritisierte: 72
+Expression: sagte#d-neutral
+  lemmas: sagen
+  pos: V
+  rel  7
+  over 1255
+  ratio 0
+  freqtokens  sagte: 1255
+Expression: kritisiert#d-negative
+  lemmas: kritisieren
+  pos: V
+  rel  6
+  over 60
+  ratio 0
+  freqtokens  kritisiert: 60
+Expression: wollten#d-positive
+  lemmas: wollen
+  pos: V
+  rel  5
+  over 32
+  ratio 0
+  freqtokens  wollten: 32
+Expression: warnte#d-negative
+  lemmas: warnen
+  pos: V
+  rel  4
+  over 87
+  ratio 0
+  freqtokens  warnte: 87
+Expression: stabilen#i-positive
+  lemmas: stabil
+  pos: G
+  rel  3
+  over 21
+  ratio 0
+  freqtokens  stabilen: 21
+Expression: erklärte#d-neutral
+  lemmas: erklären
+  pos: V
+  rel  3
+  over 141
+  ratio 0
+  freqtokens  erklärte: 141
+Expression: wolle#d-positive
+  lemmas: wollen
+  pos: V
+  rel  3
+  over 118
+  ratio 0
+  freqtokens  wolle: 118
+Expression: verlangt#d-positive
+  lemmas: verlangen
+  pos: V
+  rel  3
+  over 28
+  ratio 0
+  freqtokens  verlangt: 28
+Expression: brauchen#d-positive
+  lemmas: brauchen
+  pos: V
+  rel  3
+  over 52
+  ratio 0
+  freqtokens  brauchen: 52
+Expression: forderte#d-positive
+  lemmas: fordern
+  pos: V
+  rel  3
+  over 132
+  ratio 0
+  freqtokens  forderte: 132
+Expression: zufrieden#d-positive
+  lemmas: zufrieden
+  pos: G
+  rel  2
+  over 23
+  ratio 0
+  freqtokens  zufrieden: 23
+Expression: gegen#i-negative
+  lemmas: gegen
+  pos: P
+  rel  2
+  over 576
+  ratio 0
+  freqtokens  gegen: 576
+Expression: wichtig#i-positive
+  lemmas: wichtig
+  pos: G
+  rel  2
+  over 71
+  ratio 0
+  freqtokens  wichtig: 71
+Expression: lobte#d-positive
+  lemmas: loben
+  pos: V
+  rel  2
+  over 15
+  ratio 0
+  freqtokens  lobte: 15
+Expression: warnt#d-negative
+  lemmas: warnen
+  pos: V
+  rel  2
+  over 19
+  ratio 0
+  freqtokens  warnt: 19
+Expression: einschränken#d-negative
+  lemmas: einschränken
+  pos: V
+  rel  2
+  over 3
+  ratio 0
+  freqtokens  einschränken: 3
+Expression: unterstützt#d-positive
+  lemmas: unterstützen
+  pos: V
+  rel  2
+  over 15
+  ratio 0
+  freqtokens  unterstützt: 15
+Expression: rücktritt#i-negative
+  lemmas: Rücktritt
+  pos: N
+  rel  2
+  over 25
+  ratio 0
+  freqtokens  rücktritt: 25
+Expression: guter#i-positive
+  lemmas: gut
+  pos: G
+  rel  2
+  over 14
+  ratio 0
+  freqtokens  guter: 14
+Expression: forderten#d-positive
+  lemmas: fordern
+  pos: V
+  rel  2
+  over 14
+  ratio 0
+  freqtokens  forderten: 14
+Expression: erwartet#d-neutral
+  lemmas: erwarten
+  pos: V
+  rel  2
+  over 72
+  ratio 0
+  freqtokens  erwartet: 72
+Expression: starke#i-positive
+  lemmas: stark
+  pos: G
+  rel  2
+  over 28
+  ratio 0
+  freqtokens  starke: 28
+Expression: gut#i-positive
+  lemmas: gut
+  pos: G
+  rel  2
+  over 152
+  ratio 0
+  freqtokens  gut: 152
+Expression: beizulegen#i-positive
+  lemmas: beilegen
+  pos: V
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  beizulegen: 2
+Expression: dagegen#i-negative
+  lemmas: dagegen
+  pos: Q
+  rel  1
+  over 82
+  ratio 0
+  freqtokens  dagegen: 82
+Expression: demonstrierte#d-neutral
+  lemmas: demonstriert
+  pos: G
+  rel  1
+  over 5
+  ratio 0
+  freqtokens  demonstrierte: 5
+Expression: abhöraffäre#d-negative
+  lemmas: Abhöraffäre
+  pos: N
+  rel  1
+  over 14
+  ratio 0
+  freqtokens  abhöraffäre: 14
+Expression: unterstrich#d-positive
+  lemmas: unterstreichen
+  pos: V
+  rel  1
+  over 9
+  ratio 0
+  freqtokens  unterstrich: 9
+Expression: fordern#d-positive
+  lemmas: fordern
+  pos: V
+  rel  1
+  over 35
+  ratio 0
+  freqtokens  fordern: 35
+Expression: helfen#i-positive
+  lemmas: helfen
+  pos: V
+  rel  1
+  over 28
+  ratio 0
+  freqtokens  helfen: 28
+Expression: übergriffe#d-negative
+  lemmas: Übergriff
+  pos: N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  übergriffe: 2
+Expression: schweren#i-negative
+  lemmas: schwer
+  pos: G
+  rel  1
+  over 14
+  ratio 0
+  freqtokens  schweren: 14
+Expression: einsparungen#i-negative
+  lemmas: Einsparung
+  pos: N
+  rel  1
+  over 7
+  ratio 0
+  freqtokens  einsparungen: 7
+Expression: falsch#i-negative
+  lemmas: falsch
+  pos: G
+  rel  1
+  over 20
+  ratio 0
+  freqtokens  falsch: 20
+Expression: keine#i-negative
+  lemmas: keine
+  pos: Q
+  rel  1
+  over 353
+  ratio 0
+  freqtokens  keine: 353
+Expression: abschluss#d-negative
+  lemmas: Abschluss
+  pos: N
+  rel  1
+  over 34
+  ratio 0
+  freqtokens  abschluss: 34
+Expression: affäre#d-negative
+  lemmas: Affäre
+  pos: N
+  rel  1
+  over 54
+  ratio 0
+  freqtokens  affäre: 54
+Expression: verschärfen#d-negative
+  lemmas: verschärfen
+  pos: V
+  rel  1
+  over 10
+  ratio 0
+  freqtokens  verschärfen: 10
+Expression: reduzieren#d-negative
+  lemmas: reduzieren
+  pos: V
+  rel  1
+  over 8
+  ratio 0
+  freqtokens  reduzieren: 8
+Expression: mitschuld#i-negative
+  lemmas: Mitschuld
+  pos: N
+  rel  1
+  over 8
+  ratio 0
+  freqtokens  mitschuld: 8
+Expression: glaubt#d-neutral
+  lemmas: glauben
+  pos: V
+  rel  1
+  over 18
+  ratio 0
+  freqtokens  glaubt: 18
+Expression: führungsrolle#i-positive
+  lemmas: Führungsrolle
+  pos: N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  führungsrolle: 2
+Expression: verluste#d-negative
+  lemmas: Verlust
+  pos: N
+  rel  1
+  over 7
+  ratio 0
+  freqtokens  verluste: 7
+Expression: schwierige#i-negative
+  lemmas: schwierig
+  pos: G
+  rel  1
+  over 8
+  ratio 0
+  freqtokens  schwierige: 8
+Expression: vorantreiben#i-positive
+  lemmas: vorantreiben
+  pos: V
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  vorantreiben: 3
+Expression: exzessive#i-negative
+  lemmas: exzessiv
+  pos: G
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  exzessive: 2
+Expression: enorm#i-strongnegative
+  lemmas: enorm
+  pos: G
+  rel  1
+  over 7
+  ratio 0
+  freqtokens  enorm: 7
+Expression: braucht#d-negative
+  lemmas: brauchen
+  pos: V
+  rel  1
+  over 44
+  ratio 0
+  freqtokens  braucht: 44
+Expression: verlangte#d-positive
+  lemmas: verlangen
+  pos: V
+  rel  1
+  over 18
+  ratio 0
+  freqtokens  verlangte: 18
+Expression: leiden#i-negative
+  lemmas: leiden
+  pos: V
+  rel  1
+  over 5
+  ratio 0
+  freqtokens  leiden: 5
+Expression: leidet#i-negative
+  lemmas: leiden
+  pos: V
+  rel  1
+  over 6
+  ratio 0
+  freqtokens  leidet: 6
+Expression: schreckliches#i-strongnegative
+  lemmas: schrecklich
+  pos: G
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  schreckliches: 2
+Expression: einseitige#i-negative
+  lemmas: einseitig
+  pos: G
+  rel  1
+  over 19
+  ratio 0
+  freqtokens  einseitige: 19
+Expression: rasche#i-positive
+  lemmas: rasch
+  pos: G
+  rel  1
+  over 11
+  ratio 0
+  freqtokens  rasche: 11
+Expression: echte#i-positive
+  lemmas: echt
+  pos: G
+  rel  1
+  over 4
+  ratio 0
+  freqtokens  echte: 4
+Expression: bekenntnis#i-positive
+  lemmas: Bekenntnis
+  pos: N
+  rel  1
+  over 7
+  ratio 0
+  freqtokens  bekenntnis: 7
+Expression: intensiv#i-positive
+  lemmas: intensiv
+  pos: G
+  rel  1
+  over 11
+  ratio 0
+  freqtokens  intensiv: 11
+Expression: beteuerte#d-negative
+  lemmas: beteuern
+  pos: V
+  rel  1
+  over 4
+  ratio 0
+  freqtokens  beteuerte: 4
+Expression: für#d-positive
+  lemmas: für
+  pos: P
+  rel  1
+  over 2341
+  ratio 0
+  freqtokens  für: 2341
+Expression: müsse#d-positive
+  lemmas: müssen
+  pos: V
+  rel  1
+  over 217
+  ratio 0
+  freqtokens  müsse: 217
+Expression: sprach#d-neutral
+  lemmas: sprechen
+  pos: V
+  rel  1
+  over 104
+  ratio 0
+  freqtokens  sprach: 104
+Expression: ungeschickt#i-negative
+  lemmas: ungeschickt
+  pos: G
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  ungeschickt: 2
+Expression: schärferen#i-negative
+  lemmas: scharf
+  pos: G
+  rel  1
+  over 8
+  ratio 0
+  freqtokens  schärferen: 8
+Expression: erfolg#i-positive
+  lemmas: Erfolg
+  pos: N
+  rel  1
+  over 33
+  ratio 0
+  freqtokens  erfolg: 33
+Expression: überzogenen#i-negative
+  lemmas: überzogen
+  pos: G
+  rel  1
+  over 8
+  ratio 0
+  freqtokens  überzogenen: 8
+Expression: dramatischen#i-negative
+  lemmas: dramatisch
+  pos: G
+  rel  1
+  over 5
+  ratio 0
+  freqtokens  dramatischen: 5
+Expression: eindrucksvoll#i-positive
+  lemmas: eindrucksvoll
+  pos: G
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  eindrucksvoll: 2
+Expression: schärfere#i-negative
+  lemmas: scharf
+  pos: G
+  rel  1
+  over 8
+  ratio 0
+  freqtokens  schärfere: 8
+Expression: völlig#i-positive
+  lemmas: völlig
+  pos: G
+  rel  1
+  over 34
+  ratio 0
+  freqtokens  völlig: 34
+Expression: unheilige#i-negative
+  lemmas: unheilig
+  pos: G
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  unheilige: 2
+Expression: schätze#d-positive
+  lemmas: schätzen
+  pos: V
+  rel  1
+  over 6
+  ratio 0
+  freqtokens  schätze: 6
+Expression: beunruhigt#d-negative
+  lemmas: beunruhigt
+  pos: G
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  beunruhigt: 3
+Expression: dramatisches#i-strongnegative
+  lemmas: dramatisch
+  pos: G
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  dramatisches: 3
+Expression: abschaffen#d-negative
+  lemmas: abschaffen
+  pos: V
+  rel  1
+  over 9
+  ratio 0
+  freqtokens  abschaffen: 9
+Expression: gibt#d-neutral
+  lemmas: geben
+  pos: V
+  rel  1
+  over 209
+  ratio 0
+  freqtokens  gibt: 209
+Expression: positiven#i-positive
+  lemmas: positiv
+  pos: G
+  rel  1
+  over 6
+  ratio 0
+  freqtokens  positiven: 6
+Expression: entsolidarisierung#i-negative
+  lemmas: Entsolidarisierung
+  pos: O
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  entsolidarisierung: 3
+Expression: lob#d-positive
+  lemmas: Lob
+  pos: N
+  rel  1
+  over 15
+  ratio 0
+  freqtokens  lob: 15
+Expression: streit#i-negative
+  lemmas: Streit
+  pos: N
+  rel  1
+  over 49
+  ratio 0
+  freqtokens  streit: 49
+Expression: dagegen#d-negative
+  lemmas: dagegen
+  pos: Q
+  rel  1
+  over 82
+  ratio 0
+  freqtokens  dagegen: 82
+Expression: meilenstein#i-positive
+  lemmas: Meilenstein
+  pos: N
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  meilenstein: 3
+Expression: schwierig#i-negative
+  lemmas: schwierig
+  pos: G
+  rel  1
+  over 14
+  ratio 0
+  freqtokens  schwierig: 14
+Expression: verlässliche#d-positive
+  lemmas: verlässlich
+  pos: G
+  rel  1
+  over 8
+  ratio 0
+  freqtokens  verlässliche: 8
+Expression: konstruktiver#i-positive
+  lemmas: konstruktiv
+  pos: G
+  rel  1
+  over 4
+  ratio 0
+  freqtokens  konstruktiver: 4
+Expression: großen#i-positive
+  lemmas: groß
+  pos: G
+  rel  1
+  over 117
+  ratio 0
+  freqtokens  großen: 117
+Expression: kriminelle#i-negative
+  lemmas: kriminell
+  pos: G
+  rel  1
+  over 7
+  ratio 0
+  freqtokens  kriminelle: 7
+Expression: enttäuscht#i-negative
+  lemmas: enttäuscht
+  pos: G
+  rel  1
+  over 12
+  ratio 0
+  freqtokens  enttäuscht: 12
+Expression: flexible#i-positive
+  lemmas: flexibel
+  pos: G
+  rel  1
+  over 4
+  ratio 0
+  freqtokens  flexible: 4
+Expression: verteidigte#d-positive
+  lemmas: verteidigen
+  pos: V
+  rel  1
+  over 26
+  ratio 0
+  freqtokens  verteidigte: 26
+Expression: müssen#d-positive
+  lemmas: müssen
+  pos: V
+  rel  1
+  over 225
+  ratio 0
+  freqtokens  müssen: 225
+Expression: desaster#i-strongnegative
+  lemmas: Desaster
+  pos: N
+  rel  1
+  over 4
+  ratio 0
+  freqtokens  desaster: 4
+Expression: positive#i-positive
+  lemmas: positiv
+  pos: G
+  rel  1
+  over 12
+  ratio 0
+  freqtokens  positive: 12
+Expression: bedauerten#d-negative
+  lemmas: bedauern
+  pos: V
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  bedauerten: 2
+Expression: akzeptieren#d-positive
+  lemmas: akzeptieren
+  pos: V
+  rel  1
+  over 17
+  ratio 0
+  freqtokens  akzeptieren: 17
+Expression: auszusetzen#d-negative
+  lemmas: aussetzen
+  pos: V
+  rel  1
+  over 7
+  ratio 0
+  freqtokens  auszusetzen: 7
+Expression: erwägt#d-positive
+  lemmas: erwägen
+  pos: V
+  rel  1
+  over 9
+  ratio 0
+  freqtokens  erwägt: 9
+Expression: wirken#i-positive
+  lemmas: wirken
+  pos: V
+  rel  1
+  over 8
+  ratio 0
+  freqtokens  wirken: 8
+Expression: sanierungsfall#i-negative
+  lemmas: Sanierungsfall
+  pos: N
+  rel  1
+  over 8
+  ratio 0
+  freqtokens  sanierungsfall: 8
+Expression: lobte#d-strongpositive
+  lemmas: loben
+  pos: V
+  rel  1
+  over 15
+  ratio 0
+  freqtokens  lobte: 15
+Expression: wertete#d-positive
+  lemmas: werten
+  pos: V
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  wertete: 2
+Expression: ehre#i-positive
+  lemmas: Ehre
+  pos: N
+  rel  1
+  over 6
+  ratio 0
+  freqtokens  ehre: 6
+Expression: nannte#d-neutral
+  lemmas: nennen
+  pos: V
+  rel  1
+  over 77
+  ratio 0
+  freqtokens  nannte: 77
+Expression: würdigte#d-positive
+  lemmas: würdigen
+  pos: V
+  rel  1
+  over 24
+  ratio 0
+  freqtokens  würdigte: 24
+Expression: hohen#i-negative
+  lemmas: hoch
+  pos: G
+  rel  1
+  over 30
+  ratio 0
+  freqtokens  hohen: 30
+Expression: verteidigten#d-positive
+  lemmas: verteidigen
+  pos: V
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  verteidigten: 2
+Expression: muss#d-positive
+  lemmas: müssen
+  pos: V
+  rel  1
+  over 192
+  ratio 0
+  freqtokens  muss: 192
+Expression: weiteres#i-positive
+  lemmas: weit
+  pos: G
+  rel  1
+  over 50
+  ratio 0
+  freqtokens  weiteres: 50
+Expression: schwierigen#i-negative
+  lemmas: schwierig
+  pos: G
+  rel  1
+  over 14
+  ratio 0
+  freqtokens  schwierigen: 14
+Expression: ohne#i-negative
+  lemmas: ohne
+  pos: P
+  rel  1
+  over 167
+  ratio 0
+  freqtokens  ohne: 167
+Expression: abkehr#d-negative
+  lemmas: Abkehr
+  pos: N
+  rel  1
+  over 9
+  ratio 0
+  freqtokens  abkehr: 9
+Expression: gute#i-positive
+  lemmas: gut
+  pos: G
+  rel  1
+  over 52
+  ratio 0
+  freqtokens  gute: 52
+Expression: verachtung#i-strongnegative
+  lemmas: Verachtung
+  pos: N
+  rel  1
+  over 8
+  ratio 0
+  freqtokens  verachtung: 8
+Expression: gescheitert#i-negative
+  lemmas: scheitern
+  pos: V
+  rel  1
+  over 16
+  ratio 0
+  freqtokens  gescheitert: 16
+Expression: mogelpackung#i-negative
+  lemmas: Mogelpackung
+  pos: N
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  mogelpackung: 3
+Expression: erklärten#d-neutral
+  lemmas: erklären
+  pos: V
+  rel  1
+  over 8
+  ratio 0
+  freqtokens  erklärten: 8
+Expression: empörung#i-negative
+  lemmas: Empörung
+  pos: N
+  rel  1
+  over 14
+  ratio 0
+  freqtokens  empörung: 14
+Expression: fürchtet#d-negative
+  lemmas: fürchten
+  pos: V
+  rel  1
+  over 9
+  ratio 0
+  freqtokens  fürchtet: 9
+Expression: inakzeptabel#i-strongnegative
+  lemmas: inakzeptabel
+  pos: G
+  rel  1
+  over 12
+  ratio 0
+  freqtokens  inakzeptabel: 12
+Expression: skeptisch#d-negative
+  lemmas: skeptisch
+  pos: G
+  rel  1
+  over 21
+  ratio 0
+  freqtokens  skeptisch: 21
+Expression: beklagte#d-negative
+  lemmas: beklagen
+  pos: V
+  rel  1
+  over 7
+  ratio 0
+  freqtokens  beklagte: 7
+Expression: vorschnellen#i-negative
+  lemmas: vorschnell
+  pos: G
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  vorschnellen: 3
+Expression: eindringlich#i-negative
+  lemmas: eindringlich
+  pos: G
+  rel  1
+  over 8
+  ratio 0
+  freqtokens  eindringlich: 8
+Expression: mahnte#d-positive
+  lemmas: mahnen
+  pos: V
+  rel  1
+  over 33
+  ratio 0
+  freqtokens  mahnte: 33
+Expression: überzogen#i-negative
+  lemmas: überziehen
+  pos: V
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  überzogen: 2
+Expression: unterzeichnen#d-positive
+  lemmas: unterzeichnen
+  pos: V
+  rel  1
+  over 16
+  ratio 0
+  freqtokens  unterzeichnen: 16
+Expression: versicherte#d-positive
+  lemmas: versichern
+  pos: V
+  rel  1
+  over 17
+  ratio 0
+  freqtokens  versicherte: 17
+Expression: gelobt#d-positive
+  lemmas: geloben|loben
+  pos: V
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  gelobt: 2
+Expression: erwartete#d-negative
+  lemmas: erwarten
+  pos: V
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  erwartete: 3
+Expression: sachlicher#i-positive
+  lemmas: sachlich
+  pos: G
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  sachlicher: 2
+Expression: heftige#i-negative
+  lemmas: heftig
+  pos: G
+  rel  1
+  over 6
+  ratio 0
+  freqtokens  heftige: 6
+Expression: sagt#d-neutral
+  lemmas: sagen
+  pos: V
+  rel  1
+  over 120
+  ratio 0
+  freqtokens  sagt: 120
+Expression: fordert#d-positive
+  lemmas: fordern
+  pos: V
+  rel  1
+  over 64
+  ratio 0
+  freqtokens  fordert: 64
+Expression: stoppen#d-negative
+  lemmas: stoppen
+  pos: V
+  rel  1
+  over 19
+  ratio 0
+  freqtokens  stoppen: 19
+Expression: bündeln#i-positive
+  lemmas: bündeln
+  pos: V
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  bündeln: 2
+Expression: hieß#d-neutral
+  lemmas: heißen
+  pos: V
+  rel  1
+  over 52
+  ratio 0
+  freqtokens  hieß: 52
+Expression: unterstützen#d-positive
+  lemmas: unterstützen
+  pos: V
+  rel  1
+  over 20
+  ratio 0
+  freqtokens  unterstützen: 20
+Expression: innovative#i-positive
+  lemmas: innovativ
+  pos: G
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  innovative: 2
+Expression: technologiesprung#d-positive
+  lemmas: Technologiesprung
+  pos: O
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  technologiesprung: 2
+Expression: verärgert#i-negative
+  lemmas: verärgert
+  pos: G
+  rel  1
+  over 8
+  ratio 0
+  freqtokens  verärgert: 8
+Expression: unmissverständlich#i-positive
+  lemmas: unmissverständlich
+  pos: G
+  rel  1
+  over 4
+  ratio 0
+  freqtokens  unmissverständlich: 4
+Expression: wollten#d-negative
+  lemmas: wollen
+  pos: V
+  rel  1
+  over 32
+  ratio 0
+  freqtokens  wollten: 32
+Expression: erpressen#d-negative
+  lemmas: erpressen
+  pos: V
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  erpressen: 3
+Expression: wünschen#d-positive
+  lemmas: wünschen
+  pos: V
+  rel  1
+  over 11
+  ratio 0
+  freqtokens  wünschen: 11
+Expression: hohem#i-positive
+  lemmas: hoch
+  pos: G
+  rel  1
+  over 6
+  ratio 0
+  freqtokens  hohem: 6
+Expression: radikale#i-negative
+  lemmas: radikal
+  pos: G
+  rel  1
+  over 7
+  ratio 0
+  freqtokens  radikale: 7
+Expression: kritik#i-negative
+  lemmas: Kritik
+  pos: N
+  rel  1
+  over 118
+  ratio 0
+  freqtokens  kritik: 118
+Expression: keinen#i-negative
+  lemmas: keine
+  pos: Q
+  rel  1
+  over 81
+  ratio 0
+  freqtokens  keinen: 81
+Expression: bedauert#d-negative
+  lemmas: bedauern
+  pos: V
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  bedauert: 2
+Expression: verteidigt#d-positive
+  lemmas: verteidigen
+  pos: V
+  rel  1
+  over 12
+  ratio 0
+  freqtokens  verteidigt: 12
+Expression: bedauere#d-negative
+  lemmas: bedauern
+  pos: V
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  bedauere: 2
+Expression: möchte#d-positive
+  lemmas: mögen
+  pos: V
+  rel  1
+  over 29
+  ratio 0
+  freqtokens  möchte: 29
+Expression: abziehen#d-negative
+  lemmas: abziehen
+  pos: V
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  abziehen: 2
+Expression: fürchten#d-negative
+  lemmas: fürchten
+  pos: V
+  rel  1
+  over 12
+  ratio 0
+  freqtokens  fürchten: 12
+Expression: blutvergießen#i-negative
+  lemmas: Blutvergießen
+  pos: N
+  rel  1
+  over 6
+  ratio 0
+  freqtokens  blutvergießen: 6
+Expression: wichtiges#i-positive
+  lemmas: wichtig
+  pos: G
+  rel  1
+  over 45
+  ratio 0
+  freqtokens  wichtiges: 45
+Expression: nicht#i-negative
+  lemmas: nicht
+  pos: O
+  rel  1
+  over 1882
+  ratio 0
+  freqtokens  nicht: 1882
+Expression: geeinigt#i-positive
+  lemmas: einigen
+  pos: V
+  rel  1
+  over 27
+  ratio 0
+  freqtokens  geeinigt: 27
+Expression: super#i-strongpositive
+  lemmas: super
+  pos: G
+  rel  1
+  over 6
+  ratio 0
+  freqtokens  super: 6
+Expression: vertrauen#d-positive
+  lemmas: Vertrauen
+  pos: N
+  rel  1
+  over 62
+  ratio 0
+  freqtokens  vertrauen: 62
+Expression: miese#i-negative
+  lemmas: mies
+  pos: G
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  miese: 2
+Expression: gerne#i-positive
+  lemmas: gerne
+  pos: A
+  rel  1
+  over 32
+  ratio 0
+  freqtokens  gerne: 32
+Expression: abfedern#d-positive
+  lemmas: abfedern
+  pos: V
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  abfedern: 2
+Expression: kritisierten#d-negative
+  lemmas: kritisieren
+  pos: V
+  rel  1
+  over 8
+  ratio 0
+  freqtokens  kritisierten: 8
+Expression: verbieten#d-negative
+  lemmas: verbieten
+  pos: V
+  rel  1
+  over 9
+  ratio 0
+  freqtokens  verbieten: 9
+Expression: wettbewerbsfähige#i-positive
+  lemmas: wettbewerbsfähig
+  pos: G
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  wettbewerbsfähige: 2
+Expression: durchsetzen#i-positive
+  lemmas: durchsetzen
+  pos: V
+  rel  1
+  over 16
+  ratio 0
+  freqtokens  durchsetzen: 16
+Expression: gefordert#d-positive
+  lemmas: fordern
+  pos: V
+  rel  1
+  over 68
+  ratio 0
+  freqtokens  gefordert: 68
+Expression: verweigert#d-negative
+  lemmas: verweigern
+  pos: V
+  rel  1
+  over 7
+  ratio 0
+  freqtokens  verweigert: 7
+Expression: verurteilt#d-negative
+  lemmas: verurteilen
+  pos: V
+  rel  1
+  over 13
+  ratio 0
+  freqtokens  verurteilt: 13
+Expression: ansieht#d-neutral
+  lemmas: ansehen
+  pos: V
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  ansieht: 3
+Expression: umstritten#i-negative
+  lemmas: umstritten
+  pos: G
+  rel  1
+  over 10
+  ratio 0
+  freqtokens  umstritten: 10
+Expression: große#i-negative
+  lemmas: groß
+  pos: G
+  rel  1
+  over 163
+  ratio 0
+  freqtokens  große: 163
+Expression: scheitern#i-negative
+  lemmas: Scheitern
+  pos: N
+  rel  1
+  over 20
+  ratio 0
+  freqtokens  scheitern: 20
+Expression: erschreckend#i-negative
+  lemmas: erschreckend
+  pos: G
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  erschreckend: 2
+Expression: unabdingbar#i-strongpositive
+  lemmas: unabdingbar
+  pos: G
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  unabdingbar: 3
+Expression: unangenehm#i-negative
+  lemmas: unangenehm
+  pos: G
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  unangenehm: 2
+Expression: möglich#i-positive
+  lemmas: möglich
+  pos: G
+  rel  1
+  over 71
+  ratio 0
+  freqtokens  möglich: 71
+Expression: begrüßte#d-positive
+  lemmas: begrüßen
+  pos: V
+  rel  1
+  over 15
+  ratio 0
+  freqtokens  begrüßte: 15
+Expression: lobt#d-positive
+  lemmas: loben
+  pos: V
+  rel  1
+  over 4
+  ratio 0
+  freqtokens  lobt: 4
+Expression: verabschiedete#d-positive
+  lemmas: verabschieden
+  pos: V
+  rel  1
+  over 19
+  ratio 0
+  freqtokens  verabschiedete: 19
+Expression: gratulierte#d-positive
+  lemmas: gratuliert
+  pos: G
+  rel  1
+  over 8
+  ratio 0
+  freqtokens  gratulierte: 8
+Expression: war#d-neutral
+  lemmas: sein
+  pos: V
+  rel  1
+  over 410
+  ratio 0
+  freqtokens  war: 410
+Expression: spähaffäre#i-negative
+  lemmas: Spähaffäre
+  pos: O
+  rel  1
+  over 8
+  ratio 0
+  freqtokens  spähaffäre: 8
+Expression: erreicht#i-positive
+  lemmas: erreichen
+  pos: V
+  rel  1
+  over 48
+  ratio 0
+  freqtokens  erreicht: 48
+Expression: übereinstimmung#i-positive
+  lemmas: Übereinstimmung
+  pos: N
+  rel  1
+  over 4
+  ratio 0
+  freqtokens  übereinstimmung: 4
+Expression: kappen#d-negative
+  lemmas: kappen
+  pos: V
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  kappen: 3
+Expression: blockiert#d-negative
+  lemmas: blockieren
+  pos: V
+  rel  1
+  over 12
+  ratio 0
+  freqtokens  blockiert: 12
+Expression: harte#i-negative
+  lemmas: hart
+  pos: G
+  rel  1
+  over 18
+  ratio 0
+  freqtokens  harte: 18
+Expression: strengere#i-negative
+  lemmas: streng
+  pos: G
+  rel  1
+  over 4
+  ratio 0
+  freqtokens  strengere: 4
+Expression: fehlentscheidungen#i-negative
+  lemmas: Fehlentscheidung
+  pos: N
+  rel  1
+  over 16
+  ratio 0
+  freqtokens  fehlentscheidungen: 16
+Expression: scharf#i-negative
+  lemmas: scharf
+  pos: G
+  rel  1
+  over 32
+  ratio 0
+  freqtokens  scharf: 32
+Expression: fan#i-positive
+  lemmas: Fan
+  pos: N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  fan: 2
+Expression: freundlichen#i-positive
+  lemmas: freundlich
+  pos: G
+  rel  1
+  over 4
+  ratio 0
+  freqtokens  freundlichen: 4
+Expression: reagierte#d-neutral
+  lemmas: reagieren
+  pos: V
+  rel  1
+  over 24
+  ratio 0
+  freqtokens  reagierte: 24
+Expression: hohe#i-negative
+  lemmas: hoch
+  pos: G
+  rel  1
+  over 46
+  ratio 0
+  freqtokens  hohe: 46
+Expression: schärfen#i-positive
+  lemmas: schärfen
+  pos: V
+  rel  1
+  over 5
+  ratio 0
+  freqtokens  schärfen: 5
+Expression: plädierte#d-positive
+  lemmas: plädieren
+  pos: V
+  rel  1
+  over 10
+  ratio 0
+  freqtokens  plädierte: 10
+Expression: zurückzuführen#i-negative
+  lemmas: zurückführen
+  pos: V
+  rel  1
+  over 6
+  ratio 0
+  freqtokens  zurückzuführen: 6
+Expression: forderte#d-strongnegative
+  lemmas: fordern
+  pos: V
+  rel  1
+  over 132
+  ratio 0
+  freqtokens  forderte: 132
+Expression: lupenreine diktatur#i-strongnegative
+  lemmas: lupenrein Diktatur
+  pos: G N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  lupenreine: 1 diktatur: 7
+Expression: reformen wirken#i-positive
+  lemmas: Reform wirken
+  pos: N V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  reformen: 79 wirken: 8
+Expression: guter atmposphäre#i-positive
+  lemmas: gut Atmposphäre
+  pos: G O
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  guter: 14 atmposphäre: 1
+Expression: nicht teilt#d-negative
+  lemmas: nicht teilen
+  pos: O V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  nicht: 1882 teilt: 20
+Expression: scharf reagiert#d-negative
+  lemmas: scharf reagieren
+  pos: G V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  scharf: 32 reagiert: 15
+Expression: protestierten gegen#d-negative
+  lemmas: protestieren gegen
+  pos: V P
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  protestierten: 4 gegen: 576
+Expression: einer aussetzung#d-negative
+  lemmas: eine Aussetzung
+  pos: D N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  einer: 751 aussetzung: 5
+Expression: ein skeptiker#i-negative
+  lemmas: eine Skeptiker
+  pos: D N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  ein: 1605 skeptiker: 3
+Expression: unseriöse politik#i-negative
+  lemmas: unseriös Politik
+  pos: G N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  unseriöse: 1 politik: 153
+Expression: plädierte dafür#d-positive
+  lemmas: plädieren dafür
+  pos: V Q
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  plädierte: 10 dafür: 172
+Expression: ein renner#i-positive
+  lemmas: eine Renner
+  pos: D N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  ein: 1605 renner: 1
+Expression: unglaublich wichtig#i-strongpositive
+  lemmas: unglaublich wichtig
+  pos: G G
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  unglaublich: 2 wichtig: 71
+Expression: ausziehen werde#i-positive
+  lemmas: ausziehen werden
+  pos: V V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  ausziehen: 1 werde: 372
+Expression: nicht unverdient#i-positive
+  lemmas: nicht unverdient
+  pos: O G
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  nicht: 1882 unverdient: 1
+Expression: viele lobende#i-strongpositive
+  lemmas: viele lobend
+  pos: Q G
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  viele: 150 lobende: 2
+Expression: keine sorge#i-positive
+  lemmas: keine Sorge
+  pos: Q N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  keine: 353 sorge: 18
+Expression: wäre sehr#d-positive
+  lemmas: sein sehr
+  pos: V A
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  wäre: 127 sehr: 240
+Expression: ist gegen#d-negative
+  lemmas: sein gegen
+  pos: V P
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  ist: 1455 gegen: 576
+Expression: streiten über#d-negative
+  lemmas: streiten über
+  pos: V P
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  streiten: 4 über: 819
+Expression: nicht zugestimmt#d-negative
+  lemmas: nicht zustimmen
+  pos: O V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  nicht: 1882 zugestimmt: 9
+Expression: sind dankbar#d-positive
+  lemmas: sein dankbar
+  pos: V G
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  sind: 580 dankbar: 5
+Expression: zerrissen bilder#d-negative
+  lemmas: zerreißen Bild
+  pos: V N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  zerrissen: 1 bilder: 20
+Expression: genüge nicht#i-negative
+  lemmas: genügen nicht
+  pos: V O
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  genüge: 1 nicht: 1882
+Expression: kämpfe für#d-positive
+  lemmas: kämpfen für
+  pos: V P
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  kämpfe: 2 für: 2341
+Expression: übermässig klar#i-strongpositive
+  lemmas: übermässig klar
+  pos: G G
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  übermässig: 1 klar: 91
+Expression: zu bürokratisch#i-negative
+  lemmas: zu bürokratisch
+  pos: O G
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  zu: 2417 bürokratisch: 1
+Expression: ist niedriger#i-positive
+  lemmas: sein niedrig
+  pos: V G
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  ist: 1455 niedriger: 9
+Expression: einen einsatz#d-positive
+  lemmas: eine Einsatz
+  pos: D N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  einen: 726 einsatz: 39
+Expression: ausdrücklich ausgeschlossen#d-strongnegative
+  lemmas: ausdrücklich ausschließen
+  pos: G V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  ausdrücklich: 18 ausgeschlossen: 24
+Expression: unveräußerliche grundrechte#i-positive
+  lemmas: unveräußerlich Grundrecht
+  pos: G N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  unveräußerliche: 1 grundrechte: 8
+Expression: ist ausgeschlossen#d-strongnegative
+  lemmas: sein ausgeschlossen
+  pos: V G
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  ist: 1455 ausgeschlossen: 24
+Expression: glaubt an#d-positive
+  lemmas: glauben an
+  pos: V P
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  glaubt: 18 an: 1082
+Expression: allerdings schwierig#i-strongnegative
+  lemmas: allerdings schwierig
+  pos: A G
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  allerdings: 154 schwierig: 14
+Expression: schamlose lügen#i-strongnegative
+  lemmas: schamlos Lüge|Lügen
+  pos: G N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  schamlose: 1 lügen: 1
+Expression: nicht gefragt#i-negative
+  lemmas: nicht fragen
+  pos: O V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  nicht: 1882 gefragt: 13
+Expression: ganz schwierigen#i-strongnegative
+  lemmas: ganz schwierig
+  pos: A G
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  ganz: 113 schwierigen: 14
+Expression: warb um#d-positive
+  lemmas: werben um
+  pos: V P
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  warb: 12 um: 774
+Expression: warnte eindringlich#d-strongnegative
+  lemmas: warnen eindringlich
+  pos: V G
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  warnte: 87 eindringlich: 8
+Expression: kämpft gegen#d-negative
+  lemmas: kämpfen gegen
+  pos: V P
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  kämpft: 9 gegen: 576
+Expression: mit genugtuung#i-positive
+  lemmas: mit Genugtuung
+  pos: P N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  mit: 2392 genugtuung: 3
+Expression: folgerichtig grünes#i-strongpositive
+  lemmas: folgerichtig grün
+  pos: G G
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  folgerichtig: 1 grünes: 23
+Expression: überfälligen reformen#i-negative
+  lemmas: überfällig Reform
+  pos: G N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  überfälligen: 1 reformen: 79
+Expression: schweren vertrauensbruch#i-strongnegative
+  lemmas: schwer Vertrauensbruch
+  pos: G N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  schweren: 14 vertrauensbruch: 4
+Expression: warnt vor#d-negative
+  lemmas: warnen vor
+  pos: V P
+  rel  3
+  over 8
+  ratio 0
+  freqtokens  warnt: 19 vor: 972
+Expression: warnte vor#d-negative
+  lemmas: warnen vor
+  pos: V P
+  rel  2
+  over 18
+  ratio 0
+  freqtokens  warnte: 87 vor: 972
+Expression: sehr vernünftige#i-strongpositive
+  lemmas: sehr vernünftig
+  pos: A G
+  rel  2
+  over 3
+  ratio 0
+  freqtokens  sehr: 240 vernünftige: 8
+Expression: sprach von#d-neutral
+  lemmas: sprechen von
+  pos: V P
+  rel  2
+  over 31
+  ratio 0
+  freqtokens  sprach: 104 von: 2487
+Expression: scharf kritisiert#d-strongnegative
+  lemmas: scharf kritisieren
+  pos: G V
+  rel  2
+  over 12
+  ratio 0
+  freqtokens  scharf: 32 kritisiert: 60
+Expression: freue mich#d-positive
+  lemmas: freuen ich
+  pos: V Q
+  rel  1
+  over 11
+  ratio 0
+  freqtokens  freue: 13 mich: 62
+Expression: eine verhandlungslösung#d-positive
+  lemmas: eine Verhandlungslösung
+  pos: D N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  eine: 1818 verhandlungslösung: 2
+Expression: konstruktiver atmosphäre#i-positive
+  lemmas: konstruktiv Atmosphäre
+  pos: G N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  konstruktiver: 4 atmosphäre: 15
+Expression: unglaubliches täuschungsmanöver#i-strongnegative
+  lemmas: unglaublich Täuschungsmanöver
+  pos: G N
+  rel  1
+  over 4
+  ratio 0
+  freqtokens  unglaubliches: 4 täuschungsmanöver: 7
+Expression: nicht passieren#i-positive
+  lemmas: nicht passieren
+  pos: O V
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  nicht: 1882 passieren: 8
+Expression: verletzt vertrauen#i-strongnegative
+  lemmas: verletzen Vertrauen
+  pos: V N
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  verletzt: 22 vertrauen: 62
+Expression: will nicht#d-negative
+  lemmas: wollen nicht
+  pos: V O
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  will: 440 nicht: 1882
+Expression: zu harten#i-negative
+  lemmas: zu hart
+  pos: O G
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  zu: 2417 harten: 10
+Expression: hoffen auf#d-positive
+  lemmas: hoffen auf
+  pos: V V
+  rel  1
+  over 4
+  ratio 0
+  freqtokens  hoffen: 17 auf: 2145
+Expression: spricht von#d-neutral
+  lemmas: sprechen von
+  pos: V P
+  rel  1
+  over 10
+  ratio 0
+  freqtokens  spricht: 46 von: 2487
+Expression: sät misstrauen#i-strongnegative
+  lemmas: säen Misstrauen
+  pos: V N
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  sät: 3 misstrauen: 10
+Expression: vermutlich illegal#i-negative
+  lemmas: vermutlich illegal
+  pos: A G
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  vermutlich: 20 illegal: 9
+Expression: völlig inakzeptabel#i-strongnegative
+  lemmas: völlig inakzeptabel
+  pos: G G
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  völlig: 34 inakzeptabel: 12
+Expression: pocht auf#d-positive
+  lemmas: pochen auf
+  pos: V P
+  rel  1
+  over 4
+  ratio 0
+  freqtokens  pocht: 8 auf: 2145
+Expression: hob lobend#d-positive
+  lemmas: heben lobend
+  pos: V G
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  hob: 23 lobend: 2
+Expression: die kritik#d-negative
+  lemmas: die Kritik
+  pos: D N
+  rel  1
+  over 17
+  ratio 0
+  freqtokens  die: 10176 kritik: 118
+Expression: nicht zulässig#i-negative
+  lemmas: nicht zulässig
+  pos: O G
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  nicht: 1882 zulässig: 4
+Expression: nicht perfekt#i-negative
+  lemmas: nicht perfekt
+  pos: O G
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  nicht: 1882 perfekt: 4
+Expression: unmissverständlich missbilligt#i-negative
+  lemmas: unmissverständlich missbilligen
+  pos: G V
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  unmissverständlich: 4 missbilligt: 2
+Expression: stimmten gegen#d-negative
+  lemmas: stimmen gegen
+  pos: V P
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  stimmten: 14 gegen: 576
+Expression: möglichst schwache#i-negative
+  lemmas: möglichst schwach
+  pos: A G
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  möglichst: 24 schwache: 8
+Expression: völlig inakzeptabel#d-strongnegative
+  lemmas: völlig inakzeptabel
+  pos: G G
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  völlig: 34 inakzeptabel: 12
+Expression: ganz einfach#i-positive
+  lemmas: ganz einfach
+  pos: A G
+  rel  1
+  over 4
+  ratio 0
+  freqtokens  ganz: 113 einfach: 36
+Expression: kampf gegen#d-negative
+  lemmas: Kampf gegen
+  pos: N P
+  rel  1
+  over 60
+  ratio 0
+  freqtokens  kampf: 85 gegen: 576
+Expression: sehr guten#i-strongpositive
+  lemmas: sehr gut
+  pos: A G
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  sehr: 240 guten: 42
+Expression: not amused#i-negative
+  lemmas: Not amused
+  pos: N O
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  not: 7 amused: 4
+Expression: verlässliche partner#i-positive
+  lemmas: verlässlich Partner
+  pos: G N
+  rel  1
+  over 5
+  ratio 0
+  freqtokens  verlässliche: 8 partner: 74
+Expression: stärker regulieren#i-negative
+  lemmas: stark regulieren
+  pos: G V
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  stärker: 65 regulieren: 3
+Expression: die chance#i-positive
+  lemmas: die Chance
+  pos: D N
+  rel  1
+  over 11
+  ratio 0
+  freqtokens  die: 10176 chance: 44
+Expression: ein bündnis#i-positive
+  lemmas: eine Bündnis
+  pos: D N
+  rel  1
+  over 18
+  ratio 0
+  freqtokens  ein: 1605 bündnis: 46
+Expression: entschuldigt sich#d-positive
+  lemmas: entschuldigen sich
+  pos: V Q
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  entschuldigt: 6 sich: 1721
+Expression: zu verbessern#i-negative
+  lemmas: zu verbessern
+  pos: O V
+  rel  1
+  over 19
+  ratio 0
+  freqtokens  zu: 2417 verbessern: 26
+Expression: außerordentlich verlässlich#i-strongpositive
+  lemmas: außerordentlich verlässlich
+  pos: G G
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  außerordentlich: 2 verlässlich: 2
+Expression: nicht sofort#i-negative
+  lemmas: nicht sofort
+  pos: O A
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  nicht: 1882 sofort: 18
+Expression: zu überwinden#i-positive
+  lemmas: zu überwinden
+  pos: O V
+  rel  1
+  over 12
+  ratio 0
+  freqtokens  zu: 2417 überwinden: 15
+Expression: der fortführung#i-positive
+  lemmas: die Fortführung
+  pos: D N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  der: 9333 fortführung: 5
+Expression: wieder erstarkt#i-positive
+  lemmas: wieder erstarken
+  pos: A V
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  wieder: 262 erstarkt: 3
+Expression: plädierte für#d-positive
+  lemmas: plädieren für
+  pos: V P
+  rel  1
+  over 5
+  ratio 0
+  freqtokens  plädierte: 10 für: 2341
+Expression: sehr ordentliche#i-positive
+  lemmas: sehr ordentlich
+  pos: A G
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  sehr: 240 ordentliche: 3
+Expression: heftige kritik#d-strongnegative
+  lemmas: heftig Kritik
+  pos: G N
+  rel  1
+  over 4
+  ratio 0
+  freqtokens  heftige: 6 kritik: 118
+Expression: die zusammenarbeit#i-positive
+  lemmas: die Zusammenarbeit
+  pos: D N
+  rel  1
+  over 20
+  ratio 0
+  freqtokens  die: 10176 zusammenarbeit: 88
+Expression: widerstand gegen#d-negative
+  lemmas: Widerstand gegen
+  pos: N P
+  rel  1
+  over 5
+  ratio 0
+  freqtokens  widerstand: 22 gegen: 576
+Expression: keine insel#i-positive
+  lemmas: keine Insel
+  pos: Q N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  keine: 353 insel: 20
+Expression: unmissverständlich missbilligt#d-strongnegative
+  lemmas: unmissverständlich missbilligen
+  pos: G V
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  unmissverständlich: 4 missbilligt: 2
+Expression: nicht durchsetzbar#i-negative
+  lemmas: nicht durchsetzbar
+  pos: O G
+  rel  1
+  over 5
+  ratio 0
+  freqtokens  nicht: 1882 durchsetzbar: 5
+Expression: nicht hilfreich#i-negative
+  lemmas: nicht hilfreich
+  pos: O G
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  nicht: 1882 hilfreich: 7
+Expression: eine absage#i-negative
+  lemmas: eine Absage
+  pos: D N
+  rel  1
+  over 6
+  ratio 0
+  freqtokens  eine: 1818 absage: 20
+Expression: notwendig ist#i-negative
+  lemmas: notwendig sein
+  pos: G V
+  rel  1
+  over 4
+  ratio 0
+  freqtokens  notwendig: 47 ist: 1455
+Expression: scharf kritisiert#i-strongnegative
+  lemmas: scharf kritisieren
+  pos: G V
+  rel  1
+  over 12
+  ratio 0
+  freqtokens  scharf: 32 kritisiert: 60
+Expression: wolle nicht#d-negative
+  lemmas: wollen nicht
+  pos: V O
+  rel  1
+  over 5
+  ratio 0
+  freqtokens  wolle: 118 nicht: 1882
+Expression: eine aufhebung#d-negative
+  lemmas: eine Aufhebung
+  pos: D N
+  rel  1
+  over 4
+  ratio 0
+  freqtokens  eine: 1818 aufhebung: 8
+Expression: gesetze gegen#d-negative
+  lemmas: Gesetz gegen
+  pos: N P
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  gesetze: 34 gegen: 576
+Expression: sehr ordentliche#i-strongpositive
+  lemmas: sehr ordentlich
+  pos: A G
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  sehr: 240 ordentliche: 3
+Expression: bedenken gegen#d-negative
+  lemmas: Bedenken gegen
+  pos: N P
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  bedenken: 18 gegen: 576
+Expression: das abhören#d-negative
+  lemmas: die Abhören
+  pos: D N
+  rel  1
+  over 5
+  ratio 0
+  freqtokens  das: 2558 abhören: 13
+Expression: gebilligt wird#i-positive
+  lemmas: billigen werden
+  pos: V V
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  gebilligt: 7 wird: 668
+Expression: viel zu hoch#i-strongnegative
+  lemmas: viel zu hoch
+  pos: A O G
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  viel: 143 zu: 2417 hoch: 33
+Expression: von hohem interesse#i-strongpositive
+  lemmas: von hoch Interesse
+  pos: P G N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  von: 2487 hohem: 6 interesse: 30
+Expression: ehre für deutschland#i-positive
+  lemmas: Ehre für Deutschland
+  pos: N P R
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  ehre: 6 für: 2341 deutschland: 695
+Expression: eine innovative antwort#i-negative
+  lemmas: eine innovativ Antwort
+  pos: D G N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  eine: 1818 innovative: 2 antwort: 50
+Expression: gut zu finanzieren#i-positive
+  lemmas: gut zu finanzieren
+  pos: G O V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  gut: 152 zu: 2417 finanzieren: 11
+Expression: viel zu viel#i-strongnegative
+  lemmas: viel zu viele
+  pos: A P Q
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  viel: 143 zu: 2417 viel: 143
+Expression: habe sich gefreut#d-positive
+  lemmas: haben sich freuen
+  pos: V Q V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  habe: 511 sich: 1721 gefreut: 3
+Expression: eine art tsunami#i-negative
+  lemmas: eine Art Tsunami
+  pos: D N O
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  eine: 1818 art: 29 tsunami: 1
+Expression: geht es gut#i-positive
+  lemmas: gehen es gut
+  pos: V Q G
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  geht: 145 es: 1688 gut: 152
+Expression: eine letzte klippe#i-negative
+  lemmas: eine letzt Klippe
+  pos: D G N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  eine: 1818 letzte: 21 klippe: 1
+Expression: stösst es ab#i-negative
+  lemmas: stoßen es ab
+  pos: V Q V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  stösst: 2 es: 1688 ab: 195
+Expression: ist entrüstet über#d-negative
+  lemmas: sein entrüstet über
+  pos: V G P
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  ist: 1455 entrüstet: 1 über: 819
+Expression: ein großer fehler#i-strongnegative
+  lemmas: eine groß Fehler
+  pos: D G N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  ein: 1605 großer: 33 fehler: 34
+Expression: keinen neuen schuldenschnitt#i-negative
+  lemmas: keine neu Schuldenschnitt
+  pos: Q G O
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  keinen: 81 neuen: 219 schuldenschnitt: 15
+Expression: fast zu spät#i-negative
+  lemmas: fast zu spät
+  pos: A O G
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  fast: 69 zu: 2417 spät: 5
+Expression: halte nichts von#d-negative
+  lemmas: halten nichts von
+  pos: V Q P
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  halte: 21 nichts: 97 von: 2487
+Expression: wandte sich gegen#d-negative
+  lemmas: wenden sich gegen
+  pos: V Q P
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  wandte: 12 sich: 1721 gegen: 576
+Expression: mahnt zur eile#negative
+  lemmas: mahnen zu Eile
+  pos: V P N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  mahnt: 5 zur: 550 eile: 4
+Expression: ist unser ziel#d-positive
+  lemmas: sein unser Ziel
+  pos: V Q N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  ist: 1455 unser: 31 ziel: 66
+Expression: schon immer begeistert#d-strongpositive
+  lemmas: schon immer begeistern
+  pos: A A V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  schon: 238 immer: 225 begeistert: 11
+Expression: kämpft vehement gegen#d-strongnegative
+  lemmas: kämpfen vehement gegen
+  pos: V G P
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  kämpft: 9 vehement: 6 gegen: 576
+Expression: rate davon ab#d-negative
+  lemmas: raten davon ab
+  pos: V Q V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  rate: 3 davon: 81 ab: 195
+Expression: ein maßnahmenpaket gegen#d-negative
+  lemmas: eine Maßnahmenpaket gegen
+  pos: D N P
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  ein: 1605 maßnahmenpaket: 2 gegen: 576
+Expression: einen schweren fehler#i-strongnegative
+  lemmas: eine schwer Fehler
+  pos: D G N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  einen: 726 schweren: 14 fehler: 34
+Expression: mit langem beifall#i-positive
+  lemmas: mit lang Beifall
+  pos: P G N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  mit: 2392 langem: 21 beifall: 3
+Expression: ein zeichen gegen#d-negative
+  lemmas: eine Zeichen gegen
+  pos: D N P
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  ein: 1605 zeichen: 31 gegen: 576
+Expression: den kampf gegen#i-negative
+  lemmas: die Kampf gegen
+  pos: D N P
+  rel  1
+  over 13
+  ratio 0
+  freqtokens  den: 2898 kampf: 85 gegen: 576
+Expression: ein bündnis mit#i-positive
+  lemmas: eine Bündnis mit
+  pos: D N P
+  rel  1
+  over 10
+  ratio 0
+  freqtokens  ein: 1605 bündnis: 46 mit: 2392
+Expression: die hohe jugendarbeitslosigkeit#d-negative
+  lemmas: die hoch Jugendarbeitslosigkeit
+  pos: D G N
+  rel  1
+  over 13
+  ratio 0
+  freqtokens  die: 10176 hohe: 46 jugendarbeitslosigkeit: 109
+Expression: wehrte sich gegen#d-negative
+  lemmas: wehren sich gegen
+  pos: V Q P
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  wehrte: 5 sich: 1721 gegen: 576
+Expression: eine der größten#i-strongnegative
+  lemmas: eine die groß
+  pos: D D G
+  rel  1
+  over 4
+  ratio 0
+  freqtokens  eine: 1818 der: 9333 größten: 36
+Expression: geht nicht mehr#i-negative
+  lemmas: gehen nicht mehr
+  pos: V O A
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  geht: 145 nicht: 1882 mehr: 640
+Expression: ablehnend gegenüber gestanden#i-negative
+  lemmas: ablehnend gegenüber gestehen|stehen
+  pos: G V V
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  ablehnend: 3 gegenüber: 96 gestanden: 7
+Expression: unter beweis gestellt#i-strongpositive
+  lemmas: unter Beweis stellen
+  pos: P N V
+  rel  1
+  over 4
+  ratio 0
+  freqtokens  unter: 406 beweis: 7 gestellt: 32
+Expression: nicht zur debatte#i-negative
+  lemmas: nicht zu Debatte
+  pos: O P N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  nicht: 1882 zur: 550 debatte: 46
+Expression: die einzig mögliche#i-positive
+  lemmas: die einzig möglich
+  pos: D G G
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  die: 10176 einzig: 4 mögliche: 37
+Expression: nicht so stabil#i-negative
+  lemmas: nicht so stabil
+  pos: O A G
+  rel  1
+  over 4
+  ratio 0
+  freqtokens  nicht: 1882 so: 471 stabil: 9
+Expression: viel zu hart#i-strongnegative
+  lemmas: viel zu hart
+  pos: A O G
+  rel  1
+  over 4
+  ratio 0
+  freqtokens  viel: 143 zu: 2417 hart: 17
+Expression: eine radikale reform#i-negative
+  lemmas: eine radikal Reform
+  pos: D G N
+  rel  1
+  over 4
+  ratio 0
+  freqtokens  eine: 1818 radikale: 7 reform: 36
+Expression: freue mich auf#d-positive
+  lemmas: freuen ich auf
+  pos: V Q P
+  rel  1
+  over 4
+  ratio 0
+  freqtokens  freue: 13 mich: 62 auf: 2145
+Expression: geht gar nicht#i-strongnegative
+  lemmas: gehen gar nicht
+  pos: V A O
+  rel  1
+  over 4
+  ratio 0
+  freqtokens  geht: 145 gar: 61 nicht: 1882
+Expression: ist besorgt über#d-negative
+  lemmas: sein besorgt über
+  pos: V G P
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  ist: 1455 besorgt: 19 über: 819
+Expression: freut sich über#d-positive
+  lemmas: freuen sich über
+  pos: V Q P
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  freut: 6 sich: 1721 über: 819
+Expression: es weht auch gegenwind#i-negative
+  lemmas: es wehen auch Gegenwind
+  pos: Q V A N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  es: 1688 weht: 1 auch: 1600 gegenwind: 1
+Expression: alles andere als günstig#i-negative
+  lemmas: alle andere als günstig
+  pos: Q Q C G
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  alles: 116 andere: 140 als: 1144 günstig: 1
+Expression: keine anti · eu#i-positive
+  lemmas: keine Anti · EU
+  pos: Q O O N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  keine: 353 anti: 40 ·: 6707 eu: 1747
+Expression: fühle mich so wohl#d-positive
+  lemmas: fühlen ich so wohl
+  pos: V Q A A
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  fühle: 6 mich: 62 so: 471 wohl: 52
+Expression: tiefer trauer und scham#i-negative
+  lemmas: tief Trauer und Scham
+  pos: G N C N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  tiefer: 4 trauer: 6 und: 5316 scham: 1
+Expression: sehr , sehr besonderer#i-strongpositive
+  lemmas: sehr , sehr besonder
+  pos: A O A G
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  sehr: 240 ,: 12432 sehr: 240 besonderer: 6
+Expression: reagierten äußerst verärgert auf#d-strongnegative
+  lemmas: reagieren äußerst verärgert auf
+  pos: V A G P
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  reagierten: 11 äußerst: 5 verärgert: 8 auf: 2145
+Expression: müsse dauerhaft überwunden werden#i-strongpositive
+  lemmas: müssen dauerhaft überwinden werden
+  pos: V G V V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  müsse: 217 dauerhaft: 9 überwunden: 11 werden: 965
+Expression: aus dem weg schaffen#i-positive
+  lemmas: aus die Weg schaffen
+  pos: P D N V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  aus: 969 dem: 1586 weg: 126 schaffen: 43
+Expression: viel zu hart vorgegangen#i-strongnegative
+  lemmas: viel zu hart vorgehen
+  pos: A O G V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  viel: 143 zu: 2417 hart: 17 vorgegangen: 5
+Expression: dürfen sich nicht wiederholen#i-negative
+  lemmas: dürfen sich nicht wiederholen
+  pos: V Q O V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  dürfen: 52 sich: 1721 nicht: 1882 wiederholen: 8
+Expression: das rededuell gewonnen hat#i-positive
+  lemmas: die Rededuell gewinnen haben
+  pos: D N V V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  das: 2558 rededuell: 1 gewonnen: 31 hat: 832
+Expression: macht sich gedanken über#d-negative
+  lemmas: machen sich Gedanke über
+  pos: V Q N P
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  macht: 88 sich: 1721 gedanken: 13 über: 819
+Expression: zum ziel gesetzt hat#d-positive
+  lemmas: zu Ziel setzen haben
+  pos: P N V V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  zum: 532 ziel: 66 gesetzt: 9 hat: 832
+Expression: wichtiges instrument der steuergerechtigkeit#i-strongpositive
+  lemmas: wichtig Instrument die Steuergerechtigkeit
+  pos: G N D N
+  rel  1
+  over 16
+  ratio 0
+  freqtokens  wichtiges: 45 instrument: 55 der: 9333 steuergerechtigkeit: 21
+Expression: fußball auf höchstem niveau#i-strongpositive
+  lemmas: Fußball auf hoch Niveau
+  pos: N P G N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  fußball: 15 auf: 2145 höchstem: 3 niveau: 7
+Expression: eine schande für deutschland#i-negative
+  lemmas: eine Schande für Deutschland
+  pos: D N P R
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  eine: 1818 schande: 8 für: 2341 deutschland: 695
+Expression: eine schande für europa#i-negative
+  lemmas: eine Schande für Europa
+  pos: D N P R
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  eine: 1818 schande: 8 für: 2341 europa: 652
+Expression: muss allen klar sein#i-negative
+  lemmas: müssen alle klar sein
+  pos: V Q G V
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  muss: 192 allen: 56 klar: 91 sein: 377
+Expression: sehr , sehr schwer#i-strongnegative
+  lemmas: sehr , sehr schwer
+  pos: A O A G
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  sehr: 240 ,: 12432 sehr: 240 schwer: 23
+Expression: ein " zahnloser tiger#i-negative
+  lemmas: eine " zahnlos Tiger
+  pos: D O G N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  ein: 1605 ": 4635 zahnloser: 3 tiger: 3
+Expression: stärker an sich binden#d-positive
+  lemmas: stark an sich binden
+  pos: G P Q V
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  stärker: 65 an: 1082 sich: 1721 binden: 6
+Expression: höher als anderswo in europa#i-positive
+  lemmas: hoch als anderswo in Europa
+  pos: G C A P R
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  höher: 11 als: 1144 anderswo: 5 in: 5141 europa: 652
+Expression: hatten viele lobende worte für#d-positive
+  lemmas: haben viele lobend Wort für
+  pos: V Q G N P
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  hatten: 170 viele: 150 lobende: 2 worte: 28 für: 2341
+Expression: kein platz für politische spielchen#i-negative
+  lemmas: keine Platz für politisch Spielchen
+  pos: Q N P G O
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  kein: 159 platz: 93 für: 2341 politische: 57 spielchen: 1
+Expression: zu wettbewerbs · und unternehmensfeindlich#i-negative
+  lemmas: zu wettbewerbs · und unternehmensfeindlich
+  pos: P O O C O
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  zu: 2417 wettbewerbs: 3 ·: 6707 und: 5316 unternehmensfeindlich: 1
+Expression: mit dem feuer zu spielen#i-negative
+  lemmas: mit die Feuer zu spielen
+  pos: P D N O V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  mit: 2392 dem: 1586 feuer: 2 zu: 2417 spielen: 16
+Expression: befindet sich in einer sackgasse#i-negative
+  lemmas: befinden sich in eine Sackgasse
+  pos: V Q P D N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  befindet: 7 sich: 1721 in: 5141 einer: 751 sackgasse: 3
+Expression: durch immer neue prozesse ver.#i-negative
+  lemmas: durch immer neu Prozess ver.
+  pos: P A G N O
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  durch: 263 immer: 225 neue: 263 prozesse: 3 ver.: 1
+Expression: das wichtigste fest des jahres#i-strongpositive
+  lemmas: die wichtig Fest die Jahr
+  pos: D G N D N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  das: 2558 wichtigste: 16 fest: 48 des: 1409 jahres: 35
+Expression: eine schande für die demokratie#i-negative
+  lemmas: eine Schande für die Demokratie
+  pos: D N P D N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  eine: 1818 schande: 8 für: 2341 die: 10176 demokratie: 37
+Expression: ein wichtiges transitland für gaslieferungen#i-positive
+  lemmas: eine wichtig Transitland für Gaslieferung
+  pos: D G N P N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  ein: 1605 wichtiges: 45 transitland: 4 für: 2341 gaslieferungen: 7
+Expression: keine anti · eu · rede#i-positive
+  lemmas: keine Anti · EU · Rede
+  pos: Q O O N O N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  keine: 353 anti: 40 ·: 6707 eu: 1747 ·: 6707 rede: 126
+Expression: eine der größten sorgen in europa#i-strongnegative
+  lemmas: eine die groß Sorge|Sorgen in Europa
+  pos: D D G N P R
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  eine: 1818 der: 9333 größten: 36 sorgen: 36 in: 5141 europa: 652
+Expression: entschädigung für verluste im zweiten weltkrieg#i-positive
+  lemmas: Entschädigung für Verlust in zweit Weltkrieg
+  pos: N P N P G N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  entschädigung: 1 für: 2341 verluste: 7 im: 1818 zweiten: 46 weltkrieg: 8
+Expression: befindet sich in einer ganz schwierigen situation#i-negative
+  lemmas: befinden sich in eine ganz schwierig Situation
+  pos: V Q P D A G N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  befindet: 7 sich: 1721 in: 5141 einer: 751 ganz: 113 schwierigen: 14 situation: 27
+Expression: vergleichbar der vor den jeweils zwei weltkriegen#i-negative
+  lemmas: vergleichbar die vor die jeweils zwei Weltkrieg
+  pos: G D P D A O N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  vergleichbar: 2 der: 9333 vor: 972 den: 2898 jeweils: 16 zwei: 206 weltkriegen: 1
+
+TARGETS
+Target: lügen#unknown
+  lemmas: Lüge|Lügen
+  pos: N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  lügen: 1
+Target: abrüsten#unknown
+  lemmas: abrüsten
+  pos: V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  abrüsten: 1
+Target: jobvernichtung#unknown
+  lemmas: Jobvernichtung
+  pos: O
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  jobvernichtung: 1
+Target: menschenverstand#unknown
+  lemmas: Menschenverstand
+  pos: N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  menschenverstand: 1
+Target: effekte#unknown
+  lemmas: Effekt
+  pos: N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  effekte: 1
+Target: dankten#unknown
+  lemmas: danken
+  pos: V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  dankten: 1
+Target: homosexuelle#unknown
+  lemmas: Homosexuelle
+  pos: N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  homosexuelle: 1
+Target: russenhomophobie#unknown
+  lemmas: Russenhomophobie
+  pos: O
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  russenhomophobie: 1
+Target: budgeteinigung#unknown
+  lemmas: Budgeteinigung
+  pos: O
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  budgeteinigung: 1
+Target: gelassenheit#unknown
+  lemmas: Gelassenheit
+  pos: N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  gelassenheit: 1
+Target: klimaschutzrichtlinien#unknown
+  lemmas: Klimaschutzrichtlinien
+  pos: O
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  klimaschutzrichtlinien: 1
+Target: das#unknown
+  lemmas: die
+  pos: Q
+  rel  6
+  over 2551
+  ratio 0
+  freqtokens  das: 2558
+Target: deutschland#unknown
+  lemmas: Deutschland
+  pos: R
+  rel  4
+  over 695
+  ratio 0
+  freqtokens  deutschland: 695
+Target: es#unknown
+  lemmas: es
+  pos: Q
+  rel  4
+  over 1688
+  ratio 0
+  freqtokens  es: 1688
+Target: erholungskurs#unknown
+  lemmas: Erholungskurs
+  pos: N
+  rel  3
+  over 16
+  ratio 0
+  freqtokens  erholungskurs: 16
+Target: reformen#unknown
+  lemmas: Reform
+  pos: N
+  rel  3
+  over 79
+  ratio 0
+  freqtokens  reformen: 79
+Target: gespräche#unknown
+  lemmas: Gespräch
+  pos: N
+  rel  3
+  over 114
+  ratio 0
+  freqtokens  gespräche: 114
+Target: europa#unknown
+  lemmas: Europa
+  pos: R
+  rel  3
+  over 652
+  ratio 0
+  freqtokens  europa: 652
+Target: sie#unknown
+  lemmas: Sie|sie
+  pos: Q
+  rel  2
+  over 1299
+  ratio 0
+  freqtokens  sie: 1299
+Target: davor#unknown
+  lemmas: davor
+  pos: Q
+  rel  2
+  over 37
+  ratio 0
+  freqtokens  davor: 37
+Target: eu#unknown
+  lemmas: EU
+  pos: R
+  rel  2
+  over 1747
+  ratio 0
+  freqtokens  eu: 1747
+Target: atmosphäre#unknown
+  lemmas: Atmosphäre
+  pos: N
+  rel  2
+  over 15
+  ratio 0
+  freqtokens  atmosphäre: 15
+Target: jugendarbeitslosigkeit#unknown
+  lemmas: Jugendarbeitslosigkeit
+  pos: N
+  rel  2
+  over 109
+  ratio 0
+  freqtokens  jugendarbeitslosigkeit: 109
+Target: ihm#unknown
+  lemmas: er
+  pos: Q
+  rel  2
+  over 87
+  ratio 0
+  freqtokens  ihm: 87
+Target: schlussfolgerungen#unknown
+  lemmas: Schlussfolgerung
+  pos: N
+  rel  1
+  over 4
+  ratio 0
+  freqtokens  schlussfolgerungen: 4
+Target: regierung#unknown
+  lemmas: Regierung
+  pos: N
+  rel  1
+  over 377
+  ratio 0
+  freqtokens  regierung: 377
+Target: china#unknown
+  lemmas: China
+  pos: R
+  rel  1
+  over 100
+  ratio 0
+  freqtokens  china: 100
+Target: stimmung#unknown
+  lemmas: Stimmung
+  pos: N
+  rel  1
+  over 13
+  ratio 0
+  freqtokens  stimmung: 13
+Target: indonesien#unknown
+  lemmas: Indonesien
+  pos: R
+  rel  1
+  over 15
+  ratio 0
+  freqtokens  indonesien: 15
+Target: beide#unknown
+  lemmas: beide
+  pos: Q
+  rel  1
+  over 62
+  ratio 0
+  freqtokens  beide: 62
+Target: gewalt#unknown
+  lemmas: Gewalt
+  pos: N
+  rel  1
+  over 24
+  ratio 0
+  freqtokens  gewalt: 24
+Target: geld#unknown
+  lemmas: Geld
+  pos: N
+  rel  1
+  over 122
+  ratio 0
+  freqtokens  geld: 122
+Target: hollande#unknown
+  lemmas: Hollande
+  pos: O
+  rel  1
+  over 170
+  ratio 0
+  freqtokens  hollande: 170
+Target: konkurrenz#unknown
+  lemmas: Konkurrenz
+  pos: N
+  rel  1
+  over 12
+  ratio 0
+  freqtokens  konkurrenz: 12
+Target: tempo#unknown
+  lemmas: Tempo
+  pos: N
+  rel  1
+  over 12
+  ratio 0
+  freqtokens  tempo: 12
+Target: koalitionsverhandlungen#unknown
+  lemmas: Koalitionsverhandlung
+  pos: N
+  rel  1
+  over 67
+  ratio 0
+  freqtokens  koalitionsverhandlungen: 67
+Target: verschwörung#unknown
+  lemmas: Verschwörung
+  pos: N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  verschwörung: 2
+Target: janukowitsch#unknown
+  lemmas: Janukowitsch
+  pos: O
+  rel  1
+  over 77
+  ratio 0
+  freqtokens  janukowitsch: 77
+Target: reagiert#unknown
+  lemmas: reagieren
+  pos: V
+  rel  1
+  over 15
+  ratio 0
+  freqtokens  reagiert: 15
+Target: gesprächsklima#unknown
+  lemmas: Gesprächsklima
+  pos: N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  gesprächsklima: 2
+Target: zustimmung#unknown
+  lemmas: Zustimmung
+  pos: N
+  rel  1
+  over 39
+  ratio 0
+  freqtokens  zustimmung: 39
+Target: missbilligt#unknown
+  lemmas: missbilligen
+  pos: V
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  missbilligt: 2
+Target: situation#unknown
+  lemmas: Situation
+  pos: N
+  rel  1
+  over 27
+  ratio 0
+  freqtokens  situation: 27
+Target: versammlungsfreiheit#unknown
+  lemmas: Versammlungsfreiheit
+  pos: N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  versammlungsfreiheit: 2
+Target: forderungen#unknown
+  lemmas: Forderung
+  pos: N
+  rel  1
+  over 45
+  ratio 0
+  freqtokens  forderungen: 45
+Target: gewarnt#unknown
+  lemmas: warnen
+  pos: V
+  rel  1
+  over 21
+  ratio 0
+  freqtokens  gewarnt: 21
+Target: einführung#unknown
+  lemmas: Einführung
+  pos: N
+  rel  1
+  over 46
+  ratio 0
+  freqtokens  einführung: 46
+Target: rede#unknown
+  lemmas: Rede
+  pos: N
+  rel  1
+  over 126
+  ratio 0
+  freqtokens  rede: 126
+Target: grüne#unknown
+  lemmas: Grüne
+  pos: N
+  rel  1
+  over 77
+  ratio 0
+  freqtokens  grüne: 77
+Target: steuerflucht#unknown
+  lemmas: Steuerflucht
+  pos: N
+  rel  1
+  over 11
+  ratio 0
+  freqtokens  steuerflucht: 11
+Target: ukip#unknown
+  lemmas: Ukip
+  pos: O
+  rel  1
+  over 7
+  ratio 0
+  freqtokens  ukip: 7
+Target: wissen#unknown
+  lemmas: Wissen
+  pos: N
+  rel  1
+  over 51
+  ratio 0
+  freqtokens  wissen: 51
+Target: licht#unknown
+  lemmas: Licht
+  pos: N
+  rel  1
+  over 17
+  ratio 0
+  freqtokens  licht: 17
+Target: paket#unknown
+  lemmas: Paket
+  pos: N
+  rel  1
+  over 8
+  ratio 0
+  freqtokens  paket: 8
+Target: gesprochen#unknown
+  lemmas: sprechen
+  pos: V
+  rel  1
+  over 33
+  ratio 0
+  freqtokens  gesprochen: 33
+Target: noten#unknown
+  lemmas: Note
+  pos: N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  noten: 2
+Target: steuerbetrug#unknown
+  lemmas: Steuerbetrug
+  pos: N
+  rel  1
+  over 8
+  ratio 0
+  freqtokens  steuerbetrug: 8
+Target: hier#unknown
+  lemmas: hier
+  pos: A
+  rel  1
+  over 113
+  ratio 0
+  freqtokens  hier: 113
+Target: europäer#unknown
+  lemmas: Europäer
+  pos: N
+  rel  1
+  over 55
+  ratio 0
+  freqtokens  europäer: 55
+Target: antwort#unknown
+  lemmas: Antwort
+  pos: N
+  rel  1
+  over 50
+  ratio 0
+  freqtokens  antwort: 50
+Target: kürzungsallianz#unknown
+  lemmas: Kürzungsallianz
+  pos: O
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  kürzungsallianz: 2
+Target: putin#unknown
+  lemmas: Putin
+  pos: O
+  rel  1
+  over 159
+  ratio 0
+  freqtokens  putin: 159
+Target: wege#unknown
+  lemmas: Weg
+  pos: N
+  rel  1
+  over 10
+  ratio 0
+  freqtokens  wege: 10
+Target: neuwahlen#unknown
+  lemmas: Neuwahl
+  pos: N
+  rel  1
+  over 8
+  ratio 0
+  freqtokens  neuwahlen: 8
+Target: beobachtet#unknown
+  lemmas: beobachten
+  pos: V
+  rel  1
+  over 6
+  ratio 0
+  freqtokens  beobachtet: 6
+Target: unglück#unknown
+  lemmas: Unglück
+  pos: N
+  rel  1
+  over 44
+  ratio 0
+  freqtokens  unglück: 44
+Target: team#unknown
+  lemmas: Team
+  pos: N
+  rel  1
+  over 11
+  ratio 0
+  freqtokens  team: 11
+Target: berichte#unknown
+  lemmas: Bericht
+  pos: N
+  rel  1
+  over 18
+  ratio 0
+  freqtokens  berichte: 18
+Target: verhandlungen#unknown
+  lemmas: Verhandlung
+  pos: N
+  rel  1
+  over 199
+  ratio 0
+  freqtokens  verhandlungen: 199
+Target: ernsthaftigkeit#unknown
+  lemmas: Ernsthaftigkeit
+  pos: N
+  rel  1
+  over 6
+  ratio 0
+  freqtokens  ernsthaftigkeit: 6
+Target: papst#unknown
+  lemmas: Papst
+  pos: N
+  rel  1
+  over 104
+  ratio 0
+  freqtokens  papst: 104
+Target: schuldenschnitt#unknown
+  lemmas: Schuldenschnitt
+  pos: O
+  rel  1
+  over 15
+  ratio 0
+  freqtokens  schuldenschnitt: 15
+Target: sicht#unknown
+  lemmas: Sicht
+  pos: N
+  rel  1
+  over 46
+  ratio 0
+  freqtokens  sicht: 46
+Target: thatcher#unknown
+  lemmas: Thatcher
+  pos: R
+  rel  1
+  over 38
+  ratio 0
+  freqtokens  thatcher: 38
+Target: steuererhöhungen#unknown
+  lemmas: Steuererhöhung
+  pos: N
+  rel  1
+  over 52
+  ratio 0
+  freqtokens  steuererhöhungen: 52
+Target: aufklärung#unknown
+  lemmas: Aufklärung
+  pos: N
+  rel  1
+  over 37
+  ratio 0
+  freqtokens  aufklärung: 37
+Target: beraten#unknown
+  lemmas: beraten
+  pos: V
+  rel  1
+  over 34
+  ratio 0
+  freqtokens  beraten: 34
+Target: fehlentscheidungen#unknown
+  lemmas: Fehlentscheidung
+  pos: N
+  rel  1
+  over 16
+  ratio 0
+  freqtokens  fehlentscheidungen: 16
+Target: sozialkrise#unknown
+  lemmas: Sozialkrise
+  pos: N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  sozialkrise: 2
+Target: chancen#unknown
+  lemmas: Chance
+  pos: N
+  rel  1
+  over 24
+  ratio 0
+  freqtokens  chancen: 24
+Target: punkten#unknown
+  lemmas: punkten
+  pos: V
+  rel  1
+  over 11
+  ratio 0
+  freqtokens  punkten: 11
+Target: weg#unknown
+  lemmas: Weg
+  pos: N
+  rel  1
+  over 126
+  ratio 0
+  freqtokens  weg: 126
+Target: jackett#unknown
+  lemmas: Jackett
+  pos: N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  jackett: 2
+Target: vertrauensbruch#unknown
+  lemmas: Vertrauensbruch
+  pos: N
+  rel  1
+  over 4
+  ratio 0
+  freqtokens  vertrauensbruch: 4
+Target: reform#unknown
+  lemmas: Reform
+  pos: N
+  rel  1
+  over 36
+  ratio 0
+  freqtokens  reform: 36
+Target: positionen#unknown
+  lemmas: Position
+  pos: N
+  rel  1
+  over 21
+  ratio 0
+  freqtokens  positionen: 21
+Target: dafür#unknown
+  lemmas: dafür
+  pos: Q
+  rel  1
+  over 172
+  ratio 0
+  freqtokens  dafür: 172
+Target: einander#unknown
+  lemmas: einander
+  pos: Q
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  einander: 3
+Target: banken#unknown
+  lemmas: Bank
+  pos: N
+  rel  1
+  over 98
+  ratio 0
+  freqtokens  banken: 98
+Target: helfen#unknown
+  lemmas: helfen
+  pos: V
+  rel  1
+  over 28
+  ratio 0
+  freqtokens  helfen: 28
+Target: partner#unknown
+  lemmas: Partner
+  pos: N
+  rel  1
+  over 74
+  ratio 0
+  freqtokens  partner: 74
+Target: waffen#unknown
+  lemmas: Waffe
+  pos: N
+  rel  1
+  over 11
+  ratio 0
+  freqtokens  waffen: 11
+Target: inakzeptabel#unknown
+  lemmas: inakzeptabel
+  pos: G
+  rel  1
+  over 12
+  ratio 0
+  freqtokens  inakzeptabel: 12
+Target: titel#unknown
+  lemmas: Titel
+  pos: N
+  rel  1
+  over 26
+  ratio 0
+  freqtokens  titel: 26
+Target: probleme#unknown
+  lemmas: Problem
+  pos: N
+  rel  1
+  over 51
+  ratio 0
+  freqtokens  probleme: 51
+Target: russland#unknown
+  lemmas: Russland
+  pos: R
+  rel  1
+  over 173
+  ratio 0
+  freqtokens  russland: 173
+Target: worte#unknown
+  lemmas: Wort
+  pos: N
+  rel  1
+  over 28
+  ratio 0
+  freqtokens  worte: 28
+Target: janukowitschs#unknown
+  lemmas: Janukowitschs
+  pos: O
+  rel  1
+  over 7
+  ratio 0
+  freqtokens  janukowitschs: 7
+Target: mich#unknown
+  lemmas: ich
+  pos: Q
+  rel  1
+  over 62
+  ratio 0
+  freqtokens  mich: 62
+Target: sorgen#unknown
+  lemmas: Sorge|Sorgen
+  pos: N
+  rel  1
+  over 36
+  ratio 0
+  freqtokens  sorgen: 36
+Target: insel#unknown
+  lemmas: Insel
+  pos: N
+  rel  1
+  over 20
+  ratio 0
+  freqtokens  insel: 20
+Target: spähprogrammen#unknown
+  lemmas: Spähprogrammen
+  pos: O
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  spähprogrammen: 2
+Target: stromrabatte#unknown
+  lemmas: Stromrabatte
+  pos: O
+  rel  1
+  over 4
+  ratio 0
+  freqtokens  stromrabatte: 4
+Target: einschnitten#unknown
+  lemmas: Einschnitt
+  pos: N
+  rel  1
+  over 5
+  ratio 0
+  freqtokens  einschnitten: 5
+Target: kritik#unknown
+  lemmas: Kritik
+  pos: N
+  rel  1
+  over 118
+  ratio 0
+  freqtokens  kritik: 118
+Target: märkte#unknown
+  lemmas: Markt
+  pos: N
+  rel  1
+  over 9
+  ratio 0
+  freqtokens  märkte: 9
+Target: kroatien#unknown
+  lemmas: Kroatien
+  pos: R
+  rel  1
+  over 35
+  ratio 0
+  freqtokens  kroatien: 35
+Target: reaktionen#unknown
+  lemmas: Reaktion
+  pos: N
+  rel  1
+  over 12
+  ratio 0
+  freqtokens  reaktionen: 12
+Target: interesse#unknown
+  lemmas: Interesse
+  pos: N
+  rel  1
+  over 30
+  ratio 0
+  freqtokens  interesse: 30
+Target: diese zuspitzung#unknown
+  lemmas: dies Zuspitzung
+  pos: Q N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  diese: 279 zuspitzung: 1
+Target: moskaus druck#unknown
+  lemmas: Moskau Druck
+  pos: R N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  moskaus: 8 druck: 102
+Target: schärfere klimaschutzrichtlinien#unknown
+  lemmas: scharf Klimaschutzrichtlinien
+  pos: G O
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  schärfere: 8 klimaschutzrichtlinien: 1
+Target: internationales profil#unknown
+  lemmas: international Profil
+  pos: G N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  internationales: 7 profil: 11
+Target: die kunstschätze#unknown
+  lemmas: die Kunstschatz
+  pos: D N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  die: 10176 kunstschätze: 5
+Target: den auswirkungen#unknown
+  lemmas: die Auswirkung
+  pos: D N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  den: 2898 auswirkungen: 12
+Target: vereinnahmen lassen#unknown
+  lemmas: vereinnahmen lassen
+  pos: V V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  vereinnahmen: 1 lassen: 90
+Target: ein milliardenprogramm#unknown
+  lemmas: eine Milliardenprogramm
+  pos: D N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  ein: 1605 milliardenprogramm: 1
+Target: an jugendarbeitslosigkeit#unknown
+  lemmas: an Jugendarbeitslosigkeit
+  pos: P N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  an: 1082 jugendarbeitslosigkeit: 109
+Target: ihre fraktion#unknown
+  lemmas: ihr Fraktion
+  pos: Q N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  ihre: 346 fraktion: 21
+Target: ihr team#unknown
+  lemmas: ihr Team
+  pos: Q N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  ihr: 177 team: 11
+Target: der maut#unknown
+  lemmas: die Maut
+  pos: D O
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  der: 9333 maut: 79
+Target: eine mietenbremse#unknown
+  lemmas: eine Mietenbremse
+  pos: D O
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  eine: 1818 mietenbremse: 1
+Target: mehr aktivitäten#unknown
+  lemmas: mehr Aktivität
+  pos: Q N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  mehr: 640 aktivitäten: 16
+Target: dauerhaften strafzöllen#unknown
+  lemmas: dauerhaft Strafzoll
+  pos: G N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  dauerhaften: 5 strafzöllen: 4
+Target: die einwanderung#unknown
+  lemmas: die Einwanderung
+  pos: D N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  die: 10176 einwanderung: 4
+Target: camerons pläne#unknown
+  lemmas: Camerons Plan
+  pos: O N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  camerons: 15 pläne: 34
+Target: beide mannschaften#unknown
+  lemmas: beide Mannschaft
+  pos: Q N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  beide: 62 mannschaften: 3
+Target: einen markteingriff#unknown
+  lemmas: eine Markteingriff
+  pos: D O
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  einen: 726 markteingriff: 1
+Target: deren behauptung#unknown
+  lemmas: die Behauptung
+  pos: Q N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  deren: 52 behauptung: 7
+Target: politische reformen#unknown
+  lemmas: politisch Reform
+  pos: G N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  politische: 57 reformen: 79
+Target: lange flaute#unknown
+  lemmas: lange Flaute
+  pos: A N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  lange: 62 flaute: 3
+Target: eiliger entscheidung#unknown
+  lemmas: eilig Entscheidung
+  pos: G N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  eiliger: 1 entscheidung: 66
+Target: diesem vorhaben#unknown
+  lemmas: dies Vorhaben
+  pos: Q N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  diesem: 162 vorhaben: 23
+Target: mehr regulierung#unknown
+  lemmas: mehr Regulierung
+  pos: Q N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  mehr: 640 regulierung: 18
+Target: neue konsense#unknown
+  lemmas: neu Konsens
+  pos: G N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  neue: 263 konsense: 1
+Target: er kommt#unknown
+  lemmas: er kommen
+  pos: Q V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  er: 1124 kommt: 109
+Target: klare verhältnisse#unknown
+  lemmas: klar Verhältnis
+  pos: G N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  klare: 38 verhältnisse: 7
+Target: die böllerschüsse#unknown
+  lemmas: die Böllerschuss
+  pos: D N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  die: 10176 böllerschüsse: 1
+Target: die zunahme#unknown
+  lemmas: die Zunahme
+  pos: D N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  die: 10176 zunahme: 1
+Target: systemrelevante banken#unknown
+  lemmas: Systemrelevante Bank
+  pos: O N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  systemrelevante: 1 banken: 98
+Target: unser staat#unknown
+  lemmas: unser Staat
+  pos: Q N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  unser: 31 staat: 54
+Target: ihre streitpunkte#unknown
+  lemmas: ihr Streitpunkt
+  pos: Q N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  ihre: 346 streitpunkte: 8
+Target: die leihstimmenkampagne#unknown
+  lemmas: die Leihstimmenkampagne
+  pos: D O
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  die: 10176 leihstimmenkampagne: 1
+Target: seiner arbeit#unknown
+  lemmas: sein Arbeit
+  pos: Q N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  seiner: 261 arbeit: 93
+Target: janukowitschs rücktritt#unknown
+  lemmas: Janukowitschs Rücktritt
+  pos: O N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  janukowitschs: 7 rücktritt: 25
+Target: deutscher soldaten#unknown
+  lemmas: deutsch Soldat
+  pos: G N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  deutscher: 37 soldaten: 11
+Target: jobvernichtung stoppen#unknown
+  lemmas: Jobvernichtung stoppen
+  pos: O V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  jobvernichtung: 1 stoppen: 19
+Target: neuen schuldenschnitt#unknown
+  lemmas: neu Schuldenschnitt
+  pos: G O
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  neuen: 219 schuldenschnitt: 15
+Target: eine direktwahl#unknown
+  lemmas: eine Direktwahl
+  pos: D N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  eine: 1818 direktwahl: 1
+Target: die einigung#unknown
+  lemmas: die Einigung
+  pos: D N
+  rel  2
+  over 15
+  ratio 0
+  freqtokens  die: 10176 einigung: 110
+Target: die vorwürfe#unknown
+  lemmas: die Vorwurf
+  pos: D N
+  rel  2
+  over 13
+  ratio 0
+  freqtokens  die: 10176 vorwürfe: 36
+Target: weiterem blutvergießen#unknown
+  lemmas: weit Blutvergießen
+  pos: G N
+  rel  2
+  over 4
+  ratio 0
+  freqtokens  weiterem: 6 blutvergießen: 6
+Target: solche praktiken#unknown
+  lemmas: solche Praktik
+  pos: Q N
+  rel  2
+  over 4
+  ratio 0
+  freqtokens  solche: 63 praktiken: 11
+Target: diese einigung#unknown
+  lemmas: dies Einigung
+  pos: Q N
+  rel  2
+  over 4
+  ratio 0
+  freqtokens  diese: 279 einigung: 110
+Target: die usa#unknown
+  lemmas: die USA
+  pos: D R
+  rel  2
+  over 123
+  ratio 0
+  freqtokens  die: 10176 usa: 328
+Target: die ukraine#unknown
+  lemmas: die Ukraine
+  pos: Q R
+  rel  2
+  over 62
+  ratio 0
+  freqtokens  die: 10176 ukraine: 174
+Target: die finanzkrise#unknown
+  lemmas: die Finanzkrise
+  pos: D N
+  rel  1
+  over 6
+  ratio 0
+  freqtokens  die: 10176 finanzkrise: 18
+Target: die bezüge#unknown
+  lemmas: die Bezug
+  pos: D N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  die: 10176 bezüge: 3
+Target: den grünen#unknown
+  lemmas: die Grüne
+  pos: D N
+  rel  1
+  over 34
+  ratio 0
+  freqtokens  den: 2898 grünen: 250
+Target: die zwangsabgabe#unknown
+  lemmas: die Zwangsabgabe
+  pos: D N
+  rel  1
+  over 5
+  ratio 0
+  freqtokens  die: 10176 zwangsabgabe: 15
+Target: des verbots#unknown
+  lemmas: die Verbot
+  pos: D N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  des: 1409 verbots: 3
+Target: die immigrationspolitik#unknown
+  lemmas: die Immigrationspolitik
+  pos: D N
+  rel  1
+  over 4
+  ratio 0
+  freqtokens  die: 10176 immigrationspolitik: 4
+Target: horst seehofer#unknown
+  lemmas: Horst Seehofer
+  pos: R R
+  rel  1
+  over 47
+  ratio 0
+  freqtokens  horst: 50 seehofer: 106
+Target: starke grüne#unknown
+  lemmas: stark Grüne
+  pos: G N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  starke: 28 grüne: 77
+Target: die zivilgesellschaft#unknown
+  lemmas: die Zivilgesellschaft
+  pos: D N
+  rel  1
+  over 5
+  ratio 0
+  freqtokens  die: 10176 zivilgesellschaft: 12
+Target: gespräche geführt#unknown
+  lemmas: Gespräch führen
+  pos: N V
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  gespräche: 114 geführt: 47
+Target: die zusammenarbeit#unknown
+  lemmas: die Zusammenarbeit
+  pos: D N
+  rel  1
+  over 20
+  ratio 0
+  freqtokens  die: 10176 zusammenarbeit: 88
+Target: den usa#unknown
+  lemmas: die USA
+  pos: D R
+  rel  1
+  over 140
+  ratio 0
+  freqtokens  den: 2898 usa: 328
+Target: freie meinungsäußerung#unknown
+  lemmas: frei Meinungsäußerung
+  pos: G N
+  rel  1
+  over 5
+  ratio 0
+  freqtokens  freie: 11 meinungsäußerung: 8
+Target: der beitrittsverhandlungen#unknown
+  lemmas: die Beitrittsverhandlung
+  pos: D N
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  der: 9333 beitrittsverhandlungen: 24
+Target: ein assoziierungsabkommen#unknown
+  lemmas: eine Assoziierungsabkommen
+  pos: D N
+  rel  1
+  over 5
+  ratio 0
+  freqtokens  ein: 1605 assoziierungsabkommen: 20
+Target: enger zusammenarbeiten#unknown
+  lemmas: eng zusammenarbeiten
+  pos: G V
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  enger: 13 zusammenarbeiten: 8
+Target: schnell handeln#unknown
+  lemmas: schnell handeln
+  pos: G V
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  schnell: 50 handeln: 18
+Target: eine entschuldigung#unknown
+  lemmas: eine Entschuldigung
+  pos: D N
+  rel  1
+  over 4
+  ratio 0
+  freqtokens  eine: 1818 entschuldigung: 6
+Target: die eu#unknown
+  lemmas: die EU
+  pos: D N
+  rel  1
+  over 395
+  ratio 0
+  freqtokens  die: 10176 eu: 1747
+Target: des wahlgesetzes#unknown
+  lemmas: die Wahlgesetz
+  pos: D N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  des: 1409 wahlgesetzes: 2
+Target: die kanzlerin#unknown
+  lemmas: die Kanzlerin
+  pos: D N
+  rel  1
+  over 132
+  ratio 0
+  freqtokens  die: 10176 kanzlerin: 380
+Target: die ezb#unknown
+  lemmas: die EZB
+  pos: D R
+  rel  1
+  over 13
+  ratio 0
+  freqtokens  die: 10176 ezb: 53
+Target: das wirtschaftswachstum#unknown
+  lemmas: die Wirtschaftswachstum
+  pos: D N
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  das: 2558 wirtschaftswachstum: 27
+Target: weitere anstrengungen#unknown
+  lemmas: weit Anstrengung
+  pos: G N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  weitere: 189 anstrengungen: 12
+Target: mehr europa#unknown
+  lemmas: mehr Europa
+  pos: A R
+  rel  1
+  over 8
+  ratio 0
+  freqtokens  mehr: 640 europa: 652
+Target: der skandal#unknown
+  lemmas: die Skandal
+  pos: D N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  der: 9333 skandal: 9
+Target: die vorzeichen#unknown
+  lemmas: die Vorzeichen
+  pos: D N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  die: 10176 vorzeichen: 4
+Target: ihre arbeit#unknown
+  lemmas: ihr Arbeit
+  pos: Q N
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  ihre: 346 arbeit: 93
+Target: die forderungen#unknown
+  lemmas: die Forderung
+  pos: D N
+  rel  1
+  over 8
+  ratio 0
+  freqtokens  die: 10176 forderungen: 45
+Target: den plan#unknown
+  lemmas: die Plan
+  pos: D N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  den: 2898 plan: 21
+Target: weitere reformen#unknown
+  lemmas: weit Reform
+  pos: G N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  weitere: 189 reformen: 79
+Target: eine vignette#unknown
+  lemmas: eine Vignette
+  pos: D N
+  rel  1
+  over 4
+  ratio 0
+  freqtokens  eine: 1818 vignette: 5
+Target: diese bemühungen#unknown
+  lemmas: dies Bemühung
+  pos: Q N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  diese: 279 bemühungen: 14
+Target: der regierung#unknown
+  lemmas: die Regierung
+  pos: D N
+  rel  1
+  over 56
+  ratio 0
+  freqtokens  der: 9333 regierung: 377
+Target: ein zusammengehen#unknown
+  lemmas: eine Zusammengehen
+  pos: D N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  ein: 1605 zusammengehen: 2
+Target: neue arbeitsplätze#unknown
+  lemmas: neu Arbeitsplatz
+  pos: G N
+  rel  1
+  over 6
+  ratio 0
+  freqtokens  neue: 263 arbeitsplätze: 28
+Target: einen stopp#unknown
+  lemmas: eine Stopp
+  pos: D N
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  einen: 726 stopp: 6
+Target: die arbeitslosigkeit#unknown
+  lemmas: die Arbeitslosigkeit
+  pos: D N
+  rel  1
+  over 12
+  ratio 0
+  freqtokens  die: 10176 arbeitslosigkeit: 52
+Target: den besuch#unknown
+  lemmas: die Besuch
+  pos: D N
+  rel  1
+  over 5
+  ratio 0
+  freqtokens  den: 2898 besuch: 65
+Target: die krise#unknown
+  lemmas: die Krise
+  pos: D N
+  rel  1
+  over 18
+  ratio 0
+  freqtokens  die: 10176 krise: 81
+Target: katadas auslieferung#unknown
+  lemmas: Katadas Auslieferung
+  pos: O N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  katadas: 4 auslieferung: 8
+Target: neuen schwung#unknown
+  lemmas: neu Schwung
+  pos: G N
+  rel  1
+  over 5
+  ratio 0
+  freqtokens  neuen: 219 schwung: 7
+Target: die bürger#unknown
+  lemmas: die Bürger
+  pos: D N
+  rel  1
+  over 27
+  ratio 0
+  freqtokens  die: 10176 bürger: 105
+Target: die koalitionsvereinbarung#unknown
+  lemmas: die Koalitionsvereinbarung
+  pos: D N
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  die: 10176 koalitionsvereinbarung: 7
+Target: diesen plan#unknown
+  lemmas: dies Plan
+  pos: Q N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  diesen: 76 plan: 21
+Target: die affäre#unknown
+  lemmas: die Affäre
+  pos: D N
+  rel  1
+  over 11
+  ratio 0
+  freqtokens  die: 10176 affäre: 54
+Target: papst franziskus#unknown
+  lemmas: Papst Franziskus
+  pos: N R
+  rel  1
+  over 27
+  ratio 0
+  freqtokens  papst: 104 franziskus: 57
+Target: die mehrheit#unknown
+  lemmas: die Mehrheit
+  pos: D N
+  rel  1
+  over 4
+  ratio 0
+  freqtokens  die: 10176 mehrheit: 80
+Target: den kompromiss#unknown
+  lemmas: die Kompromiss
+  pos: D N
+  rel  1
+  over 10
+  ratio 0
+  freqtokens  den: 2898 kompromiss: 63
+Target: ein vorgehen#unknown
+  lemmas: eine Vorgehen
+  pos: D N
+  rel  1
+  over 4
+  ratio 0
+  freqtokens  ein: 1605 vorgehen: 55
+Target: das wahlprogramm#unknown
+  lemmas: die Wahlprogramm
+  pos: D N
+  rel  1
+  over 4
+  ratio 0
+  freqtokens  das: 2558 wahlprogramm: 19
+Target: der politik#unknown
+  lemmas: die Politik
+  pos: D N
+  rel  1
+  over 28
+  ratio 0
+  freqtokens  der: 9333 politik: 153
+Target: angela merkel#unknown
+  lemmas: Angela Merkel
+  pos: R R
+  rel  1
+  over 482
+  ratio 0
+  freqtokens  angela: 490 merkel: 1307
+Target: unser land#unknown
+  lemmas: unser Land
+  pos: Q N
+  rel  1
+  over 10
+  ratio 0
+  freqtokens  unser: 31 land: 237
+Target: des parlaments#unknown
+  lemmas: die Parlament
+  pos: D N
+  rel  1
+  over 14
+  ratio 0
+  freqtokens  des: 1409 parlaments: 46
+Target: das votum#unknown
+  lemmas: die Votum
+  pos: D N
+  rel  1
+  over 8
+  ratio 0
+  freqtokens  das: 2558 votum: 19
+Target: geld verlieren#unknown
+  lemmas: Geld verlieren
+  pos: N V
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  geld: 122 verlieren: 18
+Target: harte gespräche#unknown
+  lemmas: hart Gespräch
+  pos: G N
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  harte: 18 gespräche: 114
+Target: die erinnerung#unknown
+  lemmas: die Erinnerung
+  pos: D N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  die: 10176 erinnerung: 10
+Target: internationales datenschutzabkommen#unknown
+  lemmas: international Datenschutzabkommen
+  pos: G O
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  internationales: 7 datenschutzabkommen: 3
+Target: europäische institutionen#unknown
+  lemmas: europäisch Institution
+  pos: G N
+  rel  1
+  over 4
+  ratio 0
+  freqtokens  europäische: 163 institutionen: 31
+Target: die vorfälle#unknown
+  lemmas: die Vorfall
+  pos: D N
+  rel  1
+  over 4
+  ratio 0
+  freqtokens  die: 10176 vorfälle: 4
+Target: ihr geld#unknown
+  lemmas: ihr Geld
+  pos: Q N
+  rel  1
+  over 4
+  ratio 0
+  freqtokens  ihr: 177 geld: 122
+Target: die reaktion#unknown
+  lemmas: die Reaktion
+  pos: D N
+  rel  1
+  over 4
+  ratio 0
+  freqtokens  die: 10176 reaktion: 26
+Target: diesen betrag#unknown
+  lemmas: dies Betrag
+  pos: Q N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  diesen: 76 betrag: 7
+Target: stark machen#unknown
+  lemmas: stark machen
+  pos: G V
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  stark: 46 machen: 154
+Target: die entscheidung#unknown
+  lemmas: die Entscheidung
+  pos: D N
+  rel  1
+  over 31
+  ratio 0
+  freqtokens  die: 10176 entscheidung: 66
+Target: das lager#unknown
+  lemmas: die Lager
+  pos: D N
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  das: 2558 lager: 17
+Target: miese noten#unknown
+  lemmas: mies Note
+  pos: G N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  miese: 2 noten: 2
+Target: der spd#unknown
+  lemmas: die SPD
+  pos: D R
+  rel  1
+  over 211
+  ratio 0
+  freqtokens  der: 9333 spd: 956
+Target: die jugendarbeitslosigkeit#unknown
+  lemmas: die Jugendarbeitslosigkeit
+  pos: D N
+  rel  1
+  over 39
+  ratio 0
+  freqtokens  die: 10176 jugendarbeitslosigkeit: 109
+Target: einige ausdrucksformen#unknown
+  lemmas: einige Ausdrucksform
+  pos: Q N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  einige: 48 ausdrucksformen: 2
+Target: neue mittel#unknown
+  lemmas: neu Mittel
+  pos: G N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  neue: 263 mittel: 43
+Target: die schuldenkrise#unknown
+  lemmas: die Schuldenkrise
+  pos: D N
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  die: 10176 schuldenkrise: 21
+Target: seine zustimmung#unknown
+  lemmas: sein Zustimmung
+  pos: Q N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  seine: 232 zustimmung: 39
+Target: der institutionen#unknown
+  lemmas: die Institution
+  pos: D N
+  rel  1
+  over 4
+  ratio 0
+  freqtokens  der: 9333 institutionen: 31
+Target: ein abkommen#unknown
+  lemmas: eine Abkomme|Abkommen
+  pos: D N
+  rel  1
+  over 8
+  ratio 0
+  freqtokens  ein: 1605 abkommen: 78
+Target: die brücken#unknown
+  lemmas: die Brücke
+  pos: D N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  die: 10176 brücken: 11
+Target: das scheitern#unknown
+  lemmas: die Scheitern
+  pos: D N
+  rel  1
+  over 4
+  ratio 0
+  freqtokens  das: 2558 scheitern: 20
+Target: der bundesrat#unknown
+  lemmas: die Bundesrat
+  pos: D N
+  rel  1
+  over 5
+  ratio 0
+  freqtokens  der: 9333 bundesrat: 16
+Target: die kompetenzen#unknown
+  lemmas: die Kompetenz
+  pos: D N
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  die: 10176 kompetenzen: 12
+Target: die europaskeptische ukip#unknown
+  lemmas: die europaskeptische Ukip
+  pos: D O O
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  die: 10176 europaskeptische: 1 ukip: 7
+Target: eine politische einigung#unknown
+  lemmas: eine politisch Einigung
+  pos: D G N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  eine: 1818 politische: 57 einigung: 110
+Target: eines solchen abkommens#unknown
+  lemmas: eine solche Abkommen
+  pos: D Q N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  eines: 197 solchen: 27 abkommens: 8
+Target: ein weiteres paket#unknown
+  lemmas: eine weit Paket
+  pos: D G N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  ein: 1605 weiteres: 50 paket: 8
+Target: den kanzler stellen#unknown
+  lemmas: die Kanzler stellen
+  pos: D N V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  den: 2898 kanzler: 40 stellen: 82
+Target: mut zu reformen#unknown
+  lemmas: Mut zu Reform
+  pos: N P N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  mut: 15 zu: 2417 reformen: 79
+Target: etwas gewusst haben#unknown
+  lemmas: etwas wissen haben
+  pos: A V V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  etwas: 106 gewusst: 11 haben: 602
+Target: arbeit für alle#unknown
+  lemmas: Arbeit für alle
+  pos: N P Q
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  arbeit: 93 für: 2341 alle: 234
+Target: die parlamentarische demokratie#unknown
+  lemmas: die parlamentarisch Demokratie
+  pos: D G N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  die: 10176 parlamentarische: 20 demokratie: 37
+Target: umstrittene gesetze zurückzunehmen#unknown
+  lemmas: umstritten Gesetz zurücknehmen
+  pos: G N V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  umstrittene: 25 gesetze: 34 zurückzunehmen: 1
+Target: eine totale überprüfung#unknown
+  lemmas: eine total Überprüfung
+  pos: D G N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  eine: 1818 totale: 4 überprüfung: 9
+Target: für diese menschen#unknown
+  lemmas: für dies Mensch
+  pos: P Q N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  für: 2341 diese: 279 menschen: 214
+Target: den geplanten beschluss#unknown
+  lemmas: die geplant Beschluss
+  pos: D G N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  den: 2898 geplanten: 42 beschluss: 16
+Target: das gute gesprächsklima#unknown
+  lemmas: die gut Gesprächsklima
+  pos: D G N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  das: 2558 gute: 52 gesprächsklima: 2
+Target: amnestie · regelung#unknown
+  lemmas: Amnestie · Regelung
+  pos: N O N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  amnestie: 3 ·: 6707 regelung: 33
+Target: ein politisches projekt#unknown
+  lemmas: eine politisch Projekt
+  pos: D G N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  ein: 1605 politisches: 15 projekt: 15
+Target: wenn irgendwas kommt#unknown
+  lemmas: wenn irgendwas kommen
+  pos: C Q V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  wenn: 400 irgendwas: 2 kommt: 109
+Target: die sozialen folgelasten#unknown
+  lemmas: die sozial Folgelast
+  pos: D G N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  die: 10176 sozialen: 20 folgelasten: 1
+Target: bestimmte überwachungsaktionen beenden#unknown
+  lemmas: bestimmt Überwachungsaktion beenden
+  pos: G N V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  bestimmte: 14 überwachungsaktionen: 2 beenden: 16
+Target: den werdegang merkels#unknown
+  lemmas: die Werdegang Merkel
+  pos: D N R
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  den: 2898 werdegang: 1 merkels: 89
+Target: neue hilfspakete anzukündigen#unknown
+  lemmas: neu Hilfspaket ankündigen
+  pos: G N V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  neue: 263 hilfspakete: 3 anzukündigen: 1
+Target: in der regulierung#unknown
+  lemmas: in die Regulierung
+  pos: P D N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  in: 5141 der: 9333 regulierung: 18
+Target: den geltenden optionszwang#unknown
+  lemmas: die geltend Optionszwang
+  pos: D G O
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  den: 2898 geltenden: 2 optionszwang: 2
+Target: das deutsche vorbild#unknown
+  lemmas: die deutsch Vorbild
+  pos: D G N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  das: 2558 deutsche: 346 vorbild: 11
+Target: von bayern münchen#unknown
+  lemmas: von Bayern München
+  pos: P R R
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  von: 2487 bayern: 70 münchen: 36
+Target: teile des koalitionsvertrags#unknown
+  lemmas: Teil die Koalitionsvertrag
+  pos: N D N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  teile: 15 des: 1409 koalitionsvertrags: 3
+Target: der gemeinsame markt#unknown
+  lemmas: die gemeinsam Markt
+  pos: D G N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  der: 9333 gemeinsame: 98 markt: 25
+Target: ihr geld abziehen#unknown
+  lemmas: ihr Geld abziehen
+  pos: Q N V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  ihr: 177 geld: 122 abziehen: 2
+Target: die rasche einführung#unknown
+  lemmas: die rasch Einführung
+  pos: D G N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  die: 10176 rasche: 11 einführung: 46
+Target: einmischungen aus deutschland#unknown
+  lemmas: Einmischung aus Deutschland
+  pos: N P R
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  einmischungen: 3 aus: 969 deutschland: 695
+Target: die taktischen atomwaffen#unknown
+  lemmas: die taktisch Atomwaffe
+  pos: D G N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  die: 10176 taktischen: 2 atomwaffen: 4
+Target: die katholische kirche#unknown
+  lemmas: die katholisch Kirche
+  pos: D G N
+  rel  2
+  over 8
+  ratio 0
+  freqtokens  die: 10176 katholische: 13 kirche: 25
+Target: der europäischen union#unknown
+  lemmas: die europäisch Union
+  pos: D G N
+  rel  2
+  over 58
+  ratio 0
+  freqtokens  der: 9333 europäischen: 288 union: 444
+Target: der hohen jugendarbeitslosigkeit#unknown
+  lemmas: die hoch Jugendarbeitslosigkeit
+  pos: D G N
+  rel  1
+  over 4
+  ratio 0
+  freqtokens  der: 9333 hohen: 30 jugendarbeitslosigkeit: 109
+Target: bei der energiewende#unknown
+  lemmas: bei die Energiewende
+  pos: P D N
+  rel  1
+  over 25
+  ratio 0
+  freqtokens  bei: 1044 der: 9333 energiewende: 82
+Target: mit verhandlungen beginnen#unknown
+  lemmas: mit Verhandlung beginnen
+  pos: P N V
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  mit: 2392 verhandlungen: 199 beginnen: 28
+Target: die tiefe wirtschaftskrise#unknown
+  lemmas: die tief Wirtschaftskrise
+  pos: D G N
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  die: 10176 tiefe: 5 wirtschaftskrise: 22
+Target: die deutsche gewerkschaftsbewegung#unknown
+  lemmas: die deutsch Gewerkschaftsbewegung
+  pos: D G N
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  die: 10176 deutsche: 346 gewerkschaftsbewegung: 3
+Target: das amerikanische gesprächsangebot#unknown
+  lemmas: die amerikanisch Gesprächsangebot
+  pos: D G N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  das: 2558 amerikanische: 24 gesprächsangebot: 2
+Target: die strafbefreiende selbstanzeige#unknown
+  lemmas: die strafbefreiende Selbstanzeige
+  pos: D O N
+  rel  1
+  over 16
+  ratio 0
+  freqtokens  die: 10176 strafbefreiende: 33 selbstanzeige: 49
+Target: mit angela merkel#unknown
+  lemmas: mit Angela Merkel
+  pos: P R R
+  rel  1
+  over 4
+  ratio 0
+  freqtokens  mit: 2392 angela: 490 merkel: 1307
+Target: das deutsche veto#unknown
+  lemmas: die deutsch Veto
+  pos: D G N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  das: 2558 deutsche: 346 veto: 9
+Target: eine " entsolidarisierung#unknown
+  lemmas: eine " Entsolidarisierung
+  pos: D O O
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  eine: 1818 ": 4635 entsolidarisierung: 3
+Target: finanzminister wolfgang schäuble#unknown
+  lemmas: Finanzminister Wolfgang Schäuble
+  pos: N R R
+  rel  1
+  over 22
+  ratio 0
+  freqtokens  finanzminister: 118 wolfgang: 75 schäuble: 157
+Target: mit der spd#unknown
+  lemmas: mit die SPD
+  pos: P D R
+  rel  1
+  over 25
+  ratio 0
+  freqtokens  mit: 2392 der: 9333 spd: 956
+Target: die traditionelle zeremonie#unknown
+  lemmas: die traditionell Zeremonie
+  pos: D G N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  die: 10176 traditionelle: 4 zeremonie: 4
+Target: instrument der steuergerechtigkeit#unknown
+  lemmas: Instrument die Steuergerechtigkeit
+  pos: N D N
+  rel  1
+  over 16
+  ratio 0
+  freqtokens  instrument: 55 der: 9333 steuergerechtigkeit: 21
+Target: co2 · grenzwerte#unknown
+  lemmas: CO2 · grenzwert
+  pos: O O G
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  co2: 25 ·: 6707 grenzwerte: 5
+Target: abhören von freunden#unknown
+  lemmas: Abhören von Freund
+  pos: N P N
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  abhören: 13 von: 2487 freunden: 21
+Target: seine internationale klasse#unknown
+  lemmas: sein international Klasse
+  pos: Q G N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  seine: 232 internationale: 37 klasse: 6
+Target: jugendarbeitslosigkeit in europa#unknown
+  lemmas: Jugendarbeitslosigkeit in Europa
+  pos: N P R
+  rel  1
+  over 19
+  ratio 0
+  freqtokens  jugendarbeitslosigkeit: 109 in: 5141 europa: 652
+Target: die europäische union#unknown
+  lemmas: die europäisch Union
+  pos: D G N
+  rel  1
+  over 33
+  ratio 0
+  freqtokens  die: 10176 europäische: 163 union: 444
+Target: das erste treffen#unknown
+  lemmas: die erst Treffen
+  pos: D G N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  das: 2558 erste: 82 treffen: 187
+Target: vor vorschnellen schlussfolgerungen#unknown
+  lemmas: vor vorschnell Schlussfolgerung
+  pos: P G N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  vor: 972 vorschnellen: 3 schlussfolgerungen: 4
+Target: einem stabilen erholungskurs#unknown
+  lemmas: eine stabil Erholungskurs
+  pos: D G N
+  rel  1
+  over 16
+  ratio 0
+  freqtokens  einem: 676 stabilen: 21 erholungskurs: 16
+Target: vor überzogenen forderungen#unknown
+  lemmas: vor überzogen Forderung
+  pos: P G N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  vor: 972 überzogenen: 8 forderungen: 45
+Target: die immigrationspolitik verschärfen#unknown
+  lemmas: die Immigrationspolitik verschärfen
+  pos: D N V
+  rel  1
+  over 4
+  ratio 0
+  freqtokens  die: 10176 immigrationspolitik: 4 verschärfen: 10
+Target: bundeskanzlerin angela merkel#unknown
+  lemmas: Bundeskanzlerin Angela Merkel
+  pos: N R R
+  rel  1
+  over 242
+  ratio 0
+  freqtokens  bundeskanzlerin: 320 angela: 490 merkel: 1307
+Target: wohlstand auf pump#unknown
+  lemmas: Wohlstand auf Pump
+  pos: N P N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  wohlstand: 12 auf: 2145 pump: 3
+Target: einem gesetzlichen mindestlohn#unknown
+  lemmas: eine gesetzlich Mindestlohn
+  pos: D G N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  einem: 676 gesetzlichen: 24 mindestlohn: 47
+Target: nägel mit köpfen machen#unknown
+  lemmas: Nagel mit Kopf|Köpfen machen
+  pos: N P N V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  nägel: 1 mit: 2392 köpfen: 1 machen: 154
+Target: der erfolg der bayern#unknown
+  lemmas: die Erfolg die Bayer
+  pos: D N D N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  der: 9333 erfolg: 33 der: 9333 bayern: 70
+Target: die sozialen folgelasten abfedern#unknown
+  lemmas: die sozial Folgelast abfedern
+  pos: D G N V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  die: 10176 sozialen: 20 folgelasten: 1 abfedern: 2
+Target: einen kompromiss zu finden#unknown
+  lemmas: eine Kompromiss zu finden
+  pos: D N O V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  einen: 726 kompromiss: 63 zu: 2417 finden: 50
+Target: den beschluss seiner kollegen#unknown
+  lemmas: die Beschluss sein Kollege
+  pos: D N Q N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  den: 2898 beschluss: 16 seiner: 261 kollegen: 19
+Target: die höhe des finanzrahmens#unknown
+  lemmas: die Höhe die Finanzrahmen
+  pos: D N D N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  die: 10176 höhe: 27 des: 1409 finanzrahmens: 9
+Target: für seine ziele werben#unknown
+  lemmas: für sein Ziel werben
+  pos: P Q N V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  für: 2341 seine: 232 ziele: 27 werben: 17
+Target: deutsche asylverweigerung für snowden#unknown
+  lemmas: deutsch Asylverweigerung für Snowden
+  pos: G N P O
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  deutsche: 346 asylverweigerung: 2 für: 2341 snowden: 99
+Target: runde eins der koalitionsverhandlungen#unknown
+  lemmas: Runde eins die Koalitionsverhandlung
+  pos: N O D N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  runde: 42 eins: 12 der: 9333 koalitionsverhandlungen: 67
+Target: die vorverhandlungen im kreise#unknown
+  lemmas: die Vorverhandlung in Kreis
+  pos: D N P N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  die: 10176 vorverhandlungen: 1 im: 1818 kreise: 6
+Target: über die wachsende gewalt#unknown
+  lemmas: über die wachsend Gewalt
+  pos: P D G N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  über: 819 die: 10176 wachsende: 5 gewalt: 24
+Target: den spähprogrammen der us#unknown
+  lemmas: die Spähprogrammen die US
+  pos: D O D R
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  den: 2898 spähprogrammen: 2 der: 9333 us: 408
+Target: den diensten die überwachung#unknown
+  lemmas: die Dienst die Überwachung
+  pos: D N D N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  den: 2898 diensten: 3 die: 10176 überwachung: 41
+Target: das klima der gespräche#unknown
+  lemmas: die Klima die Gespräch
+  pos: D N D N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  das: 2558 klima: 4 der: 9333 gespräche: 114
+Target: den rücktritt der regierung#unknown
+  lemmas: die Rücktritt die Regierung
+  pos: D N D N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  den: 2898 rücktritt: 25 der: 9333 regierung: 377
+Target: sein internationales profil schärfen#unknown
+  lemmas: sein international Profil schärfen
+  pos: Q G N V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  sein: 377 internationales: 7 profil: 11 schärfen: 5
+Target: die überwachung des internets#unknown
+  lemmas: die Überwachung die Internets
+  pos: D N D O
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  die: 10176 überwachung: 41 des: 1409 internets: 5
+Target: eine rote linie ziehen#unknown
+  lemmas: eine rot Linie ziehen
+  pos: D G N V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  eine: 1818 rote: 52 linie: 24 ziehen: 24
+Target: die sicherheitskräfte in istanbul#unknown
+  lemmas: die Sicherheitskraft in Istanbul
+  pos: D N P R
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  die: 10176 sicherheitskräfte: 16 in: 5141 istanbul: 36
+Target: merkels euro · vorwürfe#unknown
+  lemmas: Merkel Euro · Vorwurf
+  pos: R N O N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  merkels: 89 euro: 630 ·: 6707 vorwürfe: 36
+Target: im vatikan sein dürfe#unknown
+  lemmas: in Vatikan sein dürfen
+  pos: P N V V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  im: 1818 vatikan: 16 sein: 377 dürfe: 41
+Target: die forderung der grünen#unknown
+  lemmas: die Forderung die Grüne
+  pos: D N D N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  die: 10176 forderung: 64 der: 9333 grünen: 250
+Target: ein telefonat mit obama#unknown
+  lemmas: eine Telefonat mit Obama
+  pos: D N P O
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  ein: 1605 telefonat: 11 mit: 2392 obama: 188
+Target: den rücktritt von nuland#unknown
+  lemmas: die Rücktritt von Nuland
+  pos: D N P O
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  den: 2898 rücktritt: 25 von: 2487 nuland: 15
+Target: wenn sich politiker anfeinden#unknown
+  lemmas: wenn sich Politiker anfeinden
+  pos: C Q N V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  wenn: 400 sich: 1721 politiker: 123 anfeinden: 1
+Target: für einen tariflichen mindestlohn#unknown
+  lemmas: für eine tariflich Mindestlohn
+  pos: P D G N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  für: 2341 einen: 726 tariflichen: 1 mindestlohn: 47
+Target: „ militärischer logik “#unknown
+  lemmas: „ militärisch Logik “
+  pos: O G N O
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  „: 1079 militärischer: 6 logik: 7 “: 1080
+Target: den sich anbahnenden kompromiss#unknown
+  lemmas: die sich anbahnend Kompromiss
+  pos: D Q G N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  den: 2898 sich: 1721 anbahnenden: 1 kompromiss: 63
+Target: die energiewende in deutschland#unknown
+  lemmas: die Energiewende in Deutschland
+  pos: D N P R
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  die: 10176 energiewende: 82 in: 5141 deutschland: 695
+Target: die eu im streit#unknown
+  lemmas: die EU in Streit
+  pos: D N P N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  die: 10176 eu: 1747 im: 1818 streit: 49
+Target: der führung in moskau#unknown
+  lemmas: die Führung in Moskau
+  pos: D N P R
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  der: 9333 führung: 47 in: 5141 moskau: 52
+Target: mehr syrische flüchtlinge aufzunehmen#unknown
+  lemmas: mehr syrisch Flüchtling aufnehmen
+  pos: A G N V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  mehr: 640 syrische: 8 flüchtlinge: 5 aufzunehmen: 9
+Target: die bedeutung der zusammenarbeit#unknown
+  lemmas: die Bedeutung die Zusammenarbeit
+  pos: D N D N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  die: 10176 bedeutung: 31 der: 9333 zusammenarbeit: 88
+Target: die krisenstrategie der kanzlerin#unknown
+  lemmas: die Krisenstrategie die Kanzlerin
+  pos: D N D N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  die: 10176 krisenstrategie: 2 der: 9333 kanzlerin: 380
+Target: die entscheidung seines nachbarn#unknown
+  lemmas: die Entscheidung sein Nachbar
+  pos: D N Q N
+  rel  2
+  over 3
+  ratio 0
+  freqtokens  die: 10176 entscheidung: 66 seines: 76 nachbarn: 13
+Target: die rahmenbedingungen für investitionen#unknown
+  lemmas: die Rahmenbedingung für Investition
+  pos: D N P N
+  rel  1
+  over 16
+  ratio 0
+  freqtokens  die: 10176 rahmenbedingungen: 20 für: 2341 investitionen: 52
+Target: einsätze der türkischen polizei#unknown
+  lemmas: Einsatz die türkisch Polizei
+  pos: N D G N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  einsätze: 3 der: 9333 türkischen: 60 polizei: 66
+Target: jede form der diskriminierung#unknown
+  lemmas: jede Form die Diskriminierung
+  pos: Q N D N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  jede: 33 form: 34 der: 9333 diskriminierung: 9
+Target: die internet · spähprogramme#unknown
+  lemmas: die Internet · Spähprogramme
+  pos: D N O O
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  die: 10176 internet: 40 ·: 6707 spähprogramme: 6
+Target: der situation in deutschland#unknown
+  lemmas: die Situation in Deutschland
+  pos: D N P R
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  der: 9333 situation: 27 in: 5141 deutschland: 695
+Target: an der spitze halten#unknown
+  lemmas: an die Spitze halten
+  pos: P D N V
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  an: 1082 der: 9333 spitze: 44 halten: 77
+Target: die fortführung der zusammenarbeit#unknown
+  lemmas: die Fortführung die Zusammenarbeit
+  pos: D N D N
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  die: 10176 fortführung: 5 der: 9333 zusammenarbeit: 88
+Target: eine aufhebung des verbots#unknown
+  lemmas: eine Aufhebung die Verbot
+  pos: D N D N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  eine: 1818 aufhebung: 8 des: 1409 verbots: 3
+Target: in der europäischen union#unknown
+  lemmas: in die europäisch Union
+  pos: P D G N
+  rel  1
+  over 7
+  ratio 0
+  freqtokens  in: 5141 der: 9333 europäischen: 288 union: 444
+Target: strengere co2 · grenzwerte#unknown
+  lemmas: streng CO2 · grenzwert
+  pos: G O O G
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  strengere: 4 co2: 25 ·: 6707 grenzwerte: 5
+Target: das eu · budget#unknown
+  lemmas: die EU · Budget
+  pos: D N O N
+  rel  1
+  over 11
+  ratio 0
+  freqtokens  das: 2558 eu: 1747 ·: 6707 budget: 48
+Target: den hastigen koalitionsverhandlungen am anfang#unknown
+  lemmas: die hastig Koalitionsverhandlung an Anfang
+  pos: D G N P N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  den: 2898 hastigen: 1 koalitionsverhandlungen: 67 am: 1431 anfang: 53
+Target: über lauschangriff auf kanzlerin merkel#unknown
+  lemmas: über Lauschangriff auf Kanzlerin Merkel
+  pos: P N P N R
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  über: 819 lauschangriff: 9 auf: 2145 kanzlerin: 380 merkel: 1307
+Target: mobiltelefons von kanzlerin angela merkel#unknown
+  lemmas: Mobiltelefon von Kanzlerin Angela Merkel
+  pos: N P N R R
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  mobiltelefons: 2 von: 2487 kanzlerin: 380 angela: 490 merkel: 1307
+Target: über die " exzessive gewalt#unknown
+  lemmas: über die " exzessiv Gewalt
+  pos: P D O G N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  über: 819 die: 10176 ": 4635 exzessive: 2 gewalt: 24
+Target: haben eine politische einigung erreicht#unknown
+  lemmas: haben eine politisch Einigung erreichen
+  pos: V D G N V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  haben: 602 eine: 1818 politische: 57 einigung: 110 erreicht: 48
+Target: ein pakt mit der afd#unknown
+  lemmas: eine Pakt mit die AfD
+  pos: D N P D O
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  ein: 1605 pakt: 13 mit: 2392 der: 9333 afd: 129
+Target: der abschluss eines solchen abkommens#unknown
+  lemmas: die Abschluss eine solche Abkommen
+  pos: D N D Q N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  der: 9333 abschluss: 34 eines: 197 solchen: 27 abkommens: 8
+Target: über acht themenfelder tiefergehend beraten#unknown
+  lemmas: über acht Themenfeld tiefergehend beraten
+  pos: P O N G V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  über: 819 acht: 32 themenfelder: 1 tiefergehend: 1 beraten: 34
+Target: den kampf gegen die einwanderung#unknown
+  lemmas: die Kampf gegen die Einwanderung
+  pos: D N P D N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  den: 2898 kampf: 85 gegen: 576 die: 10176 einwanderung: 4
+Target: den verwaltungs · und personalausgaben#unknown
+  lemmas: die Verwaltungs · und Personalausgabe
+  pos: D O O C N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  den: 2898 verwaltungs: 1 ·: 6707 und: 5316 personalausgaben: 1
+Target: situationen wie am vergangenen dienstag#unknown
+  lemmas: Situation wie an vergangen Dienstag
+  pos: N C P G N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  situationen: 1 wie: 704 am: 1431 vergangenen: 116 dienstag: 94
+Target: der verhandlungen mit den usa#unknown
+  lemmas: die Verhandlung mit die USA
+  pos: D N P D R
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  der: 9333 verhandlungen: 199 mit: 2392 den: 2898 usa: 328
+Target: die versammlungs · und pressefreiheit#unknown
+  lemmas: die Versammlungs · und Pressefreiheit
+  pos: D O O C N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  die: 10176 versammlungs: 1 ·: 6707 und: 5316 pressefreiheit: 3
+Target: egoistische unnachgiebigkeit der kanzlerin merkel#unknown
+  lemmas: egoistisch Unnachgiebigkeit die Kanzlerin Merkel
+  pos: G N D N R
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  egoistische: 1 unnachgiebigkeit: 1 der: 9333 kanzlerin: 380 merkel: 1307
+Target: auf die nun herausgekommenen telefonate#unknown
+  lemmas: auf die nun herausgekommen Telefonat
+  pos: P D A G N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  auf: 2145 die: 10176 nun: 254 herausgekommenen: 1 telefonate: 6
+Target: gemeinsam auf den grund gehen#unknown
+  lemmas: gemeinsam auf die Grund gehen
+  pos: G P D N V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  gemeinsam: 66 auf: 2145 den: 2898 grund: 30 gehen: 97
+Target: beteuerungen von seiten der geheimdienste#unknown
+  lemmas: Beteuerung von Seite die Geheimdienst
+  pos: N P N D N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  beteuerungen: 1 von: 2487 seiten: 41 der: 9333 geheimdienste: 69
+Target: nichts falsch gemacht zu haben#unknown
+  lemmas: nichts falsch machen zu haben
+  pos: Q G V O V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  nichts: 97 falsch: 20 gemacht: 96 zu: 2417 haben: 602
+Target: über die töne aus london#unknown
+  lemmas: über die Ton aus London
+  pos: P D N P R
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  über: 819 die: 10176 töne: 10 aus: 969 london: 45
+Target: den vorstoß frankreichs und großbritanniens#unknown
+  lemmas: die Vorstoß Frankreich und Großbritannien
+  pos: D N R C R
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  den: 2898 vorstoß: 16 frankreichs: 55 und: 5316 großbritanniens: 21
+Target: das abkommen mit der eu#unknown
+  lemmas: die Abkomme|Abkommen mit die EU
+  pos: D N P D N
+  rel  1
+  over 4
+  ratio 0
+  freqtokens  das: 2558 abkommen: 78 mit: 2392 der: 9333 eu: 1747
+Target: der kleine parteitag der spd#unknown
+  lemmas: die klein Parteitag die SPD
+  pos: D G N D R
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  der: 9333 kleine: 27 parteitag: 35 der: 9333 spd: 956
+Target: die deutsche bundeskanzlerin angela merkel#unknown
+  lemmas: die deutsch Bundeskanzlerin Angela Merkel
+  pos: D G N R R
+  rel  1
+  over 23
+  ratio 0
+  freqtokens  die: 10176 deutsche: 346 bundeskanzlerin: 320 angela: 490 merkel: 1307
+Target: mit den christen in lateinamerika#unknown
+  lemmas: mit die Christ in Lateinamerika
+  pos: P D N P R
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  mit: 2392 den: 2898 christen: 6 in: 5141 lateinamerika: 7
+Target: positiven atmosphäre , einer freundlichen stimmung#unknown
+  lemmas: positiv Atmosphäre , eine freundlich Stimmung
+  pos: G N O D G N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  positiven: 6 atmosphäre: 15 ,: 12432 einer: 751 freundlichen: 4 stimmung: 13
+Target: einen " technologiesprung " zu schaffen#unknown
+  lemmas: eine " Technologiesprung " zu schaffen
+  pos: D O O O O V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  einen: 726 ": 4635 technologiesprung: 2 ": 4635 zu: 2417 schaffen: 43
+Target: die herausforderungen als neo · mitglied#unknown
+  lemmas: die Herausforderung als Neo · Mitglied
+  pos: D N C O O N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  die: 10176 herausforderungen: 15 als: 1144 neo: 1 ·: 6707 mitglied: 28
+Target: sechs millionen junge menschen ohne job#unknown
+  lemmas: sechs Million jung Mensch ohne Job
+  pos: O N G N P N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  sechs: 105 millionen: 134 junge: 47 menschen: 214 ohne: 167 job: 17
+Target: dass berlin für europas arbeitslose zahlt#unknown
+  lemmas: dass Berlin für Europa Arbeitslose zahlen
+  pos: C R P R N V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  dass: 1340 berlin: 400 für: 2341 europas: 93 arbeitslose: 5 zahlt: 1
+Target: den rücktritt von außenminister paulo portas#unknown
+  lemmas: die Rücktritt von Außenminister Paulo Portas
+  pos: D N P N R O
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  den: 2898 rücktritt: 25 von: 2487 außenminister: 105 paulo: 3 portas: 9
+Target: die verlängerung für frankreich und spanien#unknown
+  lemmas: die Verlängerung für Frankreich und Spanien
+  pos: D N P R C R
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  die: 10176 verlängerung: 9 für: 2341 frankreich: 225 und: 5316 spanien: 105
+Target: wohlstand auf pump geht nicht mehr#unknown
+  lemmas: Wohlstand auf Pump gehen nicht mehr
+  pos: N P N V O A
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  wohlstand: 12 auf: 2145 pump: 3 geht: 145 nicht: 1882 mehr: 640
+Target: die beziehungen zu brasilien und mexiko#unknown
+  lemmas: die Beziehung zu Brasilien und Mexiko
+  pos: D N P R C R
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  die: 10176 beziehungen: 80 zu: 2417 brasilien: 15 und: 5316 mexiko: 12
+Target: das erste sondierungsgespräch mit der spd#unknown
+  lemmas: die erst Sondierungsgespräch mit die SPD
+  pos: D G N P D R
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  das: 2558 erste: 82 sondierungsgespräch: 24 mit: 2392 der: 9333 spd: 956
+Target: die vielen mit ihren fahnen aufgezogenen vereine#unknown
+  lemmas: die viele mit ihr Fahne aufgezogen Verein
+  pos: D Q P Q N G N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  die: 10176 vielen: 74 mit: 2392 ihren: 135 fahnen: 8 aufgezogenen: 1 vereine: 1
+Target: in europa wissen und geld zu bündeln#unknown
+  lemmas: in Europa Wissen und Geld zu bündeln
+  pos: P R N C N O V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  in: 5141 europa: 652 wissen: 51 und: 5316 geld: 122 zu: 2417 bündeln: 2
+Target: die kapseln für kaffee · und teeautomaten#unknown
+  lemmas: die Kapsel für Kaffee · und Teeautomaten
+  pos: D N P N O C O
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  die: 10176 kapseln: 4 für: 2341 kaffee: 3 ·: 6707 und: 5316 teeautomaten: 1
+Target: wir brauchen in unserer gesellschaft neue konsense#unknown
+  lemmas: wir brauchen in unser Gesellschaft neu Konsens
+  pos: Q V P Q N G N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  wir: 773 brauchen: 52 in: 5141 unserer: 35 gesellschaft: 35 neue: 263 konsense: 1
+Target: ein zeichen gegen jugendarbeitslosigkeit in europa setzen#unknown
+  lemmas: eine Zeichen gegen Jugendarbeitslosigkeit in Europa setzen
+  pos: D N P N P R V
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  ein: 1605 zeichen: 31 gegen: 576 jugendarbeitslosigkeit: 109 in: 5141 europa: 652 setzen: 37
+Target: positive effekte des zuzugs rumänischer und bulgarischer arbeitskräfte#unknown
+  lemmas: positiv Effekt die Zuzug rumänisch und bulgarisch Arbeitskraft
+  pos: G N D N G C G N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  positive: 12 effekte: 1 des: 1409 zuzugs: 1 rumänischer: 3 und: 5316 bulgarischer: 2 arbeitskräfte: 2
+Target: die übergriffe der russischen regierung auf die zivilgesellschaft#unknown
+  lemmas: die Übergriff die russisch Regierung auf die Zivilgesellschaft
+  pos: D N D G N P D N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  die: 10176 übergriffe: 2 der: 9333 russischen: 77 regierung: 377 auf: 2145 die: 10176 zivilgesellschaft: 12
+Target: dass die koalitionsvereinbarung von der parteibasis gebilligt wird#unknown
+  lemmas: dass die Koalitionsvereinbarung von die Parteibasis billigen werden
+  pos: C D N P D N V V
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  dass: 1340 die: 10176 koalitionsvereinbarung: 7 von: 2487 der: 9333 parteibasis: 5 gebilligt: 7 wird: 668
+Target: das mutmaßliche abhören des mobiltelefons von kanzlerin angela merkel#unknown
+  lemmas: die mutmaßlich Abhören die Mobiltelefon von Kanzlerin Angela Merkel
+  pos: D G N D N P N R R
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  das: 2558 mutmaßliche: 6 abhören: 13 des: 1409 mobiltelefons: 2 von: 2487 kanzlerin: 380 angela: 490 merkel: 1307
+Target: die entscheidung , das abkommen mit der eu auszusetzen#unknown
+  lemmas: die Entscheidung , die Abkomme|Abkommen mit die EU aussetzen
+  pos: D N O D N P D N V
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  die: 10176 entscheidung: 66 ,: 12432 das: 2558 abkommen: 78 mit: 2392 der: 9333 eu: 1747 auszusetzen: 7

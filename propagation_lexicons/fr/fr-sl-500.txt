@@ -1,0 +1,520 @@
+fre-30-00001740-v/positive/v/yes/inspirer | respirer |/40
+fre-30-00002684-n/neutral/n/yes/chose | objet |/254
+fre-30-00003553-n/neutral/n/yes/ensemble | totalité | tout | unité |/66
+fre-30-00006336-a/neutral/a/yes/absorbant |/30
+fre-30-00007846-n/neutral/n/yes/être | homme | humain | individu | personne | quelqu'un |/2317
+fre-30-00013887-a/positive/a/yes/abondant | ample | copieux | large | plantureux | profus |/66
+fre-30-00017782-a/positive/a/yes/acceptable | admissible |/33
+fre-30-00019792-v/negative/v/yes/agresser | attaque | attaquer | prendre/19
+fre-30-00021766-a/positive/a/yes/exact | juste | précis |/32
+fre-30-00023271-n/positive/n/yes/connaissance | savoir | science |/156
+fre-30-00031264-n/neutral/n/yes/ensemble | groupe | groupement |/532
+fre-30-00031921-n/neutral/n/yes/rapport | relation |/132
+fre-30-00031974-a/positive/a/yes/actif | vivant |/52
+fre-30-00044353-a/positive/a/yes/éventuel | possible | potentiel |/46
+fre-30-00045123-a/neutral/a/yes/chronique |/40
+fre-30-00064479-a/positive/a/yes/avantageux | favorable |/23
+fre-30-00065070-v/negative/v/yes/endurer | souffrir/16
+fre-30-00066191-v/negative/v/yes/pleurer/21
+fre-30-00069879-v/negative/v/yes/blesser |/41
+fre-30-00070965-n/negative/n/yes/erreur | faute/51
+fre-30-00078760-v/positive/v/yes/guérir | soigner | traiter |/145
+fre-30-00082241-a/negative/a/yes/agressif |/29
+fre-30-00095280-a/negative/a/yes/mort |/39
+fre-30-00113113-n/negative/n/yes/oppression | presse | pression/36
+fre-30-00125711-a/neutral/a/yes/antérieur | précédent |/22
+fre-30-00130778-a/neutral/a/yes/précédent |/26
+fre-30-00153263-v/positive/v/yes/accroire | accroître | augmenter |/111
+fre-30-00156601-v/positive/v/yes/accroître | augmenter |/61
+fre-30-00166146-a/positive/a/yes/attirant | attrayant |/63
+fre-30-00173338-v/negative/v/yes/enlever | ôter | retirer | retrancher |/71
+fre-30-00182406-v/neutral/v/yes/ajouter |/136
+fre-30-00190115-a/neutral/a/yes/conscient |/31
+fre-30-00202236-v/negative/v/yes/falsifier | fausser/16
+fre-30-00202284-n/negative/n/yes/opposition | r�sistance/42
+fre-30-00205885-v/positive/v/yes/améliorer | amender |/72
+fre-30-00212414-v/positive/v/yes/conserver | pr�server/34
+fre-30-00217728-a/positive/a/yes/beau |/71
+fre-30-00219403-v/negative/v/yes/essorer | sec | s�cher/23
+fre-30-00223500-v/negative/v/yes/affaiblir/17
+fre-30-00227507-a/positive/a/yes/meilleur |/39
+fre-30-00230335-a/positive/a/yes/meilleur |/32
+fre-30-00249501-n/positive/n/yes/am�lioration | avancement | progr�s/39
+fre-30-00249721-a/positive/a/yes/audacieux | courageux | hardi |/32
+fre-30-00251809-a/negative/a/yes/timide/20
+fre-30-00260648-v/positive/v/yes/réparer |/59
+fre-30-00262792-a/positive/a/yes/brave | courageux | vaillant |/32
+fre-30-00269989-a/positive/a/yes/clair | lumière | lumineux |/21
+fre-30-00278551-a/positive/a/yes/lumineux |/60
+fre-30-00289082-a/negative/a/yes/cassé |/19
+fre-30-00299580-v/positive/v/yes/accommoder | adapter | ajuster |/48
+fre-30-00306314-a/positive/a/yes/habile |/253
+fre-30-00311663-a/negative/a/yes/n�gligent/21
+fre-30-00362467-a/positive/a/yes/content | gai |/21
+fre-30-00394813-v/neutral/v/yes/combiner | mélanger | mêler |/80
+fre-30-00400883-v/negative/v/yes/compliquer/19
+fre-30-00408660-a/positive/a/yes/clair | lumière | lumineux |/59
+fre-30-00409440-a/negative/a/yes/obscur | sombre |/139
+fre-30-00410247-n/positive/n/yes/pratique |/112
+fre-30-00419289-a/negative/a/yes/sale |/33
+fre-30-00430606-n/positive/n/yes/jeu |/104
+fre-30-00455599-n/positive/n/yes/catch | jeu | partie |/123
+fre-30-00464513-a/positive/a/yes/logique |/27
+fre-30-00470701-v/negative/v/yes/annihiler | an�antir | d�cimer | exterminer | supprimer | �radiquer/26
+fre-30-00471613-n/neutral/n/yes/bal | balle | baseball | boule |/89
+fre-30-00474620-a/neutral/a/yes/explosif |/19
+fre-30-00488225-n/positive/n/yes/cartes | jeu | Jeu |/57
+fre-30-00493460-a/neutral/a/yes/individu | individuel | particulier |/47
+fre-30-00503237-n/negative/n/yes/�chec/39
+fre-30-00510050-a/positive/a/yes/compétent |/24
+fre-30-00515154-v/neutral/v/yes/processus | traiter | transformer |/44
+fre-30-00520214-a/positive/a/yes/complet | entier |/94
+fre-30-00525453-a/positive/a/yes/complet |/26
+fre-30-00570590-a/neutral/a/yes/conscient |/26
+fre-30-00577525-n/positive/n/yes/service |/97
+fre-30-00581401-a/neutral/a/yes/invisible |/16
+fre-30-00586183-a/negative/a/yes/destructeur | destructif |/47
+fre-30-00588888-v/positive/v/yes/appréhender | comprendre | entendre |/73
+fre-30-00591519-v/positive/v/yes/percevoir | saisir |/50
+fre-30-00607421-a/neutral/a/yes/classique | conventionnel |/17
+fre-30-00614057-v/negative/v/yes/abandonner | d�laisser | d�sert | livrer | quitter/21
+fre-30-00621627-n/negative/n/yes/effort | peine |/65
+fre-30-00624026-a/positive/a/yes/considérable | important | imposant | majeur |/31
+fre-30-00631391-a/positive/a/yes/bon | correct | corriger |/34
+fre-30-00632236-v/neutral/v/yes/présumer | supposer |/47
+fre-30-00641158-a/positive/a/yes/poli |/24
+fre-30-00643250-a/positive/a/yes/créatif |/29
+fre-30-00644583-v/neutral/v/yes/analyser | étudier | examiner |/189
+fre-30-00644839-a/positive/a/yes/crédible | croyable | vraisemblable |/24
+fre-30-00650353-v/neutral/v/yes/différencier | distinguer | séparer |/68
+fre-30-00651991-v/neutral/v/yes/démarquer | différencier | distinguer | singulariser |/241
+fre-30-00664788-v/positive/v/yes/confirmer | démontrer | établir | montrer | prouver | valider |/45
+fre-30-00681429-v/positive/v/yes/appr�cier | estimer | mesurer | �valuer/29
+fre-30-00686447-v/positive/v/yes/accepter | admettre/35
+fre-30-00690614-v/neutral/v/yes/consid�rer | estimer | juger | voir/35
+fre-30-00691696-a/negative/a/yes/superficiel |/56
+fre-30-00697589-v/positive/v/yes/d�cider | se d�cider/36
+fre-30-00701479-a/neutral/a/yes/indéfini | infini |/39
+fre-30-00727564-a/positive/a/yes/indépendant |/29
+fre-30-00732960-a/positive/a/yes/désirable | souhaitable |/27
+fre-30-00740577-v/positive/v/yes/communiquer |/37
+fre-30-00744916-a/negative/a/yes/ardu | difficile | dur |/44
+fre-30-00749230-a/positive/a/yes/facile |/30
+fre-30-00759694-n/negative/n/yes/terrorisme |/88
+fre-30-00766234-n/negative/n/yes/crime | délit |/77
+fre-30-00773432-v/negative/v/yes/d�battre/20
+fre-30-00779374-a/neutral/a/yes/distinct |/34
+fre-30-00795720-n/neutral/n/yes/entreprise | projet |/66
+fre-30-00795863-v/negative/v/yes/interdire | prohiber |/41
+fre-30-00797430-v/negative/v/yes/refuser/26
+fre-30-00803325-v/positive/v/yes/approuver | autoriser/38
+fre-30-00804695-a/positive/a/yes/vivant |/28
+fre-30-00811375-v/negative/v/yes/�viter/24
+fre-30-00826509-v/negative/v/yes/critiquer/41
+fre-30-00828779-a/positive/a/yes/comestible |/211
+fre-30-00829107-v/positive/v/yes/apprendre | éduquer | enseigner |/54
+fre-30-00831651-v/positive/v/yes/informer |/56
+fre-30-00834198-a/positive/a/yes/effectif | efficace |/37
+fre-30-00834259-v/negative/v/yes/mentir/19
+fre-30-00835903-v/negative/v/yes/d�former | falsifier | fausser/23
+fre-30-00836236-v/neutral/v/yes/présenter | représenter | signifier | symboliser |/49
+fre-30-00839619-a/positive/a/yes/compétent | efficace | efficient |/23
+fre-30-00841403-a/positive/a/yes/agissant | puissant |/29
+fre-30-00842989-v/negative/v/yes/accuser | plaindre/31
+fre-30-00843468-v/negative/v/yes/accuser | plaindre | reprocher/30
+fre-30-00845523-n/positive/n/yes/coït | congrès | copulation | rapport | rapports | relations | saillie | union |/62
+fre-30-00873603-a/positive/a/yes/courageux | énergétique | énergique |/36
+fre-30-00875141-v/positive/v/yes/préconiser | recommander |/50
+fre-30-00883297-n/positive/n/yes/éducation | enseignement |/67
+fre-30-00885695-a/positive/a/yes/courageux | enthousiaste |/25
+fre-30-00887463-v/positive/v/yes/consacrer | dédier |/62
+fre-30-00900616-a/positive/a/yes/essentiel |/25
+fre-30-00908099-v/negative/v/yes/dissuader | d�courager | emp�cher/17
+fre-30-00912048-v/negative/v/yes/cri | crier | pleurer/18
+fre-30-00912473-v/negative/v/yes/cri | crier/17
+fre-30-00914421-a/positive/a/yes/exact | précis |/39
+fre-30-00923793-v/neutral/v/yes/d�signer | indiquer | montrer/39
+fre-30-00931467-v/neutral/v/yes/dénommer | référer | signifier |/85
+fre-30-00931852-v/neutral/v/yes/signifier | vouloir |/43
+fre-30-00933154-a/negative/a/yes/cher | chère | coûteuse | coûteux | dispendieux |/27
+fre-30-00933420-n/positive/n/yes/art | beaux-arts | création |/57
+fre-30-00943837-v/neutral/v/yes/exprimer | montrer |/120
+fre-30-00953559-n/negative/n/yes/bataille | combat | conflit |/113
+fre-30-00956131-a/positive/a/yes/juste |/30
+fre-30-00957176-a/negative/a/yes/injuste |/35
+fre-30-00958896-n/negative/n/yes/bagarre | bataille | conflit | lutte/49
+fre-30-00962447-v/neutral/v/yes/discuter | exprimer | parler |/40
+fre-30-00965404-n/negative/n/yes/force | violence/36
+fre-30-00965606-a/positive/a/yes/connu | familier |/19
+fre-30-00967129-a/neutral/a/yes/étrange | singulier |/30
+fre-30-00968211-v/neutral/v/yes/diffuser | disperser | disséminer | parsemer | programmer | propager | répandre |/50
+fre-30-00971075-a/positive/a/yes/actuel | élégant |/36
+fre-30-00972621-n/negative/n/yes/assaut | attaque/44
+fre-30-00973056-v/neutral/v/yes/adresser | diffuser | programmer | répandre | transmettre | transporter |/70
+fre-30-00973077-n/negative/n/yes/guerre |/152
+fre-30-00993529-a/negative/a/yes/fatal |/26
+fre-30-00995775-a/positive/a/yes/favorable | propice |/19
+fre-30-01001689-a/positive/a/yes/fécond | fertile |/30
+fre-30-01002377-a/negative/a/yes/infécond | stérile |/24
+fre-30-01009240-v/positive/v/yes/affirmer | déclarer | dire |/80
+fre-30-01010862-a/positive/a/yes/premier |/38
+fre-30-01020005-v/neutral/v/yes/apercevoir | mentionner | noter | observer | remarquer | souligner |/234
+fre-30-01028748-v/neutral/v/yes/appeler | dénommer | nommer |/55
+fre-30-01034457-a/neutral/a/yes/étranger |/49
+fre-30-01037540-a/neutral/a/yes/étranger | extérieur |/24
+fre-30-01045711-a/neutral/a/yes/familier | informel |/52
+fre-30-01072262-v/negative/v/yes/concourir | rivaliser/38
+fre-30-01074650-a/positive/a/yes/aimable | gentil |/47
+fre-30-01076793-a/negative/a/yes/inamical |/26
+fre-30-01078783-v/negative/v/yes/affronter | confronter | visage/15
+fre-30-01090335-v/positive/v/yes/batailler | combattre | lutter |/80
+fre-30-01100145-v/positive/v/yes/gagner |/53
+fre-30-01118449-v/negative/v/yes/attaquer/22
+fre-30-01119169-v/negative/v/yes/assaillir | attaquer |/45
+fre-30-01120069-v/negative/v/yes/assaillir | attaque | attaquer/27
+fre-30-01123148-a/positive/a/yes/bon |/29
+fre-30-01125429-a/negative/a/yes/mal | mauvais |/58
+fre-30-01128193-v/positive/v/yes/assurer | préserver | protéger | sauvegarder |/147
+fre-30-01129920-n/neutral/n/yes/devoir | obligation | responsabilité |/60
+fre-30-01131043-a/negative/a/yes/maléfique | malfaisant | malin |/32
+fre-30-01139352-a/positive/a/yes/gracieux |/39
+fre-30-01142804-a/positive/a/yes/progressif |/35
+fre-30-01149494-a/negative/a/yes/triste |/28
+fre-30-01155354-a/negative/a/yes/difficile | dur/16
+fre-30-01158872-v/neutral/v/yes/servir | utiliser |/91
+fre-30-01160031-a/negative/a/yes/dangereux | nuisible |/58
+fre-30-01160342-n/negative/n/yes/châtiment | correction | peine | punition | sanction |/71
+fre-30-01170243-a/positive/a/yes/sain |/44
+fre-30-01170962-n/negative/n/yes/bataille | combat | combattre | lutte/42
+fre-30-01215421-v/negative/v/yes/attraper | capturer/23
+fre-30-01216670-v/neutral/v/yes/détenir | disposer | retenir | tenir |/39
+fre-30-01222884-a/negative/a/yes/malhonnête |/24
+fre-30-01229020-a/negative/a/yes/d�sesp�r�/23
+fre-30-01235859-a/neutral/a/yes/droit | vertical |/37
+fre-30-01244410-a/negative/a/yes/hostile |/29
+fre-30-01246148-a/negative/a/yes/adversaire | opposant/17
+fre-30-01258617-a/neutral/a/yes/homme | humain |/104
+fre-30-01263013-a/negative/a/yes/atroce | cruel | sauvage/18
+fre-30-01275562-a/positive/a/yes/important |/39
+fre-30-01282014-a/positive/a/yes/épatant | imposant | impressionnant |/34
+fre-30-01295275-v/neutral/v/yes/connecter | joindre | unir |/56
+fre-30-01323958-v/negative/v/yes/tuer |/155
+fre-30-01325536-v/negative/v/yes/mourir | p�rir | tuer/20
+fre-30-01325774-v/negative/v/yes/tuer/19
+fre-30-01334398-a/positive/a/yes/intelligent |/26
+fre-30-01340439-v/neutral/v/yes/attacher | fixer | lier | relier |/47
+fre-30-01346003-v/neutral/v/yes/ouvrir |/37
+fre-30-01364008-a/negative/a/yes/triste |/26
+fre-30-01370590-a/negative/a/yes/injuste |/20
+fre-30-01376894-a/neutral/a/yes/inconnu |/26
+fre-30-01384687-n/negative/n/yes/parasite/34
+fre-30-01396047-a/negative/a/yes/illégal | illicite |/22
+fre-30-01401854-a/negative/a/yes/illégal | irrégulier |/59
+fre-30-01430111-a/positive/a/yes/logique |/36
+fre-30-01435380-v/neutral/v/yes/passer | transférer | transmettre |/45
+fre-30-01436003-a/negative/a/yes/court |/213
+fre-30-01442186-a/negative/a/yes/court |/104
+fre-30-01449974-v/neutral/v/yes/porter | transporter |/181
+fre-30-01462005-v/neutral/v/yes/mélanger | mêler |/58
+fre-30-01463963-v/positive/v/yes/disposer | organiser | ranger |/75
+fre-30-01476483-v/negative/v/yes/barrer | bloquer | boucher | encombrer | entraver/28
+fre-30-01481154-v/neutral/v/yes/suspendre |/46
+fre-30-01482075-v/neutral/v/yes/suspendre |/42
+fre-30-01488245-a/neutral/a/yes/mûr |/46
+fre-30-01493173-a/neutral/a/yes/mûr | mûre |/30
+fre-30-01494310-v/neutral/v/yes/mettre | placer | poser |/269
+fre-30-01508719-a/positive/a/yes/doux | léger |/34
+fre-30-01525776-a/neutral/a/yes/portable | portatif |/35
+fre-30-01532589-v/positive/v/yes/nettoyer |/57
+fre-30-01549291-a/negative/a/yes/immoral |/27
+fre-30-01551633-a/neutral/a/yes/beaucoup | moult | nombreux |/25
+fre-30-01552519-v/neutral/v/yes/couper | trancher |/111
+fre-30-01556921-v/neutral/v/yes/diviser | partager | séparer |/44
+fre-30-01564144-v/negative/v/yes/d�truire | d�vaster | ravager/27
+fre-30-01581115-a/negative/a/yes/inutile |/25
+fre-30-01593649-a/neutral/a/yes/habituel | normal |/117
+fre-30-01595596-a/negative/a/yes/anormal/22
+fre-30-01598319-a/neutral/a/yes/normal |/17
+fre-30-01613463-a/negative/a/yes/d�sob�issant | rebelle/27
+fre-30-01617192-v//v/yes/créer | faire |/434
+fre-30-01621555-v/positive/v/yes/créer | effectuer | fabriquer | faire | fonder | obtenir | produire |/274
+fre-30-01640207-v/positive/v/yes/créer | faire |/60
+fre-30-01652380-a/neutral/a/yes/ouvert | ouvrir |/24
+fre-30-01652902-a/neutral/a/yes/ouvert | ouvrir |/24
+fre-30-01653873-v/positive/v/yes/faire |/108
+fre-30-01664172-v/positive/v/yes/cuire | cuisiner | faire | préparer |/59
+fre-30-01675190-a/positive/a/yes/extraordinaire |/33
+fre-30-01675963-v/positive/v/yes/décorer | garnir | orner |/82
+fre-30-01708676-v/positive/v/yes/danse | danser |/61
+fre-30-01727926-a/neutral/a/yes/dernier | passé | précédent |/36
+fre-30-01734502-v/negative/v/yes/confronter | double | doublon | redoubler | reproduire | r�p�ter/33
+fre-30-01742726-v/positive/v/yes/cultiver |/277
+fre-30-01749320-a/positive/a/yes/parfait |/51
+fre-30-01752167-a/negative/a/yes/imparfait |/28
+fre-30-01752495-v/positive/v/yes/créer | procréer | produire |/70
+fre-30-01753788-v/positive/v/yes/créer | fonder |/120
+fre-30-01764171-v/negative/v/yes/distraire | d�ranger | inqui�tude | pr�occuper/17
+fre-30-01779986-a/neutral/a/yes/intellectuel | mental |/65
+fre-30-01781478-a/positive/a/yes/pieux |/24
+fre-30-01814396-v/negative/v/yes/d�courager | d�moraliser/15
+fre-30-01821266-a/positive/a/yes/éventuel | possible |/86
+fre-30-01825671-a/positive/a/yes/puissant |/31
+fre-30-01827535-a/negative/a/yes/faible |/22
+fre-30-01831531-v/neutral/v/yes/déplacer |/66
+fre-30-01834304-a/positive/a/yes/pratique |/46
+fre-30-01835496-v/neutral/v/yes/aller | circuler | déplacer | marcher | voyager |/183
+fre-30-01837744-a/positive/a/yes/exact | précis |/35
+fre-30-01847672-a/neutral/a/yes/absent |/21
+fre-30-01850315-v/neutral/v/yes/déplacer | transférer |/81
+fre-30-01852174-a/neutral/a/yes/principal |/24
+fre-30-01858094-a/neutral/a/yes/personnel | privé |/47
+fre-30-01898129-a/positive/a/yes/raisonnable |/25
+fre-30-01905653-a/positive/a/yes/propre | pur |/30
+fre-30-01925372-a/positive/a/yes/rationnel |/23
+fre-30-01926376-a/negative/a/yes/irrationnel |/27
+fre-30-01943406-a/positive/a/yes/raisonnable | sage |/32
+fre-30-01945550-a/neutral/a/yes/mutuel | réciproque |/29
+fre-30-01972298-v/negative/v/yes/tomber/31
+fre-30-01975138-a/positive/a/yes/pertinent |/22
+fre-30-01995549-v/positive/v/yes/avancer | continuer | progresser/36
+fre-30-01996377-a/positive/a/yes/responsable |/54
+fre-30-01997910-a/negative/a/yes/irresponsable/18
+fre-30-02020590-v/positive/v/yes/aboutir | arriver | atteindre | gagner | parvenir |/68
+fre-30-02053818-a/positive/a/yes/sacré | saint |/28
+fre-30-02055062-a/positive/a/yes/sacré | saint |/35
+fre-30-02058794-a/negative/a/yes/dangereux | périlleux | redoutable |/69
+fre-30-02074092-a/negative/a/yes/aberrant | fou |/36
+fre-30-02079029-a/negative/a/yes/sarcastique/16
+fre-30-02080577-a/positive/a/yes/satisfaisant |/27
+fre-30-02106506-v/positive/v/yes/comprendre | percevoir |/64
+fre-30-02109678-a/neutral/a/yes/distinct | séparer |/75
+fre-30-02118379-a/negative/a/yes/grave | sérieux |/29
+fre-30-02137132-v/neutral/v/yes/montrer |/105
+fre-30-02144835-v/negative/v/yes/cacher | dissimuler |/47
+fre-30-02166346-a/positive/a/yes/pur | simple |/27
+fre-30-02174896-a/positive/a/yes/facile | pur | simple |/59
+fre-30-02176178-a/neutral/a/yes/complexe |/27
+fre-30-02176268-v/positive/v/yes/faire |/41
+fre-30-02203362-v/positive/v/yes/avoir | disposer | posséder |/47
+fre-30-02204692-v/positive/v/yes/avoir | disposer | posséder |/68
+fre-30-02207206-v/neutral/v/yes/acheter | acquérir |/97
+fre-30-02210855-v/positive/v/yes/acquérir | obtenir |/61
+fre-30-02225510-a/positive/a/yes/adroit | compétent | habile | savant |/61
+fre-30-02232251-a/positive/a/yes/bon |/26
+fre-30-02237338-v/negative/v/yes/refuser | rejeter | repousser/30
+fre-30-02251743-v/neutral/v/yes/acquitter | payer | verser |/121
+fre-30-02281093-v/neutral/v/yes/conserver | entreposer | stocker |/75
+fre-30-02288295-v/positive/v/yes/acquérir | gagner | obtenir |/82
+fre-30-02290998-a/positive/a/yes/stable |/22
+fre-30-02291843-a/negative/a/yes/instable |/29
+fre-30-02302220-v/neutral/v/yes/détenir | porter |/36
+fre-30-02308741-v/positive/v/yes/contribuer | donner/34
+fre-30-02315002-a/neutral/a/yes/courbe | courbé |/84
+fre-30-02321009-a/positive/a/yes/fort | puissant |/27
+fre-30-02324397-a/negative/a/yes/faible |/26
+fre-30-02326695-a/negative/a/yes/têtu |/25
+fre-30-02327200-v/positive/v/yes/fournir | pourvoir |/56
+fre-30-02331262-a/positive/a/yes/gagnant | réussi |/51
+fre-30-02335828-a/positive/a/yes/bon | suffisant |/44
+fre-30-02336449-a/negative/a/yes/insuffisant |/34
+fre-30-02367363-v/positive/v/yes/agir | faire |/92
+fre-30-02367785-a/neutral/a/yes/sec | sécher |/20
+fre-30-02368787-a/negative/a/yes/acide | aigre | hargneux |/27
+fre-30-02385102-a/positive/a/yes/grand | haut |/197
+fre-30-02389220-a/negative/a/yes/sauvage |/83
+fre-30-02400037-v/positive/v/yes/aimer mieux | faveur | favoriser | pr�f�rer/31
+fre-30-02412164-a/negative/a/yes/faible | l�ger | maigre | mince/23
+fre-30-02416278-v/positive/v/yes/collaborer | coopérer |/54
+fre-30-02427103-v/positive/v/yes/établir | fonder | lancer | reconstituer | rétablir |/119
+fre-30-02431728-a/negative/a/yes/fatigu�/16
+fre-30-02432530-v/neutral/v/yes/administrer | fonder | organiser | reconstituer | r�tablir | �tablir/34
+fre-30-02449430-a/negative/a/yes/toxique | venimeux |/71
+fre-30-02450505-v/neutral/v/yes/empêcher |/52
+fre-30-02452885-v/negative/v/yes/empêcher | interdire |/96
+fre-30-02453321-v/negative/v/yes/d�tourner | emp�cher | pr�venir | �viter/36
+fre-30-02453889-v/positive/v/yes/accoter | aider | approuver | appui | soutenir |/45
+fre-30-02460502-a/positive/a/yes/juste | vrai |/82
+fre-30-02464693-a/positive/a/yes/confiance | droit | fiable | honnête | sûr | véritable |/25
+fre-30-02467662-v/neutral/v/yes/diviser | partager | répartir | séparer |/145
+fre-30-02472293-n/neutral/n/yes/être | homme | homo | humain | humaine |/130
+fre-30-02482425-v/negative/v/yes/abattre | assassiner | tuer |/47
+fre-30-02483000-v/negative/v/yes/assassiner/21
+fre-30-02483267-v/negative/v/yes/effectuer | ex�cuter/36
+fre-30-02488834-v/positive/v/yes/épouser | marier |/43
+fre-30-02494356-v/negative/v/yes/emprisonner | ge�le | imprisonner | incarcerer | incarc�rer | introduire | mettre | prison/21
+fre-30-02495922-a/positive/a/yes/utile |/33
+fre-30-02499629-v/negative/v/yes/punir | p�naliser/22
+fre-30-02510879-a/negative/a/yes/violent |/24
+fre-30-02513740-a/negative/a/yes/méchant |/31
+fre-30-02517265-a/neutral/a/yes/invisible |/25
+fre-30-02521410-v/negative/v/yes/protestation | protester/24
+fre-30-02522417-a/neutral/a/yes/involontaire |/18
+fre-30-02524171-v/positive/v/yes/arriver | gagner | parvenir | réussir | succéder |/41
+fre-30-02526085-v/positive/v/yes/aboutir | accomplir | atteindre | obtenir | parvenir | réaliser | remporter |/189
+fre-30-02529264-a/positive/a/yes/chaud |/138
+fre-30-02529284-v/negative/v/yes/d�daigner | n�gliger/23
+fre-30-02541302-a/negative/a/yes/malade |/32
+fre-30-02551380-a/neutral/a/yes/sec | sèche | sécher |/80
+fre-30-02557199-v/negative/v/yes/bloquer | embarrasser | entraver | g�ner | obstruer/24
+fre-30-02560548-a/neutral/a/yes/ample | étendu | général | large |/51
+fre-30-02563327-v/negative/v/yes/courir | effectuer | ex�cuter/17
+fre-30-02569130-a/positive/a/yes/raisonnable | sage | sensé |/24
+fre-30-02570282-a/negative/a/yes/absurde | imbécile | insensé | stupide |/32
+fre-30-02579447-v/negative/v/yes/abaisser | ab�tardir | corrompre | d�baucher | d�grader | d�praver | renverser/23
+fre-30-02584097-v/negative/v/yes/abandonner | d�sert | d�serter | livrer | quitter/20
+fre-30-02621853-v/neutral/v/yes/diviser | partager | répartir | séparer |/53
+fre-30-02632353-v/negative/v/yes/manquer |/223
+fre-30-02661252-v/neutral/v/yes/diverger | d�vier | partir | varier/44
+fre-30-02666239-v/neutral/v/yes/différer |/39
+fre-30-02680814-v/neutral/v/yes/arrêter | cesser |/51
+fre-30-02694933-v/neutral/v/yes/placer | poser | situer | trouver |/69
+fre-30-02699497-v/neutral/v/yes/correspondre | être | présenter | représenter | signifier |/51
+fre-30-02743261-a/neutral/a/yes/homme | humain |/50
+fre-30-02743391-a/neutral/a/yes/homme | humain |/21
+fre-30-02752987-a/neutral/a/yes/judiciaire | juridique |/21
+fre-30-02754096-a/neutral/a/yes/judiciaire | juridique | légal |/20
+fre-30-02756821-v/negative/v/yes/tomber/21
+fre-30-02789151-a/positive/a/yes/romantique |/19
+fre-30-02866578-n/negative/n/yes/bombardement | bombarder | bombe/42
+fre-30-02870092-n/neutral/n/yes/livre | volume |/56
+fre-30-02913152-n/neutral/n/yes/bâtiment | édifice | immeuble | maison |/224
+fre-30-02946644-a/positive/a/yes/pacifique |/33
+fre-30-03122748-n/neutral/n/yes/couverture | revêtement |/65
+fre-30-03169390-n/positive/n/yes/décoration | ornement | parure |/66
+fre-30-03259505-n/positive/n/yes/demeure | domicile | foyer | habitation | logement | maison |/60
+fre-30-03526198-n/neutral/n/yes/cavité | trou |/62
+fre-30-03544360-n/positive/n/yes/maison |/65
+fre-30-03740161-n/positive/n/yes/médicament | remède |/93
+fre-30-04014297-n/positive/n/yes/protection/47
+fre-30-04105893-n/neutral/n/yes/local | pièce | salle |/118
+fre-30-04360501-n/positive/n/yes/appui | support |/53
+fre-30-04673965-n/neutral/n/yes/apparence | aspect |/118
+fre-30-04981139-n/neutral/n/yes/son |/66
+fre-30-05040275-n/negative/n/yes/faible | faiblesse/35
+fre-30-05090441-n/neutral/n/yes/importance | magnitude |/52
+fre-30-05113133-n/negative/n/yes/carence | d�ficience | insuffisance | lacune | privation/42
+fre-30-05145118-n/neutral/n/yes/coût | prix |/51
+fre-30-05149325-n/neutral/n/yes/fonction | rôle | usage | utilisation |/77
+fre-30-05155821-n/positive/n/yes/avantage/42
+fre-30-05200169-n/positive/n/yes/aptitude | capacit�/51
+fre-30-05311054-n/neutral/n/yes/il | oculus | œil | œil-de-bœuf |/161
+fre-30-05388805-n/neutral/n/yes/cœur | cur | pompe |/75
+fre-30-05564590-n/neutral/n/yes/main | patte |/121
+fre-30-05616246-n/positive/n/yes/aptitude | capacité | faculté | habilité |/89
+fre-30-05617606-n/positive/n/yes/intelligence/45
+fre-30-05629682-n/negative/n/yes/Inferno | disparition | mort | perte/20
+fre-30-05663671-n/neutral/n/yes/autorité | gouvernement |/164
+fre-30-05667404-n/positive/n/yes/coutume | Identité | tradition |/51
+fre-30-05718254-n/neutral/n/yes/son |/93
+fre-30-05724694-n/negative/n/yes/douleur | peine |/66
+fre-30-05814291-n/neutral/n/yes/problème | question | sujet |/55
+fre-30-05829782-n/positive/n/yes/allégresse | bonheur | joie | plaisir |/51
+fre-30-05839024-n/neutral/n/yes/forme | genre | sorte | type |/377
+fre-30-05840188-n/neutral/n/yes/genre | type |/75
+fre-30-05865998-n/neutral/n/yes/point |/56
+fre-30-05867413-n/neutral/n/yes/division | élément | part | partie | section |/69
+fre-30-05868954-n/neutral/n/yes/composant | constituant | élément | facteur | ingrédient | point |/61
+fre-30-05869584-n/neutral/n/yes/ensemble | totalité | tout |/49
+fre-30-05872477-n/neutral/n/yes/principe |/81
+fre-30-05872982-n/positive/n/yes/droit | loi |/54
+fre-30-05898568-n/neutral/n/yes/plan | programme | projet |/68
+fre-30-05919866-n/neutral/n/yes/sens | sen|sens | signification | substance |/88
+fre-30-05941423-n/neutral/n/yes/conviction | croyance | foi |/57
+fre-30-05946687-n/neutral/n/yes/foi | religion |/61
+fre-30-05980875-n/positive/n/yes/but | fin | objectif |/69
+fre-30-05984936-n/positive/n/yes/culture |/56
+fre-30-06043075-n/positive/n/yes/médecine | médicament | remède |/118
+fre-30-06316048-n/neutral/n/yes/connexion | expression | locution | phrase | syntagme |/58
+fre-30-06333653-n/neutral/n/yes/dénomination | nom |/147
+fre-30-06410904-n/neutral/n/yes/livre |/73
+fre-30-06470073-n/neutral/n/yes/document | papier | pièce |/94
+fre-30-06532330-n/positive/n/yes/droit | législation | loi |/51
+fre-30-06568978-n/neutral/n/yes/programme |/72
+fre-30-06601327-n/neutral/n/yes/importance | importation | importer | intérêt | sens | sen|sens | signifiance | signification |/129
+fre-30-06686736-n/positive/n/yes/agr�ment | approbation | visa/42
+fre-30-06696483-n/positive/n/yes/accolade | distinction | honneur | honorer | prix/46
+fre-30-06710546-n/negative/n/yes/critique/38
+fre-30-06784003-n/negative/n/yes/probl�me/38
+fre-30-07037465-n/neutral/n/yes/composition | morceau | opus | pièce |/82
+fre-30-07180787-n/negative/n/yes/d�saccord/20
+fre-30-07181935-n/negative/n/yes/conflit | différence | différend | dispute | litige |/53
+fre-30-07210553-n/negative/n/yes/protestation | protester/20
+fre-30-07314838-n/negative/n/yes/calamit� | catastrophe | d�sastre | fl�au/26
+fre-30-07323922-n/neutral/n/yes/commencement | début | origine |/51
+fre-30-07355491-n/negative/n/yes/décès | mort |/131
+fre-30-07371293-n/neutral/n/yes/son |/85
+fre-30-07387509-n/negative/n/yes/bruit |/84
+fre-30-07417405-n/negative/n/yes/crise | exigence | urgence/23
+fre-30-07420770-n/negative/n/yes/dégât | détérioration | dommage | préjudice |/56
+fre-30-07473441-n/positive/n/yes/triomphe | victoire |/66
+fre-30-07484265-n/positive/n/yes/désir |/65
+fre-30-07494363-n/negative/n/yes/douleur | peine/24
+fre-30-07502669-n/negative/n/yes/antipathie/20
+fre-30-07502980-n/negative/n/yes/d�dain | m�pris | m�priser/20
+fre-30-07516354-n/negative/n/yes/col�re | ire/33
+fre-30-07532440-n/negative/n/yes/malheur | tristesse/34
+fre-30-07543288-n/positive/n/yes/amour |/56
+fre-30-07544647-n/positive/n/yes/Affection#G.C3.A9n.C3.A9ralit.C3.A9 | affection | affection#g.c3.a9n.c3.a9ralit.c3.a9 | amour | c�ur | tendance | tendresse/40
+fre-30-07546465-n/negative/n/yes/haine/23
+fre-30-07548978-n/negative/n/yes/agacement | amertume | rancune | ranc�ur | ressentiment/23
+fre-30-07809368-n/positive/n/yes/aromate | aromatisant | assaisonnement | épice | parfum |/78
+fre-30-07923748-n/neutral/n/yes/jus | sève |/56
+fre-30-07945657-n/negative/n/yes/d�funt | mort/21
+fre-30-07951464-n/neutral/n/yes/agrégation | collection |/158
+fre-30-08058098-n/neutral/n/yes/compagnie | entreprise | société |/58
+fre-30-08108972-n/neutral/n/yes/genre | groupe |/765
+fre-30-08190482-n/negative/n/yes/ennemi |/57
+fre-30-08223802-n/positive/n/yes/communauté |/50
+fre-30-08287844-n/positive/n/yes/civilisation |/69
+fre-30-08337324-n/neutral/n/yes/administration | agence | autorité | bureau | ministère | office | organisme |/55
+fre-30-08441203-n/positive/n/yes/droit | législation | loi |/357
+fre-30-08507558-n/neutral/n/yes/début | origine | racine | source |/59
+fre-30-08559508-n/positive/n/yes/domicile | foyer | maison |/57
+fre-30-08566028-n/neutral/n/yes/bout | extrémité | fin |/177
+fre-30-08620061-n/neutral/n/yes/endroit | lieu | point |/126
+fre-30-08651247-n/neutral/n/yes/lieu | place | site |/116
+fre-30-08664443-n/neutral/n/yes/endroit | lieu | point |/283
+fre-30-09411430-n/neutral/n/yes/fleuve | rivière | torrent |/333
+fre-30-09505418-n/positive/n/yes/déité | dévas | dieu | divinité | immortel |/189
+fre-30-09617867-n/positive/n/yes/expert | savant | spécialiste |/52
+fre-30-09773245-n/negative/n/yes/adversaire | antagoniste | ennemi/44
+fre-30-09827683-n/positive/n/yes/beauté | bébé | chéri | enfant | nourisson | nourrisson | nouveau-né |/72
+fre-30-09917593-n/positive/n/yes/bambin | enfant | môme |/193
+fre-30-09977660-n/negative/n/yes/criminel | hors-la-loi | malfaiteur | malfrat |/56
+fre-30-10214637-n/positive/n/yes/concepteur | inventeur |/62
+fre-30-10225219-n/positive/n/yes/juge | juriste | justice | magistrat |/59
+fre-30-10379620-n/negative/n/yes/adversaire | opposant | opposition/36
+fre-30-10476086-n/negative/n/yes/d�tenu | prisonnier/33
+fre-30-10547145-n/positive/n/yes/saint |/67
+fre-30-10677713-n/positive/n/yes/admirateur | ami | champion | protagoniste/43
+fre-30-10702781-n/negative/n/yes/terrorisme | terroriste/36
+fre-30-11466043-n/positive/n/yes/chaleur | énergie |/58
+fre-30-11473954-n/positive/n/yes/lumière |/192
+fre-30-11480930-n/neutral/n/yes/son |/54
+fre-30-11669335-n//n/yes/fleur |/1273
+fre-30-13125117-n/neutral/n/yes/racine |/183
+fre-30-13136556-n/neutral/n/yes/coque | écrou | noix |/53
+fre-30-13258362-n/positive/n/yes/b�n�fice | gain | lucre | profit | r�seau | r�sultat | r�sultat net/46
+fre-30-13388245-n/neutral/n/yes/pièce |/61
+fre-30-13830305-n/neutral/n/yes/point |/61
+fre-30-13957601-n/neutral/n/yes/présence |/55
+fre-30-13960974-n/negative/n/yes/absence | défaut | manque |/51
+fre-30-13991823-n/positive/n/yes/liberté |/55
+fre-30-13994148-n/positive/n/yes/indépendance | liberté |/111
+fre-30-14061805-n/negative/n/yes/maladie |/58
+fre-30-14070360-n/negative/n/yes/maladie |/250
+fre-30-14127211-n/negative/n/yes/Maladie infectieuse | maladie infectieuse | maladies infectieuses/34
+fre-30-14174549-n/negative/n/yes/infection |/81
+fre-30-14285662-n/negative/n/yes/blessure | mal | traumatisme/49
+fre-30-14322699-n/negative/n/yes/douleur |/68
+fre-30-14440137-n/negative/n/yes/honte | ignominie/20
+fre-30-14447908-n/positive/n/yes/bien-�tre | sant�/42
+fre-30-14449405-n/negative/n/yes/absence | carence | défaut | déficience | insuffisance | manque |/138
+fre-30-14540765-n/negative/n/yes/danger/40
+fre-30-14541044-n/negative/n/yes/danger/42
+fre-30-14541852-n/negative/n/yes/danger | peligre | risque | risquer/48
+fre-30-14589223-n/positive/n/yes/solution |/91
+fre-30-14607521-n/negative/n/yes/acide | aigre |/105
+fre-30-14864360-n/neutral/n/yes/graisse | gras | matière |/57
+fre-30-15032376-n/negative/n/yes/poison | toxique/41
+fre-30-15266911-n/neutral/n/yes/bout | extrémité | fin | issue | terme | terminaison |/77

@@ -1,0 +1,6352 @@
+EXPRESSIONS
+Expression: temperde#d-negative
+  lemmas: temperen
+  pos: V
+  rel  2
+  over 2
+  ratio 1
+  freqtokens  temperde: 2
+Expression: opvliegendheid#i-negative
+  lemmas: opvliegendheid
+  pos: O
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  opvliegendheid: 1
+Expression: oplegt#i-negative
+  lemmas: opleggen
+  pos: V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  oplegt: 1
+Expression: ,perfect#i-strongpositive
+  lemmas: ,perfect
+  pos: O
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  ,perfect: 1
+Expression: flirt#d-positive
+  lemmas: flirten
+  pos: V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  flirt: 1
+Expression: verdiende#i-positive
+  lemmas: verdiend
+  pos: G
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  verdiende: 1
+Expression: doelgerichter#i-positive
+  lemmas: doelgericht
+  pos: G
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  doelgerichter: 1
+Expression: aangegrepen#d-positive
+  lemmas: aangrijpen
+  pos: V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  aangegrepen: 1
+Expression: nationalistisch#i-negative
+  lemmas: nationalistisch
+  pos: G
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  nationalistisch: 1
+Expression: regeringssamenwerking#i-positive
+  lemmas: regeringssamenwerking
+  pos: O
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  regeringssamenwerking: 1
+Expression: progressiever#i-positive
+  lemmas: progressief
+  pos: G
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  progressiever: 1
+Expression: stutten#d-positive
+  lemmas: stut
+  pos: N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  stutten: 1
+Expression: verslechtering#i-negative
+  lemmas: verslechtering
+  pos: N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  verslechtering: 1
+Expression: begrotingssoberheid#i-negative
+  lemmas: begrotingssoberheid
+  pos: O
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  begrotingssoberheid: 1
+Expression: aandrongen#d-positive
+  lemmas: aandringen
+  pos: V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  aandrongen: 1
+Expression: overheidsschuld#i-negative
+  lemmas: overheidsschuld
+  pos: O
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  overheidsschuld: 1
+Expression: ongepast#i-negative
+  lemmas: ongepast
+  pos: G
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  ongepast: 1
+Expression: opheffing#d-negative
+  lemmas: opheffing
+  pos: N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  opheffing: 1
+Expression: aanwakkeren#i-positive
+  lemmas: aanwakkeren
+  pos: V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  aanwakkeren: 1
+Expression: verdrietig#i-negative
+  lemmas: verdrietig
+  pos: G
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  verdrietig: 1
+Expression: roemden#d-strongpositive
+  lemmas: roemen
+  pos: V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  roemden: 1
+Expression: afgezaagd#i-negative
+  lemmas: afzagen
+  pos: V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  afgezaagd: 1
+Expression: acceptabel#i-positive
+  lemmas: acceptabel
+  pos: G
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  acceptabel: 1
+Expression: gecompliceerde#i-negative
+  lemmas: gecompliceerd
+  pos: G
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  gecompliceerde: 1
+Expression: reactionair#i-negative
+  lemmas: reactionair
+  pos: G
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  reactionair: 1
+Expression: rechtvaardiger#i-positive
+  lemmas: rechtvaardig
+  pos: G
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  rechtvaardiger: 1
+Expression: intelligent#i-positive
+  lemmas: intelligent
+  pos: G
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  intelligent: 1
+Expression: eenduidige#i-negative
+  lemmas: eenduidig
+  pos: G
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  eenduidige: 1
+Expression: onontkoombaar#i-negative
+  lemmas: onontkoombaar
+  pos: G
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  onontkoombaar: 1
+Expression: gedesillusioneerd#d-negative
+  lemmas: gedesillusioneerd
+  pos: G
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  gedesillusioneerd: 1
+Expression: bitter#i-negative
+  lemmas: bitter
+  pos: G
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  bitter: 1
+Expression: wil#d-positive
+  lemmas: willen
+  pos: V
+  rel  27
+  over 398
+  ratio 0
+  freqtokens  wil: 398
+Expression: willen#d-positive
+  lemmas: willen
+  pos: V
+  rel  12
+  over 218
+  ratio 0
+  freqtokens  willen: 218
+Expression: zei#d-neutral
+  lemmas: zeggen
+  pos: V
+  rel  6
+  over 428
+  ratio 0
+  freqtokens  zei: 428
+Expression: zegt#d-neutral
+  lemmas: zeggen
+  pos: V
+  rel  5
+  over 129
+  ratio 0
+  freqtokens  zegt: 129
+Expression: vrezen#d-negative
+  lemmas: vrezen
+  pos: V
+  rel  4
+  over 9
+  ratio 0
+  freqtokens  vrezen: 9
+Expression: waarschuwt#d-negative
+  lemmas: waarschuwen
+  pos: V
+  rel  4
+  over 25
+  ratio 0
+  freqtokens  waarschuwt: 25
+Expression: vreest#d-negative
+  lemmas: vrezen
+  pos: V
+  rel  4
+  over 16
+  ratio 0
+  freqtokens  vreest: 16
+Expression: meer#d-positive
+  lemmas: meer
+  pos: A
+  rel  3
+  over 506
+  ratio 0
+  freqtokens  meer: 506
+Expression: groei#i-positive
+  lemmas: groei
+  pos: N
+  rel  3
+  over 172
+  ratio 0
+  freqtokens  groei: 172
+Expression: steunt#d-positive
+  lemmas: steunen
+  pos: V
+  rel  3
+  over 12
+  ratio 0
+  freqtokens  steunt: 12
+Expression: kritiek#d-negative
+  lemmas: kritiek
+  pos: N
+  rel  3
+  over 52
+  ratio 0
+  freqtokens  kritiek: 52
+Expression: steunde#d-positive
+  lemmas: steunen
+  pos: V
+  rel  3
+  over 13
+  ratio 0
+  freqtokens  steunde: 13
+Expression: stimuleren#d-positive
+  lemmas: stimuleren
+  pos: V
+  rel  3
+  over 31
+  ratio 0
+  freqtokens  stimuleren: 31
+Expression: waarschuwde#d-negative
+  lemmas: waarschuwen
+  pos: V
+  rel  3
+  over 32
+  ratio 0
+  freqtokens  waarschuwde: 32
+Expression: vindt#d-neutral
+  lemmas: vinden
+  pos: V
+  rel  2
+  over 108
+  ratio 0
+  freqtokens  vindt: 108
+Expression: geen#i-negative
+  lemmas: geen
+  pos: D
+  rel  2
+  over 347
+  ratio 0
+  freqtokens  geen: 347
+Expression: wilde#d-positive
+  lemmas: willen
+  pos: V
+  rel  2
+  over 48
+  ratio 0
+  freqtokens  wilde: 48
+Expression: benadrukte#d-neutral
+  lemmas: benadrukken
+  pos: V
+  rel  2
+  over 48
+  ratio 0
+  freqtokens  benadrukte: 48
+Expression: aldus#d-neutral
+  lemmas: aldus
+  pos: A
+  rel  2
+  over 186
+  ratio 0
+  freqtokens  aldus: 186
+Expression: vriendschap#i-positive
+  lemmas: vriendschap
+  pos: N
+  rel  2
+  over 16
+  ratio 0
+  freqtokens  vriendschap: 16
+Expression: constructief#i-positive
+  lemmas: constructief
+  pos: G
+  rel  2
+  over 11
+  ratio 0
+  freqtokens  constructief: 11
+Expression: minder#i-negative
+  lemmas: min
+  pos: G
+  rel  2
+  over 91
+  ratio 0
+  freqtokens  minder: 91
+Expression: meer#i-positive
+  lemmas: meer
+  pos: A
+  rel  2
+  over 506
+  ratio 0
+  freqtokens  meer: 506
+Expression: omstreden#i-negative
+  lemmas: omstreden
+  pos: G
+  rel  2
+  over 9
+  ratio 0
+  freqtokens  omstreden: 9
+Expression: betreurt#d-negative
+  lemmas: betreuren
+  pos: V
+  rel  2
+  over 4
+  ratio 0
+  freqtokens  betreurt: 4
+Expression: prees#d-positive
+  lemmas: prijzen
+  pos: V
+  rel  2
+  over 12
+  ratio 0
+  freqtokens  prees: 12
+Expression: tegen#d-negative
+  lemmas: tegen
+  pos: P
+  rel  2
+  over 278
+  ratio 0
+  freqtokens  tegen: 278
+Expression: hulp#d-positive
+  lemmas: hulp
+  pos: N
+  rel  2
+  over 40
+  ratio 0
+  freqtokens  hulp: 40
+Expression: accepteert#d-positive
+  lemmas: accepteren
+  pos: V
+  rel  2
+  over 6
+  ratio 0
+  freqtokens  accepteert: 6
+Expression: tegenstander#i-negative
+  lemmas: tegenstander
+  pos: N
+  rel  2
+  over 10
+  ratio 0
+  freqtokens  tegenstander: 10
+Expression: feliciteert#d-positive
+  lemmas: feliciteren
+  pos: V
+  rel  2
+  over 14
+  ratio 0
+  freqtokens  feliciteert: 14
+Expression: blij#i-positive
+  lemmas: blij
+  pos: G
+  rel  2
+  over 23
+  ratio 0
+  freqtokens  blij: 23
+Expression: stoppen#d-negative
+  lemmas: stoppen
+  pos: V
+  rel  2
+  over 12
+  ratio 0
+  freqtokens  stoppen: 12
+Expression: verwerpen#d-negative
+  lemmas: verwerpen
+  pos: V
+  rel  2
+  over 8
+  ratio 0
+  freqtokens  verwerpen: 8
+Expression: verlies#i-negative
+  lemmas: verlies
+  pos: N
+  rel  2
+  over 31
+  ratio 0
+  freqtokens  verlies: 31
+Expression: vieren#d-positive
+  lemmas: vier
+  pos: O
+  rel  2
+  over 10
+  ratio 0
+  freqtokens  vieren: 10
+Expression: slordige#i-negative
+  lemmas: slordig
+  pos: G
+  rel  2
+  over 3
+  ratio 0
+  freqtokens  slordige: 3
+Expression: goede#i-positive
+  lemmas: goed
+  pos: G
+  rel  2
+  over 75
+  ratio 0
+  freqtokens  goede: 75
+Expression: positief#i-positive
+  lemmas: positief
+  pos: G
+  rel  2
+  over 15
+  ratio 0
+  freqtokens  positief: 15
+Expression: verklaarde#d-neutral
+  lemmas: verklaren
+  pos: V
+  rel  2
+  over 34
+  ratio 0
+  freqtokens  verklaarde: 34
+Expression: liever#i-positive
+  lemmas: lief
+  pos: G
+  rel  2
+  over 20
+  ratio 0
+  freqtokens  liever: 20
+Expression: vieren#d-strongpositive
+  lemmas: vier
+  pos: O
+  rel  2
+  over 10
+  ratio 0
+  freqtokens  vieren: 10
+Expression: strengere#i-negative
+  lemmas: streng
+  pos: G
+  rel  2
+  over 14
+  ratio 0
+  freqtokens  strengere: 14
+Expression: strenge#i-negative
+  lemmas: streng
+  pos: G
+  rel  2
+  over 22
+  ratio 0
+  freqtokens  strenge: 22
+Expression: zwakkere#i-negative
+  lemmas: zwak
+  pos: G
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  zwakkere: 3
+Expression: dominante#i-positive
+  lemmas: dominant
+  pos: G
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  dominante: 3
+Expression: verweet#d-negative
+  lemmas: verwijten
+  pos: V
+  rel  1
+  over 4
+  ratio 0
+  freqtokens  verweet: 4
+Expression: afluisteren#i-negative
+  lemmas: afluisteren
+  pos: V
+  rel  1
+  over 22
+  ratio 0
+  freqtokens  afluisteren: 22
+Expression: onacceptabel#i-negative
+  lemmas: onacceptabel
+  pos: G
+  rel  1
+  over 5
+  ratio 0
+  freqtokens  onacceptabel: 5
+Expression: akkoord#i-positive
+  lemmas: akkoord
+  pos: N
+  rel  1
+  over 110
+  ratio 0
+  freqtokens  akkoord: 110
+Expression: terugdringen#i-negative
+  lemmas: terugdringen
+  pos: N
+  rel  1
+  over 7
+  ratio 0
+  freqtokens  terugdringen: 7
+Expression: inspirerende#i-positive
+  lemmas: inspireren
+  pos: V
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  inspirerende: 3
+Expression: weggestemd#d-negative
+  lemmas: wegstemmen
+  pos: V
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  weggestemd: 2
+Expression: geïnspireerd#i-positive
+  lemmas: inspireren
+  pos: V
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  geïnspireerd: 3
+Expression: nieuwe#i-positive
+  lemmas: nieuw
+  pos: G
+  rel  1
+  over 316
+  ratio 0
+  freqtokens  nieuwe: 316
+Expression: omlaag#i-negative
+  lemmas: omlaag
+  pos: A
+  rel  1
+  over 10
+  ratio 0
+  freqtokens  omlaag: 10
+Expression: wil#d-neutral
+  lemmas: willen
+  pos: V
+  rel  1
+  over 398
+  ratio 0
+  freqtokens  wil: 398
+Expression: nodig#i-negative
+  lemmas: nodig
+  pos: G
+  rel  1
+  over 124
+  ratio 0
+  freqtokens  nodig: 124
+Expression: onruststoker#i-negative
+  lemmas: onruststoker
+  pos: N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  onruststoker: 2
+Expression: flexibeler#i-positive
+  lemmas: flexibel
+  pos: G
+  rel  1
+  over 8
+  ratio 0
+  freqtokens  flexibeler: 8
+Expression: behaalde#d-positive
+  lemmas: behalen
+  pos: V
+  rel  1
+  over 7
+  ratio 0
+  freqtokens  behaalde: 7
+Expression: verzet#d-negative
+  lemmas: verzet
+  pos: N
+  rel  1
+  over 17
+  ratio 0
+  freqtokens  verzet: 17
+Expression: beloven#d-positive
+  lemmas: beloven
+  pos: N
+  rel  1
+  over 8
+  ratio 0
+  freqtokens  beloven: 8
+Expression: terugdringen#d-negative
+  lemmas: terugdringen
+  pos: N
+  rel  1
+  over 7
+  ratio 0
+  freqtokens  terugdringen: 7
+Expression: stabiele#i-positive
+  lemmas: stabiel
+  pos: G
+  rel  1
+  over 7
+  ratio 0
+  freqtokens  stabiele: 7
+Expression: meer#d-negative
+  lemmas: meer
+  pos: A
+  rel  1
+  over 506
+  ratio 0
+  freqtokens  meer: 506
+Expression: essentieel#i-positive
+  lemmas: essentieel
+  pos: G
+  rel  1
+  over 5
+  ratio 0
+  freqtokens  essentieel: 5
+Expression: oplossing#i-positive
+  lemmas: oplossing
+  pos: N
+  rel  1
+  over 52
+  ratio 0
+  freqtokens  oplossing: 52
+Expression: leiderschap#i-positive
+  lemmas: leiderschap
+  pos: N
+  rel  1
+  over 11
+  ratio 0
+  freqtokens  leiderschap: 11
+Expression: hoop#i-positive
+  lemmas: hoop
+  pos: V
+  rel  1
+  over 71
+  ratio 0
+  freqtokens  hoop: 71
+Expression: lasten#i-negative
+  lemmas: last
+  pos: N
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  lasten: 3
+Expression: moeten#d-positive
+  lemmas: moeten
+  pos: V
+  rel  1
+  over 290
+  ratio 0
+  freqtokens  moeten: 290
+Expression: gebrek#i-negative
+  lemmas: gebrek
+  pos: N
+  rel  1
+  over 5
+  ratio 0
+  freqtokens  gebrek: 5
+Expression: crisis#i-negative
+  lemmas: crisis
+  pos: N
+  rel  1
+  over 140
+  ratio 0
+  freqtokens  crisis: 140
+Expression: ongerust#i-negative
+  lemmas: ongerust
+  pos: G
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  ongerust: 3
+Expression: aanbeval#d-positive
+  lemmas: aanbevelen
+  pos: V
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  aanbeval: 2
+Expression: nood#i-negative
+  lemmas: nood
+  pos: N
+  rel  1
+  over 5
+  ratio 0
+  freqtokens  nood: 5
+Expression: voorstaat#i-positive
+  lemmas: voorstaan
+  pos: V
+  rel  1
+  over 6
+  ratio 0
+  freqtokens  voorstaat: 6
+Expression: besparingsdrang#i-negative
+  lemmas: besparingsdrang
+  pos: O
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  besparingsdrang: 2
+Expression: groot#i-positive
+  lemmas: groot
+  pos: G
+  rel  1
+  over 84
+  ratio 0
+  freqtokens  groot: 84
+Expression: sterke#i-positive
+  lemmas: sterk
+  pos: G
+  rel  1
+  over 19
+  ratio 0
+  freqtokens  sterke: 19
+Expression: veroordeling#d-negative
+  lemmas: veroordeling
+  pos: N
+  rel  1
+  over 5
+  ratio 0
+  freqtokens  veroordeling: 5
+Expression: radicale#i-positive
+  lemmas: radicaal
+  pos: G
+  rel  1
+  over 6
+  ratio 0
+  freqtokens  radicale: 6
+Expression: betere#i-positive
+  lemmas: goed
+  pos: G
+  rel  1
+  over 10
+  ratio 0
+  freqtokens  betere: 10
+Expression: aanval#d-negative
+  lemmas: aanvallen
+  pos: V
+  rel  1
+  over 16
+  ratio 0
+  freqtokens  aanval: 16
+Expression: voortgang#i-positive
+  lemmas: voortgang
+  pos: N
+  rel  1
+  over 5
+  ratio 0
+  freqtokens  voortgang: 5
+Expression: overeenstemming#d-positive
+  lemmas: overeenstemming
+  pos: N
+  rel  1
+  over 24
+  ratio 0
+  freqtokens  overeenstemming: 24
+Expression: meent#d-neutral
+  lemmas: menen
+  pos: V
+  rel  1
+  over 14
+  ratio 0
+  freqtokens  meent: 14
+Expression: beperkte#i-negative
+  lemmas: beperkt
+  pos: G
+  rel  1
+  over 4
+  ratio 0
+  freqtokens  beperkte: 4
+Expression: zware#i-negative
+  lemmas: zwaar
+  pos: G
+  rel  1
+  over 21
+  ratio 0
+  freqtokens  zware: 21
+Expression: feliciteer#d-positive
+  lemmas: feliciteren
+  pos: V
+  rel  1
+  over 12
+  ratio 0
+  freqtokens  feliciteer: 12
+Expression: samenwerken#i-positive
+  lemmas: samenwerken
+  pos: V
+  rel  1
+  over 23
+  ratio 0
+  freqtokens  samenwerken: 23
+Expression: soepeler#i-positive
+  lemmas: soepel
+  pos: G
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  soepeler: 2
+Expression: vreesde#d-negative
+  lemmas: vrezen
+  pos: V
+  rel  1
+  over 4
+  ratio 0
+  freqtokens  vreesde: 4
+Expression: verdwijnt#d-negative
+  lemmas: verdwijnen
+  pos: V
+  rel  1
+  over 6
+  ratio 0
+  freqtokens  verdwijnt: 6
+Expression: begrotingstekort#i-negative
+  lemmas: begrotingstekort
+  pos: N
+  rel  1
+  over 18
+  ratio 0
+  freqtokens  begrotingstekort: 18
+Expression: niets#i-strongnegative
+  lemmas: niets
+  pos: Q
+  rel  1
+  over 60
+  ratio 0
+  freqtokens  niets: 60
+Expression: schuldenproblematiek#i-negative
+  lemmas: schuldenproblematiek
+  pos: O
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  schuldenproblematiek: 2
+Expression: helpen#i-positive
+  lemmas: helpen
+  pos: V
+  rel  1
+  over 33
+  ratio 0
+  freqtokens  helpen: 33
+Expression: enthousiast#d-positive
+  lemmas: enthousiast
+  pos: G
+  rel  1
+  over 4
+  ratio 0
+  freqtokens  enthousiast: 4
+Expression: hekelt#d-negative
+  lemmas: hekelen
+  pos: V
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  hekelt: 2
+Expression: pijnlijk#i-negative
+  lemmas: pijnlijk
+  pos: G
+  rel  1
+  over 5
+  ratio 0
+  freqtokens  pijnlijk: 5
+Expression: ingestemd#d-positive
+  lemmas: instemmen
+  pos: V
+  rel  1
+  over 5
+  ratio 0
+  freqtokens  ingestemd: 5
+Expression: harde#i-negative
+  lemmas: hard
+  pos: G
+  rel  1
+  over 23
+  ratio 0
+  freqtokens  harde: 23
+Expression: kans#d-positive
+  lemmas: kans
+  pos: N
+  rel  1
+  over 34
+  ratio 0
+  freqtokens  kans: 34
+Expression: vinden#d-neutral
+  lemmas: vinden
+  pos: V
+  rel  1
+  over 66
+  ratio 0
+  freqtokens  vinden: 66
+Expression: bestrijden#d-positive
+  lemmas: bestrijden
+  pos: V
+  rel  1
+  over 11
+  ratio 0
+  freqtokens  bestrijden: 11
+Expression: vertrouwen#d-positive
+  lemmas: vertrouwen
+  pos: V
+  rel  1
+  over 47
+  ratio 0
+  freqtokens  vertrouwen: 47
+Expression: geschikte#i-positive
+  lemmas: geschikt
+  pos: G
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  geschikte: 3
+Expression: optimistisch#d-positive
+  lemmas: optimistisch
+  pos: G
+  rel  1
+  over 9
+  ratio 0
+  freqtokens  optimistisch: 9
+Expression: juiste#i-positive
+  lemmas: juist
+  pos: G
+  rel  1
+  over 9
+  ratio 0
+  freqtokens  juiste: 9
+Expression: arrogantie#i-negative
+  lemmas: arrogantie
+  pos: N
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  arrogantie: 3
+Expression: getroffen#i-negative
+  lemmas: getroffen
+  pos: G
+  rel  1
+  over 16
+  ratio 0
+  freqtokens  getroffen: 16
+Expression: nauw#i-positive
+  lemmas: nauw
+  pos: N
+  rel  1
+  over 16
+  ratio 0
+  freqtokens  nauw: 16
+Expression: denkt#d-neutral
+  lemmas: denken
+  pos: V
+  rel  1
+  over 29
+  ratio 0
+  freqtokens  denkt: 29
+Expression: stabiliseren#d-positive
+  lemmas: stabiliseren
+  pos: V
+  rel  1
+  over 4
+  ratio 0
+  freqtokens  stabiliseren: 4
+Expression: wereldwijd#i-positive
+  lemmas: wereldwijd
+  pos: G
+  rel  1
+  over 8
+  ratio 0
+  freqtokens  wereldwijd: 8
+Expression: weigert#d-negative
+  lemmas: weigeren
+  pos: V
+  rel  1
+  over 6
+  ratio 0
+  freqtokens  weigert: 6
+Expression: invoering#d-positive
+  lemmas: invoering
+  pos: N
+  rel  1
+  over 35
+  ratio 0
+  freqtokens  invoering: 35
+Expression: stopt#i-negative
+  lemmas: stoppen
+  pos: V
+  rel  1
+  over 4
+  ratio 0
+  freqtokens  stopt: 4
+Expression: ingrijpende#i-negative
+  lemmas: ingrijpend
+  pos: G
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  ingrijpende: 2
+Expression: inspireert#d-strongpositive
+  lemmas: inspireren
+  pos: V
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  inspireert: 2
+Expression: betreurde#d-negative
+  lemmas: betreuren
+  pos: V
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  betreurde: 2
+Expression: eiste#d-positive
+  lemmas: eisen
+  pos: V
+  rel  1
+  over 6
+  ratio 0
+  freqtokens  eiste: 6
+Expression: aanslag#i-negative
+  lemmas: aanslag
+  pos: N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  aanslag: 2
+Expression: feliciteerde#d-positive
+  lemmas: feliciteren
+  pos: V
+  rel  1
+  over 17
+  ratio 0
+  freqtokens  feliciteerde: 17
+Expression: verlagen#d-negative
+  lemmas: verlagen
+  pos: V
+  rel  1
+  over 8
+  ratio 0
+  freqtokens  verlagen: 8
+Expression: bemoedigend#d-positive
+  lemmas: bemoedigend
+  pos: G
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  bemoedigend: 3
+Expression: weinig#i-negative
+  lemmas: weinig
+  pos: O
+  rel  1
+  over 43
+  ratio 0
+  freqtokens  weinig: 43
+Expression: terecht#i-positive
+  lemmas: Terecht
+  pos: O
+  rel  1
+  over 6
+  ratio 0
+  freqtokens  terecht: 6
+Expression: vond#d-neutral
+  lemmas: vinden
+  pos: V
+  rel  1
+  over 10
+  ratio 0
+  freqtokens  vond: 10
+Expression: vriend#i-positive
+  lemmas: vriend
+  pos: N
+  rel  1
+  over 15
+  ratio 0
+  freqtokens  vriend: 15
+Expression: verloren#i-negative
+  lemmas: verliezen
+  pos: V
+  rel  1
+  over 39
+  ratio 0
+  freqtokens  verloren: 39
+Expression: stabiliteit#i-positive
+  lemmas: stabiliteit
+  pos: N
+  rel  1
+  over 14
+  ratio 0
+  freqtokens  stabiliteit: 14
+Expression: steunt#positive
+  lemmas: steunen
+  pos: V
+  rel  1
+  over 12
+  ratio 0
+  freqtokens  steunt: 12
+Expression: hoopt#d-positive
+  lemmas: hopen
+  pos: V
+  rel  1
+  over 32
+  ratio 0
+  freqtokens  hoopt: 32
+Expression: steun#i-positive
+  lemmas: steun
+  pos: N
+  rel  1
+  over 90
+  ratio 0
+  freqtokens  steun: 90
+Expression: pro-europees#i-positive
+  lemmas: Pro-Europees
+  pos: O
+  rel  1
+  over 4
+  ratio 0
+  freqtokens  pro-europees: 4
+Expression: ongenoegen#i-negative
+  lemmas: ongenoegen
+  pos: N
+  rel  1
+  over 5
+  ratio 0
+  freqtokens  ongenoegen: 5
+Expression: onrust#i-negative
+  lemmas: onrust
+  pos: N
+  rel  1
+  over 14
+  ratio 0
+  freqtokens  onrust: 14
+Expression: stimuleren#i-positive
+  lemmas: stimuleren
+  pos: V
+  rel  1
+  over 31
+  ratio 0
+  freqtokens  stimuleren: 31
+Expression: absurd#i-strongnegative
+  lemmas: absurd
+  pos: G
+  rel  1
+  over 5
+  ratio 0
+  freqtokens  absurd: 5
+Expression: schade#d-negative
+  lemmas: schade
+  pos: N
+  rel  1
+  over 13
+  ratio 0
+  freqtokens  schade: 13
+Expression: enthousiasme#i-strongpositive
+  lemmas: enthousiasme
+  pos: N
+  rel  1
+  over 5
+  ratio 0
+  freqtokens  enthousiasme: 5
+Expression: sprak#d-neutral
+  lemmas: spreken
+  pos: V
+  rel  1
+  over 64
+  ratio 0
+  freqtokens  sprak: 64
+Expression: hoop#d-positive
+  lemmas: hoop
+  pos: V
+  rel  1
+  over 71
+  ratio 0
+  freqtokens  hoop: 71
+Expression: feest#i-positive
+  lemmas: feest
+  pos: N
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  feest: 3
+Expression: spreekt#d-neutral
+  lemmas: spreken
+  pos: V
+  rel  1
+  over 19
+  ratio 0
+  freqtokens  spreekt: 19
+Expression: beschuldigen#d-negative
+  lemmas: beschuldigen
+  pos: V
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  beschuldigen: 2
+Expression: schuldencrisis#i-strongnegative
+  lemmas: schuldencrisis
+  pos: O
+  rel  1
+  over 71
+  ratio 0
+  freqtokens  schuldencrisis: 71
+Expression: onhandig#i-negative
+  lemmas: onhandig
+  pos: G
+  rel  1
+  over 4
+  ratio 0
+  freqtokens  onhandig: 4
+Expression: leidende#i-positive
+  lemmas: leidend
+  pos: G
+  rel  1
+  over 7
+  ratio 0
+  freqtokens  leidende: 7
+Expression: gedreigd#d-negative
+  lemmas: dreigen
+  pos: V
+  rel  1
+  over 11
+  ratio 0
+  freqtokens  gedreigd: 11
+Expression: geblokkeerd#d-negative
+  lemmas: blokkeren
+  pos: V
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  geblokkeerd: 2
+Expression: nederlaag#i-strongnegative
+  lemmas: nederlaag
+  pos: N
+  rel  1
+  over 13
+  ratio 0
+  freqtokens  nederlaag: 13
+Expression: dramatische#i-strongnegative
+  lemmas: dramatisch
+  pos: G
+  rel  1
+  over 6
+  ratio 0
+  freqtokens  dramatische: 6
+Expression: prijzen#d-positive
+  lemmas: prijzen
+  pos: V
+  rel  1
+  over 11
+  ratio 0
+  freqtokens  prijzen: 11
+Expression: eensgezind#d-positive
+  lemmas: eensgezind
+  pos: G
+  rel  1
+  over 6
+  ratio 0
+  freqtokens  eensgezind: 6
+Expression: beëindigen#d-negative
+  lemmas: beëindigen
+  pos: V
+  rel  1
+  over 6
+  ratio 0
+  freqtokens  beëindigen: 6
+Expression: belangrijke#i-positive
+  lemmas: belangrijk
+  pos: G
+  rel  1
+  over 50
+  ratio 0
+  freqtokens  belangrijke: 50
+Expression: bezuinigen#i-negative
+  lemmas: bezuinigen
+  pos: V
+  rel  1
+  over 25
+  ratio 0
+  freqtokens  bezuinigen: 25
+Expression: kosten#i-negative
+  lemmas: kost
+  pos: N
+  rel  1
+  over 10
+  ratio 0
+  freqtokens  kosten: 10
+Expression: afgebroken#i-negative
+  lemmas: afbreken
+  pos: V
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  afgebroken: 2
+Expression: verlaging#i-negative
+  lemmas: verlaging
+  pos: N
+  rel  1
+  over 11
+  ratio 0
+  freqtokens  verlaging: 11
+Expression: openlijk#i-negative
+  lemmas: openlijk
+  pos: G
+  rel  1
+  over 13
+  ratio 0
+  freqtokens  openlijk: 13
+Expression: bezuinigingen#i-negative
+  lemmas: bezuiniging
+  pos: N
+  rel  1
+  over 63
+  ratio 0
+  freqtokens  bezuinigingen: 63
+Expression: opzeggen#d-negative
+  lemmas: opzeggen
+  pos: N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  opzeggen: 2
+Expression: crisisbestrijding#i-positive
+  lemmas: crisisbestrijding
+  pos: O
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  crisisbestrijding: 2
+Expression: bevriezing#d-negative
+  lemmas: bevriezing
+  pos: N
+  rel  1
+  over 4
+  ratio 0
+  freqtokens  bevriezing: 4
+Expression: genoeg#i-positive
+  lemmas: genoeg
+  pos: A
+  rel  1
+  over 31
+  ratio 0
+  freqtokens  genoeg: 31
+Expression: inspireerde#i-positive
+  lemmas: inspireren
+  pos: V
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  inspireerde: 2
+Expression: verergert#i-negative
+  lemmas: verergeren
+  pos: V
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  verergert: 2
+Expression: beschadigen#i-negative
+  lemmas: beschadigen
+  pos: V
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  beschadigen: 2
+Expression: uniek#i-positive
+  lemmas: uniek
+  pos: G
+  rel  1
+  over 6
+  ratio 0
+  freqtokens  uniek: 6
+Expression: onzekerheid#i-negative
+  lemmas: onzekerheid
+  pos: N
+  rel  1
+  over 15
+  ratio 0
+  freqtokens  onzekerheid: 15
+Expression: relatie#i-positive
+  lemmas: relatie
+  pos: N
+  rel  1
+  over 66
+  ratio 0
+  freqtokens  relatie: 66
+Expression: terughalen#d-negative
+  lemmas: terughalen
+  pos: V
+  rel  1
+  over 12
+  ratio 0
+  freqtokens  terughalen: 12
+Expression: vertrek#i-negative
+  lemmas: vertrek
+  pos: N
+  rel  1
+  over 35
+  ratio 0
+  freqtokens  vertrek: 35
+Expression: ontkent#d-negative
+  lemmas: ontkennen
+  pos: V
+  rel  1
+  over 11
+  ratio 0
+  freqtokens  ontkent: 11
+Expression: hysterie#i-negative
+  lemmas: hysterie
+  pos: N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  hysterie: 2
+Expression: verschillende#i-positive
+  lemmas: verschillend
+  pos: G
+  rel  1
+  over 47
+  ratio 0
+  freqtokens  verschillende: 47
+Expression: somber#i-negative
+  lemmas: somber
+  pos: G
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  somber: 2
+Expression: dood#i-strongnegative
+  lemmas: dood
+  pos: N
+  rel  1
+  over 10
+  ratio 0
+  freqtokens  dood: 10
+Expression: ergste#i-strongnegative
+  lemmas: erg|kwaad
+  pos: G
+  rel  1
+  over 10
+  ratio 0
+  freqtokens  ergste: 10
+Expression: toenemen#d-positive
+  lemmas: toenemen
+  pos: V
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  toenemen: 3
+Expression: noodlijdende#i-negative
+  lemmas: noodlijdend
+  pos: G
+  rel  1
+  over 8
+  ratio 0
+  freqtokens  noodlijdende: 8
+Expression: schulden#i-negative
+  lemmas: schuld
+  pos: N
+  rel  1
+  over 34
+  ratio 0
+  freqtokens  schulden: 34
+Expression: optimisme#i-positive
+  lemmas: optimisme
+  pos: N
+  rel  1
+  over 4
+  ratio 0
+  freqtokens  optimisme: 4
+Expression: vrees#d-negative
+  lemmas: vrezen
+  pos: V
+  rel  1
+  over 11
+  ratio 0
+  freqtokens  vrees: 11
+Expression: immens#i-strongpositive
+  lemmas: immens
+  pos: G
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  immens: 2
+Expression: slecht#d-negative
+  lemmas: slecht
+  pos: G
+  rel  1
+  over 29
+  ratio 0
+  freqtokens  slecht: 29
+Expression: ernstige#d-strongnegative
+  lemmas: ernstig
+  pos: G
+  rel  1
+  over 11
+  ratio 0
+  freqtokens  ernstige: 11
+Expression: soevereiniteit#i-positive
+  lemmas: soevereiniteit
+  pos: N
+  rel  1
+  over 10
+  ratio 0
+  freqtokens  soevereiniteit: 10
+Expression: vrezen#d-strongnegative
+  lemmas: vrezen
+  pos: V
+  rel  1
+  over 9
+  ratio 0
+  freqtokens  vrezen: 9
+Expression: grote#i-positive
+  lemmas: groot
+  pos: G
+  rel  1
+  over 161
+  ratio 0
+  freqtokens  grote: 161
+Expression: prees#d-strongpositive
+  lemmas: prijzen
+  pos: V
+  rel  1
+  over 12
+  ratio 0
+  freqtokens  prees: 12
+Expression: tevreden#i-positive
+  lemmas: tevreden
+  pos: G
+  rel  1
+  over 14
+  ratio 0
+  freqtokens  tevreden: 14
+Expression: beperken#d-negative
+  lemmas: beperken
+  pos: V
+  rel  1
+  over 4
+  ratio 0
+  freqtokens  beperken: 4
+Expression: voldoende#i-positive
+  lemmas: voldoende
+  pos: G
+  rel  1
+  over 20
+  ratio 0
+  freqtokens  voldoende: 20
+Expression: slachtoffers#i-negative
+  lemmas: slachtoffer
+  pos: N
+  rel  1
+  over 5
+  ratio 0
+  freqtokens  slachtoffers: 5
+Expression: stelt#d-neutral
+  lemmas: stellen
+  pos: V
+  rel  1
+  over 43
+  ratio 0
+  freqtokens  stelt: 43
+Expression: pleitte ervoor#d-positive
+  lemmas: pleiten ervoor
+  pos: V Q
+  rel  2
+  over 2
+  ratio 1
+  freqtokens  pleitte: 23 ervoor: 16
+Expression: scherp veroordeeld#d-strongnegative
+  lemmas: scherp veroordelen
+  pos: N V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  scherp: 11 veroordeeld: 5
+Expression: lijkt stabiel#i-positive
+  lemmas: lijken stabiel
+  pos: V G
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  lijkt: 40 stabiel: 5
+Expression: daalde dramatisch#i-strongnegative
+  lemmas: dalen dramatisch
+  pos: V G
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  daalde: 16 dramatisch: 7
+Expression: extra steun#i-positive
+  lemmas: extra steun
+  pos: G N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  extra: 62 steun: 90
+Expression: gecompliceerde verhouding#i-negative
+  lemmas: gecompliceerd verhouding
+  pos: G N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  gecompliceerde: 1 verhouding: 6
+Expression: ongerust maken#d-negative
+  lemmas: ongerust maken
+  pos: G V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  ongerust: 3 maken: 103
+Expression: kunnen slagen#i-positive
+  lemmas: kunnen slagen
+  pos: V V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  kunnen: 235 slagen: 7
+Expression: ontzettend nodig#i-strongpositive
+  lemmas: ontzettend nodig
+  pos: A G
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  ontzettend: 2 nodig: 124
+Expression: diep bezorgd#i-strongnegative
+  lemmas: diep bezorgen
+  pos: A V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  diep: 5 bezorgd: 8
+Expression: bespioneren niet#i-negative
+  lemmas: bespioneren niet
+  pos: V A
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  bespioneren: 5 niet: 1140
+Expression: uitermate dramatisch#i-strongnegative
+  lemmas: uitermate dramatisch
+  pos: A G
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  uitermate: 3 dramatisch: 7
+Expression: schadelijke onthullingen#i-negative
+  lemmas: schadelijk onthulling
+  pos: G N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  schadelijke: 2 onthullingen: 21
+Expression: weer samenbrengen#i-positive
+  lemmas: weer samenbrengen
+  pos: A V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  weer: 91 samenbrengen: 3
+Expression: zijn dankbaar#d-positive
+  lemmas: zijn dankbaar
+  pos: V G
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  zijn: 1296 dankbaar: 3
+Expression: te onduidelijk#i-negative
+  lemmas: te onduidelijk
+  pos: O G
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  te: 1760 onduidelijk: 5
+Expression: hele sterke#i-strongpositive
+  lemmas: heel sterk
+  pos: G G
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  hele: 54 sterke: 19
+Expression: extreem gevaarlijk#i-strongnegative
+  lemmas: extreem gevaarlijk
+  pos: G G
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  extreem: 5 gevaarlijk: 6
+Expression: ontzettend jammer#d-strongnegative
+  lemmas: ontzettend jammer
+  pos: A G
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  ontzettend: 2 jammer: 6
+Expression: geen duidelijke#i-negative
+  lemmas: geen duidelijk
+  pos: D G
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  geen: 347 duidelijke: 15
+Expression: groot politica#i-positive
+  lemmas: groot politica
+  pos: G N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  groot: 84 politica: 8
+Expression: minder omslachtige#i-positive
+  lemmas: min omslachtig
+  pos: G G
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  minder: 91 omslachtige: 1
+Expression: een dictatuur#i-strongnegative
+  lemmas: een dictatuur
+  pos: D N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  een: 3166 dictatuur: 3
+Expression: te zacht#i-negative
+  lemmas: te zacht
+  pos: O G
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  te: 1760 zacht: 1
+Expression: volstrekt onacceptabel#i-strongnegative
+  lemmas: volstrekt onacceptabel
+  pos: G G
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  volstrekt: 8 onacceptabel: 5
+Expression: zal naleven#d-positive
+  lemmas: zullen naleven
+  pos: V V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  zal: 379 naleven: 3
+Expression: zeer bijzonder#i-strongpositive
+  lemmas: zeer bijzonder
+  pos: G G
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  zeer: 64 bijzonder: 23
+Expression: grote premier#i-positive
+  lemmas: groot premier
+  pos: G N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  grote: 161 premier: 476
+Expression: grote brit#i-positive
+  lemmas: groot Brit
+  pos: G N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  grote: 161 brit: 5
+Expression: en leiden#i-positive
+  lemmas: en leiden
+  pos: C V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  en: 2788 leiden: 26
+Expression: een eurofiel#i-negative
+  lemmas: een eurofiel
+  pos: D O
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  een: 3166 eurofiel: 2
+Expression: demonstreren tegen#d-negative
+  lemmas: demonstreren tegen
+  pos: V P
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  demonstreren: 2 tegen: 278
+Expression: een drama#i-strongnegative
+  lemmas: een drama
+  pos: D N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  een: 3166 drama: 6
+Expression: niet mogelijk#i-negative
+  lemmas: niet mogelijk
+  pos: A G
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  niet: 1140 mogelijk: 106
+Expression: willen stopzetten#d-negative
+  lemmas: willen stopzetten
+  pos: V V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  willen: 218 stopzetten: 1
+Expression: intelligent mens#i-positive
+  lemmas: intelligent mens
+  pos: G N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  intelligent: 1 mens: 7
+Expression: echte doorbraak#i-strongpositive
+  lemmas: echt doorbraak
+  pos: G N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  echte: 32 doorbraak: 3
+Expression: geen makkelijke#i-negative
+  lemmas: geen makkelijk
+  pos: D G
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  geen: 347 makkelijke: 2
+Expression: sterk genoeg#i-positive
+  lemmas: sterk genoeg
+  pos: G A
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  sterk: 25 genoeg: 31
+Expression: onnodig ruwe#i-negative
+  lemmas: onnodig ruwe
+  pos: G N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  onnodig: 1 ruwe: 1
+Expression: in opspraak#i-negative
+  lemmas: in opspraak
+  pos: P N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  in: 3216 opspraak: 1
+Expression: geen hulp#i-negative
+  lemmas: geen hulp
+  pos: D N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  geen: 347 hulp: 40
+Expression: optreden tegen#d-negative
+  lemmas: optreden tegen
+  pos: V P
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  optreden: 9 tegen: 278
+Expression: inhoudelijk ongeloofwaardig#i-negative
+  lemmas: inhoudelijk ongeloofwaardig
+  pos: G G
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  inhoudelijk: 2 ongeloofwaardig: 3
+Expression: echter optimistisch#i-positive
+  lemmas: echter optimistisch
+  pos: A G
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  echter: 67 optimistisch: 9
+Expression: voorvechter van#d-positive
+  lemmas: voorvechter van
+  pos: N P
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  voorvechter: 1 van: 4780
+Expression: pleit voor#d-positive
+  lemmas: pleit voor
+  pos: N P
+  rel  3
+  over 12
+  ratio 0
+  freqtokens  pleit: 20 voor: 1627
+Expression: hamert op#d-positive
+  lemmas: hameren op
+  pos: V P
+  rel  2
+  over 6
+  ratio 0
+  freqtokens  hamert: 9 op: 1690
+Expression: goede dag#i-positive
+  lemmas: goed dag
+  pos: G N
+  rel  2
+  over 6
+  ratio 0
+  freqtokens  goede: 75 dag: 80
+Expression: zijn tegen#d-negative
+  lemmas: zijn tegen
+  pos: V P
+  rel  2
+  over 4
+  ratio 0
+  freqtokens  zijn: 1296 tegen: 278
+Expression: meest geschikte#i-positive
+  lemmas: meest geschikt
+  pos: G G
+  rel  2
+  over 3
+  ratio 0
+  freqtokens  meest: 19 geschikte: 3
+Expression: persoonlijke samenwerking#i-positive
+  lemmas: persoonlijk samenwerking
+  pos: G N
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  persoonlijke: 17 samenwerking: 80
+Expression: eenzijdig simpelweg#i-negative
+  lemmas: eenzijdig simpelweg
+  pos: G A
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  eenzijdig: 2 simpelweg: 4
+Expression: echt onvoldoende#i-strongnegative
+  lemmas: echt onvoldoend|onvoldoende
+  pos: G G
+  rel  1
+  over 4
+  ratio 0
+  freqtokens  echt: 36 onvoldoende: 7
+Expression: is blij#d-positive
+  lemmas: zijn blij
+  pos: V G
+  rel  1
+  over 4
+  ratio 0
+  freqtokens  is: 1599 blij: 23
+Expression: vijand van#i-positive
+  lemmas: vijand van
+  pos: N P
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  vijand: 3 van: 4780
+Expression: klinkt onvrede#d-negative
+  lemmas: klinken onvrede
+  pos: V N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  klinkt: 8 onvrede: 5
+Expression: niet voldoende#i-negative
+  lemmas: niet voldoende
+  pos: A G
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  niet: 1140 voldoende: 20
+Expression: niet minder#i-positive
+  lemmas: niet min
+  pos: A G
+  rel  1
+  over 6
+  ratio 0
+  freqtokens  niet: 1140 minder: 91
+Expression: geen prioriteit#i-negative
+  lemmas: geen prioriteit
+  pos: D N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  geen: 347 prioriteit: 8
+Expression: wil graag#d-strongpositive
+  lemmas: wil graag
+  pos: N G
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  wil: 398 graag: 26
+Expression: hoopt op#d-positive
+  lemmas: hopen op
+  pos: V P
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  hoopt: 32 op: 1690
+Expression: moet niet#d-negative
+  lemmas: moeten niet
+  pos: V A
+  rel  1
+  over 4
+  ratio 0
+  freqtokens  moet: 374 niet: 1140
+Expression: gaat voor#d-positive
+  lemmas: gaan voor
+  pos: V P
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  gaat: 156 voor: 1627
+Expression: geen eenvoudige#i-negative
+  lemmas: geen eenvoudig
+  pos: D G
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  geen: 347 eenvoudige: 6
+Expression: de oplossing#i-positive
+  lemmas: de oplossing
+  pos: D N
+  rel  1
+  over 13
+  ratio 0
+  freqtokens  de: 10786 oplossing: 52
+Expression: pratende stropdas#i-negative
+  lemmas: pratende stropdas
+  pos: N N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  pratende: 2 stropdas: 2
+Expression: de bevriezing#i-negative
+  lemmas: de bevriezing
+  pos: D N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  de: 10786 bevriezing: 4
+Expression: warme gelukwensen#d-positive
+  lemmas: warme gelukwensen
+  pos: N V
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  warme: 8 gelukwensen: 8
+Expression: te lijf#d-negative
+  lemmas: te lijf
+  pos: O N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  te: 1760 lijf: 2
+Expression: wil niet#d-negative
+  lemmas: willen niet
+  pos: V A
+  rel  1
+  over 9
+  ratio 0
+  freqtokens  wil: 398 niet: 1140
+Expression: een historische#i-strongpositive
+  lemmas: een historisch
+  pos: D G
+  rel  1
+  over 7
+  ratio 0
+  freqtokens  een: 3166 historische: 20
+Expression: nog meer#i-positive
+  lemmas: nog meer
+  pos: A A
+  rel  1
+  over 14
+  ratio 0
+  freqtokens  nog: 400 meer: 506
+Expression: nationaal belang#i-positive
+  lemmas: nationaal belang
+  pos: G N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  nationaal: 19 belang: 56
+Expression: wil onmiddellijk#d-strongpositive
+  lemmas: willen onmiddellijk
+  pos: V G
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  wil: 398 onmiddellijk: 17
+Expression: grote leider#i-positive
+  lemmas: groot leider
+  pos: G N
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  grote: 161 leider: 62
+Expression: geen geval#i-negative
+  lemmas: geen geval
+  pos: D N
+  rel  1
+  over 4
+  ratio 0
+  freqtokens  geen: 347 geval: 27
+Expression: een aansporing#i-positive
+  lemmas: een aansporing
+  pos: D N
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  een: 3166 aansporing: 3
+Expression: maatregelen tegen#d-negative
+  lemmas: maatregel tegen
+  pos: N P
+  rel  1
+  over 5
+  ratio 0
+  freqtokens  maatregelen: 69 tegen: 278
+Expression: te hoog#i-negative
+  lemmas: te hoog
+  pos: O G
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  te: 1760 hoog: 13
+Expression: stemde tegen#d-negative
+  lemmas: stemmen tegen
+  pos: V P
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  stemde: 5 tegen: 278
+Expression: opriepen tot#d-positive
+  lemmas: oproepen tot
+  pos: V P
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  opriepen: 2 tot: 389
+Expression: verhogen druk#d-negative
+  lemmas: verhoog druk
+  pos: N G
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  verhogen: 12 druk: 53
+Expression: vooruitgang boeken#i-positive
+  lemmas: vooruitgang boeken
+  pos: N V
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  vooruitgang: 15 boeken: 6
+Expression: kiezen voor#d-positive
+  lemmas: kiezen voor
+  pos: V P
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  kiezen: 28 voor: 1627
+Expression: kritiek op#i-negative
+  lemmas: kritiek op
+  pos: N P
+  rel  1
+  over 19
+  ratio 0
+  freqtokens  kritiek: 52 op: 1690
+Expression: protesteren tegen#d-negative
+  lemmas: protesteren tegen
+  pos: V P
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  protesteren: 3 tegen: 278
+Expression: onvermijdelijk is#i-positive
+  lemmas: onvermijdelijk zijn
+  pos: G V
+  rel  1
+  over 5
+  ratio 0
+  freqtokens  onvermijdelijk: 12 is: 1599
+Expression: grote onzin#i-strongnegative
+  lemmas: groot onzin
+  pos: G N
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  grote: 161 onzin: 3
+Expression: buitengewoon ernstig#i-strongnegative
+  lemmas: buitengewoon ernstig
+  pos: G G
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  buitengewoon: 3 ernstig: 11
+Expression: erg complex#i-strongnegative
+  lemmas: erg complex
+  pos: G N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  erg: 44 complex: 3
+Expression: voortwoekerende schuldencrisis#i-negative
+  lemmas: voortwoekeren schuldencrisis
+  pos: V O
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  voortwoekerende: 3 schuldencrisis: 71
+Expression: bang voor#d-negative
+  lemmas: bang voor
+  pos: G P
+  rel  1
+  over 6
+  ratio 0
+  freqtokens  bang: 14 voor: 1627
+Expression: maar meer#d-positive
+  lemmas: maar meer
+  pos: A A
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  maar: 619 meer: 506
+Expression: zullen aanzwengelen#i-positive
+  lemmas: zullen aanzwengelen
+  pos: V V
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  zullen: 150 aanzwengelen: 3
+Expression: ervan overtuigd#d-positive
+  lemmas: ervan overtuigen
+  pos: Q V
+  rel  1
+  over 12
+  ratio 0
+  freqtokens  ervan: 38 overtuigd: 17
+Expression: stelt voor#d-positive
+  lemmas: stellen voor
+  pos: V P
+  rel  1
+  over 9
+  ratio 0
+  freqtokens  stelt: 43 voor: 1627
+Expression: een bondgenoot#i-positive
+  lemmas: een bondgenoot
+  pos: D N
+  rel  1
+  over 5
+  ratio 0
+  freqtokens  een: 3166 bondgenoot: 17
+Expression: geen overeenstemming#i-negative
+  lemmas: geen overeenstemming
+  pos: D N
+  rel  1
+  over 4
+  ratio 0
+  freqtokens  geen: 347 overeenstemming: 24
+Expression: ben trots#d-positive
+  lemmas: zijn trots
+  pos: V P
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  ben: 39 trots: 8
+Expression: alleen maar#i-negative
+  lemmas: alleen maar
+  pos: A C
+  rel  1
+  over 8
+  ratio 0
+  freqtokens  alleen: 121 maar: 619
+Expression: te verwelkomen#d-positive
+  lemmas: te verwelkomen
+  pos: O V
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  te: 1760 verwelkomen: 4
+Expression: de belangrijke#i-positive
+  lemmas: de belangrijk
+  pos: D G
+  rel  1
+  over 5
+  ratio 0
+  freqtokens  de: 10786 belangrijke: 50
+Expression: zeer nauw#i-positive
+  lemmas: zeer nauw
+  pos: G G
+  rel  1
+  over 6
+  ratio 0
+  freqtokens  zeer: 64 nauw: 16
+Expression: is voor#d-positive
+  lemmas: zijn voor
+  pos: V P
+  rel  1
+  over 47
+  ratio 0
+  freqtokens  is: 1599 voor: 1627
+Expression: felle kritiek#i-strongnegative
+  lemmas: fel kritiek
+  pos: G N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  felle: 4 kritiek: 52
+Expression: te laag#i-negative
+  lemmas: te laag
+  pos: O G
+  rel  1
+  over 4
+  ratio 0
+  freqtokens  te: 1760 laag: 7
+Expression: samen achter#d-positive
+  lemmas: samen achter
+  pos: A P
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  samen: 150 achter: 45
+Expression: erg bedroefd#i-negative
+  lemmas: Erg bedroeven
+  pos: O V
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  erg: 44 bedroefd: 4
+Expression: te belasten#i-negative
+  lemmas: te belasten
+  pos: O V
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  te: 1760 belasten: 3
+Expression: is klein#i-negative
+  lemmas: zijn klein
+  pos: V G
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  is: 1599 klein: 10
+Expression: van betekenis#i-positive
+  lemmas: van betekenis
+  pos: P N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  van: 4780 betekenis: 7
+Expression: verrast door#d-neutral
+  lemmas: verrassen door
+  pos: V P
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  verrast: 4 door: 487
+Expression: wil geen#d-negative
+  lemmas: willen geen
+  pos: V D
+  rel  1
+  over 10
+  ratio 0
+  freqtokens  wil: 398 geen: 347
+Expression: zeer gewaardeerd#i-strongpositive
+  lemmas: zeer waarderen
+  pos: G V
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  zeer: 64 gewaardeerd: 3
+Expression: strenge bezuinigingen#i-negative
+  lemmas: streng bezuiniging
+  pos: G N
+  rel  1
+  over 6
+  ratio 0
+  freqtokens  strenge: 22 bezuinigingen: 63
+Expression: formidabele jaar#i-strongpositive
+  lemmas: formidabel jaar
+  pos: G N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  formidabele: 2 jaar: 241
+Expression: niet juist#i-negative
+  lemmas: niet juist
+  pos: A G
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  niet: 1140 juist: 62
+Expression: overeenstemming over#i-positive
+  lemmas: overeenstemming over
+  pos: N P
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  overeenstemming: 24 over: 894
+Expression: zien niets#d-negative
+  lemmas: zien niets
+  pos: V Q
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  zien: 58 niets: 60
+Expression: uitkijkt naar#d-positive
+  lemmas: uitkijken naar
+  pos: V P
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  uitkijkt: 2 naar: 555
+Expression: blijft tegen#d-negative
+  lemmas: blijven tegen
+  pos: V P
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  blijft: 91 tegen: 278
+Expression: te hoog#i-strongnegative
+  lemmas: te hoog
+  pos: O G
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  te: 1760 hoog: 13
+Expression: is onvermijdelijk#i-negative
+  lemmas: zijn onvermijdelijk
+  pos: V G
+  rel  1
+  over 4
+  ratio 0
+  freqtokens  is: 1599 onvermijdelijk: 12
+Expression: historische nacht#i-strongpositive
+  lemmas: historisch nacht
+  pos: G N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  historische: 20 nacht: 14
+Expression: gesteund door#d-positive
+  lemmas: steunen door
+  pos: V P
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  gesteund: 4 door: 487
+Expression: onmisbaar is#i-strongpositive
+  lemmas: onmisbaar zijn
+  pos: G V
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  onmisbaar: 2 is: 1599
+Expression: strijden voor#d-positive
+  lemmas: strijden voor
+  pos: V P
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  strijden: 10 voor: 1627
+Expression: fel gekant tegen#d-strongnegative
+  lemmas: fel kanten tegen
+  pos: G V P
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  fel: 2 gekant: 4 tegen: 278
+Expression: maakt zich sterk#d-positive
+  lemmas: maken zich sterk
+  pos: V Q G
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  maakt: 43 zich: 317 sterk: 25
+Expression: een mooi eerbetoon#i-positive
+  lemmas: een mooi eerbetoon
+  pos: D G N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  een: 3166 mooi: 4 eerbetoon: 3
+Expression: maar 26 procent#i-negative
+  lemmas: maar @card@ procent
+  pos: A O N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  maar: 619 26: 14 procent: 351
+Expression: proberen te bewerkstelligen#d-positive
+  lemmas: proberen te bewerkstelligen
+  pos: V O V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  proberen: 17 te: 1760 bewerkstelligen: 3
+Expression: gele kaart gekregen#i-negative
+  lemmas: geel kaart krijgen
+  pos: G N V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  gele: 2 kaart: 5 gekregen: 17
+Expression: ervan overtuigd is#d-positive
+  lemmas: ervan overtuigen zijn
+  pos: Q V V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  ervan: 38 overtuigd: 17 is: 1599
+Expression: stoppen met publiceren#i-negative
+  lemmas: stoppen met publiceren
+  pos: V P N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  stoppen: 12 met: 1349 publiceren: 3
+Expression: staat open voor#d-positive
+  lemmas: staat openen voor
+  pos: N V P
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  staat: 117 open: 39 voor: 1627
+Expression: hamert voortdurend op#d-positive
+  lemmas: hameren voortdurend op
+  pos: V G P
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  hamert: 9 voortdurend: 3 op: 1690
+Expression: het kwade brein#i-strongnegative
+  lemmas: het kwaad brein
+  pos: D G N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  het: 3561 kwade: 1 brein: 2
+Expression: fel op tegen#d-strongnegative
+  lemmas: fel op tegen
+  pos: G A P
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  fel: 2 op: 1690 tegen: 278
+Expression: altijd verzet tegen#d-strongnegative
+  lemmas: altijd verzet tegen
+  pos: A N P
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  altijd: 82 verzet: 17 tegen: 278
+Expression: niet bepaald enthousiast#d-negative
+  lemmas: niet bepalen enthousiast
+  pos: A V G
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  niet: 1140 bepaald: 18 enthousiast: 4
+Expression: erg gammel lijkende#i-strongnegative
+  lemmas: erg gammel lijken
+  pos: G G V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  erg: 44 gammel: 1 lijkende: 1
+Expression: erg uit elkaar#i-strongnegative
+  lemmas: erg uit elkaar
+  pos: G P Q
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  erg: 44 uit: 538 elkaar: 92
+Expression: had moeite met#d-negative
+  lemmas: hebben moeite met
+  pos: V N P
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  had: 102 moeite: 10 met: 1349
+Expression: geeft ons welvaart#i-positive
+  lemmas: geven ons welvaart
+  pos: V D N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  geeft: 20 ons: 78 welvaart: 9
+Expression: niets waard zijn#i-strongnegative
+  lemmas: niets waard zijn
+  pos: Q G V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  niets: 60 waard: 16 zijn: 1296
+Expression: nog niet geregeld#i-negative
+  lemmas: nog niet regelen
+  pos: A A V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  nog: 400 niet: 1140 geregeld: 8
+Expression: veel zorgen baart#d-strongnegative
+  lemmas: veel zorg baren
+  pos: A N V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  veel: 195 zorgen: 55 baart: 3
+Expression: zijn verenigd door#d-positive
+  lemmas: zijn verenigen door
+  pos: V V P
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  zijn: 1296 verenigd: 62 door: 487
+Expression: de grote favoriet#i-strongpositive
+  lemmas: de groot favoriet
+  pos: D G N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  de: 10786 grote: 161 favoriet: 3
+Expression: een groot eerbetoon#i-strongpositive
+  lemmas: een groot eerbetoon
+  pos: D G N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  een: 3166 groot: 84 eerbetoon: 3
+Expression: een betere bescherming#i-positive
+  lemmas: een goed bescherming
+  pos: D G N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  een: 3166 betere: 10 bescherming: 8
+Expression: ,een groot politicus#i-positive
+  lemmas: ,een groot politicus
+  pos: O G N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  ,een: 8 groot: 84 politicus: 8
+Expression: niet heeft weggestemd#d-positive
+  lemmas: niet hebben wegstemmen
+  pos: A V V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  niet: 1140 heeft: 714 weggestemd: 2
+Expression: het hoofd bieden#d-positive
+  lemmas: het hoofd bieden
+  pos: D N V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  het: 3561 hoofd: 28 bieden: 20
+Expression: een gewezen winnaar#i-positive
+  lemmas: een gewezen winnaar
+  pos: D G N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  een: 3166 gewezen: 4 winnaar: 8
+Expression: heeft bezwaar tegen#d-negative
+  lemmas: hebben bezwaar tegen
+  pos: V N P
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  heeft: 714 bezwaar: 1 tegen: 278
+Expression: van strategisch belang#i-positive
+  lemmas: van strategisch belang
+  pos: P G N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  van: 4780 strategisch: 2 belang: 56
+Expression: nauwe band met#i-positive
+  lemmas: nauw band met
+  pos: G N P
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  nauwe: 28 band: 9 met: 1349
+Expression: te langzaam groeit#i-negative
+  lemmas: te langzaam groeien
+  pos: O G V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  te: 1760 langzaam: 4 groeit: 6
+Expression: blijven het oneens#d-negative
+  lemmas: blijven het oneens
+  pos: V D G
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  blijven: 130 het: 3561 oneens: 15
+Expression: niet kwijt willen#d-positive
+  lemmas: niet kwijt willen
+  pos: A G V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  niet: 1140 kwijt: 9 willen: 218
+Expression: heeft aangedrongen op#d-positive
+  lemmas: hebben aandringen op
+  pos: V V P
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  heeft: 714 aangedrongen: 3 op: 1690
+Expression: een sterk signaal#i-strongpositive
+  lemmas: een sterk signaal
+  pos: D G N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  een: 3166 sterk: 25 signaal: 18
+Expression: heel erg verdeeld#i-strongnegative
+  lemmas: heel erg verdelen
+  pos: A G V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  heel: 72 erg: 44 verdeeld: 16
+Expression: pleiten niet voor#d-negative
+  lemmas: pleiten niet voor
+  pos: V A P
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  pleiten: 7 niet: 1140 voor: 1627
+Expression: kijk ernaar uit#d-positive
+  lemmas: kijken ernaar uit
+  pos: V Q A
+  rel  2
+  over 7
+  ratio 0
+  freqtokens  kijk: 9 ernaar: 19 uit: 538
+Expression: meest geschikte instrument#i-positive
+  lemmas: meest geschikt instrument
+  pos: G G N
+  rel  2
+  over 3
+  ratio 0
+  freqtokens  meest: 19 geschikte: 3 instrument: 4
+Expression: op te lossen#d-positive
+  lemmas: op te lossen
+  pos: A O V
+  rel  1
+  over 14
+  ratio 0
+  freqtokens  op: 1690 te: 1760 lossen: 14
+Expression: niet eens met#d-strongnegative
+  lemmas: niet eens met
+  pos: A A P
+  rel  1
+  over 5
+  ratio 0
+  freqtokens  niet: 1140 eens: 67 met: 1349
+Expression: kijkt uit naar#d-positive
+  lemmas: kijken uit naar
+  pos: V A P
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  kijkt: 20 uit: 538 naar: 555
+Expression: een groot probleem#i-strongnegative
+  lemmas: een groot probleem
+  pos: D G N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  een: 3166 groot: 84 probleem: 27
+Expression: minder kan uitgeven#i-negative
+  lemmas: min kunnen uitgeven
+  pos: G V V
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  minder: 91 kan: 257 uitgeven: 15
+Expression: aan de leiband#i-negative
+  lemmas: aan de leiband
+  pos: P D N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  aan: 902 de: 10786 leiband: 2
+Expression: een goede zaak#i-positive
+  lemmas: een goed zaak
+  pos: D G N
+  rel  1
+  over 4
+  ratio 0
+  freqtokens  een: 3166 goede: 75 zaak: 13
+Expression: van groot belang#i-positive
+  lemmas: van groot belang
+  pos: P G N
+  rel  1
+  over 5
+  ratio 0
+  freqtokens  van: 4780 groot: 84 belang: 56
+Expression: nooit gerechtvaardigd is#i-negative
+  lemmas: nooit rechtvaardigen zijn
+  pos: A V V
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  nooit: 37 gerechtvaardigd: 2 is: 1599
+Expression: toonde zich verheugd#d-positive
+  lemmas: tonen zich verheugd
+  pos: V Q G
+  rel  1
+  over 4
+  ratio 0
+  freqtokens  toonde: 16 zich: 317 verheugd: 13
+Expression: vergroot de hoop#d-positive
+  lemmas: vergroten de hoop
+  pos: V D N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  vergroot: 4 de: 10786 hoop: 71
+Expression: sluit niet uit#d-positive
+  lemmas: sluiten niet uit
+  pos: V A A
+  rel  1
+  over 7
+  ratio 0
+  freqtokens  sluit: 16 niet: 1140 uit: 538
+Expression: niet eens met#d-negative
+  lemmas: niet eens met
+  pos: A A P
+  rel  1
+  over 5
+  ratio 0
+  freqtokens  niet: 1140 eens: 67 met: 1349
+Expression: is blij met#d-positive
+  lemmas: zijn blij met
+  pos: V G P
+  rel  1
+  over 4
+  ratio 0
+  freqtokens  is: 1599 blij: 23 met: 1349
+Expression: het behoud van#i-positive
+  lemmas: het behoud van
+  pos: D N P
+  rel  1
+  over 4
+  ratio 0
+  freqtokens  het: 3561 behoud: 10 van: 4780
+Expression: is onaangenaam verrast#d-negative
+  lemmas: zijn onaangenaam verrassen
+  pos: V G V
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  is: 1599 onaangenaam: 2 verrast: 4
+Expression: ziet wel iets#d-positive
+  lemmas: zien wel iets
+  pos: V A A
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  ziet: 67 wel: 224 iets: 50
+Expression: pleitten herhaaldelijk voor#d-strongpositive
+  lemmas: pleiten herhaaldelijk voor
+  pos: V A P
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  pleitten: 2 herhaaldelijk: 6 voor: 1627
+Expression: het versoepelen van#d-positive
+  lemmas: het versoepelen van
+  pos: D N P
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  het: 3561 versoepelen: 6 van: 4780
+Expression: een veto tegen#i-negative
+  lemmas: een veto tegen
+  pos: D N P
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  een: 3166 veto: 17 tegen: 278
+Expression: te kort dag#i-negative
+  lemmas: te kort dag
+  pos: O G N
+  rel  1
+  over 4
+  ratio 0
+  freqtokens  te: 1760 kort: 19 dag: 80
+Expression: het enthousiasme van#i-positive
+  lemmas: het enthousiasme van
+  pos: D N P
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  het: 3561 enthousiasme: 5 van: 4780
+Expression: niet helemaal tevreden#i-negative
+  lemmas: niet helemaal tevreden
+  pos: A A G
+  rel  1
+  over 4
+  ratio 0
+  freqtokens  niet: 1140 helemaal: 20 tevreden: 14
+Expression: te boven gaan#d-negative
+  lemmas: te boven gaan
+  pos: O A V
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  te: 1760 boven: 31 gaan: 189
+Expression: op eigen gezag#i-negative
+  lemmas: op eigen gezag
+  pos: P G N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  op: 1690 eigen: 102 gezag: 2
+Expression: een uniek lid#i-positive
+  lemmas: een uniek lid
+  pos: D G N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  een: 3166 uniek: 6 lid: 36
+Expression: zich verzetten tegen#d-negative
+  lemmas: zich verzetten tegen
+  pos: Q V P
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  zich: 317 verzetten: 4 tegen: 278
+Expression: tekort aan vakmensen#i-negative
+  lemmas: tekort aan vakman
+  pos: N P N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  tekort: 14 aan: 902 vakmensen: 2
+Expression: veilig te stellen#i-positive
+  lemmas: veilig te stellen
+  pos: G O V
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  veilig: 6 te: 1760 stellen: 25
+Expression: is bezorgd over#d-negative
+  lemmas: zijn bezorgen over
+  pos: V V P
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  is: 1599 bezorgd: 8 over: 894
+Expression: niet het probleem#i-positive
+  lemmas: niet het probleem
+  pos: A D N
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  niet: 1140 het: 3561 probleem: 27
+Expression: al helemaal tegen#i-negative
+  lemmas: al helemaal tegen
+  pos: A A P
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  al: 300 helemaal: 20 tegen: 278
+Expression: vast te houden#d-positive
+  lemmas: vast te houden
+  pos: G O V
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  vast: 16 te: 1760 houden: 97
+Expression: symbool van hoop#i-positive
+  lemmas: symbool van hoop
+  pos: N P N
+  rel  1
+  over 9
+  ratio 0
+  freqtokens  symbool: 12 van: 4780 hoop: 71
+Expression: open te staan#d-positive
+  lemmas: open te staan
+  pos: G O V
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  open: 39 te: 1760 staan: 64
+Expression: economische groei stimuleren#i-positive
+  lemmas: economisch groei stimuleren
+  pos: G N V
+  rel  1
+  over 5
+  ratio 0
+  freqtokens  economische: 185 groei: 172 stimuleren: 31
+Expression: weinig animo voor#i-negative
+  lemmas: weinig animo voor
+  pos: O N P
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  weinig: 43 animo: 2 voor: 1627
+Expression: al helemaal tegen#i-strongnegative
+  lemmas: al helemaal tegen
+  pos: A A P
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  al: 300 helemaal: 20 tegen: 278
+Expression: maakt zich zorgen over#d-negative
+  lemmas: maken zich zorgen over
+  pos: V Q V P
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  maakt: 43 zich: 317 zorgen: 55 over: 894
+Expression: geen enkele behoefte aan#d-strongnegative
+  lemmas: geen enkel behoefte aan
+  pos: D D N P
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  geen: 347 enkele: 71 behoefte: 4 aan: 902
+Expression: te veel schade berokkenen#d-negative
+  lemmas: te veel schade berokkenen
+  pos: O O N V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  te: 1760 veel: 195 schade: 13 berokkenen: 1
+Expression: uit de euro stapt#i-negative
+  lemmas: uit de euro stappen
+  pos: P D N V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  uit: 538 de: 10786 euro: 317 stapt: 4
+Expression: on the right track’#i-positive
+  lemmas: on the right track’
+  pos: O O O N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  on: 7 the: 65 right: 2 track’: 1
+Expression: stelt onze arbeidsplaatsen veilig#i-positive
+  lemmas: stellen ons arbeidsplaats veilig
+  pos: V D N G
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  stelt: 43 onze: 106 arbeidsplaatsen: 2 veilig: 6
+Expression: hield een pleidooi voor#d-positive
+  lemmas: houden een pleidooi voor
+  pos: V D N P
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  hield: 12 een: 3166 pleidooi: 7 voor: 1627
+Expression: van deze maatregel profiteren#d-positive
+  lemmas: van deze maatregel profiteren
+  pos: P D N V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  van: 4780 deze: 168 maatregel: 6 profiteren: 5
+Expression: genoegen te nemen met#d-positive
+  lemmas: genoegen te nemen met
+  pos: N O V P
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  genoegen: 2 te: 1760 nemen: 70 met: 1349
+Expression: leidt niet tot groei#d-negative
+  lemmas: leiden niet tot groei
+  pos: V A P N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  leidt: 18 niet: 1140 tot: 389 groei: 172
+Expression: vallen niet geheel samen#i-negative
+  lemmas: vallen niet geheel samen
+  pos: V A G A
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  vallen: 9 niet: 1140 geheel: 8 samen: 150
+Expression: zet zich in voor#d-positive
+  lemmas: zetten zich in voor
+  pos: V Q A P
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  zet: 26 zich: 317 in: 3216 voor: 1627
+Expression: nog steeds niet aangepakt#i-negative
+  lemmas: nog steeds niet aanpakken
+  pos: A A A V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  nog: 400 steeds: 78 niet: 1140 aangepakt: 4
+Expression: nog niet voorbij zijn#i-negative
+  lemmas: nog niet voorbij zijn
+  pos: A A P D
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  nog: 400 niet: 1140 voorbij: 12 zijn: 1296
+Expression: op het matje roepen#d-negative
+  lemmas: op het mat roepen
+  pos: P D N V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  op: 1690 het: 3561 matje: 9 roepen: 5
+Expression: is er voorstander van#d-positive
+  lemmas: zijn er voorstander van
+  pos: V Q N P
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  is: 1599 er: 644 voorstander: 13 van: 4780
+Expression: zegt open te staan#d-positive
+  lemmas: zeggen open te staan
+  pos: V G O V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  zegt: 129 open: 39 te: 1760 staan: 64
+Expression: het meest geschikte instrument#i-positive
+  lemmas: het meest geschikt instrument
+  pos: D G G N
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  het: 3561 meest: 19 geschikte: 3 instrument: 4
+Expression: open te staan voor#i-positive
+  lemmas: open te staan voor
+  pos: G O V P
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  open: 39 te: 1760 staan: 64 voor: 1627
+Expression: zal compromissen moeten sluiten#i-positive
+  lemmas: zullen compromis moeten sluiten
+  pos: V N V V
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  zal: 379 compromissen: 19 moeten: 290 sluiten: 29
+Expression: de juiste man is#i-positive
+  lemmas: de juist man zijn
+  pos: D G N V
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  de: 10786 juiste: 9 man: 29 is: 1599
+Expression: hinkt op twee gedachten#d-negative
+  lemmas: hinken op twee gedachte
+  pos: V P O N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  hinkt: 3 op: 1690 twee: 152 gedachten: 4
+Expression: internationaal op een zijspoor#i-negative
+  lemmas: internationaal op een zijspoor
+  pos: G P D O
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  internationaal: 42 op: 1690 een: 3166 zijspoor: 2
+Expression: een symbool van hoop#i-strongpositive
+  lemmas: een symbool van hoop
+  pos: D N P N
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  een: 3166 symbool: 12 van: 4780 hoop: 71
+Expression: een speler van betekenis is#i-positive
+  lemmas: een speler van betekenis zijn
+  pos: D N P N V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  een: 3166 speler: 2 van: 4780 betekenis: 7 is: 1599
+Expression: grote vooruitgang " is geboekt#i-positive
+  lemmas: groot vooruitgang " zijn boeken
+  pos: G N O V V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  grote: 161 vooruitgang: 15 ": 1526 is: 1599 geboekt: 13
+Expression: geen duidelijke visie over europa#i-negative
+  lemmas: geen duidelijk visie over Europa
+  pos: D G N P R
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  geen: 347 duidelijke: 15 visie: 37 over: 894 europa: 850
+Expression: een kampioen van de mensenrechten#i-strongpositive
+  lemmas: een kampioen van de mensenrechten
+  pos: D N P D N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  een: 3166 kampioen: 2 van: 4780 de: 10786 mensenrechten: 8
+Expression: een positief en constructief gesprek#i-positive
+  lemmas: een positief en constructief gesprek
+  pos: D G C G N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  een: 3166 positief: 15 en: 2788 constructief: 11 gesprek: 47
+Expression: hele sterke en dominante premier#i-strongpositive
+  lemmas: heel sterk en dominant premier
+  pos: G G C G N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  hele: 54 sterke: 19 en: 2788 dominante: 3 premier: 476
+Expression: een " excessieve reactie "#i-negative
+  lemmas: een " excessief reactie "
+  pos: D O G N O
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  een: 3166 ": 1526 excessieve: 3 reactie: 47 ": 1526
+Expression: in de eurozone moet blijven#i-positive
+  lemmas: in de eurozone moeten blijven
+  pos: P D O V V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  in: 3216 de: 10786 eurozone: 214 moet: 374 blijven: 130
+Expression: een ' succesvolle president '#i-positive
+  lemmas: een ' succesvol president '
+  pos: D O G N O
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  een: 3166 ': 1990 succesvolle: 3 president: 454 ': 1990
+Expression: nieuw leven in te blazen#i-positive
+  lemmas: nieuw leven in te blazen
+  pos: G N A O V
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  nieuw: 53 leven: 35 in: 3216 te: 1760 blazen: 2
+Expression: sneller stijgen dan de inflatie#d-negative
+  lemmas: snel stijgen dan de inflatie
+  pos: G V C D N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  sneller: 14 stijgen: 14 dan: 370 de: 10786 inflatie: 4
+Expression: geen nobelprijs voor de vrede-winnaar#i-negative
+  lemmas: geen Nobelprijs voor de Vrede-winnaar
+  pos: D N P D O
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  geen: 347 nobelprijs: 52 voor: 1627 de: 10786 vrede-winnaar: 2
+Expression: een van de bepalende figuren#i-positive
+  lemmas: een van de bepalen fig.|figuur
+  pos: D P D V N
+  rel  1
+  over 4
+  ratio 0
+  freqtokens  een: 3166 van: 4780 de: 10786 bepalende: 4 figuren: 5
+Expression: een " eenduidige vastberadendheid " bij#i-negative
+  lemmas: een " eenduidig vastberadendheid " bij
+  pos: D O G O O P
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  een: 3166 ": 1526 eenduidige: 1 vastberadendheid: 1 ": 1526 bij: 422
+Expression: een extreem gevaarlijk thema " is#i-strongnegative
+  lemmas: een extreem gevaarlijk thema " zijn
+  pos: D G G N O V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  een: 3166 extreem: 5 gevaarlijk: 6 thema: 11 ": 1526 is: 1599
+Expression: documenten van het vaticaan liet lekken#i-negative
+  lemmas: document van het Vaticaan laten lekken
+  pos: N P D R V V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  documenten: 6 van: 4780 het: 3561 vaticaan: 10 liet: 84 lekken: 3
+Expression: stort de griekse economie in elkaar#i-negative
+  lemmas: storten de Grieks economie in elkaar
+  pos: V D G N P Q
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  stort: 1 de: 10786 griekse: 149 economie: 142 in: 3216 elkaar: 92
+Expression: wil niet in zee gaan met#d-negative
+  lemmas: willen niet in zee gaan met
+  pos: V A P N V P
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  wil: 398 niet: 1140 in: 3216 zee: 3 gaan: 189 met: 1349
+Expression: zullen alle eu-landen ten goede komen#i-positive
+  lemmas: zullen alle EU-landen te goede komen
+  pos: V D O P N V
+  rel  1
+  over 6
+  ratio 0
+  freqtokens  zullen: 150 alle: 115 eu-landen: 37 ten: 66 goede: 75 komen: 186
+Expression: een groot voorvechter van onafhankelijkheid en vrijheid#i-positive
+  lemmas: een groot voorvechter van onafhankelijkheid en vrijheid
+  pos: D G N P N C N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  een: 3166 groot: 84 voorvechter: 1 van: 4780 onafhankelijkheid: 12 en: 2788 vrijheid: 17
+Expression: verdient de nobelprijs voor de vrede niet#i-negative
+  lemmas: verdienen de Nobelprijs voor de vrede niet
+  pos: V D N P D N A
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  verdient: 5 de: 10786 nobelprijs: 52 voor: 1627 de: 10786 vrede: 61 niet: 1140
+Expression: " met open armen " zal ontvangen#d-positive
+  lemmas: " met open arme|arm " zullen ontvangen
+  pos: O P G N O V V
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  ": 1526 met: 1349 open: 39 armen: 7 ": 1526 zal: 379 ontvangen: 42
+Expression: een ' heldere en voorspelbare partner '#i-positive
+  lemmas: een ' helder en voorspelbaar partner '
+  pos: D O G C G N O
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  een: 3166 ': 1990 heldere: 4 en: 2788 voorspelbare: 2 partner: 9 ': 1990
+Expression: heeft nog een lange weg te gaan#i-negative
+  lemmas: hebben nog een lang weg te gaan
+  pos: V A D G N O V
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  heeft: 714 nog: 400 een: 3166 lange: 22 weg: 90 te: 1760 gaan: 189
+Expression: een inspirerende en leidende rol te spelen#i-positive
+  lemmas: een inspireren en leidend rol te spelen
+  pos: D V C G N O V
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  een: 3166 inspirerende: 3 en: 2788 leidende: 7 rol: 48 te: 1760 spelen: 20
+Expression: ' de bescherming van de wereld ' verdient#i-strongpositive
+  lemmas: ' de bescherming van de wereld ' verdienen
+  pos: O D N P D N O V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  ': 1990 de: 10786 bescherming: 8 van: 4780 de: 10786 wereld: 76 ': 1990 verdient: 5
+Expression: zowel belgië als europa ‘ on the right track’ gezet#i-positive
+  lemmas: zowel België als Europa ‘ on the right track’ zetten
+  pos: C R C R O O O O N V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  zowel: 26 belgië: 42 als: 636 europa: 850 ‘: 210 on: 7 the: 65 right: 2 track’: 1 gezet: 23
+Expression: alleen maar wil bezuinigen om de crisis op te lossen#i-negative
+  lemmas: alleen maar willen bezuinigen om de crisis op te lossen
+  pos: A C V V C D N A O V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  alleen: 121 maar: 619 wil: 398 bezuinigen: 25 om: 993 de: 10786 crisis: 140 op: 1690 te: 1760 lossen: 14
+Expression: niets ziet in maatregelen om de economische groei te stimuleren#i-negative
+  lemmas: niets zien in maatregel om de economisch groei te stimuleren
+  pos: Q V P N C D G N O V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  niets: 60 ziet: 67 in: 3216 maatregelen: 69 om: 993 de: 10786 economische: 185 groei: 172 te: 1760 stimuleren: 31
+
+TARGETS
+Target: misbruiken#unknown
+  lemmas: misbruiken
+  pos: V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  misbruiken: 1
+Target: expansie#unknown
+  lemmas: expansie
+  pos: N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  expansie: 1
+Target: gesprek’#unknown
+  lemmas: gesprek’
+  pos: N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  gesprek’: 1
+Target: vastberadendheid#unknown
+  lemmas: vastberadendheid
+  pos: O
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  vastberadendheid: 1
+Target: privégegevens#unknown
+  lemmas: privégegevens
+  pos: O
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  privégegevens: 1
+Target: europa#unknown
+  lemmas: Europa
+  pos: R
+  rel  15
+  over 850
+  ratio 0
+  freqtokens  europa: 850
+Target: dat#unknown
+  lemmas: dat
+  pos: Q
+  rel  8
+  over 2373
+  ratio 0
+  freqtokens  dat: 2377
+Target: merkel#unknown
+  lemmas: Merkel
+  pos: O
+  rel  4
+  over 1037
+  ratio 0
+  freqtokens  merkel: 1037
+Target: rutte#unknown
+  lemmas: Rutte
+  pos: O
+  rel  4
+  over 304
+  ratio 0
+  freqtokens  rutte: 304
+Target: het#unknown
+  lemmas: het
+  pos: Q
+  rel  4
+  over 3560
+  ratio 0
+  freqtokens  het: 3561
+Target: eurobonds#unknown
+  lemmas: eurobonds
+  pos: O
+  rel  3
+  over 31
+  ratio 0
+  freqtokens  eurobonds: 31
+Target: ze#unknown
+  lemmas: ze
+  pos: Q
+  rel  3
+  over 496
+  ratio 0
+  freqtokens  ze: 496
+Target: instrument#unknown
+  lemmas: instrument
+  pos: N
+  rel  3
+  over 4
+  ratio 0
+  freqtokens  instrument: 4
+Target: griekenland#unknown
+  lemmas: Griekenland
+  pos: R
+  rel  3
+  over 305
+  ratio 0
+  freqtokens  griekenland: 305
+Target: economie#unknown
+  lemmas: economie
+  pos: N
+  rel  2
+  over 142
+  ratio 0
+  freqtokens  economie: 142
+Target: obama#unknown
+  lemmas: Obama
+  pos: O
+  rel  2
+  over 168
+  ratio 0
+  freqtokens  obama: 168
+Target: zuid-europeanen#unknown
+  lemmas: Zuid-Europeanen
+  pos: O
+  rel  2
+  over 3
+  ratio 0
+  freqtokens  zuid-europeanen: 3
+Target: eu#unknown
+  lemmas: EU
+  pos: O
+  rel  2
+  over 349
+  ratio 0
+  freqtokens  eu: 349
+Target: slaagkansen#unknown
+  lemmas: slaagkansen
+  pos: O
+  rel  2
+  over 4
+  ratio 0
+  freqtokens  slaagkansen: 4
+Target: bevoegdheden#unknown
+  lemmas: bevoegdheid
+  pos: N
+  rel  2
+  over 55
+  ratio 0
+  freqtokens  bevoegdheden: 55
+Target: die#unknown
+  lemmas: die
+  pos: Q
+  rel  2
+  over 957
+  ratio 0
+  freqtokens  die: 957
+Target: rol#unknown
+  lemmas: rol
+  pos: N
+  rel  2
+  over 48
+  ratio 0
+  freqtokens  rol: 48
+Target: gesprek#unknown
+  lemmas: gesprek
+  pos: N
+  rel  2
+  over 47
+  ratio 0
+  freqtokens  gesprek: 47
+Target: referendum#unknown
+  lemmas: referendum
+  pos: N
+  rel  2
+  over 134
+  ratio 0
+  freqtokens  referendum: 134
+Target: bezuinigingen#unknown
+  lemmas: bezuiniging
+  pos: N
+  rel  2
+  over 63
+  ratio 0
+  freqtokens  bezuinigingen: 63
+Target: cameron#unknown
+  lemmas: Cameron
+  pos: O
+  rel  2
+  over 438
+  ratio 0
+  freqtokens  cameron: 438
+Target: argumenten#unknown
+  lemmas: argument
+  pos: N
+  rel  2
+  over 3
+  ratio 0
+  freqtokens  argumenten: 3
+Target: besparingen#unknown
+  lemmas: besparing
+  pos: N
+  rel  2
+  over 27
+  ratio 0
+  freqtokens  besparingen: 27
+Target: top#unknown
+  lemmas: top
+  pos: N
+  rel  2
+  over 176
+  ratio 0
+  freqtokens  top: 176
+Target: martens#unknown
+  lemmas: Martens
+  pos: O
+  rel  2
+  over 48
+  ratio 0
+  freqtokens  martens: 48
+Target: hij#unknown
+  lemmas: hij
+  pos: Q
+  rel  2
+  over 812
+  ratio 0
+  freqtokens  hij: 812
+Target: favoriet#unknown
+  lemmas: favoriet
+  pos: N
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  favoriet: 3
+Target: zwaarder#unknown
+  lemmas: zwaar
+  pos: G
+  rel  1
+  over 4
+  ratio 0
+  freqtokens  zwaarder: 4
+Target: begrotingscijfers#unknown
+  lemmas: begrotingscijfers
+  pos: O
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  begrotingscijfers: 3
+Target: berlijn#unknown
+  lemmas: Berlijn
+  pos: R
+  rel  1
+  over 129
+  ratio 0
+  freqtokens  berlijn: 129
+Target: wij#unknown
+  lemmas: wij
+  pos: Q
+  rel  1
+  over 84
+  ratio 0
+  freqtokens  wij: 84
+Target: onafhankelijkheid#unknown
+  lemmas: onafhankelijkheid
+  pos: N
+  rel  1
+  over 12
+  ratio 0
+  freqtokens  onafhankelijkheid: 12
+Target: onderhandeling#unknown
+  lemmas: onderhandeling
+  pos: N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  onderhandeling: 2
+Target: overleg#unknown
+  lemmas: overleg
+  pos: N
+  rel  1
+  over 63
+  ratio 0
+  freqtokens  overleg: 63
+Target: maatregelen#unknown
+  lemmas: maatregel
+  pos: N
+  rel  1
+  over 69
+  ratio 0
+  freqtokens  maatregelen: 69
+Target: moskou#unknown
+  lemmas: Moskou
+  pos: R
+  rel  1
+  over 19
+  ratio 0
+  freqtokens  moskou: 19
+Target: animo#unknown
+  lemmas: animo
+  pos: N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  animo: 2
+Target: lidmaatschap#unknown
+  lemmas: lidmaatschap
+  pos: N
+  rel  1
+  over 58
+  ratio 0
+  freqtokens  lidmaatschap: 58
+Target: roemer#unknown
+  lemmas: roemer
+  pos: N
+  rel  1
+  over 10
+  ratio 0
+  freqtokens  roemer: 10
+Target: stappen#unknown
+  lemmas: stap
+  pos: N
+  rel  1
+  over 33
+  ratio 0
+  freqtokens  stappen: 33
+Target: inkomens#unknown
+  lemmas: inkomen
+  pos: N
+  rel  1
+  over 6
+  ratio 0
+  freqtokens  inkomens: 6
+Target: verhouding#unknown
+  lemmas: verhouding
+  pos: N
+  rel  1
+  over 6
+  ratio 0
+  freqtokens  verhouding: 6
+Target: controle#unknown
+  lemmas: controle
+  pos: N
+  rel  1
+  over 14
+  ratio 0
+  freqtokens  controle: 14
+Target: uitgeven#unknown
+  lemmas: uitgeven
+  pos: V
+  rel  1
+  over 15
+  ratio 0
+  freqtokens  uitgeven: 15
+Target: belgië#unknown
+  lemmas: België
+  pos: R
+  rel  1
+  over 42
+  ratio 0
+  freqtokens  belgië: 42
+Target: twijfelt#unknown
+  lemmas: twijfelen
+  pos: V
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  twijfelt: 2
+Target: groot-brittannië#unknown
+  lemmas: Groot-Brittannië
+  pos: R
+  rel  1
+  over 141
+  ratio 0
+  freqtokens  groot-brittannië: 141
+Target: sarkozy#unknown
+  lemmas: Sarkozy
+  pos: O
+  rel  1
+  over 98
+  ratio 0
+  freqtokens  sarkozy: 98
+Target: toetreding#unknown
+  lemmas: toetreding
+  pos: N
+  rel  1
+  over 10
+  ratio 0
+  freqtokens  toetreding: 10
+Target: monti#unknown
+  lemmas: Monti
+  pos: O
+  rel  1
+  over 66
+  ratio 0
+  freqtokens  monti: 66
+Target: kranten#unknown
+  lemmas: krant
+  pos: N
+  rel  1
+  over 8
+  ratio 0
+  freqtokens  kranten: 8
+Target: zitting#unknown
+  lemmas: zitting
+  pos: N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  zitting: 2
+Target: schuldencrisis#unknown
+  lemmas: schuldencrisis
+  pos: O
+  rel  1
+  over 71
+  ratio 0
+  freqtokens  schuldencrisis: 71
+Target: sociaal-democraten#unknown
+  lemmas: sociaal-democraat
+  pos: N
+  rel  1
+  over 4
+  ratio 0
+  freqtokens  sociaal-democraten: 4
+Target: welvaart#unknown
+  lemmas: welvaart
+  pos: N
+  rel  1
+  over 9
+  ratio 0
+  freqtokens  welvaart: 9
+Target: hem#unknown
+  lemmas: hem
+  pos: Q
+  rel  1
+  over 143
+  ratio 0
+  freqtokens  hem: 143
+Target: fransen#unknown
+  lemmas: Franse|Fransman
+  pos: N
+  rel  1
+  over 40
+  ratio 0
+  freqtokens  fransen: 40
+Target: dit#unknown
+  lemmas: dit
+  pos: Q
+  rel  1
+  over 248
+  ratio 0
+  freqtokens  dit: 248
+Target: feest#unknown
+  lemmas: feest
+  pos: N
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  feest: 3
+Target: snoeien#unknown
+  lemmas: snoeien
+  pos: V
+  rel  1
+  over 10
+  ratio 0
+  freqtokens  snoeien: 10
+Target: hiertegen#unknown
+  lemmas: hiertegen
+  pos: Q
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  hiertegen: 2
+Target: eurofiel#unknown
+  lemmas: eurofiel
+  pos: O
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  eurofiel: 2
+Target: euro-obligaties#unknown
+  lemmas: euro-obligaties
+  pos: O
+  rel  1
+  over 30
+  ratio 0
+  freqtokens  euro-obligaties: 30
+Target: belastingverlaging#unknown
+  lemmas: belastingverlaging
+  pos: N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  belastingverlaging: 2
+Target: oekraïne#unknown
+  lemmas: Oekraïne
+  pos: R
+  rel  1
+  over 42
+  ratio 0
+  freqtokens  oekraïne: 42
+Target: wat#unknown
+  lemmas: wat
+  pos: Q
+  rel  1
+  over 196
+  ratio 0
+  freqtokens  wat: 196
+Target: nettobetalers#unknown
+  lemmas: nettobetalers
+  pos: O
+  rel  1
+  over 13
+  ratio 0
+  freqtokens  nettobetalers: 13
+Target: beleid#unknown
+  lemmas: beleid
+  pos: N
+  rel  1
+  over 54
+  ratio 0
+  freqtokens  beleid: 54
+Target: linkspartei#unknown
+  lemmas: Linkspartei
+  pos: O
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  linkspartei: 2
+Target: gevolgen#unknown
+  lemmas: gevolg
+  pos: N
+  rel  1
+  over 24
+  ratio 0
+  freqtokens  gevolgen: 24
+Target: landbouwgeld#unknown
+  lemmas: landbouwgeld
+  pos: O
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  landbouwgeld: 2
+Target: italië#unknown
+  lemmas: Italië
+  pos: R
+  rel  1
+  over 68
+  ratio 0
+  freqtokens  italië: 68
+Target: uitlatingen#unknown
+  lemmas: uitlating
+  pos: N
+  rel  1
+  over 5
+  ratio 0
+  freqtokens  uitlatingen: 5
+Target: plan#unknown
+  lemmas: plan
+  pos: N
+  rel  1
+  over 77
+  ratio 0
+  freqtokens  plan: 77
+Target: partners#unknown
+  lemmas: partner
+  pos: N
+  rel  1
+  over 13
+  ratio 0
+  freqtokens  partners: 13
+Target: eurozone#unknown
+  lemmas: eurozone
+  pos: O
+  rel  1
+  over 214
+  ratio 0
+  freqtokens  eurozone: 214
+Target: publiceren#unknown
+  lemmas: publiceren
+  pos: N
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  publiceren: 3
+Target: democratie#unknown
+  lemmas: democratie
+  pos: N
+  rel  1
+  over 18
+  ratio 0
+  freqtokens  democratie: 18
+Target: bezuinigingsmaatregelen#unknown
+  lemmas: bezuinigingsmaatregel
+  pos: N
+  rel  1
+  over 6
+  ratio 0
+  freqtokens  bezuinigingsmaatregelen: 6
+Target: aanbeval#unknown
+  lemmas: aanbevelen
+  pos: V
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  aanbeval: 2
+Target: lid#unknown
+  lemmas: lid
+  pos: N
+  rel  1
+  over 36
+  ratio 0
+  freqtokens  lid: 36
+Target: winnaar#unknown
+  lemmas: winnaar
+  pos: N
+  rel  1
+  over 8
+  ratio 0
+  freqtokens  winnaar: 8
+Target: crisis#unknown
+  lemmas: crisis
+  pos: N
+  rel  1
+  over 140
+  ratio 0
+  freqtokens  crisis: 140
+Target: akkoord#unknown
+  lemmas: akkoord
+  pos: N
+  rel  1
+  over 110
+  ratio 0
+  freqtokens  akkoord: 110
+Target: obligaties#unknown
+  lemmas: obligatie
+  pos: N
+  rel  1
+  over 26
+  ratio 0
+  freqtokens  obligaties: 26
+Target: deel#unknown
+  lemmas: deel
+  pos: N
+  rel  1
+  over 53
+  ratio 0
+  freqtokens  deel: 53
+Target: prijzen#unknown
+  lemmas: prijs
+  pos: N
+  rel  1
+  over 11
+  ratio 0
+  freqtokens  prijzen: 11
+Target: rusland#unknown
+  lemmas: Rusland
+  pos: R
+  rel  1
+  over 62
+  ratio 0
+  freqtokens  rusland: 62
+Target: strijd#unknown
+  lemmas: strijd
+  pos: N
+  rel  1
+  over 47
+  ratio 0
+  freqtokens  strijd: 47
+Target: banen#unknown
+  lemmas: baan
+  pos: N
+  rel  1
+  over 38
+  ratio 0
+  freqtokens  banen: 38
+Target: clinton#unknown
+  lemmas: Clinton
+  pos: O
+  rel  1
+  over 9
+  ratio 0
+  freqtokens  clinton: 9
+Target: mens#unknown
+  lemmas: mens
+  pos: N
+  rel  1
+  over 7
+  ratio 0
+  freqtokens  mens: 7
+Target: arrogantie#unknown
+  lemmas: arrogantie
+  pos: N
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  arrogantie: 3
+Target: vrijheid#unknown
+  lemmas: vrijheid
+  pos: N
+  rel  1
+  over 17
+  ratio 0
+  freqtokens  vrijheid: 17
+Target: speler#unknown
+  lemmas: speler
+  pos: N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  speler: 2
+Target: thatcher#unknown
+  lemmas: Thatcher
+  pos: O
+  rel  1
+  over 76
+  ratio 0
+  freqtokens  thatcher: 76
+Target: nacht#unknown
+  lemmas: nacht
+  pos: N
+  rel  1
+  over 14
+  ratio 0
+  freqtokens  nacht: 14
+Target: politica#unknown
+  lemmas: politica
+  pos: N
+  rel  1
+  over 8
+  ratio 0
+  freqtokens  politica: 8
+Target: pensioenen#unknown
+  lemmas: pensioen
+  pos: N
+  rel  1
+  over 10
+  ratio 0
+  freqtokens  pensioenen: 10
+Target: macht#unknown
+  lemmas: macht
+  pos: N
+  rel  1
+  over 41
+  ratio 0
+  freqtokens  macht: 41
+Target: iedereen#unknown
+  lemmas: Iedereen
+  pos: O
+  rel  1
+  over 31
+  ratio 0
+  freqtokens  iedereen: 31
+Target: klus#unknown
+  lemmas: klus
+  pos: N
+  rel  1
+  over 6
+  ratio 0
+  freqtokens  klus: 6
+Target: vrienden#unknown
+  lemmas: vriend
+  pos: N
+  rel  1
+  over 10
+  ratio 0
+  freqtokens  vrienden: 10
+Target: landen#unknown
+  lemmas: land
+  pos: N
+  rel  1
+  over 304
+  ratio 0
+  freqtokens  landen: 305
+Target: ervan#unknown
+  lemmas: ervan
+  pos: Q
+  rel  1
+  over 38
+  ratio 0
+  freqtokens  ervan: 38
+Target: marathonoverleg#unknown
+  lemmas: marathonoverleg
+  pos: O
+  rel  1
+  over 6
+  ratio 0
+  freqtokens  marathonoverleg: 6
+Target: mark#unknown
+  lemmas: mark
+  pos: N
+  rel  1
+  over 77
+  ratio 0
+  freqtokens  mark: 77
+Target: drama#unknown
+  lemmas: drama
+  pos: N
+  rel  1
+  over 6
+  ratio 0
+  freqtokens  drama: 6
+Target: samenwerken#unknown
+  lemmas: samenwerken
+  pos: N
+  rel  1
+  over 23
+  ratio 0
+  freqtokens  samenwerken: 23
+Target: partij#unknown
+  lemmas: partij
+  pos: N
+  rel  1
+  over 158
+  ratio 0
+  freqtokens  partij: 158
+Target: hulp#unknown
+  lemmas: hulp
+  pos: N
+  rel  1
+  over 40
+  ratio 0
+  freqtokens  hulp: 40
+Target: euro#unknown
+  lemmas: euro
+  pos: N
+  rel  1
+  over 317
+  ratio 0
+  freqtokens  euro: 317
+Target: duitsland#unknown
+  lemmas: Duitsland
+  pos: R
+  rel  1
+  over 433
+  ratio 0
+  freqtokens  duitsland: 433
+Target: aandacht#unknown
+  lemmas: aandacht
+  pos: N
+  rel  1
+  over 15
+  ratio 0
+  freqtokens  aandacht: 15
+Target: groei#unknown
+  lemmas: groei
+  pos: N
+  rel  1
+  over 172
+  ratio 0
+  freqtokens  groei: 172
+Target: consumptie#unknown
+  lemmas: consumptie
+  pos: N
+  rel  1
+  over 4
+  ratio 0
+  freqtokens  consumptie: 4
+Target: 2012#unknown
+  lemmas: @card@
+  pos: O
+  rel  1
+  over 111
+  ratio 0
+  freqtokens  2012: 111
+Target: samenwerking#unknown
+  lemmas: samenwerking
+  pos: N
+  rel  1
+  over 80
+  ratio 0
+  freqtokens  samenwerking: 80
+Target: zaak#unknown
+  lemmas: zaak
+  pos: N
+  rel  1
+  over 13
+  ratio 0
+  freqtokens  zaak: 13
+Target: compromissen#unknown
+  lemmas: compromis
+  pos: N
+  rel  1
+  over 19
+  ratio 0
+  freqtokens  compromissen: 19
+Target: enthousiasme#unknown
+  lemmas: enthousiasme
+  pos: N
+  rel  1
+  over 5
+  ratio 0
+  freqtokens  enthousiasme: 5
+Target: premier#unknown
+  lemmas: premier
+  pos: N
+  rel  1
+  over 476
+  ratio 0
+  freqtokens  premier: 476
+Target: bondgenoten#unknown
+  lemmas: bondgenoot
+  pos: N
+  rel  1
+  over 26
+  ratio 0
+  freqtokens  bondgenoten: 26
+Target: integratie#unknown
+  lemmas: integratie
+  pos: N
+  rel  1
+  over 49
+  ratio 0
+  freqtokens  integratie: 49
+Target: snowden#unknown
+  lemmas: Snowden
+  pos: O
+  rel  1
+  over 56
+  ratio 0
+  freqtokens  snowden: 56
+Target: cda#unknown
+  lemmas: CDA
+  pos: N
+  rel  1
+  over 22
+  ratio 0
+  freqtokens  cda: 22
+Target: thema#unknown
+  lemmas: thema
+  pos: N
+  rel  1
+  over 11
+  ratio 0
+  freqtokens  thema: 11
+Target: spanje#unknown
+  lemmas: Spanje
+  pos: R
+  rel  1
+  over 85
+  ratio 0
+  freqtokens  spanje: 85
+Target: gebieden#unknown
+  lemmas: gebied
+  pos: N
+  rel  1
+  over 10
+  ratio 0
+  freqtokens  gebieden: 10
+Target: begrotingstekorten#unknown
+  lemmas: begrotingstekort
+  pos: N
+  rel  1
+  over 4
+  ratio 0
+  freqtokens  begrotingstekorten: 4
+Target: bericht#unknown
+  lemmas: bericht
+  pos: N
+  rel  1
+  over 24
+  ratio 0
+  freqtokens  bericht: 24
+Target: dit plan#unknown
+  lemmas: dit plan
+  pos: D N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  dit: 248 plan: 77
+Target: hete eurozomer#unknown
+  lemmas: heet eurozomer
+  pos: G O
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  hete: 2 eurozomer: 1
+Target: aanpak eu-migranten#unknown
+  lemmas: aanpak EU-migranten
+  pos: N O
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  aanpak: 18 eu-migranten: 3
+Target: constitutioneel debat#unknown
+  lemmas: constitutioneel debat
+  pos: G N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  constitutioneel: 2 debat: 78
+Target: crisisbestrijding europa#unknown
+  lemmas: crisisbestrijding Europa
+  pos: O R
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  crisisbestrijding: 2 europa: 850
+Target: merkels tekst#unknown
+  lemmas: Merkels tekst
+  pos: O N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  merkels: 46 tekst: 9
+Target: onze standpunten#unknown
+  lemmas: ons standpunt
+  pos: D N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  onze: 106 standpunten: 16
+Target: zonder leningen#unknown
+  lemmas: Zonder lening
+  pos: O N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  zonder: 68 leningen: 25
+Target: bijkomende hulp#unknown
+  lemmas: bijkomend hulp
+  pos: G N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  bijkomende: 4 hulp: 40
+Target: een bankrun#unknown
+  lemmas: een bankrun
+  pos: D O
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  een: 3166 bankrun: 1
+Target: de belastingontduikers#unknown
+  lemmas: de belastingontduikers
+  pos: D O
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  de: 10786 belastingontduikers: 1
+Target: de komiek#unknown
+  lemmas: de komiek
+  pos: D N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  de: 10786 komiek: 1
+Target: de toestand#unknown
+  lemmas: De toestand
+  pos: O N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  de: 10786 toestand: 3
+Target: frans-duitse europapolitiek#unknown
+  lemmas: Frans-Duitse Europapolitiek
+  pos: O O
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  frans-duitse: 13 europapolitiek: 1
+Target: zijn butler#unknown
+  lemmas: zijn butler
+  pos: D N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  zijn: 1296 butler: 2
+Target: pro-europees cda#unknown
+  lemmas: Pro-Europees CDA
+  pos: O N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  pro-europees: 4 cda: 22
+Target: betere eu#unknown
+  lemmas: goed EU
+  pos: G O
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  betere: 10 eu: 349
+Target: het ledenaantal#unknown
+  lemmas: het ledenaantal
+  pos: D O
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  het: 3561 ledenaantal: 1
+Target: officieel reageren#unknown
+  lemmas: officieel reageren
+  pos: G V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  officieel: 24 reageren: 14
+Target: de vergezichten#unknown
+  lemmas: de vergezicht
+  pos: D N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  de: 10786 vergezichten: 6
+Target: het vonnis#unknown
+  lemmas: het vonnis
+  pos: D N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  het: 3561 vonnis: 1
+Target: invloed brussel#unknown
+  lemmas: invloed Brussel
+  pos: N R
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  invloed: 26 brussel: 221
+Target: de stemmers#unknown
+  lemmas: de stemmer
+  pos: D N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  de: 10786 stemmers: 5
+Target: de euro#unknown
+  lemmas: de euro
+  pos: D N
+  rel  6
+  over 110
+  ratio 0
+  freqtokens  de: 10786 euro: 317
+Target: het referendum#unknown
+  lemmas: het referendum
+  pos: D N
+  rel  3
+  over 13
+  ratio 0
+  freqtokens  het: 3561 referendum: 134
+Target: meer europa#unknown
+  lemmas: meer Europa
+  pos: A R
+  rel  3
+  over 13
+  ratio 0
+  freqtokens  meer: 506 europa: 850
+Target: economische groei#unknown
+  lemmas: economisch groei
+  pos: G N
+  rel  3
+  over 88
+  ratio 0
+  freqtokens  economische: 185 groei: 172
+Target: angela merkel#unknown
+  lemmas: Angela Merkel
+  pos: O O
+  rel  3
+  over 347
+  ratio 0
+  freqtokens  angela: 359 merkel: 1037
+Target: de schuldencrisis#unknown
+  lemmas: de schuldencrisis
+  pos: D O
+  rel  2
+  over 40
+  ratio 0
+  freqtokens  de: 10786 schuldencrisis: 71
+Target: een referendum#unknown
+  lemmas: een referendum
+  pos: D N
+  rel  2
+  over 85
+  ratio 0
+  freqtokens  een: 3166 referendum: 134
+Target: margaret thatcher#unknown
+  lemmas: Margaret Thatcher
+  pos: O O
+  rel  2
+  over 24
+  ratio 0
+  freqtokens  margaret: 30 thatcher: 76
+Target: nicolas sarkozy#unknown
+  lemmas: Nicolas Sarkozy
+  pos: O O
+  rel  2
+  over 28
+  ratio 0
+  freqtokens  nicolas: 28 sarkozy: 98
+Target: de keuze#unknown
+  lemmas: de keuze
+  pos: D N
+  rel  2
+  over 10
+  ratio 0
+  freqtokens  de: 10786 keuze: 22
+Target: de begroting#unknown
+  lemmas: de begroting
+  pos: D N
+  rel  2
+  over 28
+  ratio 0
+  freqtokens  de: 10786 begroting: 81
+Target: de fdp#unknown
+  lemmas: de FDP
+  pos: D N
+  rel  2
+  over 26
+  ratio 0
+  freqtokens  de: 10786 fdp: 54
+Target: de problemen#unknown
+  lemmas: de probleem
+  pos: D N
+  rel  2
+  over 20
+  ratio 0
+  freqtokens  de: 10786 problemen: 61
+Target: frans-duitse vriendschap#unknown
+  lemmas: Frans-Duitse vriendschap
+  pos: O N
+  rel  2
+  over 4
+  ratio 0
+  freqtokens  frans-duitse: 13 vriendschap: 16
+Target: europese unie#unknown
+  lemmas: Europees unie
+  pos: G N
+  rel  1
+  over 213
+  ratio 0
+  freqtokens  europese: 981 unie: 322
+Target: de standpunten#unknown
+  lemmas: de standpunt
+  pos: D N
+  rel  1
+  over 9
+  ratio 0
+  freqtokens  de: 10786 standpunten: 16
+Target: veel britten#unknown
+  lemmas: veel Brit
+  pos: A N
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  veel: 195 britten: 81
+Target: het cda#unknown
+  lemmas: het CDA
+  pos: D N
+  rel  1
+  over 10
+  ratio 0
+  freqtokens  het: 3561 cda: 22
+Target: hun meerderheid#unknown
+  lemmas: hun meerderheid
+  pos: D N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  hun: 197 meerderheid: 53
+Target: de veranderingen#unknown
+  lemmas: de verandering
+  pos: D N
+  rel  1
+  over 6
+  ratio 0
+  freqtokens  de: 10786 veranderingen: 14
+Target: barack obama#unknown
+  lemmas: Barack Obama
+  pos: O O
+  rel  1
+  over 36
+  ratio 0
+  freqtokens  barack: 36 obama: 168
+Target: de partij#unknown
+  lemmas: de partij
+  pos: D N
+  rel  1
+  over 59
+  ratio 0
+  freqtokens  de: 10786 partij: 158
+Target: een overwinning#unknown
+  lemmas: een overwinning
+  pos: D N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  een: 3166 overwinning: 25
+Target: de kans#unknown
+  lemmas: de kans
+  pos: D N
+  rel  1
+  over 15
+  ratio 0
+  freqtokens  de: 10786 kans: 34
+Target: de vraag#unknown
+  lemmas: de vraag
+  pos: D N
+  rel  1
+  over 36
+  ratio 0
+  freqtokens  de: 10786 vraag: 60
+Target: het eu-lidmaatschap#unknown
+  lemmas: het EU-lidmaatschap
+  pos: D O
+  rel  1
+  over 11
+  ratio 0
+  freqtokens  het: 3561 eu-lidmaatschap: 19
+Target: het reddingsplan#unknown
+  lemmas: het reddingsplan
+  pos: D N
+  rel  1
+  over 11
+  ratio 0
+  freqtokens  het: 3561 reddingsplan: 14
+Target: budgettaire soevereiniteit#unknown
+  lemmas: budgettair soevereiniteit
+  pos: G N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  budgettaire: 2 soevereiniteit: 10
+Target: het rapport#unknown
+  lemmas: het rapport
+  pos: D N
+  rel  1
+  over 14
+  ratio 0
+  freqtokens  het: 3561 rapport: 21
+Target: de begrotingseisen#unknown
+  lemmas: de begrotingseisen
+  pos: D O
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  de: 10786 begrotingseisen: 2
+Target: nauwer samenwerken#unknown
+  lemmas: nauw samenwerken
+  pos: G V
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  nauwer: 3 samenwerken: 23
+Target: de besparingsdrang#unknown
+  lemmas: de besparingsdrang
+  pos: D O
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  de: 10786 besparingsdrang: 2
+Target: een oplossing#unknown
+  lemmas: een oplossing
+  pos: D N
+  rel  1
+  over 17
+  ratio 0
+  freqtokens  een: 3166 oplossing: 52
+Target: de eu#unknown
+  lemmas: de EU
+  pos: D O
+  rel  1
+  over 275
+  ratio 0
+  freqtokens  de: 10786 eu: 349
+Target: de situatie#unknown
+  lemmas: de situatie
+  pos: D N
+  rel  1
+  over 17
+  ratio 0
+  freqtokens  de: 10786 situatie: 31
+Target: zwakkere eu#unknown
+  lemmas: zwak EU
+  pos: G O
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  zwakkere: 3 eu: 349
+Target: de opvatting#unknown
+  lemmas: de opvatting
+  pos: D N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  de: 10786 opvatting: 2
+Target: internationale veroordeling#unknown
+  lemmas: internationaal veroordeling
+  pos: G N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  internationale: 38 veroordeling: 5
+Target: de spanningen#unknown
+  lemmas: de spanning
+  pos: D N
+  rel  1
+  over 5
+  ratio 0
+  freqtokens  de: 10786 spanningen: 8
+Target: jean-marc ayrault#unknown
+  lemmas: Jean-Marc Ayrault
+  pos: O O
+  rel  1
+  over 4
+  ratio 0
+  freqtokens  jean-marc: 4 ayrault: 10
+Target: een verklaring#unknown
+  lemmas: een verklaring
+  pos: D N
+  rel  1
+  over 9
+  ratio 0
+  freqtokens  een: 3166 verklaring: 21
+Target: de klokkenluider#unknown
+  lemmas: de klokkenluider
+  pos: D O
+  rel  1
+  over 4
+  ratio 0
+  freqtokens  de: 10786 klokkenluider: 19
+Target: politieke unie#unknown
+  lemmas: politiek unie
+  pos: G N
+  rel  1
+  over 34
+  ratio 0
+  freqtokens  politieke: 148 unie: 322
+Target: voor duitsland#unknown
+  lemmas: voor Duitsland
+  pos: P R
+  rel  1
+  over 18
+  ratio 0
+  freqtokens  voor: 1627 duitsland: 433
+Target: het besluit#unknown
+  lemmas: het besluit
+  pos: D N
+  rel  1
+  over 9
+  ratio 0
+  freqtokens  het: 3561 besluit: 23
+Target: voor europa#unknown
+  lemmas: voor Europa
+  pos: P R
+  rel  1
+  over 49
+  ratio 0
+  freqtokens  voor: 1627 europa: 850
+Target: het wapenembargo#unknown
+  lemmas: het wapenembargo
+  pos: D N
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  het: 3561 wapenembargo: 11
+Target: hollandes tegenstander#unknown
+  lemmas: Hollandes tegenstander
+  pos: O N
+  rel  1
+  over 5
+  ratio 0
+  freqtokens  hollandes: 23 tegenstander: 10
+Target: obligaties uitgeven#unknown
+  lemmas: obligatie uitgeven
+  pos: N V
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  obligaties: 26 uitgeven: 15
+Target: desmond tutu#unknown
+  lemmas: Desmond tutu
+  pos: O N
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  desmond: 3 tutu: 4
+Target: de mensen#unknown
+  lemmas: de mens
+  pos: D N
+  rel  1
+  over 13
+  ratio 0
+  freqtokens  de: 10786 mensen: 98
+Target: de eu-begroting#unknown
+  lemmas: de EU-begroting
+  pos: D O
+  rel  1
+  over 11
+  ratio 0
+  freqtokens  de: 10786 eu-begroting: 16
+Target: de afspraken#unknown
+  lemmas: de afspraak
+  pos: D N
+  rel  1
+  over 16
+  ratio 0
+  freqtokens  de: 10786 afspraken: 61
+Target: de uitgaven#unknown
+  lemmas: de uitgaaf|uitgave
+  pos: D N
+  rel  1
+  over 13
+  ratio 0
+  freqtokens  de: 10786 uitgaven: 27
+Target: economisch beleid#unknown
+  lemmas: economisch beleid
+  pos: G N
+  rel  1
+  over 7
+  ratio 0
+  freqtokens  economisch: 30 beleid: 54
+Target: persoonlijke samenwerking#unknown
+  lemmas: persoonlijk samenwerking
+  pos: G N
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  persoonlijke: 17 samenwerking: 80
+Target: te overtuigen#unknown
+  lemmas: te overtuigen
+  pos: O V
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  te: 1760 overtuigen: 11
+Target: meer overheidsuitgaven#unknown
+  lemmas: veel overheidsuitgaven
+  pos: O N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  meer: 506 overheidsuitgaven: 6
+Target: françois hollande#unknown
+  lemmas: François Hollande
+  pos: O O
+  rel  1
+  over 125
+  ratio 0
+  freqtokens  françois: 135 hollande: 491
+Target: parlementaire controle#unknown
+  lemmas: parlementair controle
+  pos: G N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  parlementaire: 4 controle: 14
+Target: haar invloed#unknown
+  lemmas: haar invloed
+  pos: D N
+  rel  1
+  over 4
+  ratio 0
+  freqtokens  haar: 356 invloed: 26
+Target: europese begrotingsregels#unknown
+  lemmas: Europees begrotingsregels
+  pos: G O
+  rel  1
+  over 10
+  ratio 0
+  freqtokens  europese: 981 begrotingsregels: 20
+Target: noodzaak groei#unknown
+  lemmas: noodzaak groeien
+  pos: N V
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  noodzaak: 10 groei: 172
+Target: de speech#unknown
+  lemmas: de speech
+  pos: D N
+  rel  1
+  over 25
+  ratio 0
+  freqtokens  de: 10786 speech: 43
+Target: het embargo#unknown
+  lemmas: het embargo
+  pos: D N
+  rel  1
+  over 7
+  ratio 0
+  freqtokens  het: 3561 embargo: 8
+Target: de invoering#unknown
+  lemmas: de invoering
+  pos: D N
+  rel  1
+  over 26
+  ratio 0
+  freqtokens  de: 10786 invoering: 35
+Target: het plan#unknown
+  lemmas: het plan
+  pos: D N
+  rel  1
+  over 23
+  ratio 0
+  freqtokens  het: 3561 plan: 77
+Target: de bouwplannen#unknown
+  lemmas: de bouwplan
+  pos: D N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  de: 10786 bouwplannen: 3
+Target: het geweld#unknown
+  lemmas: het wellen
+  pos: Q V
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  het: 3561 geweld: 11
+Target: de bezuinigingen#unknown
+  lemmas: de bezuiniging
+  pos: D N
+  rel  1
+  over 8
+  ratio 0
+  freqtokens  de: 10786 bezuinigingen: 63
+Target: de crisis#unknown
+  lemmas: de crisis
+  pos: D N
+  rel  1
+  over 82
+  ratio 0
+  freqtokens  de: 10786 crisis: 140
+Target: elk voorstel#unknown
+  lemmas: elk voorstel
+  pos: D N
+  rel  1
+  over 4
+  ratio 0
+  freqtokens  elk: 23 voorstel: 46
+Target: een versterking#unknown
+  lemmas: een versterking
+  pos: D N
+  rel  1
+  over 5
+  ratio 0
+  freqtokens  een: 3166 versterking: 10
+Target: het land#unknown
+  lemmas: het land
+  pos: D N
+  rel  1
+  over 139
+  ratio 0
+  freqtokens  het: 3561 land: 277
+Target: frans-duitse as#unknown
+  lemmas: Frans-Duitse as
+  pos: O N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  frans-duitse: 13 as: 7
+Target: de voorstellen#unknown
+  lemmas: de voorstel
+  pos: D N
+  rel  1
+  over 9
+  ratio 0
+  freqtokens  de: 10786 voorstellen: 39
+Target: een akkoord#unknown
+  lemmas: een akkoord
+  pos: D N
+  rel  1
+  over 41
+  ratio 0
+  freqtokens  een: 3166 akkoord: 110
+Target: een faillissement#unknown
+  lemmas: een faillissement
+  pos: D N
+  rel  1
+  over 4
+  ratio 0
+  freqtokens  een: 3166 faillissement: 6
+Target: de onderhandelingen#unknown
+  lemmas: de onderhandeling
+  pos: D N
+  rel  1
+  over 54
+  ratio 0
+  freqtokens  de: 10786 onderhandelingen: 98
+Target: visie over europa#unknown
+  lemmas: visie over Europa
+  pos: N P R
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  visie: 37 over: 894 europa: 850
+Target: rechtvaardiger economisch beleid#unknown
+  lemmas: rechtvaardig economisch beleid
+  pos: G G N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  rechtvaardiger: 1 economisch: 30 beleid: 54
+Target: gecreëerd mag worden#unknown
+  lemmas: creëren mogen worden
+  pos: V V V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  gecreëerd: 3 mag: 46 worden: 415
+Target: een europees depositogarantiesysteem#unknown
+  lemmas: een Europees depositogarantiesysteem
+  pos: D G O
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  een: 3166 europees: 178 depositogarantiesysteem: 1
+Target: snelle economsiche groei#unknown
+  lemmas: snel economsiche groeien
+  pos: G O V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  snelle: 4 economsiche: 1 groei: 172
+Target: concrete besluiten nemen#unknown
+  lemmas: concreet besluit nemen
+  pos: G N V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  concrete: 14 besluiten: 15 nemen: 70
+Target: duitse consumptie aanwakkeren#unknown
+  lemmas: Duits consumptie aanwakkeren
+  pos: G N V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  duitse: 581 consumptie: 4 aanwakkeren: 1
+Target: een kernwapenvrije wereld#unknown
+  lemmas: een kernwapenvrij wereld
+  pos: D G N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  een: 3166 kernwapenvrije: 1 wereld: 76
+Target: de aanhoudende schuldencrisis#unknown
+  lemmas: de aanhoudend schuldencrisis
+  pos: D G O
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  de: 10786 aanhoudende: 4 schuldencrisis: 71
+Target: te harde bezuinigingen#unknown
+  lemmas: te hard bezuiniging
+  pos: O G N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  te: 1760 harde: 23 bezuinigingen: 63
+Target: het behaalde akkoord#unknown
+  lemmas: het behalen akkoord
+  pos: D V N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  het: 3561 behaalde: 7 akkoord: 110
+Target: eu-minister van financiën#unknown
+  lemmas: EU-minister van financiën
+  pos: O P N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  eu-minister: 2 van: 4780 financiën: 100
+Target: de forse bezuinigingen#unknown
+  lemmas: de fors bezuiniging
+  pos: D G N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  de: 10786 forse: 10 bezuinigingen: 63
+Target: op de bezuinigingswoede#unknown
+  lemmas: op de bezuinigingswoede
+  pos: P D O
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  op: 1690 de: 10786 bezuinigingswoede: 1
+Target: schade voor bedrijven#unknown
+  lemmas: schade voor bedrijf
+  pos: N P N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  schade: 13 voor: 1627 bedrijven: 12
+Target: positie voor groot-brittannië#unknown
+  lemmas: positie voor Groot-Brittannië
+  pos: N P R
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  positie: 15 voor: 1627 groot-brittannië: 141
+Target: de euro behouden#unknown
+  lemmas: de euro behouden
+  pos: D N V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  de: 10786 euro: 317 behouden: 20
+Target: merkels eigen cdu#unknown
+  lemmas: Merkels eigen CDU
+  pos: O G O
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  merkels: 46 eigen: 102 cdu: 98
+Target: de frans-duitse vriendschap#unknown
+  lemmas: de Frans-Duitse vriendschap
+  pos: D O N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  de: 10786 frans-duitse: 13 vriendschap: 16
+Target: strenge aanpak eu-migranten#unknown
+  lemmas: streng aanpak EU-migranten
+  pos: G N O
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  strenge: 22 aanpak: 18 eu-migranten: 3
+Target: afluisteren van bondgenoten#unknown
+  lemmas: afluisteren van bondgenoot
+  pos: V P N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  afluisteren: 22 van: 4780 bondgenoten: 26
+Target: het nieuwe begrotingspact#unknown
+  lemmas: het nieuw begrotingspact
+  pos: D G O
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  het: 3561 nieuwe: 316 begrotingspact: 31
+Target: het gemeenschappelijke doel#unknown
+  lemmas: het gemeenschappelijk doel
+  pos: D G N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  het: 3561 gemeenschappelijke: 22 doel: 25
+Target: 50 jaar vriendschap#unknown
+  lemmas: @card@ jaar vriendschap
+  pos: O N N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  50: 15 jaar: 241 vriendschap: 16
+Target: die 130 miljard#unknown
+  lemmas: Die @card@ miljard
+  pos: O O O
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  die: 957 130: 14 miljard: 184
+Target: invloed brussel terugdringen#unknown
+  lemmas: invloed Brussel terugdringen
+  pos: N R V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  invloed: 26 brussel: 221 terugdringen: 7
+Target: de britse visie#unknown
+  lemmas: de Brits visie
+  pos: D G N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  de: 10786 britse: 320 visie: 37
+Target: over de kans#unknown
+  lemmas: over de kans
+  pos: P D N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  over: 894 de: 10786 kans: 34
+Target: de ingrijpende bezuinigingen#unknown
+  lemmas: de ingrijpend bezuiniging
+  pos: D G N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  de: 10786 ingrijpende: 2 bezuinigingen: 63
+Target: een duitse koerswijziging#unknown
+  lemmas: een Duits koerswijziging
+  pos: D G O
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  een: 3166 duitse: 581 koerswijziging: 2
+Target: de duitse kracht#unknown
+  lemmas: de Duits kracht
+  pos: D G N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  de: 10786 duitse: 581 kracht: 26
+Target: het syrische bewind#unknown
+  lemmas: het Syrische bewind
+  pos: D N N
+  rel  2
+  over 3
+  ratio 0
+  freqtokens  het: 3561 syrische: 34 bewind: 8
+Target: voor vertrek britten#unknown
+  lemmas: voor vertrek Brit
+  pos: P N N
+  rel  2
+  over 4
+  ratio 0
+  freqtokens  voor: 1627 vertrek: 35 britten: 81
+Target: een zware strijd#unknown
+  lemmas: een zwaar strijd
+  pos: D G N
+  rel  2
+  over 6
+  ratio 0
+  freqtokens  een: 3166 zware: 21 strijd: 47
+Target: een grieks exit#unknown
+  lemmas: een Grieks exit
+  pos: D G O
+  rel  2
+  over 7
+  ratio 0
+  freqtokens  een: 3166 grieks: 26 exit: 19
+Target: het formidabele jaar#unknown
+  lemmas: het formidabel jaar
+  pos: D G N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  het: 3561 formidabele: 2 jaar: 241
+Target: van de begroting#unknown
+  lemmas: van de begroting
+  pos: P D N
+  rel  1
+  over 7
+  ratio 0
+  freqtokens  van: 4780 de: 10786 begroting: 81
+Target: de noodlijdende landen#unknown
+  lemmas: de noodlijdend land
+  pos: D G N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  de: 10786 noodlijdende: 8 landen: 305
+Target: groei in europa#unknown
+  lemmas: groei in Europa
+  pos: N P R
+  rel  1
+  over 15
+  ratio 0
+  freqtokens  groei: 172 in: 3216 europa: 850
+Target: 10 procent compensatie#unknown
+  lemmas: @card@ procent compensatie
+  pos: O N N
+  rel  1
+  over 5
+  ratio 0
+  freqtokens  10: 47 procent: 351 compensatie: 5
+Target: een militaire oplossing#unknown
+  lemmas: een militair oplossing
+  pos: D G N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  een: 3166 militaire: 22 oplossing: 52
+Target: goede samenwerking hollande#unknown
+  lemmas: goed samenwerking Hollande
+  pos: G N O
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  goede: 75 samenwerking: 80 hollande: 491
+Target: direct gekozen eu-president#unknown
+  lemmas: direct kiezen EU-president
+  pos: G V O
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  direct: 29 gekozen: 27 eu-president: 24
+Target: een monetaire unie#unknown
+  lemmas: een monetair unie
+  pos: D G N
+  rel  1
+  over 4
+  ratio 0
+  freqtokens  een: 3166 monetaire: 26 unie: 322
+Target: de getroffen gebieden#unknown
+  lemmas: de getroffen gebied
+  pos: D G N
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  de: 10786 getroffen: 16 gebieden: 10
+Target: landen als griekenland#unknown
+  lemmas: land als Griekenland
+  pos: N C R
+  rel  1
+  over 6
+  ratio 0
+  freqtokens  landen: 305 als: 636 griekenland: 305
+Target: europeaan te zijn#unknown
+  lemmas: Europeaan te zijn
+  pos: N O V
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  europeaan: 12 te: 1760 zijn: 1296
+Target: in de gesprekken#unknown
+  lemmas: in de gesprek
+  pos: P D N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  in: 3216 de: 10786 gesprekken: 37
+Target: vertrouwen collega '#unknown
+  lemmas: vertrouwen collega '
+  pos: V N O
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  vertrouwen: 47 collega: 36 ': 1990
+Target: de maritieme industrie#unknown
+  lemmas: de maritiem industrie
+  pos: D G N
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  de: 10786 maritieme: 6 industrie: 6
+Target: de europese schuldencrisis#unknown
+  lemmas: de Europees schuldencrisis
+  pos: D G O
+  rel  1
+  over 22
+  ratio 0
+  freqtokens  de: 10786 europese: 981 schuldencrisis: 71
+Target: gebrek aan vertrouwen#unknown
+  lemmas: gebrek aan vertrouwen
+  pos: N P V
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  gebrek: 5 aan: 902 vertrouwen: 47
+Target: over de eu#unknown
+  lemmas: over de EU
+  pos: P D O
+  rel  1
+  over 11
+  ratio 0
+  freqtokens  over: 894 de: 10786 eu: 349
+Target: franse socialist hollande#unknown
+  lemmas: Frans socialist Hollande
+  pos: G N O
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  franse: 216 socialist: 22 hollande: 491
+Target: de grote lidstaten#unknown
+  lemmas: de groot lidstaat
+  pos: D G N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  de: 10786 grote: 161 lidstaten: 78
+Target: de duits-franse vriendschap#unknown
+  lemmas: de Duits-Franse vriendschap
+  pos: D O N
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  de: 10786 duits-franse: 5 vriendschap: 16
+Target: pvv-leider geert wilders#unknown
+  lemmas: PVV-leider Geert Wilders
+  pos: O O O
+  rel  1
+  over 4
+  ratio 0
+  freqtokens  pvv-leider: 8 geert: 7 wilders: 19
+Target: de europese unie#unknown
+  lemmas: de Europees unie
+  pos: D G N
+  rel  1
+  over 193
+  ratio 0
+  freqtokens  de: 10786 europese: 981 unie: 322
+Target: bondskanselier angela merkel#unknown
+  lemmas: bondskanselier Angela Merkel
+  pos: N O O
+  rel  1
+  over 247
+  ratio 0
+  freqtokens  bondskanselier: 364 angela: 359 merkel: 1037
+Target: de europese leiders#unknown
+  lemmas: de Europees leider
+  pos: D G N
+  rel  1
+  over 25
+  ratio 0
+  freqtokens  de: 10786 europese: 981 leiders: 155
+Target: de administratieve kosten#unknown
+  lemmas: de administratief kost
+  pos: D G N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  de: 10786 administratieve: 2 kosten: 10
+Target: de twee landen#unknown
+  lemmas: de twee land
+  pos: D O N
+  rel  1
+  over 9
+  ratio 0
+  freqtokens  de: 10786 twee: 152 landen: 305
+Target: samen te werken#unknown
+  lemmas: samen te werken
+  pos: A O V
+  rel  1
+  over 12
+  ratio 0
+  freqtokens  samen: 150 te: 1760 werken: 47
+Target: de financiële crisis#unknown
+  lemmas: de financieel crisis
+  pos: D G N
+  rel  1
+  over 8
+  ratio 0
+  freqtokens  de: 10786 financiële: 120 crisis: 140
+Target: een nauwe samenwerking#unknown
+  lemmas: een nauw samenwerking
+  pos: D G N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  een: 3166 nauwe: 28 samenwerking: 80
+Target: geweld in syrië#unknown
+  lemmas: wellen in Syrië
+  pos: V P R
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  geweld: 11 in: 3216 syrië: 80
+Target: de duitse economie#unknown
+  lemmas: de Duits economie
+  pos: D G N
+  rel  1
+  over 7
+  ratio 0
+  freqtokens  de: 10786 duitse: 581 economie: 142
+Target: bezoek van de bondskanselier#unknown
+  lemmas: bezoek van de bondskanselier
+  pos: N P D N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  bezoek: 63 van: 4780 de: 10786 bondskanselier: 364
+Target: meer aandacht wordt geschonken#unknown
+  lemmas: meer aandacht worden schenken
+  pos: A N V V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  meer: 506 aandacht: 15 wordt: 290 geschonken: 1
+Target: het stijgende aantal slachtoffers#unknown
+  lemmas: het stijgen aantal slachtoffer
+  pos: D V N N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  het: 3561 stijgende: 4 aantal: 60 slachtoffers: 5
+Target: dat salmond zich beperkt#unknown
+  lemmas: dat Salmond zich beperken
+  pos: D O Q V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  dat: 2377 salmond: 5 zich: 317 beperkt: 11
+Target: invoering van een bankenunie#unknown
+  lemmas: invoering van een bankenunie
+  pos: N P D O
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  invoering: 35 van: 4780 een: 3166 bankenunie: 13
+Target: verdere politieke integratie europa#unknown
+  lemmas: ver|verder politiek integratie Europa
+  pos: G G N R
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  verdere: 34 politieke: 148 integratie: 49 europa: 850
+Target: de argumenten van cameron#unknown
+  lemmas: de argument van Cameron
+  pos: D N P O
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  de: 10786 argumenten: 3 van: 4780 cameron: 438
+Target: de opmerkingen van merkel#unknown
+  lemmas: de opmerking van Merkel
+  pos: D N P O
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  de: 10786 opmerkingen: 10 van: 4780 merkel: 1037
+Target: als engeland zou vertrekken#unknown
+  lemmas: als Engeland zullen vertrekken
+  pos: C R V V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  als: 636 engeland: 11 zou: 297 vertrekken: 5
+Target: strengere controle op banken#unknown
+  lemmas: streng controle op bank
+  pos: G N P N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  strengere: 14 controle: 14 op: 1690 banken: 110
+Target: een meer afgestemd begrotingsbeleid#unknown
+  lemmas: een meer afstemmen begrotingsbeleid
+  pos: D A V O
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  een: 3166 meer: 506 afgestemd: 1 begrotingsbeleid: 4
+Target: de kredietlijn naar griekenland#unknown
+  lemmas: de kredietlijn naar Griekenland
+  pos: D O P R
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  de: 10786 kredietlijn: 1 naar: 555 griekenland: 305
+Target: stabiliteit van de euro#unknown
+  lemmas: stabiliteit van de euro
+  pos: N P D N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  stabiliteit: 14 van: 4780 de: 10786 euro: 317
+Target: de plannen van cameron#unknown
+  lemmas: de plan van Cameron
+  pos: D N P O
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  de: 10786 plannen: 36 van: 4780 cameron: 438
+Target: een " werkplan "#unknown
+  lemmas: een " werkplan "
+  pos: D O N O
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  een: 3166 ": 1526 werkplan: 1 ": 1526
+Target: de bezuinigingsagenda van merkel#unknown
+  lemmas: de bezuinigingsagenda van Merkel
+  pos: D O P O
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  de: 10786 bezuinigingsagenda: 1 van: 4780 merkel: 1037
+Target: de fransen weer samenbrengen#unknown
+  lemmas: de Franse|Fransman weer samenbrengen
+  pos: D N A V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  de: 10786 fransen: 40 weer: 91 samenbrengen: 3
+Target: regeringssamenwerking met de sociaal-democraten#unknown
+  lemmas: regeringssamenwerking met de sociaal-democraat
+  pos: O P D N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  regeringssamenwerking: 1 met: 1349 de: 10786 sociaal-democraten: 4
+Target: het leiderschap van obama#unknown
+  lemmas: het leiderschap van Obama
+  pos: D N P O
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  het: 3561 leiderschap: 11 van: 4780 obama: 168
+Target: telefoon van merkel aftappen#unknown
+  lemmas: telefoon van Merkel aftappen
+  pos: N P O V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  telefoon: 23 van: 4780 merkel: 1037 aftappen: 7
+Target: het idee van begrotingssoberheid#unknown
+  lemmas: het idee van begrotingssoberheid
+  pos: D N P O
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  het: 3561 idee: 26 van: 4780 begrotingssoberheid: 1
+Target: een betrekkelijk sobere ceremonie#unknown
+  lemmas: een betrekkelijk sober ceremonie
+  pos: D G G N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  een: 3166 betrekkelijk: 1 sobere: 9 ceremonie: 7
+Target: een beperkte parlementaire controle#unknown
+  lemmas: een beperkt parlementair controle
+  pos: D G G N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  een: 3166 beperkte: 4 parlementaire: 4 controle: 14
+Target: de herverkiezingen van obama#unknown
+  lemmas: de herverkiezing van Obama
+  pos: D N P O
+  rel  1
+  over 4
+  ratio 0
+  freqtokens  de: 10786 herverkiezingen: 5 van: 4780 obama: 168
+Target: nauw samen te werken#unknown
+  lemmas: nauw samen te werken
+  pos: N A O V
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  nauw: 16 samen: 150 te: 1760 werken: 47
+Target: oplossingen voor de crisis#unknown
+  lemmas: oplossing voor de crisis
+  pos: N P D N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  oplossingen: 22 voor: 1627 de: 10786 crisis: 140
+Target: geweld in syrië stopt#unknown
+  lemmas: wellen in Syrië stoppen
+  pos: V P R V
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  geweld: 11 in: 3216 syrië: 80 stopt: 4
+Target: berlusconi ' s opmerkingen#unknown
+  lemmas: Berlusconi ' s opmerking
+  pos: O O N N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  berlusconi: 17 ': 1990 s: 111 opmerkingen: 10
+Target: het voorstel van merkel#unknown
+  lemmas: het voorstel van Merkel
+  pos: D N P O
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  het: 3561 voorstel: 46 van: 4780 merkel: 1037
+Target: aanpak van de betogers#unknown
+  lemmas: aanpak van de betoger
+  pos: N P D N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  aanpak: 18 van: 4780 de: 10786 betogers: 13
+Target: in de euro blijven#unknown
+  lemmas: in de euro blijven
+  pos: P D N V
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  in: 3216 de: 10786 euro: 317 blijven: 130
+Target: aanval buma op rutte#unknown
+  lemmas: aanvallen buma op Rutte
+  pos: V N P O
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  aanval: 16 buma: 38 op: 1690 rutte: 304
+Target: de strengere europese begrotingsregels#unknown
+  lemmas: de streng Europees begrotingsregels
+  pos: D G G O
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  de: 10786 strengere: 14 europese: 981 begrotingsregels: 20
+Target: zeker 100 miljard minder#unknown
+  lemmas: zeker @card@ miljard min
+  pos: G O O G
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  zeker: 49 100: 26 miljard: 184 minder: 91
+Target: het europese noodfonds esm#unknown
+  lemmas: het Europees noodfonds ESM
+  pos: D G N O
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  het: 3561 europese: 981 noodfonds: 32 esm: 37
+Target: meer geld van brussel#unknown
+  lemmas: meer geld van Brussel
+  pos: A N P R
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  meer: 506 geld: 117 van: 4780 brussel: 221
+Target: het enthousiasme van sarkozy#unknown
+  lemmas: het enthousiasme van Sarkozy
+  pos: D N P O
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  het: 3561 enthousiasme: 5 van: 4780 sarkozy: 98
+Target: dood van barones thatcher#unknown
+  lemmas: dood van barones Thatcher
+  pos: N P N O
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  dood: 10 van: 4780 barones: 7 thatcher: 76
+Target: de schuldenproblematiek in europa#unknown
+  lemmas: de schuldenproblematiek in Europa
+  pos: D O P R
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  de: 10786 schuldenproblematiek: 2 in: 3216 europa: 850
+Target: een sterke frans-duitse as#unknown
+  lemmas: een sterk Frans-Duitse as
+  pos: D G O N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  een: 3166 sterke: 19 frans-duitse: 13 as: 7
+Target: een verlies te nemen#unknown
+  lemmas: een verlies te nemen
+  pos: D N O V
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  een: 3166 verlies: 31 te: 1760 nemen: 70
+Target: de bevriezing van de begroting#unknown
+  lemmas: de bevriezing van de begroting
+  pos: D N P D N
+  rel  2
+  over 2
+  ratio 1
+  freqtokens  de: 10786 bevriezing: 4 van: 4780 de: 10786 begroting: 81
+Target: de berichten over het afluisteren#unknown
+  lemmas: de bericht over het afluisteren
+  pos: D N P D N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  de: 10786 berichten: 24 over: 894 het: 3561 afluisteren: 22
+Target: de relatie tussen de twee#unknown
+  lemmas: de relatie tussen de twee
+  pos: D N P D O
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  de: 10786 relatie: 66 tussen: 214 de: 10786 twee: 152
+Target: verlaging van inkomens en pensioenen#unknown
+  lemmas: verlaging van inkomen en pensioen
+  pos: N P N C N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  verlaging: 11 van: 4780 inkomens: 6 en: 2788 pensioenen: 10
+Target: de nederlaag voor haar partij#unknown
+  lemmas: de nederlaag voor haar partij
+  pos: D N P D N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  de: 10786 nederlaag: 13 voor: 1627 haar: 356 partij: 158
+Target: internationale uitwisseling van financiële gegevens#unknown
+  lemmas: internationaal uitwisseling van financieel gegeven
+  pos: G N P G N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  internationale: 38 uitwisseling: 1 van: 4780 financiële: 120 gegevens: 14
+Target: het bedrag voor de korting#unknown
+  lemmas: het bedrag voor de korting
+  pos: D N P D N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  het: 3561 bedrag: 26 voor: 1627 de: 10786 korting: 41
+Target: zijn kritiek op de euro#unknown
+  lemmas: zijn kritiek op de euro
+  pos: N N P D N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  zijn: 1296 kritiek: 52 op: 1690 de: 10786 euro: 317
+Target: de keuze voor hun landgenoot#unknown
+  lemmas: de keuze voor hun landgenoot
+  pos: D N P D N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  de: 10786 keuze: 22 voor: 1627 hun: 197 landgenoot: 4
+Target: de toekenning aan de eu#unknown
+  lemmas: de toekenning aan de EU
+  pos: D N P D O
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  de: 10786 toekenning: 6 aan: 902 de: 10786 eu: 349
+Target: een opheffing van het embargo#unknown
+  lemmas: een opheffing van het embargo
+  pos: D N P D N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  een: 3166 opheffing: 1 van: 4780 het: 3561 embargo: 8
+Target: moskou op het matje roepen#unknown
+  lemmas: Moskou op het mat roepen
+  pos: R P D N V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  moskou: 19 op: 1690 het: 3561 matje: 9 roepen: 5
+Target: werken in italië of spanje#unknown
+  lemmas: werken in Italië of Spanje
+  pos: V P R C R
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  werken: 47 in: 3216 italië: 68 of: 280 spanje: 85
+Target: een " maximale voorbereiding "#unknown
+  lemmas: een " maximaal voorbereiding "
+  pos: D O G N O
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  een: 3166 ": 1526 maximale: 2 voorbereiding: 7 ": 1526
+Target: de ceremonie zo sober mogelijk#unknown
+  lemmas: de ceremonie zo sober mogelijk
+  pos: D N A G G
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  de: 10786 ceremonie: 7 zo: 312 sober: 3 mogelijk: 106
+Target: meer onrust over de schuldencrisis#unknown
+  lemmas: veel onrust over de schuldencrisis
+  pos: O N P D O
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  meer: 506 onrust: 14 over: 894 de: 10786 schuldencrisis: 71
+Target: een nauwe band met rusland#unknown
+  lemmas: een nauw band met Rusland
+  pos: D G N P R
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  een: 3166 nauwe: 28 band: 9 met: 1349 rusland: 62
+Target: clichés over " slordige zuid-europeanen#unknown
+  lemmas: cliché over " slordig Zuid-Europeanen
+  pos: N A O G O
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  clichés: 3 over: 894 ": 1526 slordige: 3 zuid-europeanen: 3
+Target: een bevriezing van de begroting#unknown
+  lemmas: een bevriezing van de begroting
+  pos: D N P D N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  een: 3166 bevriezing: 4 van: 4780 de: 10786 begroting: 81
+Target: de duitse bondskanselier angela merkel#unknown
+  lemmas: de Duits bondskanselier Angela Merkel
+  pos: D G N O O
+  rel  1
+  over 149
+  ratio 0
+  freqtokens  de: 10786 duitse: 581 bondskanselier: 364 angela: 359 merkel: 1037
+Target: bijna 12 miljard euro bezuinigen#unknown
+  lemmas: bijna @card@ miljard euro bezuinigen
+  pos: A O O N V
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  bijna: 23 12: 68 miljard: 184 euro: 317 bezuinigen: 25
+Target: de keuze van de amerikanen#unknown
+  lemmas: de keuze van de Amerikaan
+  pos: D N P D N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  de: 10786 keuze: 22 van: 4780 de: 10786 amerikanen: 45
+Target: de toenemende weerzin in italië#unknown
+  lemmas: de toenemend weerzin in Italië
+  pos: D G N P R
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  de: 10786 toenemende: 5 weerzin: 2 in: 3216 italië: 68
+Target: de slaagkansen van de top#unknown
+  lemmas: de slaagkansen van de top
+  pos: D O P D N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  de: 10786 slaagkansen: 4 van: 4780 de: 10786 top: 176
+Target: een politieke unie in europa#unknown
+  lemmas: een politiek unie in Europa
+  pos: D G N P R
+  rel  1
+  over 5
+  ratio 0
+  freqtokens  een: 3166 politieke: 148 unie: 322 in: 3216 europa: 850
+Target: een extra overleg nodig is#unknown
+  lemmas: een extra overleg nodig zijn
+  pos: D G N G V
+  rel  1
+  over 6
+  ratio 0
+  freqtokens  een: 3166 extra: 62 overleg: 63 nodig: 124 is: 1599
+Target: griekenland in de eurozone blijft#unknown
+  lemmas: Griekenland in de eurozone blijven
+  pos: R P D O V
+  rel  1
+  over 4
+  ratio 0
+  freqtokens  griekenland: 305 in: 3216 de: 10786 eurozone: 214 blijft: 91
+Target: wordt bereikt over de meerjarenbegroting#unknown
+  lemmas: worden bereiken over de meerjarenbegroting
+  pos: V V P D N
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  wordt: 290 bereikt: 34 over: 894 de: 10786 meerjarenbegroting: 53
+Target: de invoering van een tolvignet#unknown
+  lemmas: de invoering van een tolvignet
+  pos: D N P D O
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  de: 10786 invoering: 35 van: 4780 een: 3166 tolvignet: 7
+Target: de relaties tussen beide landen#unknown
+  lemmas: de relatie tussen beide land
+  pos: D N P O N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  de: 10786 relaties: 14 tussen: 214 beide: 73 landen: 305
+Target: de rijken zwaarder te belasten#unknown
+  lemmas: de rijke|rijk zwaar te belasten
+  pos: D N G O V
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  de: 10786 rijken: 5 zwaarder: 4 te: 1760 belasten: 3
+Target: griekenland meer tijd te geven#unknown
+  lemmas: Griekenland meer tijd te geven
+  pos: R A N O V
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  griekenland: 305 meer: 506 tijd: 123 te: 1760 geven: 79
+Target: dat de begroting omlaag zou gaan#unknown
+  lemmas: dat de begroting omlaag zullen gaan
+  pos: C D N A V V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  dat: 2377 de: 10786 begroting: 81 omlaag: 10 zou: 297 gaan: 189
+Target: de standpunten erg uit elkaar liggen#unknown
+  lemmas: de standpunt erg uit elkaar liggen
+  pos: D N G P Q V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  de: 10786 standpunten: 16 erg: 44 uit: 538 elkaar: 92 liggen: 22
+Target: doelgerichter , flexibeler en progressiever beleid#unknown
+  lemmas: doelgericht , flexibel en progressief beleid
+  pos: G O G C G N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  doelgerichter: 1 ,: 4601 flexibeler: 8 en: 2788 progressiever: 1 beleid: 54
+Target: meer macht voor de nationale parlementen#unknown
+  lemmas: meer macht voor de nationaal parlement
+  pos: A N P D G N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  meer: 506 macht: 41 voor: 1627 de: 10786 nationale: 38 parlementen: 9
+Target: samen met hollande crisis te lijf#unknown
+  lemmas: samen met Hollande crisis te lijf
+  pos: A P O N O N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  samen: 150 met: 1349 hollande: 491 crisis: 140 te: 1760 lijf: 2
+Target: het fors terugdringen van de begrotingstekorten#unknown
+  lemmas: het fors terugdringen van de begrotingstekort
+  pos: D G N P D N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  het: 3561 fors: 3 terugdringen: 7 van: 4780 de: 10786 begrotingstekorten: 4
+Target: het ‘ full option model '#unknown
+  lemmas: het ‘ full option model '
+  pos: D O O O N O
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  het: 3561 ‘: 210 full: 7 option: 7 model: 6 ': 1990
+Target: een aantal bevoegdheden terughalen uit brussel#unknown
+  lemmas: een aantal bevoegdheid terughalen uit Brussel
+  pos: D N N V P R
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  een: 3166 aantal: 60 bevoegdheden: 55 terughalen: 12 uit: 538 brussel: 221
+Target: de administratieve kosten van de eu#unknown
+  lemmas: de administratief kost van de EU
+  pos: D G N P D O
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  de: 10786 administratieve: 2 kosten: 10 van: 4780 de: 10786 eu: 349
+Target: europa een symbool van hoop wordt#unknown
+  lemmas: Europa een symbool van hoop worden
+  pos: R D N P N V
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  europa: 850 een: 3166 symbool: 12 van: 4780 hoop: 71 wordt: 290
+Target: de geopperde datum van begin mei#unknown
+  lemmas: de opperen datum van begin mei
+  pos: D V N P N R
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  de: 10786 geopperde: 2 datum: 6 van: 4780 begin: 42 mei: 61
+Target: de voortekenen voor de europese top#unknown
+  lemmas: De voorteken voor de Europees top
+  pos: O N P D G N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  de: 10786 voortekenen: 4 voor: 1627 de: 10786 europese: 981 top: 176
+Target: het besluit van het cypriotische parlement#unknown
+  lemmas: het besluit van het Cypriotisch parlement
+  pos: D N P D G N
+  rel  1
+  over 3
+  ratio 0
+  freqtokens  het: 3561 besluit: 23 van: 4780 het: 3561 cypriotische: 25 parlement: 139
+Target: de groei in de europese unie#unknown
+  lemmas: de groei in de Europees unie
+  pos: D N P D G N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  de: 10786 groei: 172 in: 3216 de: 10786 europese: 981 unie: 322
+Target: naar een politieke unie toe te werken#unknown
+  lemmas: naar een politiek unie toe te werken
+  pos: P D G N A O V
+  rel  2
+  over 2
+  ratio 1
+  freqtokens  naar: 555 een: 3166 politieke: 148 unie: 322 toe: 86 te: 1760 werken: 47
+Target: opnieuw de bevoegdheden van brussel moeten evalueren#unknown
+  lemmas: opnieuw de bevoegdheid van Brussel moeten evalueren
+  pos: A D N P R V V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  opnieuw: 73 de: 10786 bevoegdheden: 55 van: 4780 brussel: 221 moeten: 290 evalueren: 1
+Target: een vrijhandelsverdrag tussen de vs en europa#unknown
+  lemmas: een vrijhandelsverdrag tussen de VS en Europa
+  pos: D N P D R C R
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  een: 3166 vrijhandelsverdrag: 2 tussen: 214 de: 10786 vs: 95 en: 2788 europa: 850
+Target: de verslechtering van de economie in europa#unknown
+  lemmas: de verslechtering van de economie in Europa
+  pos: D N P D N P R
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  de: 10786 verslechtering: 1 van: 4780 de: 10786 economie: 142 in: 3216 europa: 850
+Target: de relaties tussen de vs en europa#unknown
+  lemmas: de relatie tussen de VS en Europa
+  pos: D N P D R C R
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  de: 10786 relaties: 14 tussen: 214 de: 10786 vs: 95 en: 2788 europa: 850
+Target: overeenstemming bereiken over een " werkplan "#unknown
+  lemmas: overeenstemming bereiken over een " werkplan "
+  pos: N V P D O N O
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  overeenstemming: 24 bereiken: 18 over: 894 een: 3166 ": 1526 werkplan: 1 ": 1526
+Target: zij die tegen dat regime willen strijden#unknown
+  lemmas: zij die tegen dat regime willen strijden
+  pos: Q Q P D N V V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  zij: 130 die: 957 tegen: 278 dat: 2377 regime: 20 willen: 218 strijden: 10
+Target: nauw samen te werken met angela merkel#unknown
+  lemmas: nauw samen te werken met Angela Merkel
+  pos: N A O V P O O
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  nauw: 16 samen: 150 te: 1760 werken: 47 met: 1349 angela: 359 merkel: 1037
+Target: de hulp die ze kregen uit europa#unknown
+  lemmas: de hulp die ze krijgen uit Europa
+  pos: D N Q Q V P R
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  de: 10786 hulp: 40 die: 957 ze: 496 kregen: 8 uit: 538 europa: 850
+Target: de migratie van arme naar rijke eu-lidstaten#unknown
+  lemmas: de migratie van arme naar rijk EU-lidstaten
+  pos: D N P N P G O
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  de: 10786 migratie: 2 van: 4780 arme: 3 naar: 555 rijke: 1 eu-lidstaten: 15
+Target: dat eurocrisis nog zeker 5 jaar duurt#unknown
+  lemmas: dat eurocrisis nog zeker @card@ jaar duren
+  pos: D O A G O N V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  dat: 2377 eurocrisis: 68 nog: 400 zeker: 49 5: 32 jaar: 241 duurt: 10
+Target: dat europa een symbool van hoop wordt#unknown
+  lemmas: dat Europa een symbool van hoop worden
+  pos: C R D N P N V
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  dat: 2377 europa: 850 een: 3166 symbool: 12 van: 4780 hoop: 71 wordt: 290
+Target: het initiatief van de fransen en duitsers#unknown
+  lemmas: het initiatief van de Franse|Fransman en Duitser
+  pos: D N P D N C N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  het: 3561 initiatief: 19 van: 4780 de: 10786 fransen: 40 en: 2788 duitsers: 42
+Target: de houding van duitsland in de crisis#unknown
+  lemmas: de houding van Duitsland in de crisis
+  pos: D N P R P D N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  de: 10786 houding: 18 van: 4780 duitsland: 433 in: 3216 de: 10786 crisis: 140
+Target: de europese maatregelen tegen de financiële crisis#unknown
+  lemmas: de Europees maatregel tegen de financieel crisis
+  pos: D G N P D G N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  de: 10786 europese: 981 maatregelen: 69 tegen: 278 de: 10786 financiële: 120 crisis: 140
+Target: vertrek van het verenigd koninkrijk uit de eu#unknown
+  lemmas: vertrek van het Verenigd koninkrijk uit de EU
+  pos: N P D O N P D O
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  vertrek: 35 van: 4780 het: 3561 verenigd: 62 koninkrijk: 54 uit: 538 de: 10786 eu: 349
+Target: een nieuwe griekse regering de afspraken zal naleven#unknown
+  lemmas: een nieuw Grieks regering de afspraak zullen naleven
+  pos: D G G N D N V V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  een: 3166 nieuwe: 316 griekse: 149 regering: 191 de: 10786 afspraken: 61 zal: 379 naleven: 3
+Target: europa niet het probleem , maar de oplossing#unknown
+  lemmas: Europa niet het probleem , maar de oplossing
+  pos: R A D N O C D N
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  europa: 850 niet: 1140 het: 3561 probleem: 27 ,: 4601 maar: 619 de: 10786 oplossing: 52
+Target: de ' onnodig ruwe ' aanpak van de betogers#unknown
+  lemmas: de ' onnodig ruwe ' aanpak van de betoger
+  pos: D O G N O N P D N
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  de: 10786 ': 1990 onnodig: 1 ruwe: 1 ': 1990 aanpak: 18 van: 4780 de: 10786 betogers: 13
+Target: om de vergezichten van merkel zomaar terzijde te schuiven#unknown
+  lemmas: om de vergezicht van Merkel zomaar terzijde te schuiven
+  pos: C D N P O A A O V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  om: 993 de: 10786 vergezichten: 6 van: 4780 merkel: 1037 zomaar: 7 terzijde: 2 te: 1760 schuiven: 6
+Target: de bereidheid om de schuldencrisis het hoofd te bieden#unknown
+  lemmas: de bereidheid om de schuldencrisis het hoofd te bieden
+  pos: D N P D O D N O V
+  rel  1
+  over 2
+  ratio 0
+  freqtokens  de: 10786 bereidheid: 3 om: 993 de: 10786 schuldencrisis: 71 het: 3561 hoofd: 28 te: 1760 bieden: 20
+Target: een verschillende , soepeler en minder omslachtige positie voor groot-brittannië#unknown
+  lemmas: een verschillend , soepel en min omslachtig positie voor Groot-Brittannië
+  pos: D G O G C G G N P R
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  een: 3166 verschillende: 47 ,: 4601 soepeler: 2 en: 2788 minder: 91 omslachtige: 1 positie: 15 voor: 1627 groot-brittannië: 141
+Target: dat er meer wordt gedaan om de economie te stimuleren#unknown
+  lemmas: dat er meer worden doen om de economie te stimuleren
+  pos: C Q A V V C D N O V
+  rel  1
+  over 1
+  ratio 1
+  freqtokens  dat: 2377 er: 644 meer: 506 wordt: 290 gedaan: 34 om: 993 de: 10786 economie: 142 te: 1760 stimuleren: 31

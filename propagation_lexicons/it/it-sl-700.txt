@@ -1,0 +1,731 @@
+ita-16-00003134-n/neutral/n/409/neutral/ok/gruppo insieme 
+ita-16-00032120-v/neutral/v/398/neutral/ok/fare_divenire fare rendere fare_diventare 
+ita-16-00004716-n/neutral/n/344/neutral/ok/oggetto cosa 
+ita-16-00008153-n/neutral/n/340/neutral/ok/partizione parte 
+ita-16-00032127-v/neutral/v/314/neutral/ok/fare 
+ita-16-00016180-n/negative/n/290/negative/ok/malattia affezione male patologia 
+ita-16-00016115-n/neutral/n/196/neutral/ok/uccello volatile augello pennuto 
+ita-16-00032115-v/neutral/v/192/neutral/ok/fare eseguire realizzare compire mandare_a_effetto compiere effettuare 
+ita-16-00003045-n/neutral/n/152/neutral/ok/complesso totale sistema somma totalità 
+ita-16-00003642-n/neutral/n/149/neutral/ok/studioso cultore intellettuale 
+ita-16-00032252-v/neutral/v/136/neutral/ok/allontanare portare_via togliere asportare rimuovere levare 
+ita-16-00008298-n/neutral/n/128/neutral/ok/comune 
+ita-16-00008986-n/positive/n/128/positive/ok/tecnica mestiere arte 
+ita-16-00032114-v/neutral/v/128/neutral/ok/fare eseguire 
+ita-16-00042203-a/negative/a/113/negative/ok/sofferente affetto ammalato malato infermo 
+ita-16-00010936-n/neutral/n/104/neutral/ok/locale camera ambiente vano stanza 
+ita-16-00008563-n/neutral/n/103/neutral/ok/società compagnia ditta azienda impresa 
+ita-16-00002910-n/neutral/n/101/neutral/ok/struttura costruzione 
+ita-16-00003189-n/neutral/n/98/neutral/ok/veste abito vestito 
+ita-16-00033827-v/negative/v/87/negative/ok/privare togliere 
+ita-16-00002362-n/neutral/n/85/neutral/ok/inclinazione predisposizione attitudine propensione disposizione tendenza 
+ita-16-00014378-n/negative/n/81/negative/ok/urto colpo percossa 
+ita-16-00005055-n/positive/n/80/positive/ok/gioco 
+ita-16-00008724-n/neutral/n/77/neutral/ok/partigiano auspice fautore sostenitore assertore propugnatore promotore 
+ita-16-00029088-n/neutral/n/76/neutral/ok/suono 
+ita-16-00007215-n/neutral/n/76/neutral/ok/ordine classe famiglia 
+ita-16-00030228-n/neutral/n/75/neutral/ok/insetto 
+ita-16-00003469-n/positive/n/74/positive/ok/trattamento terapia cura_medica cura 
+ita-16-00032123-v/neutral/v/73/neutral/ok/fare produrre emettere 
+ita-16-00003251-n/neutral/n/70/neutral/ok/frase espressione proposizione locuzione 
+ita-16-00032124-v/neutral/v/69/neutral/ok/fare determinare produrre provocare creare cagionare sviluppare 
+ita-16-00003135-n/neutral/n/66/neutral/ok/gruppo complesso 
+ita-16-00022013-n/neutral/n/66/neutral/ok/dolce 
+ita-16-00014258-n/neutral/n/65/neutral/ok/luogo punto 
+ita-16-00032779-v/positive/v/64/positive/ok/conferire dare fare_prendere 
+ita-16-00032126-v/neutral/v/61/neutral/ok/fare condursi tenere_un_comportamento agire comportarsi contenersi 
+ita-16-00011357-n/neutral/n/61/neutral/ok/vocabolo termine parola suono 
+ita-16-00032780-v/positive/v/61/positive/ok/provvedere dotare fornire dare 
+ita-16-00028393-n/neutral/n/61/neutral/ok/fiore 
+ita-16-00016818-n/neutral/n/60/neutral/ok/arte attività_artistica 
+ita-16-00038057-v/neutral/v/59/neutral/ok/ridurre 
+ita-16-00025895-n/neutral/n/59/neutral/ok/nutrimento cibo mangiare alimento 
+ita-16-00044202-a/positive/a/57/positive/ok/atto atto a congruo adatto 
+ita-16-00003780-n/neutral/n/56/neutral/ok/miscuglio pasticcio amalgama agglomerato mescola mistione miscellanea impasto melange mescolanza mix composto miscela mistura pastone misto 
+ita-16-00032116-v/neutral/v/52/neutral/ok/fare produrre creare 
+ita-16-00001690-n/neutral/n/52/neutral/ok/casa ostello tetto abitazione magione dimora 
+ita-16-00013527-n/neutral/n/52/neutral/ok/onore epiteto titolo 
+ita-16-00033112-v/positive/v/49/positive/ok/liberare 
+ita-16-00032715-v/negative/v/47/negative/ok/far_morire far_fuori ammazzare mandare_all'altro_mondo mandare_al_Creatore uccidere accoppare 
+ita-16-00042864-a/positive/a/47/positive/ok/ricco pieno 
+ita-16-00037344-v/negative/v/46/negative/ok/perdere 
+ita-16-00033903-v/neutral/v/46/neutral/ok/provare sentire 
+ita-16-00012093-n/positive/n/44/positive/ok/adornamento guarnitura ornamento decorazione finimento guarnizione abbellimento decoro 
+ita-16-00014595-n/neutral/n/44/neutral/ok/grandezza dimensione valore proporzione misura 
+ita-16-00013592-n/neutral/n/44/neutral/ok/partecipazione comunicazione 
+ita-16-00032778-v/neutral/v/43/neutral/ok/dare arrecare procurare recare portare 
+ita-16-00001732-n/positive/n/43/positive/ok/aggregazione assortimento varietà collezione raccolta scelta 
+ita-16-00008835-n/neutral/n/43/neutral/ok/linea di condotta metodo tattica strategia metodologia sistema metodica linea 
+ita-16-00031936-v/neutral/v/41/neutral/ok/dire 
+ita-16-00000212-n/negative/n/41/negative/ok/intervento operazione operazione_chirurgica 
+ita-16-00015188-n/positive/n/41/positive/ok/supporto sostegno appoggio 
+ita-16-00003622-n/neutral/n/40/neutral/ok/concorso prova confronto gara duello competizione 
+ita-16-00035336-v/positive/v/38/positive/ok/adornare guarnire decorare ornare addobbare 
+ita-16-00001010-n/neutral/n/36/neutral/ok/offizio uffizio officio qualifica mansione carica ufficio ufizio 
+ita-16-00009493-n/negative/n/36/negative/ok/ammalato malato 
+ita-16-00005285-n/neutral/n/36/neutral/ok/porzione brano pezzo 
+ita-16-00000638-n/positive/n/35/positive/ok/conoscitore specialista esperto tecnico 
+ita-16-00032777-v/neutral/v/35/neutral/ok/passare dare 
+ita-16-00037586-v/neutral/v/35/neutral/ok/intraversare passare attraversare transitare 
+ita-16-00006281-n/neutral/n/35/neutral/ok/aggregato massa 
+ita-16-00037370-v/neutral/v/35/neutral/ok/cogliere colpire prendere raggiungere 
+ita-16-00001325-n/neutral/n/35/neutral/ok/fanciullo pargolo sbarbatello bambino piccolo bimbo mariolo ragazzino marmocchio ragazzetto 
+ita-16-00031882-v/negative/v/34/negative/ok/danneggiare guastare rovinare nuocere ledere 
+ita-16-00043937-a/negative/a/34/negative/ok/sprovvisto privo 
+ita-16-00039802-v/neutral/v/33/neutral/ok/avere prendere ricevere 
+ita-16-00005409-n/neutral/n/33/neutral/ok/affermazione dichiarazione 
+ita-16-00027977-n/neutral/n/33/neutral/ok/religioso ecclesiastico uomo di chiesa chierico 
+ita-16-00007998-n/neutral/n/33/neutral/ok/sensazione senso 
+ita-16-00036016-v/neutral/v/31/neutral/ok/provare tentare cercare 
+ita-16-00032760-v/neutral/v/31/neutral/ok/dividere 
+ita-16-00037838-v/positive/v/30/positive/ok/ottenere conseguire 
+ita-16-00023940-n/neutral/n/30/neutral/ok/vaso 
+ita-16-00038231-v/positive/v/30/positive/ok/trarre ottenere acquisire avere ricevere prendere 
+ita-16-00033102-v/negative/v/30/negative/ok/battere 
+ita-16-00016268-n/neutral/n/30/neutral/ok/razza specie tipo 
+ita-16-00032056-v/negative/v/30/negative/ok/diminuire minorare ridurre 
+ita-16-00021065-n/neutral/n/29/neutral/ok/attore 
+ita-16-00003904-n/neutral/n/29/neutral/ok/categoria ordine classe associazione corporazione 
+ita-16-00033469-v/neutral/v/29/neutral/ok/usare avvalersi giovarsi valersi servirsi adoperare impiegare utilizzare 
+ita-16-00002156-n/neutral/n/29/neutral/ok/accertamento prova verificazione investigazione controllo indagine esame test verifica riscontro 
+ita-16-00000300-n/positive/n/28/positive/ok/energia forza potenza 
+ita-16-00012147-n/neutral/n/28/neutral/ok/corda cavo cima fune 
+ita-16-00007821-n/neutral/n/28/neutral/ok/parere convinzione idea veduta opinione convincimento punto_di_vista teoria concetto 
+ita-16-00001175-n/neutral/n/27/neutral/ok/ordinamento organizzazione distribuzione configurazione sistemazione ordine disposizione 
+ita-16-00035217-v/neutral/v/26/neutral/ok/pigliare prendere 
+ita-16-00005368-n/neutral/n/26/neutral/ok/ripartizione compartizione partizione compartimento suddivisione sezione divisione frazionamento comparto 
+ita-16-00038925-v/negative/v/26/negative/ok/colpire 
+ita-16-00003099-n/neutral/n/25/neutral/ok/denominatore_comune riferimento nesso connessione relazione correlazione legame collegamento rapporto 
+ita-16-00023558-n/neutral/n/25/neutral/ok/verso voce 
+ita-16-00032441-v/negative/v/25/negative/ok/ammontare rammassare ammassare agglomerare conglobare ammonticchiare abbarcare ammucchiare ammassellare cumulare abbicare accumulare 
+ita-16-00033485-v/positive/v/24/positive/ok/incrementare ingrandire aumentare intensificare 
+ita-16-00006321-n/negative/n/24/negative/ok/abbassamento contrazione calata flessione calo riduzione decremento diminuzione minorazione 
+ita-16-00003062-n/negative/n/24/negative/ok/delitto misfatto reato crimine 
+ita-16-00044134-a/neutral/a/23/neutral/ok/grande grosso 
+ita-16-00032429-v/neutral/v/23/neutral/ok/analizzare prendere_in_esame esaminare considerare prendere_in_considerazione studiare 
+ita-16-00037117-v/neutral/v/22/neutral/ok/acquistare comperare comprare 
+ita-16-00009567-n/positive/n/22/positive/ok/incremento aumento accrescimento crescita rialzo 
+ita-16-00035334-v/positive/v/22/positive/ok/apprendere capire intendere comprendere 
+ita-16-00032931-v/neutral/v/22/neutral/ok/aggiungere unire 
+ita-16-00032121-v/neutral/v/22/neutral/ok/fare 
+ita-16-00002447-n/neutral/n/22/neutral/ok/maquillage cosmetico trucco make-up 
+ita-16-00000627-n/neutral/n/22/neutral/ok/superficie piano esterno 
+ita-16-00000669-n/positive/n/21/positive/ok/cognizione scienza conoscenza 
+ita-16-00032168-v/neutral/v/21/neutral/ok/comunicare 
+ita-16-00033080-v/neutral/v/21/neutral/ok/colmare empire ricolmare riempire 
+ita-16-00034503-v/negative/v/21/negative/ok/perdere smarrire sperdere 
+ita-16-00035970-v/neutral/v/21/neutral/ok/lasciare far_restare 
+ita-16-00021012-n/neutral/n/21/neutral/ok/capitale 
+ita-16-00033516-v/negative/v/21/negative/ok/vibrare dimenare menare scuotere agitare divincolare 
+ita-16-00032447-v/neutral/v/21/neutral/ok/fissare stabilire determinare 
+ita-16-00000812-n/positive/n/21/positive/ok/possedimento denaro ricchezza patrimonio sostanza capitale oro bene beni possesso merce 
+ita-16-00003332-n/neutral/n/21/neutral/ok/comandamento regola precetto comando prescrizione 
+ita-16-00008197-n/positive/n/21/positive/ok/concerto accordo armonia concordia intesa consenso concordanza 
+ita-16-00034753-v/negative/v/20/negative/ok/provocare causare cagionare 
+ita-16-00010998-n/neutral/n/20/neutral/ok/piccolo cucciolo 
+ita-16-00004169-n/neutral/n/20/neutral/ok/appellativo denominazione nominativo nome 
+ita-16-00037350-v/positive/v/20/positive/ok/nettare pulire 
+ita-16-00032781-v/positive/v/20/positive/ok/annettere attribuire dare assegnare 
+ita-16-00013454-n/negative/n/20/negative/ok/voglia brama desiderio bramosia 
+ita-16-00008151-n/neutral/n/20/neutral/ok/frazionamento ripartizione partizione divisione 
+ita-16-00035391-v/neutral/v/20/neutral/ok/viaggiare 
+ita-16-00003511-n/neutral/n/19/neutral/ok/taglio 
+ita-16-00026501-n/neutral/n/19/neutral/ok/borsa 
+ita-16-00036869-v/neutral/v/19/neutral/ok/serrare chiudere 
+ita-16-00038394-v/neutral/v/19/neutral/ok/interrompere troncare 
+ita-16-00005515-n/positive/n/19/positive/ok/festività festa 
+ita-16-00019381-n/neutral/n/19/neutral/ok/coltura cultura coltivazione 
+ita-16-00032783-v/positive/v/19/positive/ok/accordare cedere dare concedere 
+ita-16-00037441-v/positive/v/19/positive/ok/suscitare destare 
+ita-16-00014379-n/negative/n/19/negative/ok/colpo 
+ita-16-00002453-n/positive/n/19/positive/ok/ausilio aiuto assistenza cura 
+ita-16-00009522-n/neutral/n/19/neutral/ok/prezzo onere valore costo 
+ita-16-00033778-v/negative/v/18/negative/ok/abbandonare rinunciare rinunziare 
+ita-16-00007744-n/neutral/n/18/neutral/ok/riunione convegno accolta raduno adunata raccolta 
+ita-16-00033210-v/positive/v/18/positive/ok/accogliere accettare 
+ita-16-00007300-n/neutral/n/18/neutral/ok/pannicolo strato mano 
+ita-16-00025888-n/neutral/n/18/neutral/ok/basso fondo 
+ita-16-00042703-a/positive/a/18/positive/ok/dotato fornito provvisto 
+ita-16-00001442-n/negative/n/18/negative/ok/delinquente malfattore bandito fuorilegge avanzo_di_galera criminale malavitoso malvivente 
+ita-16-00035309-v/neutral/v/18/neutral/ok/uscire venire_fuori 
+ita-16-00027634-n/negative/n/18/negative/ok/lesione 
+ita-16-00032400-v/neutral/v/18/neutral/ok/mescolare 
+ita-16-00040343-v/neutral/v/18/neutral/ok/selezionare scegliere 
+ita-16-00034891-v/neutral/v/18/neutral/ok/spostare muovere 
+ita-16-00005514-n/positive/n/18/positive/ok/ricevimento party festa intrattenimento trattenimento 
+ita-16-00018122-n/negative/n/18/negative/ok/rumore 
+ita-16-00032356-v/positive/v/18/positive/ok/dare_aiuto prestare_aiuto assistere soccorrere dare_una_mano aiutare 
+ita-16-00003031-n/neutral/n/18/neutral/ok/ordine disposizione comando 
+ita-16-00006012-n/neutral/n/18/neutral/ok/forma aspetto apparenza esteriorità configurazione sembianza superficie 
+ita-16-00012435-n/neutral/n/18/neutral/ok/canale stretto 
+ita-16-00001757-n/positive/n/18/positive/ok/gioiello gioia monile bijou 
+ita-16-00001652-n/neutral/n/18/neutral/ok/ministro prete padre sacerdote reverendo 
+ita-16-00002394-n/negative/n/17/negative/ok/danneggiamento danno 
+ita-16-00032801-v/neutral/v/17/neutral/ok/correre 
+ita-16-00032785-v/neutral/v/17/neutral/ok/dare 
+ita-16-00041592-a/negative/a/17/negative/ok/sciocco bischero balengo scemunito scemo scimunito grullo citrullo 
+ita-16-00032761-v/neutral/v/17/neutral/ok/separare dividere disunire disgiungere 
+ita-16-00029723-n/negative/n/17/negative/ok/imperfezione vizio difetto 
+ita-16-00032666-v/positive/v/17/positive/ok/incoraggiare persuadere spronare spingere incitare muovere sospingere pungere indurre 
+ita-16-00018820-n/neutral/n/17/neutral/ok/coltello 
+ita-16-00004239-n/negative/n/17/negative/ok/imposta tributo imposizione gravame gravezza tassa 
+ita-16-00032276-v/neutral/v/17/neutral/ok/battere sconfiggere vincere 
+ita-16-00031977-v/neutral/v/17/neutral/ok/avvicinare raccostare appressare appropinquare accostare 
+ita-16-00007299-n/neutral/n/16/neutral/ok/mano 
+ita-16-00038390-v/neutral/v/16/neutral/ok/maneggiare trattare lavorare 
+ita-16-00003190-n/neutral/n/16/neutral/ok/rito abitudine norma abito consuetudine 
+ita-16-00005186-n/positive/n/16/positive/ok/santo S. san 
+ita-16-00010977-n/neutral/n/16/neutral/ok/piantagione coltura coltivazione 
+ita-16-00038753-v/neutral/v/16/neutral/ok/uscire 
+ita-16-00038725-v/positive/v/16/positive/ok/aggiustare perfezionare migliorare 
+ita-16-00000222-n/positive/n/16/positive/ok/gagliardia forza vigore possa solidità potenza nerbo robustezza 
+ita-16-00020519-n/negative/n/16/negative/ok/omicida assassino 
+ita-16-00006382-n/negative/n/16/negative/ok/ferita 
+ita-16-00012298-n/positive/n/16/positive/ok/salutazione saluto 
+ita-16-00044740-a/neutral/a/16/neutral/ok/piccolo 
+ita-16-00001226-n/negative/n/16/negative/ok/turlupinatura truffa cabala rete raggiro intrigo imbroglio inganno pania 
+ita-16-00032119-v/positive/v/16/positive/ok/fare lasciare permettere consentire 
+ita-16-00001760-n/neutral/n/16/neutral/ok/forma maniera stile guisa impronta mano 
+ita-16-00037863-v/neutral/v/16/neutral/ok/stare dimorare risiedere vivere abitare 
+ita-16-00004530-n/neutral/n/16/neutral/ok/luce 
+ita-16-00041470-a/negative/a/16/negative/ok/terribile perfido tristo scellerato empio perverso crudo crudele feroce malvagio selvaggio disumano 
+ita-16-00038440-v/positive/v/16/positive/ok/ispirare incutere infondere trasmettere mettere 
+ita-16-00008329-n/neutral/n/16/neutral/ok/trama tracciato quadro abbozzo sommario rudimento bozzetto bozza schematizzazione traccia intreccio canovaccio modello schema 
+ita-16-00000433-n/neutral/n/15/neutral/ok/droga spezia aroma 
+ita-16-00035529-v/neutral/v/15/neutral/ok/espellere 
+ita-16-00043878-a/positive/a/15/positive/ok/rilassato sereno quieto tranquillo placido imperturbabile olimpico calmo soave 
+ita-16-00016443-n/neutral/n/15/neutral/ok/pianura piano piana 
+ita-16-00005771-n/negative/n/15/negative/ok/male dolore_fisico dolore pena sofferenza 
+ita-16-00001847-n/neutral/n/15/neutral/ok/articolo pezzo 
+ita-16-00050814-n/negative/n/15/negative/ok/contrazione contrattura 
+ita-16-00032055-v/neutral/v/15/neutral/ok/diminuire calare scemare ridursi 
+ita-16-00032770-v/neutral/v/15/neutral/ok/valutare apprezzare pesare misurare giudicare 
+ita-16-00003098-n/neutral/n/15/neutral/ok/relazione legame rapporto 
+ita-16-00003591-n/neutral/n/15/neutral/ok/credente fedele religioso 
+ita-16-00033487-v/neutral/v/15/neutral/ok/intensificarsi accentuarsi crescere ingrandirsi salire aumentare 
+ita-16-00044129-a/negative/a/15/negative/ok/cattivo 
+ita-16-00001475-n/positive/n/15/positive/ok/pulitura pulizia detersione 
+ita-16-00035867-v/neutral/v/15/neutral/ok/cessare smettere 
+ita-16-00002049-n/neutral/n/15/neutral/ok/prominenza saliente sporgenza protuberanza gobba 
+ita-16-00000298-n/positive/n/15/positive/ok/facoltà potere potenza 
+ita-16-00032149-v/neutral/v/15/neutral/ok/reputare trovare ritenere tenere stimare considerare valutare contare giudicare 
+ita-16-00035652-v/positive/v/15/positive/ok/conoscere sapere 
+ita-16-00005357-n/neutral/n/15/neutral/ok/treno convoglio 
+ita-16-00034754-v/neutral/v/15/neutral/ok/suscitare provocare generare stimolare risvegliare eccitare 
+ita-16-00043936-a/negative/a/15/negative/ok/sprovvisto privo 
+ita-16-00043971-a/positive/a/14/positive/ok/ilare gaio spensierato giocondo allegro 
+ita-16-00037422-v/neutral/v/14/neutral/ok/applicare 
+ita-16-00003063-n/negative/n/14/negative/ok/abbarbagliamento reato fallo errore sgarro mancanza sbaglio 
+ita-16-00037948-v/neutral/v/14/neutral/ok/discendere scendere 
+ita-16-00032757-v/neutral/v/14/neutral/ok/addivenire arrivare raggiungere attingere venire pervenire giungere 
+ita-16-00041609-a/negative/a/14/negative/ok/languido esangue debole torpido fiacco 
+ita-16-00040742-v/neutral/v/14/neutral/ok/prendere 
+ita-16-00007088-n/neutral/n/14/neutral/ok/cavità incavo vuoto 
+ita-16-00036785-v/neutral/v/14/neutral/ok/fermare fissare 
+ita-16-00032125-v/positive/v/14/positive/ok/fare produrre rendere fruttare dare 
+ita-16-00005916-n/negative/n/14/negative/ok/galera casa_di_pena casa_di_detenzione carcere casa_circondariale gattabuia penitenziario reclusorio prigione casa_di_reclusione 
+ita-16-00002187-n/neutral/n/14/neutral/ok/chiusa coda conclusione chiusura fine terminazione termine 
+ita-16-00037169-v/neutral/v/14/neutral/ok/afferrare 
+ita-16-00049015-r/neutral/r/14/neutral/ok/in_fretta presto celermente veloce velocemente rapidamente 
+ita-16-00029492-n/neutral/n/14/neutral/ok/eroe protagonista personaggio 
+ita-16-00015648-n/neutral/n/14/neutral/ok/professionista 
+ita-16-00001755-n/positive/n/14/positive/ok/allegrezza allegria diletto felicità gioia lietezza brio gaudio contentezza gaiezza letizia 
+ita-16-00011049-n/neutral/n/14/neutral/ok/riunione incontro 
+ita-16-00001731-n/negative/n/14/negative/ok/anomalia deformazione malformazione 
+ita-16-00014257-n/neutral/n/14/neutral/ok/punto 
+ita-16-00034024-v/negative/v/14/negative/ok/offendere vulnerare ledere ferire 
+ita-16-00008118-n/negative/n/14/negative/ok/fallo errore sbaglio 
+ita-16-00032787-v/neutral/v/14/neutral/ok/ministrare dare somministrare fornire 
+ita-16-00033643-v/neutral/v/14/neutral/ok/tornare ritornare ridiventare 
+ita-16-00035586-v/neutral/v/14/neutral/ok/cadere venire_giù scendere 
+ita-16-00041598-a/positive/a/14/positive/ok/probo morigerato a posto virtuoso integro retto pulito sano onesto serio 
+ita-16-00001173-n/neutral/n/14/neutral/ok/organizzazione sistemazione ordinamento disposizione 
+ita-16-00001470-n/positive/n/14/positive/ok/conto qualità valore 
+ita-16-00003515-n/neutral/n/14/neutral/ok/legge norma principio caposaldo 
+ita-16-00012737-n/negative/n/14/negative/ok/fobia 
+ita-16-00036987-v/neutral/v/14/neutral/ok/riportare ricondurre ridurre 
+ita-16-00011050-n/neutral/n/13/neutral/ok/incontro sfida partita match 
+ita-16-00000146-n/neutral/n/13/neutral/ok/stadio fase punto 
+ita-16-00032472-v/positive/v/13/positive/ok/sistemare aggiustare accomodare riparare racconciare 
+ita-16-00033602-v/positive/v/13/positive/ok/vivere essere_vivo 
+ita-16-00010406-n/positive/n/13/positive/ok/aristocratico patrizio 
+ita-16-00033683-v/neutral/v/13/neutral/ok/pagare 
+ita-16-00035371-v/neutral/v/13/neutral/ok/spalmare 
+ita-16-00039412-v/negative/v/13/negative/ok/disporre 
+ita-16-00032147-v/positive/v/13/positive/ok/ottenere trovare ricevere 
+ita-16-00042516-a/negative/a/13/negative/ok/brutto 
+ita-16-00000620-n/neutral/n/13/neutral/ok/conca depressione bacino avvallamento 
+ita-16-00033877-v/neutral/v/13/neutral/ok/sollevare raccogliere tirare_su ricogliere 
+ita-16-00017243-n/positive/n/13/positive/ok/scudo 
+ita-16-00009302-n/positive/n/13/positive/ok/ragione quoziente rapporto 
+ita-16-00033212-v/positive/v/13/positive/ok/riconoscere accettare ammettere concedere 
+ita-16-00002007-n/negative/n/13/negative/ok/droga sostanza_stupefacente roba stupefacente 
+ita-16-00032118-v/neutral/v/13/neutral/ok/fare cucinare cocere 
+ita-16-00001788-n/positive/n/13/positive/ok/tutela difesa protezione 
+ita-16-00038140-v/negative/v/13/negative/ok/fregare prendere rubare 
+ita-16-00036819-v/negative/v/13/negative/ok/obbligare forzare costringere astringere coartare 
+ita-16-00032145-v/positive/v/13/positive/ok/individuare scoprire trovare verificare determinare 
+ita-16-00043681-a/negative/a/13/negative/ok/infelice triste 
+ita-16-00007412-n/positive/n/13/positive/ok/accordo intesa convenzione adesione patto 
+ita-16-00012316-n/neutral/n/13/neutral/ok/legge 
+ita-16-00032724-v/negative/v/13/negative/ok/distruggere demolire abbattere 
+ita-16-00042893-a/negative/a/13/negative/ok/indolente negligente infingardo pigro poltrone accidioso svogliato 
+ita-16-00007286-n/neutral/n/13/neutral/ok/cavo incavatura seno concavità cavità incavo alveo 
+ita-16-00034539-v/positive/v/13/positive/ok/ridere 
+ita-16-00032706-v/neutral/v/12/neutral/ok/percorrere attraversare 
+ita-16-00005480-n/positive/n/12/positive/ok/magistero istruzione educazione scuola insegnamento 
+ita-16-00034521-v/negative/v/12/negative/ok/insistere incocciarsi persistere ostinarsi intestardirsi impuntarsi perseverare intestarsi tornare_alla_carica 
+ita-16-00032053-v/neutral/v/12/neutral/ok/fermare arrestare 
+ita-16-00042278-a/negative/a/12/negative/ok/cretino stolto imbecille stupido stolido 
+ita-16-00033208-v/positive/v/12/positive/ok/promettere fare_una_promessa impegnarsi 
+ita-16-00014503-n/neutral/n/12/neutral/ok/cesura pausa intervallo sospensione break intermezzo stacco interruzione 
+ita-16-00006220-n/positive/n/12/positive/ok/attenzione studio cura 
+ita-16-00034797-v/neutral/v/12/neutral/ok/asserire asseverare dare_per_certo affermare sostenere 
+ita-16-00003932-n/neutral/n/12/neutral/ok/sostituto alter_ego vice luogotenente 
+ita-16-00034224-v/positive/v/12/positive/ok/ristabilire sanare restituire guarire risanare 
+ita-16-00007273-n/neutral/n/12/neutral/ok/piano grado livello 
+ita-16-00033938-v/positive/v/12/positive/ok/parlare colloquiare discorrere conferire dialogare 
+ita-16-00037424-v/neutral/v/12/neutral/ok/rivolgere dirigere volgere applicare appuntare 
+ita-16-00032914-v/positive/v/12/positive/ok/ideare congegnare immaginare concepire 
+ita-16-00043381-a/positive/a/12/positive/ok/bello 
+ita-16-00032786-v/neutral/v/12/neutral/ok/passare dare 
+ita-16-00042291-a/positive/a/12/positive/ok/ospitale caldo comunicativo caloroso cordiale 
+ita-16-00032782-v/positive/v/12/positive/ok/affidare accomandare commettere raccomandare dare 
+ita-16-00032790-v/neutral/v/12/neutral/ok/impartire affidare dare assegnare 
+ita-16-00038391-v/neutral/v/12/neutral/ok/trattare 
+ita-16-00032791-v/negative/v/11/negative/ok/infliggere dare 
+ita-16-00001633-n/neutral/n/11/neutral/ok/colpo tiro fuoco sparo sparata 
+ita-16-00041756-a/positive/a/11/positive/ok/agiato ricco facoltoso benestante 
+ita-16-00034912-v/negative/v/11/negative/ok/disapprovare biasimare deprecare deplorare 
+ita-16-00031908-v/neutral/v/11/neutral/ok/edificare costruire fabbricare 
+ita-16-00033902-v/neutral/v/11/neutral/ok/provare avvertire avere sentire 
+ita-16-00033648-v/negative/v/11/negative/ok/strozzare strangolare 
+ita-16-00041755-a/positive/a/11/positive/ok/coraggioso impavido spavaldo ardimentoso intrepido bravo baldanzoso audace valoroso ardito temerario prode animoso 
+ita-16-00041350-a/negative/a/11/negative/ok/machiavellico volpino astuto abile furbo 
+ita-16-00037543-v/neutral/v/11/neutral/ok/volere desiderare 
+ita-16-00032099-v/neutral/v/11/neutral/ok/comandare ordinare dire 
+ita-16-00032467-v/neutral/v/11/neutral/ok/guidare condurre manovrare 
+ita-16-00034789-v/positive/v/11/positive/ok/tutelare difendere salvaguardare proteggere preservare 
+ita-16-00035741-v/neutral/v/11/neutral/ok/disgregare risolvere decomporre scomporre 
+ita-16-00041498-a/positive/a/11/positive/ok/brioso ameno arguto divertente ironico lepido spiritoso 
+ita-16-00044031-a/negative/a/11/negative/ok/monotono noioso tedioso pesante opprimente uggioso uniforme asfissiante 
+ita-16-00036017-v/neutral/v/11/neutral/ok/provare dimostrare 
+ita-16-00042011-a/neutral/a/11/neutral/ok/proprio relativo rispettivo 
+ita-16-00032117-v/neutral/v/10/neutral/ok/fare produrre formare 
+ita-16-00039628-v/positive/v/10/positive/ok/disserrare aprire 
+ita-16-00038511-v/negative/v/10/negative/ok/declinare rifiutare 
+ita-16-00038388-v/positive/v/10/positive/ok/curare trattare 
+ita-16-00039792-v/negative/v/10/negative/ok/commettere perpetrare 
+ita-16-00037517-v/neutral/v/10/neutral/ok/riferire dire 
+ita-16-00002735-n/neutral/n/10/neutral/ok/oggetto contenuto tema materia soggetto tematica argomento motivo 
+ita-16-00002881-n/neutral/n/10/neutral/ok/interesse importanza rilievo risonanza peso significato risalto valore clamore spicco portata rilevanza mole serietà 
+ita-16-00037786-v/neutral/v/10/neutral/ok/passare trascorrere 
+ita-16-00033216-v/neutral/v/10/neutral/ok/discernere differenziare distinguere separare 
+ita-16-00034781-v/negative/v/10/negative/ok/attaccare assaltare prendere_d'assalto oppugnare aggredire dare_l'assalto assalire 
+ita-16-00032508-v/neutral/v/10/neutral/ok/contare raccontare narrare dire 
+ita-16-00039610-v/negative/v/10/negative/ok/lacerare strappare fendere 
+ita-16-00032446-v/positive/v/10/positive/ok/determinare decidere prendere_una_decisione deliberare stabilire divisare 
+ita-16-00032811-v/neutral/v/10/neutral/ok/girare spargersi propagarsi circolare dilatarsi diffondersi correre spandersi estendersi 
+ita-16-00032466-v/neutral/v/10/neutral/ok/guidare condurre accompagnare portare 
+ita-16-00031831-v/negative/v/10/negative/ok/aggirare circondurre giocare mettere_nel_sacco buscherare turlupinare ciurmare accalappiare infinocchiare abbindolare avvolgere raggirare coglionare carrucolare avvolvere fottere gabbare ingannare imbrogliare cuccare minchionare buggerare 
+ita-16-00041963-a/negative/a/10/negative/ok/iroso bilioso irascibile fumino iracondo irritabile 
+ita-16-00049111-r/negative/r/10/negative/ok/all'improvviso a sorpresa repentinamente improvvisamente inaspettatamente bruscamente 
+ita-16-00032234-v/positive/v/10/positive/ok/essere_a_capo dirigere condurre comandare guidare capeggiare essere_alla_guida coordinare 
+ita-16-00036100-v/negative/v/10/negative/ok/bruciare 
+ita-16-00041673-a/negative/a/10/negative/ok/smilzo sottile snello magro scarno esile secco 
+ita-16-00037625-v/positive/v/10/positive/ok/controllare verificare 
+ita-16-00000459-n/negative/n/10/negative/ok/colpevole reo responsabile 
+ita-16-00041440-a/negative/a/10/negative/ok/scurrile volgare licenzioso boccaccesco salace triviale 
+ita-16-00043324-a/positive/a/9/positive/ok/coscienzioso serio giudizioso responsabile 
+ita-16-00033379-v/neutral/v/9/neutral/ok/premere pigiare spingere 
+ita-16-00041830-a/negative/a/9/negative/ok/intransigente duro ferreo austero inflessibile inclemente severo rigido 
+ita-16-00001548-n/negative/n/9/negative/ok/onere obbligazione impegno dovere obbligo 
+ita-16-00032788-v/neutral/v/9/neutral/ok/passare dare 
+ita-16-00002846-n/negative/n/9/negative/ok/predominio giogo autorità supremazia dominanza prepotere dominio dominazione 
+ita-16-00042956-a/negative/a/9/negative/ok/incapace inabile inetto 
+ita-16-00043893-a/negative/a/9/negative/ok/barbarico rozzo barbaro 
+ita-16-00032530-v/negative/v/9/negative/ok/risolvere annullare cassare rescindere rompere sciogliere 
+ita-16-00042757-a/negative/a/9/negative/ok/scostante ruvido scontroso legnoso difficile scorbutico arcigno intrattabile 
+ita-16-00043087-a/negative/a/9/negative/ok/duro arduo difficile impegnativo 
+ita-16-00041971-a/positive/a/9/positive/ok/benevolo affettuoso bonario benigno buono 
+ita-16-00041550-a/negative/a/9/negative/ok/lercio lurido laido immondo sudicio sporco sordido sozzo lordo 
+ita-16-00042628-a/negative/a/9/negative/ok/lento tardo lungo grave 
+ita-16-00002454-n/neutral/n/9/neutral/ok/spalla assistente aiuto aiutante braccio_destro 
+ita-16-00041659-a/positive/a/9/positive/ok/esistente concreto reale vero effettivo 
+ita-16-00039050-v/neutral/v/9/neutral/ok/dibattere discorrere ragionare discutere 
+ita-16-00000314-n/positive/n/9/positive/ok/svago attività_ricreativa divertimento piacere ricreazione passatempo sollazzo trastullo 
+ita-16-00042441-a/negative/a/9/negative/ok/misero bisognevole bisognoso meschino indigente povero 
+ita-16-00042114-a/negative/a/8/negative/ok/minchione sempliciotto tonto zuccone babbeo testone 
+ita-16-00033554-v/negative/v/8/negative/ok/superare soverchiare oltrepassare 
+ita-16-00041874-a/positive/a/8/positive/ok/bonaccione mite pacifico 
+ita-16-00041517-a/positive/a/8/positive/ok/disarmante ingenuo semplice innocente candido 
+ita-16-00041596-a/negative/a/8/negative/ok/litigioso garoso attaccabrighe rissoso 
+ita-16-00041638-a/positive/a/8/positive/ok/insigne influente autorevole alto importante 
+ita-16-00033239-v/neutral/v/8/neutral/ok/attaccare legare assicurare 
+ita-16-00041564-a/negative/a/8/negative/ok/cocciuto testardo caparbio accanito pertinace pervicace ostinato 
+ita-16-00002779-n/negative/n/8/negative/ok/scomparsa trapasso fine decesso morte 
+ita-16-00041514-a/positive/a/8/positive/ok/facile agevole 
+ita-16-00000308-n/positive/n/8/positive/ok/ardire baldanza sangue_freddo fegato coraggio spavalderia valore arditezza animo ardimento eroismo 
+ita-16-00006063-n/negative/n/8/negative/ok/opposizione resistenza 
+ita-16-00037778-v/neutral/v/8/neutral/ok/trasferirsi passare 
+ita-16-00009115-n/negative/n/8/negative/ok/deficienza assenza penuria pochezza difetto carenza modestia ristrettezza mancanza insufficienza strettezza scarsità 
+ita-16-00043443-a/negative/a/8/negative/ok/inefficace vano 
+ita-16-00042122-a/negative/a/8/negative/ok/distaccato freddo insensibile arido sordo indifferente tiepido 
+ita-16-00041377-a/negative/a/8/negative/ok/balzano eccentrico bizzarro pazzo bislacco strampalato strano originale strambo stravagante 
+ita-16-00002807-n/positive/n/7/positive/ok/comprensione intelligenza mente intelletto intendimento 
+ita-16-00044141-a/negative/a/7/negative/ok/duro 
+ita-16-00041698-a/negative/a/7/negative/ok/pusillanime vigliacco pavido vile codardo 
+ita-16-00042390-a/positive/a/7/positive/ok/eclatante chiaro perspicuo lampante palese evidente lapalissiano ovvio 
+ita-16-00043208-a/positive/a/7/positive/ok/completo gravido carico pieno colmo 
+ita-16-00033807-v/neutral/v/7/neutral/ok/racchiudere chiudere adunare contenere comprendere 
+ita-16-00000651-n/neutral/n/7/neutral/ok/indole natura naturale essere essenza carattere temperamento tempra 
+ita-16-00048708-r/negative/r/7/negative/ok/a_dismisura troppo eccessivamente 
+ita-16-00041379-a/negative/a/7/negative/ok/vile basso servile spregevole indegno abbietto abietto 
+ita-16-00043107-a/positive/a/7/positive/ok/sincero onesto leale 
+ita-16-00041775-a/negative/a/7/negative/ok/gretto taccagno tirchio esoso spilorcio avaro sparagnino 
+ita-16-00040597-v/neutral/v/7/neutral/ok/spingere 
+ita-16-00042359-a/negative/a/7/negative/ok/obeso grasso pingue adiposo 
+ita-16-00034775-v/neutral/v/7/neutral/ok/trattare sviluppare 
+ita-16-00043437-a/positive/a/7/positive/ok/amabile adorabile 
+ita-16-00043356-a/negative/a/7/negative/ok/spregevole disprezzabile 
+ita-16-00041392-a/positive/a/7/positive/ok/agile flessuoso elastico sciolto 
+ita-16-00041349-a/positive/a/7/positive/ok/abile valente esperto 
+ita-16-00007754-n/negative/n/7/negative/ok/sforzo fatica 
+ita-16-00041759-a/positive/a/7/positive/ok/fine sottile 
+ita-16-00041356-a/negative/a/7/negative/ok/immaturo fanciullesco puerile infantile bambinesco 
+ita-16-00044657-a/negative/a/7/negative/ok/basso brevilineo 
+ita-16-00042448-a/negative/a/7/negative/ok/incosciente inconsiderato irriflessivo precipitoso avventato sconsiderato 
+ita-16-00041531-a/positive/a/7/positive/ok/avveduto oculato cauto accorto sagace prudente 
+ita-16-00041723-a/neutral/a/7/neutral/ok/ineguale disuguale differente impari 
+ita-16-00042570-a/positive/a/7/positive/ok/felice contento lieto al_settimo_cielo beato 
+ita-16-00033551-v/negative/v/7/negative/ok/estinguere smorzare spegnere spengere 
+ita-16-00043159-a/negative/a/7/negative/ok/pauroso timoroso 
+ita-16-00043278-a/negative/a/7/negative/ok/oscuro 
+ita-16-00044648-a/positive/a/7/positive/ok/chiaro distinto semplice netto 
+ita-16-00042935-a/positive/a/7/positive/ok/perspicace penetrante sveglio acuto geniale svelto ingegnoso brillante desto sagace 
+ita-16-00041882-a/neutral/a/6/neutral/ok/terreno profano mondano 
+ita-16-00042049-a/negative/a/6/negative/ok/tenebroso cupo tetro 
+ita-16-00041879-a/positive/a/6/positive/ok/ardente appassionato accorato acceso infuocato 
+ita-16-00033486-v/positive/v/6/positive/ok/crescere aumentare 
+ita-16-00041731-a/negative/a/6/negative/ok/ansioso nervoso apprensivo 
+ita-16-00032925-v/positive/v/6/positive/ok/apprendere imparare studiare 
+ita-16-00042625-a/positive/a/6/positive/ok/cosciente consapevole lucido 
+ita-16-00019180-n/positive/n/6/positive/ok/sbalordimento stupefazione stupore meraviglia 
+ita-16-00041822-a/positive/a/6/positive/ok/sincero aperto schietto franco verace 
+ita-16-00042724-a/negative/a/6/negative/ok/angusto ristretto stretto limitato 
+ita-16-00041681-a/negative/a/6/negative/ok/pazzo dissennato demente mentecatto folle matto 
+ita-16-00021182-n/neutral/n/6/neutral/ok/profilo bordo 
+ita-16-00042181-a/positive/a/6/positive/ok/leggiadro armonioso elegante 
+ita-16-00043756-a/positive/a/6/positive/ok/buono 
+ita-16-00041864-a/negative/a/6/negative/ok/morto scomparso defunto trapassato 
+ita-16-00044858-a/positive/a/6/positive/ok/essenziale necessario 
+ita-16-00042553-a/positive/a/6/positive/ok/scrupoloso 
+ita-16-00044896-a/negative/a/6/negative/ok/incostante instabile mutevole volubile 
+ita-16-00043701-a/neutral/a/6/neutral/ok/caldo 
+ita-16-00041555-a/negative/a/6/negative/ok/indiscreto curioso importuno petulante invadente 
+ita-16-00042595-a/negative/a/6/negative/ok/prepotente 
+ita-16-00038926-v/negative/v/6/negative/ok/colpire 
+ita-16-00043230-a/negative/a/6/negative/ok/inimmaginabile improbabile incredibile 
+ita-16-00002778-n/positive/n/6/positive/ok/proponimento oggetto scopo traguardo mira finalità meta obiettivo fine 
+ita-16-00044349-a/positive/a/6/positive/ok/dolce 
+ita-16-00042542-a/negative/a/6/negative/ok/debole esile gracile fragile stento 
+ita-16-00042056-a/neutral/a/6/neutral/ok/asciutto sintetico laconico breve succinto conciso essenziale 
+ita-16-00042028-a/positive/a/6/positive/ok/ottimista speranzoso ottimistico 
+ita-16-00043910-a/positive/a/6/positive/ok/largo aperto vasto esteso ampio 
+ita-16-00042109-a/negative/a/6/negative/ok/crudo pungente rigido freddo 
+ita-16-00041348-a/positive/a/6/positive/ok/capace abile idoneo 
+ita-16-00042907-a/negative/a/6/negative/ok/violento veemente irruente irruento aggressivo 
+ita-16-00044086-a/negative/a/6/negative/ok/ingiusto iniquo 
+ita-16-00036357-v/neutral/v/6/neutral/ok/sfruttare 
+ita-16-00042491-a/positive/a/6/positive/ok/confortevole comodo 
+ita-16-00041860-a/positive/a/6/positive/ok/canonico normale regolare 
+ita-16-00043320-a/positive/a/6/positive/ok/ameno gradevole piacevole 
+ita-16-00045328-a/positive/a/6/positive/ok/preciso 
+ita-16-00041996-a/negative/a/6/negative/ok/scarso povero gramo esiguo insufficiente 
+ita-16-00038387-v/neutral/v/6/neutral/ok/trattare 
+ita-16-00041423-a/negative/a/6/negative/ok/cafone rozzo villano zotico 
+ita-16-00041887-a/negative/a/6/negative/ok/insincero igannevole finto falso ipocrita 
+ita-16-00042214-a/positive/a/6/positive/ok/resistente saldo solido 
+ita-16-00042043-a/negative/a/5/negative/ok/misantropo asociale solitario 
+ita-16-00050059-a/negative/a/5/negative/ok/velenoso 
+ita-16-00042152-a/neutral/a/5/neutral/ok/pronto immediato rapido istantaneo fulmineo 
+ita-16-00044826-a/negative/a/5/negative/ok/umile 
+ita-16-00007150-n/neutral/n/5/neutral/ok/calore caldo 
+ita-16-00007149-n/neutral/n/5/neutral/ok/calore caldo 
+ita-16-00042492-a/positive/a/5/positive/ok/corretto giusto esatto 
+ita-16-00041748-a/neutral/a/5/neutral/ok/precipuo peculiare tipico speciale 
+ita-16-00042845-a/negative/a/5/negative/ok/depravato scostumato dissoluto dissipato 
+ita-16-00045442-a/neutral/a/5/neutral/ok/essenziale 
+ita-16-00043563-a/negative/a/5/negative/ok/disonesto 
+ita-16-00042157-a/negative/a/5/negative/ok/ambiguo 
+ita-16-00043958-a/positive/a/5/positive/ok/schietto vero genuino autentico 
+ita-16-00044721-a/positive/a/5/positive/ok/celebre famoso 
+ita-16-00001264-n/negative/n/5/negative/ok/perdita_di_conoscenza mancamento obnubilazione perdita_dei_sensi deliquio collasso ottenebramento defaillance incoscienza svenimento mancanza perdita_di_coscienza 
+ita-16-00043490-a/positive/a/5/positive/ok/certo sicuro indubbio 
+ita-16-00043082-a/negative/a/5/negative/ok/impudente sfacciato spudorato sfrontato 
+ita-16-00042350-a/positive/a/5/positive/ok/luculliano ricco cospicuo grosso nutrito ingente buono copioso abbondante opulento 
+ita-16-00033113-v/positive/v/5/positive/ok/affrancare francare liberare 
+ita-16-00037603-v/negative/v/5/negative/ok/adescare attirare attrarre allettare lusingare 
+ita-16-00042752-a/negative/a/5/negative/ok/inadeguato disadatto inappropriato inadatto insufficiente 
+ita-16-00045030-a/positive/a/5/positive/ok/utile 
+ita-16-00043444-a/negative/a/5/negative/ok/vanesio fatuo vanitoso vano 
+ita-16-00042904-a/neutral/a/5/neutral/ok/saldo immobile fermo 
+ita-16-00041781-a/positive/a/5/positive/ok/educato compito garbato cortese gentile 
+ita-16-00044922-a/positive/a/5/positive/ok/efficace efficiente 
+ita-16-00042459-a/positive/a/5/positive/ok/generoso magnanimo munifico altruista 
+ita-16-00042614-a/negative/a/5/negative/ok/sgangherato sciatto sbrindellato trascurato discinto trasandato 
+ita-16-00042602-a/negative/a/5/negative/ok/avido bramoso desideroso voglioso ansioso 
+ita-16-00043892-a/negative/a/5/negative/ok/barbarico barbaro 
+ita-16-00041467-a/negative/a/5/negative/ok/sciroccato sbadato svampito assente svagato sventato distratto deconcentrato assorto disattento smemorato 
+ita-16-00041620-a/negative/a/5/negative/ok/impellente prepotente incontenibile irrefrenabile stringente estremo pressante 
+ita-16-00041323-a/negative/a/5/negative/ok/goffo grossolano sgraziato impacciato pacchiano 
+ita-16-00042132-a/positive/a/5/positive/ok/supremo sommo sovrano sublime eccelso 
+ita-16-00045072-a/negative/a/5/negative/ok/inutile 
+ita-16-00032130-v/neutral/v/5/neutral/ok/fare recitare rappresentare 
+ita-16-00042333-a/negative/a/5/negative/ok/difettoso inefficiente manchevole. impotente cattivo 
+ita-16-00042185-a/negative/a/5/negative/ok/selvaggio selvatico 
+ita-16-00049957-a/positive/a/5/positive/ok/massimo eccezionale estremo 
+ita-16-00042225-a/positive/a/5/positive/ok/puro pulito 
+ita-16-00041995-a/positive/a/5/positive/ok/forte potente energico temprato robusto 
+ita-16-00041656-a/positive/a/5/positive/ok/apprezzabile ottimo pregevole lodevole 
+ita-16-00044872-a/positive/a/5/positive/ok/morale etico 
+ita-16-00042599-a/negative/a/5/negative/ok/perduto vizioso corrotto peccaminoso 
+ita-16-00043190-a/negative/a/5/negative/ok/contraddittorio incongruente incoerente inconseguente 
+ita-16-00043092-a/negative/a/5/negative/ok/calcolatore scaltro 
+ita-16-00041721-a/positive/a/5/positive/ok/fruttuoso redditizio prospero fiorente avviato fruttifero 
+ita-16-00002186-n/positive/n/5/positive/ok/conclusione riuscita esito fine 
+ita-16-00043279-a/negative/a/5/negative/ok/oscuro scuro 
+ita-16-00043450-a/negative/a/5/negative/ok/andante ordinario scadente cattivo 
+ita-16-00044363-a/negative/a/5/negative/ok/ridicolo 
+ita-16-00042910-a/neutral/a/5/neutral/ok/indipendente autonomo libero 
+ita-16-00044047-a/positive/a/5/positive/ok/brillante lustro lucido lucente 
+ita-16-00042561-a/negative/a/5/negative/ok/clamoroso sregolato smodato eccessivo sfrenato smoderato scatenato 
+ita-16-00041692-a/positive/a/5/positive/ok/savio sensato saggio moderato assennato ragionevole equilibrato quadrato 
+ita-16-00043540-a/negative/a/5/negative/ok/deciduo fugace labile caduco 
+ita-16-00041322-a/negative/a/5/negative/ok/grossolano grezzo grosso 
+ita-16-00045353-a/negative/a/5/negative/ok/basso 
+ita-16-00042213-a/positive/a/5/positive/ok/monolitico consistente solido compatto coerente sodo 
+ita-16-00041492-a/positive/a/5/positive/ok/gioviale affabile cordiale 
+ita-16-00041520-a/positive/a/5/positive/ok/squisito raffinato ricercato prezioso sofisticato 
+ita-16-00041597-a/negative/a/5/negative/ok/dispettoso fastidioso 
+ita-16-00043162-a/negative/a/5/negative/ok/ingiustificato arbitrario 
+ita-16-00044741-a/negative/a/5/negative/ok/piccolo 
+ita-16-00044344-a/positive/a/5/positive/ok/fantastico immaginario irreale 
+ita-16-00041732-a/negative/a/5/negative/ok/abusivo illegittimo illegale selvaggio illecito 
+ita-16-00042158-a/negative/a/5/negative/ok/obliquo doppio tortuoso subdolo sfuggente ambiguo sornione viscido 
+ita-16-00037779-v/neutral/v/5/neutral/ok/passare 
+ita-16-00044561-a/negative/a/5/negative/ok/inerme timido imbelle 
+ita-16-00037784-v/neutral/v/5/neutral/ok/passare 
+ita-16-00041856-a/neutral/a/5/neutral/ok/prossimo primo 
+ita-16-00042134-a/positive/a/5/positive/ok/intelligente 
+ita-16-00041380-a/negative/a/5/negative/ok/indecoroso indegno indecente 
+ita-16-00045101-a/positive/a/5/positive/ok/fiducioso 
+ita-16-00041468-a/neutral/a/5/neutral/ok/fermo immobile statico 
+ita-16-00007213-n/neutral/n/5/neutral/ok/ordine 
+ita-16-00041956-a/negative/a/5/negative/ok/presuntuoso tracotante spavaldo arrogante altezzoso 
+ita-16-00042955-a/negative/a/5/negative/ok/insolente impertinente strafottente irrispettoso 
+ita-16-00048717-r/neutral/r/5/neutral/ok/radicalmente assolutamente interamente adempiutamente completamente totalmente del_tutto esaustivamente 
+ita-16-00042714-a/positive/a/5/positive/ok/facile elementare semplice 
+ita-16-00043373-a/neutral/a/5/neutral/ok/immenso enorme 
+ita-16-00043417-a/neutral/a/5/neutral/ok/finale terminale conclusivo 
+ita-16-00042125-a/negative/a/5/negative/ok/accentuato carico marcato 
+ita-16-00043110-a/negative/a/5/negative/ok/schiavo sottomesso 
+ita-16-00042848-a/negative/a/5/negative/ok/pessimista pessimistico fosco 
+ita-16-00041848-a/positive/a/5/positive/ok/venusto grazioso aggraziato vezzoso 
+ita-16-00042433-a/positive/a/5/positive/ok/plausibile credibile verosimile 
+ita-16-00004195-n/negative/n/4/negative/ok/disastro sinistro catastrofe calamità sventura apocalissi sciagura tragedia apocalisse disgrazia 
+ita-16-00041625-a/positive/a/4/positive/ok/splendente luminoso chiaro 
+ita-16-00043494-a/negative/a/4/negative/ok/inesprimibile incomunicabile indicibile 
+ita-16-00044744-a/positive/a/4/positive/ok/ideale 
+ita-16-00043682-a/negative/a/4/negative/ok/triste 
+ita-16-00049483-n/neutral/n/4/neutral/ok/ordine ordine_religioso 
+ita-16-00044158-a/positive/a/4/positive/ok/perfetto ideale 
+ita-16-00043544-a/positive/a/4/positive/ok/avvenente attraente 
+ita-16-00041569-a/negative/a/4/negative/ok/borioso ampolloso pomposo vanaglorioso gonfio tronfio magniloquente 
+ita-16-00001716-n/negative/n/4/negative/ok/indiscreto impiccione ficcanaso curioso 
+ita-16-00014382-n/neutral/n/4/neutral/ok/colpo 
+ita-16-00049021-r/neutral/r/4/neutral/ok/sottovoce piano a_bassa_voce 
+ita-16-00041436-a/positive/a/4/positive/ok/attuabile praticabile realizzabile eseguibile fattibile 
+ita-16-00041446-a/negative/a/4/negative/ok/sospeso indeciso insicuro incerto esitante irresoluto titubante perplesso dubbioso 
+ita-16-00042493-a/positive/a/4/positive/ok/giusto 
+ita-16-00045095-a/positive/a/4/positive/ok/umoristico 
+ita-16-00043905-a/negative/a/4/negative/ok/ignorante asinesco insipiente 
+ita-16-00032202-v/neutral/v/4/neutral/ok/adoperarsi darsi_da_fare lottare impegnarsi 
+ita-16-00029635-n/negative/n/4/negative/ok/ravvedimento rimorso contrizione pentimento 
+ita-16-00044320-a/positive/a/4/positive/ok/superiore 
+ita-16-00043598-a/positive/a/4/positive/ok/splendido magico meraviglioso magnifico 
+ita-16-00041366-a/neutral/a/4/neutral/ok/inamovibile immobile fisso 
+ita-16-00043369-a/positive/a/4/positive/ok/valido buono 
+ita-16-00043828-a/negative/a/4/negative/ok/ponderoso peso grave pesante 
+ita-16-00005058-n/neutral/n/4/neutral/ok/scena finzione simulazione messinscena gioco finta 
+ita-16-00042018-a/neutral/a/4/neutral/ok/domestico familiare famigliare 
+ita-16-00034094-v/neutral/v/4/neutral/ok/fare ultimare portare_a_termine esaurire portare_a_compimento concludere finire condurre_a_termine terminare 
+ita-16-00050399-r/neutral/r/4/neutral/ok/indietro 
+ita-16-00006774-n/neutral/n/4/neutral/ok/cedevolezza sommissione soggezione docilità sottomissione arrendevolezza acquiescenza ubbidienza obbedienza 
+ita-16-00037783-v/neutral/v/4/neutral/ok/passare 
+ita-16-00014380-n/negative/n/4/negative/ok/malore colpo accidente 
+ita-16-00040359-v/negative/v/4/negative/ok/subornare ungere corrompere 
+ita-16-00013046-n/neutral/n/4/neutral/ok/mente intelletto intelligenza 
+ita-16-00006126-n/negative/n/4/negative/ok/compatimento misericordia commiserazione mercede pietà 
+ita-16-00028913-n/neutral/n/4/neutral/ok/responsabile 
+ita-16-00000494-n/neutral/n/4/neutral/ok/timore riverenza soggezione reverenza venerazione 
+ita-16-00039051-v/neutral/v/4/neutral/ok/polemizzare discutere 
+ita-16-00042931-a/positive/a/4/positive/ok/pietoso caritatevole compassionevole misericordioso 
+ita-16-00045448-a/positive/a/3/positive/ok/fresco 
+ita-16-00026151-n/neutral/n/3/neutral/ok/umile 
+ita-16-00004934-n/neutral/n/3/neutral/ok/resistente partigiano combattente 
+ita-16-00044605-a/negative/a/3/negative/ok/umile modesto semplice dimesso 
+ita-16-00032280-v/negative/v/3/negative/ok/soggiogare controllare vincere dominare sopraffare 
+ita-16-00043271-a/neutral/a/3/neutral/ok/noto consueto familiare 
+ita-16-00033547-v/neutral/v/3/neutral/ok/abbandonare reclinare lasciare_cadere 
+ita-16-00048730-r/negative/r/3/negative/ok/terribilmente male malamente 
+ita-16-00043152-a/neutral/a/3/neutral/ok/profondo pieno radicale assoluto completo netto totale 
+ita-16-00042428-a/neutral/a/3/neutral/ok/preciso determinato particolare specifico 
+ita-16-00041466-a/neutral/a/3/neutral/ok/assiduo continuo rinnovato incessante costante 
+ita-16-00001331-n/neutral/n/3/neutral/ok/consuntivo resoconto resa_dei_conti rendiconto rapporto 
+ita-16-00049048-r/positive/r/3/positive/ok/abilmente 
+ita-16-00043080-a/neutral/a/3/neutral/ok/accidentale casuale incidentale fortuito 
+ita-16-00050119-r/neutral/r/3/neutral/ok/adagio piano lentamente tardamente lento 
+ita-16-00023534-n/negative/n/3/negative/ok/impazienza 
+ita-16-00032282-v/neutral/v/3/neutral/ok/superare battere sconfiggere vincere 
+ita-16-00033488-v/neutral/v/3/neutral/ok/aumentare 
+ita-16-00032054-v/negative/v/3/negative/ok/arrestare 
+ita-16-00028180-n/neutral/n/3/neutral/ok/bordo 
+ita-16-00049816-n/neutral/n/3/neutral/ok/comune cittadinanza comunità 
+ita-16-00050551-a/neutral/a/3/neutral/ok/involontario istintivo automatico inconsapevole 
+ita-16-00001166-n/neutral/n/3/neutral/ok/sollevamento 
+ita-16-00034161-v/neutral/v/3/neutral/ok/apporre attaccare fissare figgere affiggere 
+ita-16-00032279-v/positive/v/3/positive/ok/superare battere scavalcare vincere 
+ita-16-00033859-v/neutral/v/3/neutral/ok/fluire passare scorrere trascorrere 
+ita-16-00036833-v/neutral/v/3/neutral/ok/superare oltrepassare 
+ita-16-00041376-a/neutral/a/3/neutral/ok/inusitato anomalo unico curioso inconsueto straordinario singolare strano insolito 
+ita-16-00001167-n/neutral/n/3/neutral/ok/sollevamento rialzo 
+ita-16-00034307-v/negative/v/3/negative/ok/fomentare provocare aizzare attizzare scatenare eccitare istigare 
+ita-16-00037785-v/neutral/v/3/neutral/ok/passare 
+ita-16-00043000-a/neutral/a/3/neutral/ok/stretto aderente attillato 
+ita-16-00036892-v/neutral/v/3/neutral/ok/spingere imprimere_un_movimento 
+ita-16-00023902-n/negative/n/3/negative/ok/passionale impulsivo emotivo istintivo focoso precipitoso 
+ita-16-00048647-r/positive/r/2/positive/ok/abilmente astutamente furbamente 
+ita-16-00048813-r/positive/r/2/positive/ok/subito immediatamente prontamente istantaneamente all'istante 
+ita-16-00014381-n/neutral/n/2/neutral/ok/colpo 
+ita-16-00043572-a/negative/a/2/negative/ok/vistoso chiassoso sgargiante appariscente 
+ita-16-00041509-a/negative/a/2/negative/ok/capriccioso viziato bizzoso 
+ita-16-00042257-a/positive/a/2/positive/ok/quieto mite mansueto 
+ita-16-00034540-v/positive/v/2/positive/ok/splendere ridere brillare 
+ita-16-00043762-a/negative/a/2/negative/ok/inquietante grave preoccupante 
+ita-16-00021387-n/neutral/n/2/neutral/ok/famigliare familiare 
+ita-16-00028178-n/neutral/n/2/neutral/ok/bordo 
+ita-16-00033125-v/negative/v/2/negative/ok/stressare colpire sconvolgere scioccare traumatizzare impressionare 
+ita-16-00042534-a/neutral/a/2/neutral/ok/ordinario comune 
+ita-16-00007301-n/neutral/n/2/neutral/ok/manche turno mano 
+ita-16-00045447-a/positive/a/2/positive/ok/fresco 
+ita-16-00006626-n/neutral/n/2/neutral/ok/comune municipio 
+ita-16-00041156-v/neutral/v/2/neutral/ok/ubriacare inebriare ubbriacare 
+ita-16-00042050-a/negative/a/2/negative/ok/profondo basso sordo grave cupo 
+ita-16-00019647-n/neutral/n/2/neutral/ok/scusa giustificazione scusante 
+ita-16-00045144-a/positive/a/2/positive/ok/responsabile 
+ita-16-00001217-n/positive/n/2/positive/ok/audacia spregiudicatezza 
+ita-16-00007214-n/neutral/n/2/neutral/ok/ordinazione ordine commessa commissione 
+ita-16-00049910-a/neutral/a/2/neutral/ok/notevole serio grande grave 
+ita-16-00041990-a/neutral/a/2/neutral/ok/nascosto segreto coperto profondo velato 
+ita-16-00034648-v/negative/v/2/negative/ok/illudere abbagliare allucinare ingannare 
+ita-16-00050190-n/neutral/n/2/neutral/ok/pagano gentile infedele 
+ita-16-00026152-n/neutral/n/2/neutral/ok/umile 
+ita-16-00050724-a/positive/a/2/positive/ok/fine gentile delicato 
+ita-16-00001738-n/neutral/n/2/neutral/ok/manipolo drappello mano 
+ita-16-00038023-v/neutral/v/2/neutral/ok/conservare ammassare accumulare 
+ita-16-00037588-v/neutral/v/2/neutral/ok/passare vivere attraversare 
+ita-16-00036532-v/neutral/v/2/neutral/ok/mettere supporre ammettere dire 
+ita-16-00041771-a/negative/a/2/negative/ok/salato caro dispendioso costoso 
+ita-16-00041539-a/negative/a/2/negative/ok/delicato malaticcio cagionevole 
+ita-16-00033633-v/neutral/v/2/neutral/ok/passare dileguarsi andare_via andare svanire 
+ita-16-00034630-v/negative/v/2/negative/ok/sommuovere agitare accendere eccitare infiammare 
+ita-16-00009098-n/negative/n/2/negative/ok/stregoneria incantesimo fattura 
+ita-16-00042163-a/negative/a/2/negative/ok/collerico impulsivo sanguigno 
+ita-16-00028179-n/neutral/n/2/neutral/ok/bordo 
+ita-16-00045050-a/positive/a/2/positive/ok/a buon mercato economico ragionevole conveniente 
+ita-16-00001897-n/neutral/n/2/neutral/ok/comicità ridicolo comico 
+ita-16-00006625-n/neutral/n/2/neutral/ok/comune municipio 
+ita-16-00041396-a/neutral/a/2/neutral/ok/comune corrente diffuso 
+ita-16-00041901-a/positive/a/2/positive/ok/ammissibile comprensibile tollerabile giustificabile 
+ita-16-00042474-a/positive/a/2/positive/ok/florido fresco 
+ita-16-00040598-v/neutral/v/2/neutral/ok/spingere 
+ita-16-00035427-v/neutral/v/2/neutral/ok/avere_a_che_fare trattare essere in contatto 
+ita-16-00040449-v/neutral/v/2/neutral/ok/spegnere 
+ita-16-00024871-n/neutral/n/2/neutral/ok/bordura bordo 
+ita-16-00038386-v/neutral/v/2/neutral/ok/parlamentare trattare 
+ita-16-00050133-r/positive/r/2/positive/ok/legittimamente legalmente d'autorità debitamente giustamente lecitamente 
+ita-16-00041760-a/neutral/a/2/neutral/ok/fine 
+ita-16-00049798-n/neutral/n/2/neutral/ok/ordine 
+ita-16-00043079-a/neutral/a/2/neutral/ok/contingente casuale 
+ita-16-00046276-np/positive/np/1/positive/ok/Cupido 
+ita-16-00037787-v/neutral/v/1/neutral/ok/passare 
+ita-16-00037782-v/neutral/v/1/neutral/ok/passare scorrere 
+ita-16-00042638-a/neutral/a/1/neutral/ok/mortale umano 
+ita-16-00041367-a/neutral/a/1/neutral/ok/pagano gentile infedele 
+ita-16-00048859-r/neutral/r/1/neutral/ok/largamente vastamente estesamente ampiamente 
+ita-16-00038389-v/neutral/v/1/neutral/ok/trattare 
+ita-16-00042772-a/positive/a/1/positive/ok/avanzato innovatore audace 
+ita-16-00026915-n/positive/n/1/positive/ok/divertimento 
+ita-16-00044714-a/neutral/a/1/neutral/ok/mite imbelle 
+ita-16-00042360-a/positive/a/1/positive/ok/ricco pingue grasso fertile 
+ita-16-00043299-a/negative/a/1/negative/ok/insistente persistente incessante 
+ita-16-00019109-n/neutral/n/1/neutral/ok/dettaglio particolare 
+ita-16-00050052-v/neutral/v/1/neutral/ok/fermare bloccare contenere arrestare arginare 
+ita-16-00014005-n/neutral/n/1/neutral/ok/grave 
+ita-16-00048852-r/positive/r/1/positive/ok/probabilmente verosimilmente possibilmente 
+ita-16-00032122-v/neutral/v/1/neutral/ok/fare 
+ita-16-00048768-r/negative/r/1/negative/ok/cocciutamente accanitamente ostinatamente caparbiamente pervicacemente 
+ita-16-00034385-v/neutral/v/1/neutral/ok/accalorare riscaldare infiammare eccitare scaldare 
+ita-16-00036358-v/neutral/v/1/neutral/ok/sfruttare 
+ita-16-00036359-v/neutral/v/1/neutral/ok/sfruttare 
+ita-16-00049080-r/positive/r/1/positive/ok/splendido 
+ita-16-00033115-v/positive/v/1/positive/ok/liberare riscattare 
+ita-16-00049003-r/negative/r/1/negative/ok/veemente aggressivamente 
+ita-16-00032131-v/neutral/v/1/neutral/ok/fare 
+ita-16-00048786-r/positive/r/1/positive/ok/vezzosamente aggraziatamente graziosamente 
+ita-16-00032129-v/neutral/v/1/neutral/ok/fare 
+ita-16-00048960-r/positive/r/1/positive/ok/giustamente 
+ita-16-00004650-n/positive/n/1/positive/ok/simpatia debole propensione inclinazione 
+ita-16-00032134-v/neutral/v/1/neutral/ok/fare 
+ita-16-00049049-r/neutral/r/1/neutral/ok/avanti 
+ita-16-00048645-r/negative/r/1/negative/ok/negligentemente accidiosamente indolentemente pigramente svogliatamente 
+ita-16-00041538-a/neutral/a/1/neutral/ok/fragile delicato 
+ita-16-00032135-v/neutral/v/1/neutral/ok/fare 
+ita-16-00037780-v/neutral/v/1/neutral/ok/passare 
+ita-16-00037777-v/neutral/v/1/neutral/ok/passare 
+ita-16-00036834-v/neutral/v/1/neutral/ok/superare scavalcare 
+ita-16-00023428-n/neutral/n/1/neutral/ok/particolare 
+ita-16-00011179-n/positive/n/1/positive/ok/rezzo fresco frescura 
+ita-16-00037781-v/neutral/v/1/neutral/ok/passare 
+ita-16-00018123-n/neutral/n/1/neutral/ok/fama rumore scalpore 
+ita-16-00048685-r/neutral/r/1/neutral/ok/solo unicamente solamente 
+ita-16-00032128-v/neutral/v/1/neutral/ok/fare 
+ita-16-00048922-r/neutral/r/1/neutral/ok/nei pressi intorno attorno in_giro nelle_vicinanze 
+ita-16-00004118-n/neutral/n/1/neutral/ok/pegno testimonianza 
+ita-16-00048885-r/neutral/r/1/neutral/ok/certamente sicuramente 
+ita-16-00048930-r/neutral/r/1/neutral/ok/estensivamente ampiamente 
+ita-16-00035924-v/positive/v/1/positive/ok/stimolare stuzzicare solleticare 
+ita-16-00048899-r/positive/r/1/positive/ok/spensieratamente allegramente giocondamente gaiamente 
+ita-16-00007216-n/neutral/n/1/neutral/ok/ordine 
+ita-16-00036835-v/neutral/v/1/neutral/ok/superare passare trascendere oltrepassare 
+ita-16-00048747-r/neutral/r/1/neutral/ok/temporaneamente transitoriamente provvisoriamente 
+ita-16-00003257-n/neutral/n/1/neutral/ok/ordinazione ordinativo ordine 
+ita-16-00048994-r/positive/r/1/positive/ok/positivamente bene 
+ita-16-00033237-v/neutral/v/1/neutral/ok/giurare assicurare 
+ita-16-00033114-v/positive/v/1/positive/ok/liberare disciogliere slegare 
+ita-16-00041761-a/neutral/a/1/neutral/ok/fine 
+ita-16-00008297-n/neutral/n/1/neutral/ok/comune 
+ita-16-00036361-v/neutral/v/1/neutral/ok/sfruttare 
+ita-16-00032132-v/neutral/v/1/neutral/ok/fare 
+ita-16-00035828-v/negative/v/1/negative/ok/spillare mungere succhiare sfruttare 
+ita-16-00032133-v/neutral/v/1/neutral/ok/fare 
+ita-16-00041595-a/neutral/a/1/neutral/ok/segreto recondito incoffessato intimo riposto 
+ita-16-00037775-v/neutral/v/1/neutral/ok/passare 
+ita-16-00033292-v/positive/v/1/positive/ok/distrarre divertire svagare svariare 
+ita-16-00042756-a/neutral/a/1/neutral/ok/bambino piccolo 
+ita-16-00031571-n/neutral/n/1/neutral/ok/fresco 
+ita-16-00037776-v/neutral/v/1/neutral/ok/passare 
+ita-16-00034219-v/negative/v/1/negative/ok/stordire ubriacare ubbriacare frastornare inebriare 
+ita-16-00003697-n/neutral/n/1/neutral/ok/ombra simulacro parvenza 
+ita-16-00010173-n/neutral/n/1/neutral/ok/pegno 

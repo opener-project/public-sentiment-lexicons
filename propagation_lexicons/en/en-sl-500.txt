@@ -1,0 +1,544 @@
+eng-30-00220956-a/negative/a/ok/ugly_1
+eng-30-01963942-v/neutral/v/ok/jump_1 | spring_1 | leap_1 | bound_1
+eng-30-02690708-v/negative/v/ok/lie_1
+eng-30-00643250-a/positive/a/ok/creative_1 | originative_1
+eng-30-04468005-n/neutral/n/ok/railroad_train_1 | train_1
+eng-30-01785971-v/negative/v/ok/anger_1
+eng-30-02057829-a/positive/a/ok/safe_1
+eng-30-01080297-a/positive/a/ok/fruitful_1
+eng-30-04692157-n/negative/n/ok/mar_2 | blemish_1 | defect_4
+eng-30-09815790-n/positive/n/ok/supporter_3 | assistant_1 | helper_1 | help_2
+eng-30-00005041-v/positive/v/ok/inspire_6 | breathe_in_1 | inhale_2
+eng-30-01910652-s/negative/a/ok/afloat_1 | aimless_1 | undirected_1 | rudderless_1 | planless_1 | adrift_1 | directionless_1
+eng-30-04934546-n/neutral/n/ok/body_7 | consistence_2 | consistency_1 | eubstance_1
+eng-30-00024814-v/positive/v/ok/freshen_up_2 | refreshen_1 | freshen_2 | refresh_3
+eng-30-00362467-a/positive/a/ok/cheerful_1
+eng-30-07484265-n/positive/n/ok/desire_1
+eng-30-00796976-v/negative/v/ok/scorn_2 | reject_4 | spurn_1 | freeze_off_1 | disdain_2 | turn_down_3 | pooh-pooh_2
+eng-30-02324397-a/negative/a/ok/weak_1
+eng-30-01301410-v/negative/v/ok/confine_6 | restrain_3 | hold_7
+eng-30-00066636-n/negative/n/ok/failure_1
+eng-30-14174549-n/negative/n/ok/infection_1
+eng-30-01876006-a/neutral/a/ok/progressive_1
+eng-30-01247240-a/negative/a/ok/hot_1
+eng-30-02649830-v/neutral/v/ok/dwell_3 | live_1 | populate_1 | inhabit_1
+eng-30-00689344-v/neutral/v/ok/consider_6 | believe_2 | conceive_2 | think_1
+eng-30-00203866-v/negative/v/ok/worsen_1 | decline_1
+eng-30-00017782-a/positive/a/ok/acceptable_1
+eng-30-09608709-n/positive/n/ok/helper_2 | benefactor_1
+eng-30-00329831-a/neutral/a/ok/central_2
+eng-30-01344963-a/negative/a/ok/uninteresting_1
+eng-30-00802318-v/positive/v/ok/allow_2 | let_3 | permit_1 | countenance_1
+eng-30-02525206-a/positive/a/ok/invulnerable_1
+eng-30-01170962-n/negative/n/ok/fighting_1 | combat_2 | scrap_4 | fight_2
+eng-30-00799517-a/negative/a/ok/sober_1
+eng-30-01502507-a/neutral/a/ok/membered_1
+eng-30-00078760-v/positive/v/ok/treat_3 | care_for_3
+eng-30-00975171-a/positive/a/ok/stylish_1 | fashionable_2
+eng-30-01725712-a/positive/a/ok/passionate_1
+eng-30-00539793-a/neutral/a/ok/distributed_1
+eng-30-04081844-n/negative/n/ok/constraint_2 | restraint_6
+eng-30-00829107-v/neutral/v/ok/teach_1 | learn_5 | instruct_1
+eng-30-02526085-v/positive/v/ok/reach_5 | achieve_1 | accomplish_2 | attain_1
+eng-30-00829745-a/positive/a/ok/educated_1
+eng-30-08293982-n/positive/n/ok/alliance_3 | alignment_1 | coalition_1 | alinement_1
+eng-30-01131902-v/negative/v/ok/bombard_2 | bomb_1
+eng-30-04852088-n/negative/n/ok/evilness_1 | evil_3
+eng-30-01101913-v/negative/v/ok/trounce_2 | vanquish_1 | beat_out_1 | crush_3 | beat_1 | shell_6
+eng-30-07288801-n/positive/n/ok/miracle_2
+eng-30-01128193-v/positive/v/ok/protect_1
+eng-30-02564986-a/positive/a/ok/willing_1
+eng-30-02031986-a/positive/a/ok/right_1
+eng-30-00907147-v/negative/v/ok/kick_8 | complain_1 | sound_off_3 | plain_1 | quetch_1 | kvetch_1
+eng-30-01993140-a/positive/a/ok/respectable_1
+eng-30-08374049-n/neutral/n/ok/settlement_1 | colony_1
+eng-30-10366966-n/neutral/n/ok/nurse_1
+eng-30-08227214-n/neutral/n/ok/lodge_2 | guild_1 | social_club_1 | club_2 | gild_1 | order_8 | society_2
+eng-30-01053144-a/negative/a/ok/unpleasant-smelling_1 | malodorous_1 | stinky_1 | ill-smelling_1 | malodourous_1
+eng-30-02360448-a/negative/a/ok/susceptible_1
+eng-30-00247439-a/negative/a/ok/bloody_1
+eng-30-06272803-n/neutral/n/ok/telephone_call_1 | call_1 | phone_call_1
+eng-30-01150915-a/negative/a/ok/hard_3
+eng-30-03467984-n/negative/n/ok/gun_1
+eng-30-14589223-n/positive/n/ok/solution_1
+eng-30-08208016-n/neutral/n/ok/force_4 | personnel_1
+eng-30-01119169-v/negative/v/ok/attack_1 | assail_2
+eng-30-05867413-n/neutral/n/ok/part_9 | division_2 | section_6
+eng-30-00072989-v/negative/v/ok/eliminate_5 | excrete_1 | egest_1 | pass_25
+eng-30-07501545-n/negative/n/ok/dislike_2
+eng-30-03974215-n/neutral/n/ok/point_15
+eng-30-02393401-a/negative/a/ok/tasteless_2
+eng-30-00800930-v/negative/v/ok/dismiss_1 | brush_off_1 | brush_aside_1 | ignore_2 | discount_1 | push_aside_2 | disregard_2
+eng-30-00230335-a/positive/a/ok/better_1
+eng-30-08187033-n/neutral/n/ok/troupe_1 | company_4
+eng-30-09791816-n/negative/n/ok/anarchist_1 | nihilist_2 | syndicalist_1
+eng-30-01661914-a/negative/a/ok/inopportune_1
+eng-30-02040652-a/neutral/a/ok/round_1 | circular_1
+eng-30-02176178-a/negative/a/ok/complex_1
+eng-30-06715927-n/negative/n/ok/contempt_3 | scorn_2
+eng-30-01410223-v/negative/v/ok/strike_1
+eng-30-09621545-n/positive/n/ok/intellectual_1 | intellect_3
+eng-30-02856463-n/neutral/n/ok/board_3
+eng-30-02066939-v/neutral/v/ok/feed_8 | flow_2 | run_6 | course_2
+eng-30-07387509-n/negative/n/ok/noise_1
+eng-30-02449430-a/negative/a/ok/toxic_1
+eng-30-01493173-a/positive/a/ok/mature_4 | ripe_1
+eng-30-00424370-a/negative/a/ok/dirty_2
+eng-30-07450842-n/neutral/n/ok/observance_2 | ceremony_1 | ceremonial_1 | ceremonial_occasion_1
+eng-30-01101391-a/neutral/a/ok/general_1
+eng-30-06686736-n/positive/n/ok/commendation_2 | approval_4
+eng-30-00064479-a/positive/a/ok/advantageous_1
+eng-30-02126889-a/negative/a/ok/unsettled_2
+eng-30-01974062-v/neutral/v/ok/get_up_3 | bring_up_4 | elevate_2 | raise_2 | lift_1
+eng-30-02567519-v/negative/v/ok/ravish_1 | rape_1 | outrage_3 | assault_2 | dishonor_2 | violate_5 | dishonour_2
+eng-30-00267522-n/positive/n/ok/care_6 | maintenance_1 | upkeep_1
+eng-30-00779374-a/neutral/a/ok/distinct_2
+eng-30-00453726-a/neutral/a/ok/clothed_1 | clad_1
+eng-30-02106506-v/neutral/v/ok/perceive_1 | comprehend_2
+eng-30-00266806-n/positive/n/ok/fix_3 | repair_1 | mend_2 | reparation_3 | mending_2 | fixture_4 | fixing_1
+eng-30-02278830-v/positive/v/ok/profit_2 | turn_a_profit_1
+eng-30-00668099-v/negative/v/ok/suffer_4 | put_up_4 | abide_2 | support_11 | stand_5 | digest_3 | endure_1 | tolerate_1 | brook_1 | stick_out_3 | stomach_2 | bear_3
+eng-30-02374914-a/positive/a/ok/sympathetic_2
+eng-30-01889256-a/positive/a/ok/proud_1
+eng-30-00258857-v/negative/v/ok/damage_1
+eng-30-13971065-n/positive/n/ok/agreement_3 | accord_1
+eng-30-02284096-v/negative/v/ok/corrupt_2 | bribe_1 | grease_ones_palms_1 | buy_2
+eng-30-00806512-a/negative/a/ok/dull_1
+eng-30-01364008-a/negative/a/ok/sorrowful_1
+eng-30-06773434-n/positive/n/ok/treaty_1 | pact_1 | accord_3
+eng-30-00302761-a/positive/a/ok/calm_2
+eng-30-02852523-n/negative/n/ok/block_1
+eng-30-04849241-n/positive/n/ok/goodness_2 | good_2
+eng-30-01361863-a/negative/a/ok/sad_1
+eng-30-00166146-a/positive/a/ok/attractive_1
+eng-30-14070360-n/negative/n/ok/disease_1
+eng-30-01212519-n/positive/n/ok/support_2
+eng-30-01957529-v/neutral/v/ok/ride_1 | sit_6
+eng-30-01887076-a/positive/a/ok/protective_1
+eng-30-01448100-v/negative/v/ok/pull_1 | draw_1 | force_7
+eng-30-01131454-s/negative/a/ok/atrocious_1 | flagitious_2 | grievous_4 | monstrous_2
+eng-30-01805157-a/positive/a/ok/pleased_1
+eng-30-02313250-v/negative/v/ok/deprive_2
+eng-30-00333829-n/negative/n/ok/disturbance_5
+eng-30-00048129-a/neutral/a/ok/additive_2
+eng-30-01291069-v/positive/v/ok/join_4 | conjoin_1
+eng-30-00520257-n/neutral/n/ok/show_1
+eng-30-01018788-s/negative/a/ok/game_1 | gimpy_1 | lame_2 | halt_1 | crippled_1 | halting_1
+eng-30-00709215-s/positive/a/ok/delicate_3 | fragile_1 | frail_3
+eng-30-14844693-n/negative/n/ok/dirt_1 | soil_2
+eng-30-06696483-n/positive/n/ok/award_2 | laurels_1 | honor_1 | honour_2 | accolade_1
+eng-30-02428924-v/neutral/v/ok/forgather_1 | foregather_1 | assemble_2 | meet_7 | gather_2
+eng-30-02058794-a/negative/a/ok/unsafe_2 | dangerous_1
+eng-30-08061042-n/neutral/n/ok/business_concern_1 | business_organisation_1 | business_organization_1 | business_1 | concern_5
+eng-30-00063652-n/positive/n/ok/success_2
+eng-30-01211699-v/negative/v/ok/manipulate_2
+eng-30-01488245-a/positive/a/ok/mature_3
+eng-30-01397210-v/negative/v/ok/work_over_1 | beat_2 | beat_up_1
+eng-30-01235859-a/neutral/a/ok/vertical_3 | upright_3 | erect_1
+eng-30-01904930-v/neutral/v/ok/walk_1
+eng-30-00210446-a/negative/a/ok/hairless_1
+eng-30-02215977-a/neutral/a/ok/multiple_1
+eng-30-02018049-v/neutral/v/ok/board_1 | get_on_2
+eng-30-01533120-a/negative/a/ok/immoderate_1
+eng-30-00797299-a/negative/a/ok/drunk_1 | inebriated_1 | intoxicated_1
+eng-30-06630017-n/positive/n/ok/greeting_1 | salutation_2
+eng-30-01816431-v/positive/v/ok/satisfy_2 | gratify_1
+eng-30-02431728-a/negative/a/ok/tired_1
+eng-30-08620061-n/neutral/n/ok/point_2
+eng-30-02499629-v/negative/v/ok/penalise_1 | penalize_1 | punish_1
+eng-30-00134701-a/positive/a/ok/appropriate_1
+eng-30-01945550-a/neutral/a/ok/mutual_2 | reciprocal_1
+eng-30-01779165-v/negative/v/ok/frighten_1 | affright_1 | fright_1 | scare_1
+eng-30-02076817-s/negative/a/ok/unstable_4 | mentally_ill_1 | unsound_4
+eng-30-01014251-a/neutral/a/ok/intermediate_1
+eng-30-06691442-n/positive/n/ok/encouragement_1
+eng-30-07516354-n/negative/n/ok/anger_1 | choler_2 | ire_1
+eng-30-01282014-a/positive/a/ok/impressive_1
+eng-30-04153751-n/neutral/n/ok/screw_4
+eng-30-07456188-n/negative/n/ok/competition_2 | contest_1
+eng-30-01295275-v/positive/v/ok/join_2 | bring_together_1
+eng-30-02245403-a/negative/a/ok/rough_8
+eng-30-08664443-n/neutral/n/ok/spot_1 | topographic_point_1 | place_1
+eng-30-05115040-n/positive/n/ok/abundance_1 | copiousness_1 | teemingness_1
+eng-30-00271946-v/positive/v/ok/stabilize_3 | stabilise_2
+eng-30-01947266-a/positive/a/ok/refined_1
+eng-30-02516594-v/negative/v/ok/mistreat_1 | abuse_1 | ill-use_1 | step_4 | maltreat_1 | ill-treat_1
+eng-30-01229020-a/negative/a/ok/hopeless_1
+eng-30-01781983-v/negative/v/ok/panic_2
+eng-30-09614684-n/positive/n/ok/guardian_1 | protector_1 | shielder_1 | defender_1
+eng-30-00099184-v/positive/v/ok/heal_2
+eng-30-01091427-v/negative/v/ok/fight_down_1 | defend_4 | fight_2 | oppose_2 | fight_back_2
+eng-30-01590115-a/positive/a/ok/noble_2
+eng-30-02541302-a/negative/a/ok/ill_1 | sick_1
+eng-30-00862683-v/negative/v/ok/attack_2 | round_4 | assail_3 | snipe_3 | lash_out_1 | assault_3
+eng-30-00849357-a/positive/a/ok/elegant_1
+eng-30-00792471-v/neutral/v/ok/send_for_1 | call_5
+eng-30-02424254-a/negative/a/ok/untidy_1
+eng-30-07127006-n/positive/n/ok/laughter_1 | laugh_1
+eng-30-00986027-a/negative/a/ok/fat_1
+eng-30-00761713-v/neutral/v/ok/negociate_6 | talk_terms_1 | negotiate_1
+eng-30-08322981-n/neutral/n/ok/board_1
+eng-30-14285662-n/negative/n/ok/injury_1 | trauma_1 | harm_1 | hurt_1
+eng-30-00296178-v/positive/v/ok/correct_7 | adjust_1 | set_23
+eng-30-09048460-n/neutral/n/ok/colony_3
+eng-30-04005630-n/negative/n/ok/prison_1 | prison_house_2
+eng-30-00040353-v/positive/v/ok/groom_3 | neaten_2
+eng-30-00074790-n/negative/n/ok/blooper_1 | bungle_1 | foul-up_1 | fuckup_2 | flub_1 | botch_1 | boo-boo_1 | boner_1 | bloomer_2 | blunder_1 | pratfall_2
+eng-30-00982602-a/negative/a/ok/slow_2
+eng-30-01914930-a/neutral/a/ok/quantitative_1
+eng-30-05142180-n/positive/n/ok/goodness_1 | good_3
+eng-30-01183573-v/positive/v/ok/fulfil_2 | satisfy_3 | meet_4 | fill_5 | fulfill_3
+eng-30-01086545-a/negative/a/ok/empty_1
+eng-30-01319874-a/positive/a/ok/clean-handed_1 | innocent_1 | guiltless_1
+eng-30-01522376-a/neutral/a/ok/mobile_2
+eng-30-00817680-n/positive/n/ok/protection_1
+eng-30-00303727-a/negative/a/ok/stormy_1
+eng-30-00429048-n/positive/n/ok/entertainment_1 | amusement_2
+eng-30-01001689-a/positive/a/ok/fertile_1
+eng-30-01571363-a/negative/a/ok/artificial_1 | unreal_3
+eng-30-00883635-v/positive/v/ok/triumph_3 | gloat_1 | crow_1
+eng-30-06770275-n/positive/n/ok/agreement_1 | understanding_2
+eng-30-02131072-a/positive/a/ok/sexy_1
+eng-30-02291843-a/negative/a/ok/unstable_1
+eng-30-00666058-a/neutral/a/ok/current_1
+eng-30-14621446-n/neutral/n/ok/chemical_group_1 | radical_1 | group_2
+eng-30-07951464-n/neutral/n/ok/collection_1 | aggregation_1 | assemblage_4 | accumulation_2
+eng-30-01620509-a/negative/a/ok/obstructed_1
+eng-30-01217043-v/positive/v/ok/support_4 | sustain_5 | hold_10 | hold_up_1
+eng-30-02108026-v/neutral/v/ok/experience_3 | receive_4 | have_3 | get_7
+eng-30-00417413-a/positive/a/ok/clean_1
+eng-30-00077645-a/negative/a/ok/afraid_1
+eng-30-01759326-v/negative/v/ok/provoke_1 | elicit_1 | fire_7 | kindle_3 | evoke_1 | enkindle_2 | raise_10 | arouse_1
+eng-30-09385911-n/neutral/n/ok/part_3 | piece_3
+eng-30-00219012-n/negative/n/ok/kill_1 | putting_to_death_1 | killing_2
+eng-30-05161614-n/negative/n/ok/disadvantage_1
+eng-30-00386392-a/neutral/a/ok/achromatic_1 | neutral_5
+eng-30-00283127-n/neutral/n/ok/travel_3 | locomotion_2
+eng-30-00839619-a/positive/a/ok/efficient_1
+eng-30-02311544-a/negative/a/ok/crooked_1
+eng-30-00859153-v/positive/v/ok/chirk_up_1 | cheer_4 | cheer_up_2
+eng-30-00620731-a/negative/a/ok/corrupt_1
+eng-30-00586183-a/negative/a/ok/destructive_1
+eng-30-00631391-a/positive/a/ok/right_2 | correct_1
+eng-30-01843055-v/neutral/v/ok/jaunt_1 | trip_3 | travel_3
+eng-30-02872752-n/neutral/n/ok/boot_1
+eng-30-14483917-n/positive/n/ok/chance_1 | opportunity_1
+eng-30-01406640-a/positive/a/ok/legitimate_1
+eng-30-02116118-v/positive/v/ok/stimulate_6 | stir_3 | excite_3
+eng-30-05809192-n/neutral/n/ok/content_5 | mental_object_1 | cognitive_content_1
+eng-30-00306723-v/negative/v/ok/detonate_1 | set_off_4 | blow_up_1 | explode_1
+eng-30-05138208-n/positive/n/ok/worth_2
+eng-30-02680814-v/negative/v/ok/cease_1 | give_up_4 | discontinue_1 | stop_2 | lay_off_1 | quit_1
+eng-30-06560254-n/neutral/n/ok/answer_4
+eng-30-01664581-a/negative/a/ok/pessimistic_1
+eng-30-01586342-a/positive/a/ok/nice_1
+eng-30-00813978-v/neutral/v/ok/talk_over_1 | discuss_2 | hash_out_1
+eng-30-02030080-a/positive/a/ok/right_7
+eng-30-00939857-v/positive/v/ok/clear_up_1 | clarify_1 | elucidate_1
+eng-30-01020393-a/positive/a/ok/fit_1
+eng-30-01369663-a/positive/a/ok/just_1
+eng-30-00224731-a/negative/a/ok/malicious_1
+eng-30-02484208-a/neutral/a/ok/ascending_1
+eng-30-01163083-a/positive/a/ok/harmonious_1
+eng-30-00446921-a/neutral/a/ok/close_1
+eng-30-01160031-a/negative/a/ok/harmful_1
+eng-30-00113818-a/negative/a/ok/angry_1
+eng-30-02219094-v/positive/v/ok/support_2
+eng-30-01835496-v/neutral/v/ok/move_1 | go_1 | locomote_1 | travel_1
+eng-30-00856824-v/positive/v/ok/praise_1
+eng-30-02290998-a/positive/a/ok/stable_1
+eng-30-02482425-v/negative/v/ok/murder_1 | dispatch_3 | remove_7 | polish_off_2 | off_1 | hit_11 | slay_1 | bump_off_1
+eng-30-01148283-a/positive/a/ok/happy_1
+eng-30-06778102-n/positive/n/ok/joke_1 | jape_1 | jest_1 | laugh_3 | gag_1
+eng-30-01628946-a/negative/a/ok/offensive_2
+eng-30-01619929-v/negative/v/ok/destroy_1 | destruct_2
+eng-30-13279262-n/neutral/n/ok/wage_1 | salary_1 | pay_1 | remuneration_1 | earnings_2
+eng-30-07546465-n/negative/n/ok/hate_1 | hatred_1
+eng-30-09979589-n/negative/n/ok/critic_1
+eng-30-01799794-v/negative/v/ok/mortify_3 | chagrin_1 | humble_2 | abase_1 | humiliate_1
+eng-30-10055847-n/negative/n/ok/opposition_7 | foeman_1 | foe_1 | enemy_2
+eng-30-07111047-n/neutral/n/ok/phone_2 | speech_sound_1 | sound_6
+eng-30-00385791-n/neutral/n/ok/division_3
+eng-30-02179518-v/neutral/v/ok/sound_6
+eng-30-01712704-v/negative/v/ok/execute_6 | perform_1 | do_2
+eng-30-14112855-n/negative/n/ok/heart_attack_1
+eng-30-01749320-a/positive/a/ok/perfect_1
+eng-30-01320988-a/negative/a/ok/guilty_1
+eng-30-00895304-v/positive/v/ok/fend_for_1 | defend_1 | support_8
+eng-30-04688246-n/positive/n/ok/attractiveness_1 | attraction_3
+eng-30-00471711-v/negative/v/ok/eliminate_1 | get_rid_of_2 | do_away_with_1 | extinguish_4
+eng-30-05805475-n/positive/n/ok/apprehension_2 | understanding_1 | savvy_1 | discernment_1
+eng-30-07526757-n/positive/n/ok/happiness_2
+eng-30-13258362-n/positive/n/ok/lucre_2 | profits_1 | profit_1 | earnings_1 | net_profit_1 | net_income_1 | net_3
+eng-30-00028565-v/positive/v/ok/smile_1
+eng-30-00439588-a/negative/a/ok/stupid_1
+eng-30-01646941-a/negative/a/ok/immature_2 | young_1
+eng-30-00151689-v/negative/v/ok/lessen_1 | diminish_1 | decrease_1 | fall_11
+eng-30-02043898-a/neutral/a/ok/rounded_1
+eng-30-02069355-a/neutral/a/ok/other_1
+eng-30-01889610-v/negative/v/ok/agitate_5 | shake_1
+eng-30-01489722-a/negative/a/ok/immature_4
+eng-30-10533013-n/negative/n/ok/competition_4 | contender_1 | rival_1 | challenger_1 | competitor_1
+eng-30-01818235-v/positive/v/ok/encourage_2
+eng-30-00956131-a/positive/a/ok/fair_1 | just_3
+eng-30-13296899-n/positive/n/ok/benefit_1
+eng-30-13268146-n/positive/n/ok/award_3 | prize_1
+eng-30-00681429-v/neutral/v/ok/valuate_1 | measure_4 | assess_1 | value_4 | evaluate_1 | appraise_1
+eng-30-00102586-v/negative/v/ok/harm_1
+eng-30-00260648-v/positive/v/ok/touch_on_3 | repair_1 | furbish_up_1 | mend_1 | restore_4 | doctor_3 | bushel_1 | fix_1
+eng-30-01047874-a/positive/a/ok/fortunate_1
+eng-30-00749230-a/positive/a/ok/easy_1
+eng-30-01308425-a/negative/a/ok/uninformed_1
+eng-30-04952242-n/positive/n/ok/brightness_1
+eng-30-02079029-a/negative/a/ok/sarcastic_1
+eng-30-00182406-v/neutral/v/ok/add_1
+eng-30-02575330-a/neutral/a/ok/woody_1
+eng-30-00150287-v/positive/v/ok/adjust_3 | conform_2 | adapt_2
+eng-30-01143838-v/negative/v/ok/track_down_1 | hunt_1 | run_36 | hunt_down_1
+eng-30-01011725-v/positive/v/ok/affirm_3
+eng-30-01926311-v/neutral/v/ok/run_1
+eng-30-10595647-n/negative/n/ok/sick_person_1 | sufferer_1 | diseased_person_1
+eng-30-02467662-v/neutral/v/ok/split_1 | separate_4 | divide_1 | dissever_1 | split_up_2 | carve_up_1
+eng-30-07519253-n/negative/n/ok/fright_1 | fearfulness_1 | fear_1
+eng-30-03304730-n/negative/n/ok/explosive_1
+eng-30-07961016-n/neutral/n/ok/clod_1 | glob_1 | ball_8 | chunk_1 | clump_2 | lump_1
+eng-30-05905348-n/neutral/n/ok/scheme_1 | strategy_1
+eng-30-00173338-v/negative/v/ok/remove_1 | withdraw_12 | take_away_2 | take_17
+eng-30-00299580-v/positive/v/ok/accommodate_2 | adapt_1
+eng-30-01908039-a/negative/a/ok/impure_1
+eng-30-00248977-n/positive/n/ok/improvement_2
+eng-30-02569130-a/positive/a/ok/wise_1
+eng-30-00095280-a/negative/a/ok/dead_1
+eng-30-08435388-n/negative/n/ok/scheme_3 | system_2
+eng-30-00220522-n/negative/n/ok/slaying_1 | execution_7 | murder_1
+eng-30-01372049-a/positive/a/ok/kind_1
+eng-30-13360498-n/positive/n/ok/trust_1
+eng-30-02228335-a/negative/a/ok/unskilled_1
+eng-30-14083790-n/negative/n/ok/mental_disorder_1 | disturbance_6 | psychological_disorder_1 | mental_disturbance_1 | folie_1
+eng-30-00679147-a/negative/a/ok/damaged_1
+eng-30-00233335-v/negative/v/ok/restrict_3 | confine_1 | throttle_1 | restrain_2 | trammel_2 | limit_1 | bound_3
+eng-30-01074650-a/positive/a/ok/friendly_1
+eng-30-01226215-v/positive/v/ok/caress_1 | fondle_1
+eng-30-00069879-v/negative/v/ok/injure_1 | wound_1
+eng-30-08523483-n/neutral/n/ok/centre_2 | eye_4 | center_1 | heart_4 | middle_1
+eng-30-13306870-n/neutral/n/ok/charge_3
+eng-30-00791227-a/negative/a/ok/dominant_1
+eng-30-00769092-n/negative/n/ok/fraud_1
+eng-30-00719442-s/negative/a/ok/impulsive_4 | whimsical_1 | capricious_2
+eng-30-10213652-n/negative/n/ok/intruder_1 | trespasser_1 | interloper_1
+eng-30-01028748-v/neutral/v/ok/call_1 | name_1
+eng-30-10225219-n/neutral/n/ok/judge_1 | jurist_2 | justice_3
+eng-30-01129920-n/negative/n/ok/duty_1 | obligation_1 | responsibility_1
+eng-30-02570282-a/negative/a/ok/foolish_1
+eng-30-00778275-v/negative/v/ok/cut_off_1 | break_up_5 | disrupt_1 | interrupt_1
+eng-30-01800349-a/positive/a/ok/pleasant_1
+eng-30-01172889-a/negative/a/ok/unhealthy_1
+eng-30-04912732-n/positive/n/ok/good_manners_1 | courtesy_3
+eng-30-00884011-v/positive/v/ok/assure_6 | promise_1
+eng-30-02554922-v/positive/v/ok/advance_4 | encourage_1 | further_2 | promote_1 | boost_3
+eng-30-01970826-v/negative/v/ok/come_down_1 | go_down_1 | fall_2 | descend_1
+eng-30-00193015-a/negative/a/ok/alarming_1
+eng-30-00644583-v/neutral/v/ok/examine_1 | analyze_1 | study_1 | canvas_4 | canvass_3 | analyse_1
+eng-30-00293141-v/positive/v/ok/prettify_1 | fancify_1 | embellish_4 | beautify_1
+eng-30-00237240-a/neutral/a/ok/multilateral_1 | many-sided_1
+eng-30-00389406-v/negative/v/ok/emaciate_1 | waste_8 | macerate_4
+eng-30-10114897-n/negative/n/ok/fugitive_2 | fugitive_from_justice_1
+eng-30-00278551-a/positive/a/ok/bright_1
+eng-30-00705891-a/positive/a/ok/delicate_1
+eng-30-00190115-a/neutral/a/ok/cognizant_1 | cognisant_1 | aware_1
+eng-30-02210855-v/negative/v/ok/acquire_1 | get_1
+eng-30-09633969-n/negative/n/ok/offender_1 | wrongdoer_1
+eng-30-09977660-n/negative/n/ok/malefactor_1 | outlaw_1 | criminal_1 | crook_1 | felon_1
+eng-30-00811375-v/negative/v/ok/avoid_1
+eng-30-00744916-a/negative/a/ok/difficult_1 | hard_1
+eng-30-00476744-v/negative/v/ok/strain_9 | distort_5 | deform_5
+eng-30-01170243-a/positive/a/ok/healthy_1
+eng-30-01400562-a/neutral/a/ok/legal_1
+eng-30-01777210-v/positive/v/ok/like_2
+eng-30-08616050-n/neutral/n/ok/pastureland_1 | ley_1 | lea_2 | grazing_land_1 | pasture_1
+eng-30-00022686-v/positive/v/ok/brace_4 | stimulate_4 | perk_up_2 | energize_1 | energise_2 | arouse_4
+eng-30-13972797-n/negative/n/ok/disorder_3
+eng-30-02685951-v/neutral/v/ok/extend_2 | go_7 | run_3 | pass_6 | lead_6
+eng-30-01806505-v/positive/v/ok/charm_1 | enamour_1 | fascinate_3 | catch_23 | trance_1 | becharm_2 | enchant_2 | enamor_1 | entrance_1 | capture_2 | captivate_1 | beguile_2 | bewitch_1
+eng-30-01033527-v/neutral/v/ok/plow_2 | treat_4 | cover_5 | handle_3 | address_8 | deal_1
+eng-30-01071198-a/positive/a/ok/fresh_5
+eng-30-02047807-a/neutral/a/ok/angular_2 | angulate_1
+eng-30-02481436-v/positive/v/ok/decriminalise_1 | legalise_1 | legitimize_1 | legalize_1 | legitimatize_1 | decriminalize_1 | legitimate_1 | legitimatise_1 | legitimise_1
+eng-30-05118437-n/negative/n/ok/inordinateness_1 | excess_2 | excessiveness_1
+eng-30-00885695-a/positive/a/ok/enthusiastic_1
+eng-30-00893878-v/positive/v/ok/relieve_10 | let_off_1 | exempt_2 | excuse_2
+eng-30-01635146-a/neutral/a/ok/constituted_1 | established_1
+eng-30-00853633-v/positive/v/ok/jest_1 | joke_1
+eng-30-02315002-a/neutral/a/ok/curved_1 | curving_1
+eng-30-00309021-a/positive/a/ok/careful_1
+eng-30-00065791-a/positive/a/ok/adventurous_1 | adventuresome_1
+eng-30-00732960-a/positive/a/ok/desirable_1
+eng-30-02460502-a/positive/a/ok/true_1
+eng-30-01675963-v/positive/v/ok/decorate_1 | grace_1 | adorn_1 | embellish_3 | ornament_1 | beautify_3
+eng-30-00082241-a/negative/a/ok/aggressive_1
+eng-30-00890100-v/positive/v/ok/vouch_2 | guarantee_1
+eng-30-01583040-a/negative/a/ok/neurotic_2 | psychoneurotic_1
+eng-30-05839024-n/neutral/n/ok/kind_1 | sort_1 | variety_5 | form_2
+eng-30-01564144-v/negative/v/ok/destroy_2 | ruin_1
+eng-30-02678438-v/negative/v/ok/worry_4 | interest_2 | concern_2 | occupy_4
+eng-30-01476483-v/negative/v/ok/obturate_1 | close_up_2 | impede_2 | occlude_1 | obstruct_2 | block_10 | jam_7
+eng-30-01482330-n/neutral/n/ok/shark_1
+eng-30-00171586-v/positive/v/ok/enrich_1
+eng-30-14548343-n/negative/n/ok/impairment_3 | handicap_1 | disability_1 | disablement_1
+eng-30-01845720-v/neutral/v/ok/travel_2 | journey_1
+eng-30-01409581-a/neutral/a/ok/similar_3 | like_1
+eng-30-00205046-v/positive/v/ok/meliorate_2 | improve_2 | ameliorate_2 | better_3
+eng-30-13285176-n/neutral/n/ok/part_8 | portion_4 | share_1 | percentage_2
+eng-30-02108791-v/negative/v/ok/strike_15 | hit_9 | come_to_1
+eng-30-00826509-v/negative/v/ok/knock_6 | criticise_1 | pick_apart_1 | criticize_1
+eng-30-13854649-n/negative/n/ok/oppositeness_1 | opposition_2
+eng-30-00599821-a/negative/a/ok/uncontrolled_1
+eng-30-00311559-v/negative/v/ok/darken_3
+eng-30-01158872-v/positive/v/ok/utilize_1 | utilise_1 | use_1 | apply_1 | employ_1
+eng-30-08220891-n/neutral/n/ok/division_8
+eng-30-09366017-n/negative/n/ok/natural_depression_1 | depression_3
+eng-30-02290461-v/positive/v/ok/benefit_1 | profit_1 | gain_3
+eng-30-02074092-a/negative/a/ok/insane_1
+eng-30-05644922-n/negative/n/ok/inability_1
+eng-30-00654885-n/positive/n/ok/care_1 | aid_4 | attention_2 | tending_1
+eng-30-08464601-n/neutral/n/ok/front_10 | movement_4 | social_movement_1
+eng-30-14408086-n/negative/n/ok/difficulty_3
+eng-30-01245637-v/positive/v/ok/polish_1 | smooth_2 | shine_10 | smoothen_2
+eng-30-11462526-n/negative/n/ok/storm_1 | violent_storm_1
+eng-30-03501152-n/negative/n/ok/hazard_3
+eng-30-04360501-n/positive/n/ok/support_7
+eng-30-02140033-v/neutral/v/ok/display_1 | expose_3 | exhibit_2
+eng-30-00462092-v/negative/v/ok/inhibit_1 | conquer_1 | curb_2 | stamp_down_1 | suppress_1 | subdue_2
+eng-30-07208338-n/negative/n/ok/objection_2
+eng-30-01819554-v/negative/v/ok/restrain_5 | intimidate_2
+eng-30-01323958-v/negative/v/ok/kill_1
+eng-30-06758225-n/negative/n/ok/deception_1 | deceit_2 | misrepresentation_1
+eng-30-01801600-a/negative/a/ok/unpleasant_1
+eng-30-00797697-v/positive/v/ok/consent_1 | accept_3 | go_for_2
+eng-30-04350905-n/neutral/n/ok/suit_1 | suit_of_clothes_1
+eng-30-00958896-n/negative/n/ok/conflict_1 | struggle_2 | battle_3
+eng-30-00806502-v/positive/v/ok/approve_1 | sanction_1 | okay_1 | ok_1
+eng-30-01120069-v/negative/v/ok/attack_4 | set_on_1 | assail_1 | assault_1
+eng-30-00766234-n/negative/n/ok/criminal_offence_1 | criminal_offense_1 | law-breaking_1 | crime_1 | offense_3 | offence_5
+eng-30-00419289-a/negative/a/ok/dirty_1 | unclean_1 | soiled_1
+eng-30-01251128-a/negative/a/ok/cold_1
+eng-30-02436349-v/positive/v/ok/manage_2 | care_4 | handle_1 | deal_7
+eng-30-07314838-n/negative/n/ok/calamity_1 | cataclysm_2 | catastrophe_1 | disaster_2 | tragedy_1
+eng-30-02866578-n/negative/n/ok/bomb_1
+eng-30-00636574-v/neutral/v/ok/deduce_1 | derive_1 | infer_1 | deduct_3
+eng-30-02544048-s/negative/a/ok/giddy_1 | woozy_1 | dizzy_1 | vertiginous_1
+eng-30-00405179-s/negative/a/ok/drab_2 | somber_1 | sombre_1 | sober_3
+eng-30-13899404-n/neutral/n/ok/globe_2 | orb_2 | ball_3
+eng-30-00227507-a/positive/a/ok/best_1
+eng-30-01532589-v/positive/v/ok/clean_1 | make_clean_1
+eng-30-13991823-n/positive/n/ok/freedom_1
+eng-30-00887719-a/positive/a/ok/wishful_1 | desirous_1
+eng-30-14081375-n/negative/n/ok/attack_7
+eng-30-08553535-n/neutral/n/ok/residential_district_1 | residential_area_1 | community_5
+eng-30-01740892-a/positive/a/ok/peaceable_2 | peaceful_1
+eng-30-02520219-a/positive/a/ok/voluntary_1
+eng-30-10129825-n/negative/n/ok/girl_1 | miss_1 | missy_1 | young_woman_1 | fille_1 | young_lady_1
+eng-30-00839834-v/positive/v/ok/magnify_2 | hyperbolize_1 | overdraw_2 | exaggerate_1 | overstate_1 | hyperbolise_1 | amplify_2
+eng-30-04677952-n/neutral/n/ok/colour_7 | color_5 | semblance_1 | gloss_4
+eng-30-05388805-n/neutral/n/ok/heart_2 | ticker_1 | pump_2
+eng-30-00070965-n/negative/n/ok/mistake_1 | error_1 | fault_1
+eng-30-02225492-v/positive/v/ok/preserve_3 | save_2
+eng-30-14292090-n/negative/n/ok/fracture_1 | break_8
+eng-30-00962722-n/negative/n/ok/revolution_2
+eng-30-08310949-n/neutral/n/ok/council_1
+eng-30-02345272-a/negative/a/ok/inferior_2
+eng-30-10197967-n/negative/n/ok/idler_1 | bum_3 | do-nothing_1 | loafer_1 | layabout_1
+eng-30-02580449-a/negative/a/ok/worn_1
+eng-30-01595596-a/negative/a/ok/abnormal_1 | unnatural_2
+eng-30-00035758-v/positive/v/ok/cleanse_1 | clean_4
+eng-30-02229961-s/negative/a/ok/menial_1 | lowly_3 | humble_3
+eng-30-02238462-a/negative/a/ok/rough_1 | unsmooth_1
+eng-30-00173764-a/neutral/a/ok/hearable_1 | audible_1
+eng-30-14642417-n/neutral/n/ok/fe_1 | atomic_number_26_1 | iron_1
+eng-30-08518505-n/neutral/n/ok/capital_3
+eng-30-01120925-a/positive/a/ok/glorious_1
+eng-30-01334398-a/positive/a/ok/intelligent_1
+eng-30-00201354-a/negative/a/ok/backward_1
+eng-30-02354537-a/positive/a/ok/supportive_1
+eng-30-06706676-n/positive/n/ok/palm_4 | medallion_4 | ribbon_2 | decoration_2 | medal_1 | laurel_wreath_1
+eng-30-00986938-n/negative/n/ok/fire_2 | firing_1
+eng-30-01195536-a/positive/a/ok/helpful_1
+eng-30-01125429-a/negative/a/ok/bad_1
+eng-30-02005948-v/neutral/v/ok/come_2 | get_5 | arrive_1
+eng-30-07523905-n/negative/n/ok/anxiety_2
+eng-30-00651039-s/negative/a/ok/severe_5 | serious_3 | grievous_1 | life-threatening_1 | grave_2 | dangerous_2
+eng-30-05155821-n/positive/n/ok/vantage_2 | advantage_1
+eng-30-01579813-v/neutral/v/ok/spread_out_7 | spread_4 | unfold_4 | open_5
+eng-30-01815628-v/positive/v/ok/delight_1 | please_1
+eng-30-00791078-n/neutral/n/ok/trial_1 | test_5 | run_2
+eng-30-00447309-v/positive/v/ok/resolve_7 | break_up_6 | dissolve_2
+eng-30-00740053-v/neutral/v/ok/assign_8 | attribute_2
+eng-30-01222884-a/negative/a/ok/dishonorable_2 | dishonest_1
+eng-30-00163592-a/positive/a/ok/attentive_1
+eng-30-10518602-n/neutral/n/ok/religious_1
+eng-30-03169390-n/positive/n/ok/ornamentation_2 | decoration_1 | ornament_1
+eng-30-01164763-a/positive/a/ok/healthful_1
+eng-30-02000968-s/negative/a/ok/extravagant_1 | excessive_2 | overweening_1 | exuberant_2
+eng-30-09606527-n/negative/n/ok/anomaly_2 | unusual_person_1
+eng-30-02321757-v/negative/v/ok/steal_1
+eng-30-04683814-n/positive/n/ok/beauty_1
+eng-30-00810916-a/positive/a/ok/eager_1
+eng-30-06878404-n/positive/n/ok/laugh_2
+eng-30-01139352-a/positive/a/ok/graceful_1
+eng-30-00904046-v/negative/v/ok/discharge_6 | exonerate_1 | exculpate_1 | assoil_1 | acquit_1 | clear_18
+eng-30-02080577-a/positive/a/ok/satisfactory_1
+eng-30-00118567-a/neutral/a/ok/alive_3 | animated_1
+eng-30-01783158-a/neutral/a/ok/religious_2
+eng-30-04861486-n/positive/n/ok/firmness_of_purpose_1 | resoluteness_1 | firmness_2 | resolve_1 | resolution_3
+eng-30-07532440-n/negative/n/ok/sadness_1 | unhappiness_1
+eng-30-07234230-n/negative/n/ok/accusation_1 | accusal_1
+eng-30-02314275-v/negative/v/ok/divest_1 | strip_1 | deprive_1
+eng-30-13932421-n/positive/n/ok/acceptance_3
+eng-30-01710260-s/positive/a/ok/gratuitous_2 | free_3 | costless_1 | complimentary_2 | gratis_1
+eng-30-14322699-n/negative/n/ok/hurting_1 | pain_1
+eng-30-00021766-a/positive/a/ok/accurate_1
+eng-30-04857083-n/positive/n/ok/courage_1 | braveness_1 | bravery_1 | courageousness_1
+eng-30-01775164-v/positive/v/ok/love_1
+eng-30-08512259-n/neutral/n/ok/bound_2 | boundary_1 | bounds_1
+eng-30-00523978-a/negative/a/ok/uncomplete_1 | incomplete_1
+eng-30-02667228-v/negative/v/ok/conflict_1
+eng-30-02419159-s/negative/a/ok/lost_7 | bemused_1 | preoccupied_1 | deep_in_thought_1
+eng-30-02524171-v/positive/v/ok/win_4 | deliver_the_goods_1 | come_through_4 | succeed_1 | bring_home_the_bacon_1
+eng-30-09393605-n/neutral/n/ok/field_9 | champaign_1 | plain_1
+eng-30-01916229-a/negative/a/ok/questionable_1
+eng-30-00438707-a/positive/a/ok/smart_1
+eng-30-10077593-n/positive/n/ok/fan_3 | devotee_1 | buff_1 | lover_2
+eng-30-02339413-v/neutral/v/ok/outfit_1 | fit_8 | equip_1 | fit_out_1
+eng-30-01711071-a/negative/a/ok/painful_1
+eng-30-01871979-v/negative/v/ok/push_1 | force_3
+eng-30-01129977-a/positive/a/ok/good_3
+eng-30-02518161-v/neutral/v/ok/behave_2 | deport_1 | carry_13 | comport_2 | acquit_2 | conduct_3 | bear_10
+eng-30-01855764-a/neutral/a/ok/basic_1
+eng-30-01123148-a/positive/a/ok/good_1
+eng-30-01815838-a/positive/a/ok/popular_1
+eng-30-01955984-v/neutral/v/ok/ride_2
+eng-30-00919542-a/positive/a/ok/excited_2
+eng-30-00035189-n/positive/n/ok/achievement_1 | accomplishment_1
+eng-30-02528380-v/negative/v/ok/miscarry_1 | go_wrong_1 | fail_2
+eng-30-09998101-n/negative/n/ok/beguiler_1 | slicker_3 | deceiver_1 | trickster_2 | cheat_3 | cheater_1
+eng-30-01809321-v/negative/v/ok/overwhelm_1 | overtake_3 | overpower_2 | whelm_1 | overcome_3 | sweep_over_1
+eng-30-10016103-n/neutral/n/ok/disciple_1 | adherent_1
+eng-30-02062670-a/neutral/a/ok/same_2
+eng-30-01767949-v/positive/v/ok/affect_5 | move_9 | strike_2 | impress_1
+eng-30-02326695-a/negative/a/ok/stubborn_1 | unregenerate_1 | obstinate_1
+eng-30-00199659-v/positive/v/ok/correct_1 | right_4 | rectify_5
+eng-30-02534877-a/neutral/a/ok/increasing_1
+eng-30-06689297-n/positive/n/ok/permission_1
+eng-30-02883344-n/neutral/n/ok/box_1
+eng-30-05148699-n/positive/n/ok/usefulness_1 | utility_2
+eng-30-02796623-n/negative/n/ok/barrier_1
+eng-30-00220869-v/positive/v/ok/strengthen_1 | beef_up_1 | fortify_1
+eng-30-01244410-a/negative/a/ok/hostile_1
+eng-30-13939892-n/neutral/n/ok/stage_2 | point_5 | level_3 | degree_2
+eng-30-13275847-n/neutral/n/ok/cost_1
+eng-30-00034574-n/positive/n/ok/kindness_3 | benignity_2
+eng-30-04898437-n/positive/n/ok/correctitude_1 | properness_1 | propriety_1
+eng-30-10503452-n/negative/n/ok/radical_3
+eng-30-02331262-a/positive/a/ok/successful_1
+eng-30-01209426-v/negative/v/ok/strike_10 | hit_14
+eng-30-02171024-a/neutral/a/ok/compound_1

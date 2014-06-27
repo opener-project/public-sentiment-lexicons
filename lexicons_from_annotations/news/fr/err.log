@@ -1,0 +1,989 @@
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-02-04_www.lesechos.fr_75a7e7e98ce352e1e2245dcee5fc880af7822c68.kaf
+	Number of opinion expressions: 2
+	Number of opinion targets: 2
+	Number of characters of the text: 4289
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-02-05_www.europe1.fr_e48e135667f4e4a8996e6f1bedbf06ea08e8c645.kaf
+	Number of opinion expressions: 2
+	Number of opinion targets: 2
+	Number of characters of the text: 2672
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-02-05_www.lepoint.fr_59b126e8018767a469d6fae0c2d6bdd8d63281d9.kaf
+	Number of opinion expressions: 3
+	Number of opinion targets: 3
+	Number of characters of the text: 4147
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-02-05_www.liberation.fr_3316fde73157c0ba1eb0306bbd25751ec81ba073.kaf
+	Number of opinion expressions: 2
+	Number of opinion targets: 2
+	Number of characters of the text: 3724
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-02-07_lexpansion.lexpress.fr_599d6434680bd08804a945576b25068ee83bde55.kaf
+	Number of opinion expressions: 1
+	Number of opinion targets: 1
+	Number of characters of the text: 5354
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-02-07_www.bienpublic.com_54a247eeda3569358815c11611ab643c2b69c5d3.kaf
+	Number of opinion expressions: 0
+	Number of opinion targets: 0
+	Number of characters of the text: 2133
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-02-07_www.europe1.fr_1d632b23c59e4a521d584ffe1d517e805df3d58a.kaf
+	Number of opinion expressions: 2
+	Number of opinion targets: 2
+	Number of characters of the text: 2918
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-02-07_www.lepoint.fr_7a2552c5bca5447ec0ef19c04cde04a104519720.kaf
+	Number of opinion expressions: 0
+	Number of opinion targets: 0
+	Number of characters of the text: 4947
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-02-07_www.lepoint.fr_fb87e945ee349799bfe682d5686073fe7c1f55f6.kaf
+	Number of opinion expressions: 1
+	Number of opinion targets: 1
+	Number of characters of the text: 5605
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-02-07_www.rtbf.be_eadf88766748c2b9a7b0ed49a5c9e4c43625fdbb.kaf
+	Number of opinion expressions: 0
+	Number of opinion targets: 0
+	Number of characters of the text: 4976
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-02-08_www.lematin.ch_bbd780183e2419226069ab9ae4cf3f9453be750d.kaf
+	Number of opinion expressions: 0
+	Number of opinion targets: 0
+	Number of characters of the text: 5958
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-02-08_www.lepoint.fr_7ad32123ad0e9e1946aecc999a17e6dccbf81d6e.kaf
+	Number of opinion expressions: 0
+	Number of opinion targets: 0
+	Number of characters of the text: 3870
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-02-08_www.lepoint.fr_b353163a7df8d2ad866b8467d817995a55611e5c.kaf
+	Number of opinion expressions: 3
+	Number of opinion targets: 1
+	Number of characters of the text: 5084
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-02-08_www.rtbf.be_b760b69a8315842048c0fb7876dc9cafe8c5cfbb.kaf
+	Number of opinion expressions: 2
+	Number of opinion targets: 2
+	Number of characters of the text: 8783
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-02-08_www.rtl.fr_37fa312b0818c5beb9951dfb9df980e11916cbca.kaf
+	Number of opinion expressions: 4
+	Number of opinion targets: 4
+	Number of characters of the text: 6473
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-02-09_www.bienpublic.com_25b6c529911c4db8034295602e6ac8a241e7c027.kaf
+	Number of opinion expressions: 2
+	Number of opinion targets: 1
+	Number of characters of the text: 1816
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-02-09_www.liberation.fr_23fb8644984960214456b61172a789500f9bd889.kaf
+	Number of opinion expressions: 4
+	Number of opinion targets: 4
+	Number of characters of the text: 6819
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-02-11_www.europe1.fr_0bbbd0532c5b76fe29efb9c41bfe438d9057371f.kaf
+	Number of opinion expressions: 1
+	Number of opinion targets: 1
+	Number of characters of the text: 10017
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-02-15_www.bienpublic.com_26e5edff5b837f3e28f907120c3031a1785ffd05.kaf
+	Number of opinion expressions: 0
+	Number of opinion targets: 0
+	Number of characters of the text: 2209
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-02-19_www.lepoint.fr_971e4680a529291725d0bd52b51f6a887d6a0e3e.kaf
+	Number of opinion expressions: 1
+	Number of opinion targets: 1
+	Number of characters of the text: 3708
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-02-20_www.dna.fr_917254a071a3a5dd92f7e258320a5436a8c9f946.kaf
+	Number of opinion expressions: 2
+	Number of opinion targets: 2
+	Number of characters of the text: 3687
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-02-22_www.euractiv.fr_d133a1c537583fac370e4b7dd79a8d8e27b22a9e.kaf
+	Number of opinion expressions: 1
+	Number of opinion targets: 1
+	Number of characters of the text: 5811
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-02-25_lci.tf1.fr_cca56189c2dc536eee1eb3742123687229be6a08.kaf
+	Number of opinion expressions: 1
+	Number of opinion targets: 1
+	Number of characters of the text: 2756
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-02-25_www.leparisien.fr_9ff907dae804827663edbe6a374fadcea9aa7a1f.kaf
+	Number of opinion expressions: 1
+	Number of opinion targets: 1
+	Number of characters of the text: 3887
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-02-26_lci.tf1.fr_839c2e0199d86bce68f819e9ff2ebee20f321bdb.kaf
+	Number of opinion expressions: 0
+	Number of opinion targets: 0
+	Number of characters of the text: 4131
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-02-26_www.lematin.ch_5e2bc1e152c4f5abee5c25061eed9d42471207eb.kaf
+	Number of opinion expressions: 5
+	Number of opinion targets: 5
+	Number of characters of the text: 5561
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-02-27_allemagne.blog.lemonde.fr_48877c555c811dec3a3683bf7b82d2c8aad75c60.kaf
+	Number of opinion expressions: 2
+	Number of opinion targets: 1
+	Number of characters of the text: 7481
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-02-27_lci.tf1.fr_96f959d16f651b39c2b2e1083e327d5921636c99.kaf
+	Number of opinion expressions: 0
+	Number of opinion targets: 0
+	Number of characters of the text: 1963
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-02-27_lexpansion.lexpress.fr_d1d34be2e03c688bd3ae5436c3caa8e363fbf4af.kaf
+	Number of opinion expressions: 0
+	Number of opinion targets: 0
+	Number of characters of the text: 5099
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-02-27_www.liberation.fr_d397aaacd6f21dadbc04e3e4f8f5a04b5a25c955.kaf
+	Number of opinion expressions: 3
+	Number of opinion targets: 3
+	Number of characters of the text: 7156
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-03-01_www.lapresse.ca_e58dedac3a962393d04b2821842b1ddd455267a6.kaf
+	Number of opinion expressions: 1
+	Number of opinion targets: 1
+	Number of characters of the text: 5225
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-03-02_tempsreel.nouvelobs.com_b79cce96c1644aea23bc23cda956c4fa173edc00.kaf
+	Number of opinion expressions: 0
+	Number of opinion targets: 0
+	Number of characters of the text: 2533
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-03-02_www.lapresse.tn_044236d7451048d05faaa05281e184b0e9a90968.kaf
+	Number of opinion expressions: 1
+	Number of opinion targets: 1
+	Number of characters of the text: 4941
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-03-06_www.liberation.fr_5e8a3c37419f438b85cee93efc15e27f1e38413b.kaf
+	Number of opinion expressions: 0
+	Number of opinion targets: 0
+	Number of characters of the text: 4180
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-03-06_www.paris-normandie.fr_1ccdc3e32e1bb6b08d5a3a32a63991b4209c9027.kaf
+	Number of opinion expressions: 0
+	Number of opinion targets: 0
+	Number of characters of the text: 3804
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-03-07_www.bienpublic.com_04ee042be0f3414955bab49db43ba95809b58efc.kaf
+	Number of opinion expressions: 0
+	Number of opinion targets: 0
+	Number of characters of the text: 2752
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-03-14_tempsreel.nouvelobs.com_9845df85c9665ed83ae1d2e7648caf1697bb2508.kaf
+	Number of opinion expressions: 0
+	Number of opinion targets: 0
+	Number of characters of the text: 3253
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-03-14_www.europe1.fr_a5aaac181ce366692a8f5817ff966e7ea810baf8.kaf
+	Number of opinion expressions: 0
+	Number of opinion targets: 0
+	Number of characters of the text: 3875
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-03-14_www.leparisien.fr_7e3e5395b049ee0b5c67f2c96cd5bd143eb2242c.kaf
+	Number of opinion expressions: 1
+	Number of opinion targets: 1
+	Number of characters of the text: 7161
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-03-15_lecourrier.vnagency.com.vn_77a6ad67e6cef04d751113d39de9b036a466beb0.kaf
+	Number of opinion expressions: 0
+	Number of opinion targets: 0
+	Number of characters of the text: 4825
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-03-15_lexpansion.lexpress.fr_cea6519f6bbce69c5d1f764504bb8fc9c9d4181b.kaf
+	Number of opinion expressions: 0
+	Number of opinion targets: 0
+	Number of characters of the text: 4715
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-03-15_www.rtl.fr_8ea5419908a856fbcd2b41f538464a9424f095c0.kaf
+	Number of opinion expressions: 8
+	Number of opinion targets: 8
+	Number of characters of the text: 8964
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-03-18_www.leparisien.fr_f68faeb7f34d8771a805c6835cf5b0db5fa33ff8.kaf
+	Number of opinion expressions: 0
+	Number of opinion targets: 0
+	Number of characters of the text: 5411
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-03-18_www.levif.be_bc7027be146b03c6055c098bb5022666859d43ee.kaf
+	Number of opinion expressions: 0
+	Number of opinion targets: 0
+	Number of characters of the text: 4213
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-03-18_www.liberation.fr_5a4128322df5dd9502d273548be0b3bdb0bbb4ab.kaf
+	Number of opinion expressions: 1
+	Number of opinion targets: 1
+	Number of characters of the text: 6588
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-03-18_www.rtbf.be_f6d5825f02cc88aee57782161e2b4b5476e14da5.kaf
+	Number of opinion expressions: 1
+	Number of opinion targets: 1
+	Number of characters of the text: 4029
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-03-25_bruxelles.blogs.liberation.fr_8ddd4abb7eb922c0d68cda4d8c9fee759c907a30.kaf
+	Number of opinion expressions: 1
+	Number of opinion targets: 1
+	Number of characters of the text: 6303
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-03-25_www.lemonde.fr_ae2d311a083d656be960495d9d0f142efec7e98b.kaf
+	Number of opinion expressions: 2
+	Number of opinion targets: 2
+	Number of characters of the text: 4840
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-03-26_lexpansion.lexpress.fr_b3f48ba5160854074ee187f5e7e16c8228efb1e9.kaf
+	Number of opinion expressions: 1
+	Number of opinion targets: 1
+	Number of characters of the text: 5019
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-03-28_www.europe1.fr_dd187ca0fa963a8433f2a2c81d43486ee5c01a34.kaf
+	Number of opinion expressions: 1
+	Number of opinion targets: 1
+	Number of characters of the text: 1215
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-03-29_www.lexpress.fr_72ee311ff85c5fd2a28fce193128eb97a82e414e.kaf
+	Number of opinion expressions: 3
+	Number of opinion targets: 3
+	Number of characters of the text: 4921
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-04-08_lci.tf1.fr_212883467e85ef4cc3a5b29f424afbf9bf426b38.kaf
+	Number of opinion expressions: 1
+	Number of opinion targets: 1
+	Number of characters of the text: 5771
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-04-08_www.lapresse.ca_7c57e8f76408ebd1651cd5611e5c10913ad0ddac.kaf
+	Number of opinion expressions: 2
+	Number of opinion targets: 2
+	Number of characters of the text: 4794
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-04-08_www.lejdd.fr_939cb55cef8c39ff2b3499d86034cfbaca525c51.kaf
+	Number of opinion expressions: 2
+	Number of opinion targets: 2
+	Number of characters of the text: 6479
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-04-08_www.lematin.ch_05189c8f40abf155e54bd4dc65555cfd8a8d3aea.kaf
+	Number of opinion expressions: 1
+	Number of opinion targets: 1
+	Number of characters of the text: 5672
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-04-08_www.leparisien.fr_e00b997b01be187fdc1c582184a3c2af513cf7ad.kaf
+	Number of opinion expressions: 3
+	Number of opinion targets: 3
+	Number of characters of the text: 6222
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-04-08_www.nicematin.com_09049a18e7e74e6b2944840c867d1090b3b90f45.kaf
+	Number of opinion expressions: 2
+	Number of opinion targets: 2
+	Number of characters of the text: 6661
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-04-08_www.nicematin.com_503a2c8481ae74ec31e9bcf366c4365e8ae91626.kaf
+	Number of opinion expressions: 4
+	Number of opinion targets: 3
+	Number of characters of the text: 5922
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-04-08_www.rtl.fr_8fe33b875760f49e970b838d0e088d2c8c087491.kaf
+	Number of opinion expressions: 0
+	Number of opinion targets: 0
+	Number of characters of the text: 4231
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-04-08_www.rtl.fr_b6e16b7dd4923a0719c05960489d435ef6c6d032.kaf
+	Number of opinion expressions: 2
+	Number of opinion targets: 2
+	Number of characters of the text: 3484
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-04-09_www.lexpress.fr_469a9e38140ebe32a411d982275ebd375999b4bd.kaf
+	Number of opinion expressions: 3
+	Number of opinion targets: 3
+	Number of characters of the text: 5357
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-04-09_www.paris-normandie.fr_33428d128578753b95fb110c49dc6ba163a87b83.kaf
+	Number of opinion expressions: 3
+	Number of opinion targets: 3
+	Number of characters of the text: 3953
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-04-10_lexpansion.lexpress.fr_2d0d84977450249abef5d3e355acd790a01a99b8.kaf
+	Number of opinion expressions: 1
+	Number of opinion targets: 1
+	Number of characters of the text: 4294
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-04-14_affaires.lapresse.ca_bbabed7d94b5e82ec4b6908f9c3973ae5b880857.kaf
+	Number of opinion expressions: 3
+	Number of opinion targets: 3
+	Number of characters of the text: 3851
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-04-14_www.rtbf.be_533690fe624e77412c1941d8af2a0354c0b0fae0.kaf
+	Number of opinion expressions: 2
+	Number of opinion targets: 2
+	Number of characters of the text: 3685
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-04-16_www.cafebabel.fr_b008cf7d250ca2c4d259382cd8ece24e2f93d4e4.kaf
+	Number of opinion expressions: 1
+	Number of opinion targets: 1
+	Number of characters of the text: 4191
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-04-17_lci.tf1.fr_d83873acf5c7616faaac15e22ff696e8561d60f8.kaf
+	Number of opinion expressions: 1
+	Number of opinion targets: 1
+	Number of characters of the text: 2907
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-04-17_www.europe1.fr_da3a46fa7e7251bb5ed63c0f9c511b31a5cab770.kaf
+	Number of opinion expressions: 1
+	Number of opinion targets: 1
+	Number of characters of the text: 5961
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-04-17_www.lesechos.fr_0df8340848803022d0d50406d9c011715b47b7af.kaf
+	Number of opinion expressions: 3
+	Number of opinion targets: 3
+	Number of characters of the text: 4525
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-04-18_www.leparisien.fr_635a0e27f6bda9ea28d7da27ebd2882ffd7eb714.kaf
+	Number of opinion expressions: 1
+	Number of opinion targets: 1
+	Number of characters of the text: 2102
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-04-25_www.lemonde.fr_750a6ea864c97c4906348303b2e43014f33225c2.kaf
+	Number of opinion expressions: 3
+	Number of opinion targets: 3
+	Number of characters of the text: 6608
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-04-25_www.lepoint.fr_1c81360127de3d7120f30ceb790bb78c781b6b98.kaf
+	Number of opinion expressions: 0
+	Number of opinion targets: 0
+	Number of characters of the text: 4178
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-04-26_lci.tf1.fr_59d2f9c9f4569101e6ced0028a489410f814d353.kaf
+	Number of opinion expressions: 1
+	Number of opinion targets: 1
+	Number of characters of the text: 3310
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-04-26_www.lemonde.fr_098863c5638a64a4b2f9bcef96f9b0594d88e875.kaf
+	Number of opinion expressions: 1
+	Number of opinion targets: 1
+	Number of characters of the text: 3730
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-04-26_www.leparisien.fr_b8a51a958d622541d8fedc7224a6c4a3f810f776.kaf
+	Number of opinion expressions: 0
+	Number of opinion targets: 0
+	Number of characters of the text: 2287
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-04-27_lci.tf1.fr_b6f96ff304a346ed68df656e4378e53c989312b0.kaf
+	Number of opinion expressions: 0
+	Number of opinion targets: 0
+	Number of characters of the text: 3143
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-04-27_www.lejdd.fr_0346050f1b625a00467474bea772623e97450389.kaf
+	Number of opinion expressions: 5
+	Number of opinion targets: 5
+	Number of characters of the text: 6070
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-04-27_www.lematin.ch_47929dcea6b5b1a02ed93aba2e0f9b22c12c6428.kaf
+	Number of opinion expressions: 2
+	Number of opinion targets: 2
+	Number of characters of the text: 2913
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-04-27_www.leparisien.fr_a28033dba17130ceb8515f37c880af774ec5c67a.kaf
+	Number of opinion expressions: 1
+	Number of opinion targets: 1
+	Number of characters of the text: 2097
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-04-27_www.leparisien.fr_bab17b28c155db085a670d8495efc1f4dd8cdfe2.kaf
+	Number of opinion expressions: 2
+	Number of opinion targets: 2
+	Number of characters of the text: 6099
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-04-27_www.ouest-france.fr_97e6889eb8e62f5857bb6d05ffcfe6e8191b100e.kaf
+	Number of opinion expressions: 1
+	Number of opinion targets: 1
+	Number of characters of the text: 2530
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-04-27_www.rtbf.be_249808edf9fc6867655da7c94d872568f8d4fc17.kaf
+	Number of opinion expressions: 2
+	Number of opinion targets: 2
+	Number of characters of the text: 2232
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-04-27_www.rtl.fr_db70050242b175ecbd51b4133ea8c41eb34c7b81.kaf
+	Number of opinion expressions: 2
+	Number of opinion targets: 2
+	Number of characters of the text: 2524
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-04-28_www.dna.fr_2dbe1fcea1a73fdf6cd7e2dd3834a3b88dd3f532.kaf
+	Number of opinion expressions: 0
+	Number of opinion targets: 0
+	Number of characters of the text: 2627
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-04-28_www.europe1.fr_215d63d8c86461bc6296262243d678f410547763.kaf
+	Number of opinion expressions: 2
+	Number of opinion targets: 2
+	Number of characters of the text: 3207
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-04-28_www.lejdd.fr_6c107635a14f6be3f87a9357a3146599ac61ea5e.kaf
+	Number of opinion expressions: 1
+	Number of opinion targets: 1
+	Number of characters of the text: 1752
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-04-28_www.liberation.fr_9530937bf34bb7829f58acac23b1c27a14f87fc6.kaf
+	Number of opinion expressions: 2
+	Number of opinion targets: 2
+	Number of characters of the text: 3314
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-04-29_lci.tf1.fr_a35d248550f03c7baede3332a0e64fd51b71d639.kaf
+	Number of opinion expressions: 1
+	Number of opinion targets: 1
+	Number of characters of the text: 2703
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-04-29_lexpansion.lexpress.fr_54ea41c42ee420fcfd7be4fe15832f2c747ed3a5.kaf
+	Number of opinion expressions: 1
+	Number of opinion targets: 1
+	Number of characters of the text: 3317
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-04-29_www.europe1.fr_e2b324b6c85b354717d4953ceb4b3af95afcf270.kaf
+	Number of opinion expressions: 2
+	Number of opinion targets: 2
+	Number of characters of the text: 1188
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-04-29_www.leparisien.fr_68ae552b0697ea02921d108e6af5e188c23e12ec.kaf
+	Number of opinion expressions: 2
+	Number of opinion targets: 2
+	Number of characters of the text: 4942
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-04-29_www.leparisien.fr_f81be22b1ea267002cdf3ba2c01590cbfa7ec5a1.kaf
+	Number of opinion expressions: 1
+	Number of opinion targets: 1
+	Number of characters of the text: 4359
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-04-29_www.lesechos.fr_09ae20e5b6a604ca7c8229a0186984da3bfae756.kaf
+	Number of opinion expressions: 1
+	Number of opinion targets: 1
+	Number of characters of the text: 2764
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-04-29_www.lexpress.fr_d7f3e672d4da593fc0f26e901397e77a6eebd6dd.kaf
+	Number of opinion expressions: 1
+	Number of opinion targets: 1
+	Number of characters of the text: 2176
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-04-30_www.lesechos.fr_5c3c8dfc9c68a7703d0418cdbc7cef9aa704dd8e.kaf
+	Number of opinion expressions: 0
+	Number of opinion targets: 0
+	Number of characters of the text: 4525
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-04-30_www.rtl.fr_a379ee27f5cda8a33c5cec8d8b5a4a5a57d68bd1.kaf
+	Number of opinion expressions: 1
+	Number of opinion targets: 1
+	Number of characters of the text: 2374
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-05-01_fr.euronews.com_537f84d19627ae139085e32aae0cd4d60666e314.kaf
+	Number of opinion expressions: 1
+	Number of opinion targets: 1
+	Number of characters of the text: 1367
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-05-01_lci.tf1.fr_6f0b06ad5cb53a4486af293ba6f324d27454488a.kaf
+	Number of opinion expressions: 1
+	Number of opinion targets: 1
+	Number of characters of the text: 4020
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-05-01_www.europe1.fr_eacb0310190377885bfeccf44f3d125628adc598.kaf
+	Number of opinion expressions: 1
+	Number of opinion targets: 1
+	Number of characters of the text: 1778
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-05-01_www.lematin.ch_1c3e7d70a202df8a819eccc1e99294d20f064fce.kaf
+	Number of opinion expressions: 1
+	Number of opinion targets: 1
+	Number of characters of the text: 4531
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-05-01_www.lematin.ch_444ca8b26c59519214e8c6a5df39f81467898931.kaf
+	Number of opinion expressions: 3
+	Number of opinion targets: 3
+	Number of characters of the text: 4614
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-05-01_www.rtl.fr_dab8bc9f09278e4d9fd749d3a9c1438b4d152b9e.kaf
+	Number of opinion expressions: 2
+	Number of opinion targets: 2
+	Number of characters of the text: 2900
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-05-03_lexpansion.lexpress.fr_eb30a5d27ad2d349790048e05dd58a529011833b.kaf
+	Number of opinion expressions: 0
+	Number of opinion targets: 0
+	Number of characters of the text: 6387
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-05-05_www.rtl.fr_62167dc3ee402903f858b9d3c8876422f73797db.kaf
+	Number of opinion expressions: 2
+	Number of opinion targets: 1
+	Number of characters of the text: 3591
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-05-08_www.24heures.ch_8de922ae129ac8b61285d2cf9206453595c91b81.kaf
+	Number of opinion expressions: 1
+	Number of opinion targets: 1
+	Number of characters of the text: 2695
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-05-08_www.lematin.ch_db3c473e5df247520b4fe7597b7bd1707fc1f0a4.kaf
+	Number of opinion expressions: 2
+	Number of opinion targets: 2
+	Number of characters of the text: 2695
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-05-09_www.dna.fr_4cfd29a9fca026d088710a542b37709460158788.kaf
+	Number of opinion expressions: 1
+	Number of opinion targets: 1
+	Number of characters of the text: 2135
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-05-10_www.rtbf.be_6928c27a03bf0e37627dfc121bbba77b7ece48fa.kaf
+	Number of opinion expressions: 1
+	Number of opinion targets: 1
+	Number of characters of the text: 4020
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-05-12_lci.tf1.fr_1b78a34f9d0cb78ffaf68ba50acc78f79d0a1799.kaf
+	Number of opinion expressions: 0
+	Number of opinion targets: 0
+	Number of characters of the text: 3704
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-05-16_www.lexpress.fr_7fab4752ef09ace4dd37d2b758d35d3cb5ba6a3a.kaf
+	Number of opinion expressions: 2
+	Number of opinion targets: 2
+	Number of characters of the text: 9913
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-05-17_www.courrierinternational.com_4c5eabf0942b5b8b72a2eff1999a93e7e92589af.kaf
+	Number of opinion expressions: 0
+	Number of opinion targets: 0
+	Number of characters of the text: 4985
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-05-17_www.euractiv.fr_9a2b062c1113d291fb22e1c6471737f9a912519b.kaf
+	Number of opinion expressions: 2
+	Number of opinion targets: 2
+	Number of characters of the text: 4888
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-05-17_www.latribune.fr_21d077e38ef0538dc0895f941ab1a7ba7aed54db.kaf
+	Number of opinion expressions: 3
+	Number of opinion targets: 3
+	Number of characters of the text: 13093
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-05-18_www.lejdd.fr_b73bb112744c32921150771471dc268acf64c1f6.kaf
+	Number of opinion expressions: 0
+	Number of opinion targets: 0
+	Number of characters of the text: 1456
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-05-18_www.ouest-france.fr_60d75a85e9e064d1e60e8527d29c7fda8a74fa44.kaf
+	Number of opinion expressions: 0
+	Number of opinion targets: 0
+	Number of characters of the text: 1141
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-05-19_www.lejdd.fr_7d7f2eb5e5e8c1c7146b6ca0696441ecad7e7ed1.kaf
+	Number of opinion expressions: 1
+	Number of opinion targets: 1
+	Number of characters of the text: 1523
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-05-22_lci.tf1.fr_ec1b43c32d9b95377fcc3a3242c2fec79a1be51e.kaf
+	Number of opinion expressions: 0
+	Number of opinion targets: 0
+	Number of characters of the text: 3765
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-05-22_lexpansion.lexpress.fr_2748bd95c0f1164f38b28ed1b54a32764c7b9c96.kaf
+	Number of opinion expressions: 0
+	Number of opinion targets: 0
+	Number of characters of the text: 3719
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-05-22_www.europe1.fr_c40894de0581007b24d1527f196897e37db1d959.kaf
+	Number of opinion expressions: 2
+	Number of opinion targets: 2
+	Number of characters of the text: 3304
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-05-22_www.leparisien.fr_2799e33fdfb4f4e04e18a0f40b8d90125903a7cb.kaf
+	Number of opinion expressions: 3
+	Number of opinion targets: 3
+	Number of characters of the text: 3919
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-05-23_fr.euronews.com_eee7433dbb898661f5803c10c3eefd0a6219ea79.kaf
+	Number of opinion expressions: 2
+	Number of opinion targets: 2
+	Number of characters of the text: 5122
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-05-23_lci.tf1.fr_f734edf63c2d7e7f69a843ea9ef326c163cc187c.kaf
+	Number of opinion expressions: 0
+	Number of opinion targets: 0
+	Number of characters of the text: 3099
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-05-23_www.lepoint.fr_e153ff378d23df65dfe752363f2f830167059887.kaf
+	Number of opinion expressions: 2
+	Number of opinion targets: 2
+	Number of characters of the text: 4844
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-05-24_allemagne.blog.lemonde.fr_78a6c704ede64442f187cfb84e6331e4953d673f.kaf
+	Number of opinion expressions: 0
+	Number of opinion targets: 0
+	Number of characters of the text: 2253
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-05-24_www.lesechos.fr_e7942e1cdda8f15a6c8df106eb55ed663ef56ef8.kaf
+	Number of opinion expressions: 2
+	Number of opinion targets: 2
+	Number of characters of the text: 4593
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-05-27_fr.euronews.com_819d2880d894483e4245263eb7ef81bb58aebfa2.kaf
+	Number of opinion expressions: 1
+	Number of opinion targets: 1
+	Number of characters of the text: 1442
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-05-27_www.rtbf.be_b47c2913f2dc575d4949a3b0c38ce38a087fd9af.kaf
+	Number of opinion expressions: 0
+	Number of opinion targets: 0
+	Number of characters of the text: 2842
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-05-29_www.letelegramme.fr_93088bd299b4d70d5a7fa00690f4789f1d48d2fe.kaf
+	Number of opinion expressions: 0
+	Number of opinion targets: 0
+	Number of characters of the text: 1982
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-05-30_www.lematin.ch_e33e4eb01ff843990d6286edcfea8537afa05381.kaf
+	Number of opinion expressions: 1
+	Number of opinion targets: 1
+	Number of characters of the text: 3861
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-05-30_www.leparisien.fr_1cf658ec97dbcd8a4aae2c24cc9f4f51ebfecefe.kaf
+	Number of opinion expressions: 3
+	Number of opinion targets: 3
+	Number of characters of the text: 4378
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-05-30_www.leparisien.fr_520b5af181cd110bc6e4764765812385d9c67794.kaf
+	Number of opinion expressions: 2
+	Number of opinion targets: 2
+	Number of characters of the text: 5309
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-05-31_www.dna.fr_8080d401459928ebee8d390d7e2ac422e199266a.kaf
+	Number of opinion expressions: 1
+	Number of opinion targets: 1
+	Number of characters of the text: 2693
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-06-02_www.levif.be_b7a274891828c6e446070b294dc094e66f54ef5b.kaf
+	Number of opinion expressions: 0
+	Number of opinion targets: 0
+	Number of characters of the text: 5513
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-06-03_tempsreel.nouvelobs.com_5ac85a8196d20108eb599c514124e251486c3b25.kaf
+	Number of opinion expressions: 0
+	Number of opinion targets: 0
+	Number of characters of the text: 5669
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-06-07_lexpansion.lexpress.fr_dad3c2b0ff78c4970fb29510bce8e556b1fc0c19.kaf
+	Number of opinion expressions: 1
+	Number of opinion targets: 1
+	Number of characters of the text: 6511
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-06-07_tempsreel.nouvelobs.com_8f33d6b9c9fd6244b22e37ba8d6a208afae08b4b.kaf
+	Number of opinion expressions: 1
+	Number of opinion targets: 1
+	Number of characters of the text: 1861
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-06-10_www.lunion.presse.fr_41c250dd0b9d7e9d2cdfce3dbf68e0397e2b8ecc.kaf
+	Number of opinion expressions: 0
+	Number of opinion targets: 0
+	Number of characters of the text: 5312
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-06-14_www.leparisien.fr_5a4239118da431108622f4a2b0a2f2669f77f1d3.kaf
+	Number of opinion expressions: 3
+	Number of opinion targets: 3
+	Number of characters of the text: 4903
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-06-17_lexpansion.lexpress.fr_be2ae41d8778a5d82f433596cc9092b6158761bf.kaf
+	Number of opinion expressions: 0
+	Number of opinion targets: 0
+	Number of characters of the text: 4937
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-06-17_www.europe1.fr_8a5f95a58d996598fafa11a17daf81ab753fc983.kaf
+	Number of opinion expressions: 1
+	Number of opinion targets: 1
+	Number of characters of the text: 3071
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-06-17_www.rtbf.be_8fffa644b17eb9f7e1a87deb1934381ca7ece3f2.kaf
+	Number of opinion expressions: 0
+	Number of opinion targets: 0
+	Number of characters of the text: 1398
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-06-17_www.tdg.ch_094759f71a841790d863aab2e807c7c50ce32584.kaf
+	Number of opinion expressions: 2
+	Number of opinion targets: 2
+	Number of characters of the text: 4551
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-06-18_www.lexpress.fr_789764dd1fe271f58fa7e78c350e9b1b04858f72.kaf
+	Number of opinion expressions: 2
+	Number of opinion targets: 2
+	Number of characters of the text: 2909
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-06-19_tempsreel.nouvelobs.com_a977018cef68256364c22437b2de2263a1620fb0.kaf
+	Number of opinion expressions: 1
+	Number of opinion targets: 1
+	Number of characters of the text: 4032
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-06-19_www.ouest-france.fr_974f92c0d255bd5ee4b05dd0f6753b3e5b8a4c94.kaf
+	Number of opinion expressions: 1
+	Number of opinion targets: 1
+	Number of characters of the text: 3537
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-06-19_www.rtbf.be_f0597c28225e48d5be51baa0028dc7f14a1122cc.kaf
+	Number of opinion expressions: 5
+	Number of opinion targets: 5
+	Number of characters of the text: 9089
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-06-23_www.leparisien.fr_57b1757f3ebd96824b293b561922f3fa99bffc83.kaf
+	Number of opinion expressions: 3
+	Number of opinion targets: 3
+	Number of characters of the text: 4986
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-06-26_www.leparisien.fr_4a6e270d7550575e5961b70f4d4e6f8f635b5e2b.kaf
+	Number of opinion expressions: 2
+	Number of opinion targets: 2
+	Number of characters of the text: 3502
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-06-26_www.leparisien.fr_fec6587e6adeec2342d0c5760798e54bba968fbf.kaf
+	Number of opinion expressions: 2
+	Number of opinion targets: 2
+	Number of characters of the text: 1977
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-06-28_www.europe1.fr_554c9f1f6467437aa9e10d593efd645b167cc7f8.kaf
+	Number of opinion expressions: 0
+	Number of opinion targets: 0
+	Number of characters of the text: 2620
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-06-29_www.leparisien.fr_0427debd0a46a4da12b4f3d9898bda8401014d00.kaf
+	Number of opinion expressions: 1
+	Number of opinion targets: 1
+	Number of characters of the text: 1643
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-06-30_www.lejdd.fr_e936a551660d5a8b7e29c9227fb3eaf0198e2d81.kaf
+	Number of opinion expressions: 3
+	Number of opinion targets: 1
+	Number of characters of the text: 4554
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-07-02_tempsreel.nouvelobs.com_11bfe7831a4d7427b0ca7429d51c31821ccc7ea5.kaf
+	Number of opinion expressions: 0
+	Number of opinion targets: 0
+	Number of characters of the text: 6883
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-07-03_www.rtbf.be_f2efd2918bbdead4c74f8a0596f0d02603cd1f6e.kaf
+	Number of opinion expressions: 2
+	Number of opinion targets: 2
+	Number of characters of the text: 4082
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-07-04_lecourrier.vnagency.com.vn_65f3eacb94583a124d449db132fafee1b9daff4a.kaf
+	Number of opinion expressions: 1
+	Number of opinion targets: 1
+	Number of characters of the text: 2367
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-07-04_www.lexpress.fr_f07b169560ed515847bd8a8422c8c34efd098d95.kaf
+	Number of opinion expressions: 0
+	Number of opinion targets: 0
+	Number of characters of the text: 2348
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-07-07_www.midilibre.fr_c328b86ce8e0e87b340b99b5271db93c660b8cae.kaf
+	Number of opinion expressions: 0
+	Number of opinion targets: 0
+	Number of characters of the text: 4634
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-07-08_www.europe1.fr_49e707a1be7dd6212e126259f2ec923c61affeb1.kaf
+	Number of opinion expressions: 1
+	Number of opinion targets: 1
+	Number of characters of the text: 3484
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-08-16_www.lapresse.ca_d71db457ff9d306b18b7813384c99da4439dc29d.kaf
+	Number of opinion expressions: 0
+	Number of opinion targets: 0
+	Number of characters of the text: 5762
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-08-17_www.lorientlejour.com_d04294644afab2c3454b3cc38a2442f611348ff3.kaf
+	Number of opinion expressions: 1
+	Number of opinion targets: 1
+	Number of characters of the text: 3922
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-08-20_www.europe1.fr_6fd5ca72cd943fd0b468c8659a9e2e3e9edbfe17.kaf
+	Number of opinion expressions: 1
+	Number of opinion targets: 1
+	Number of characters of the text: 2496
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-08-23_www.levif.be_58d1e7ee39e2a5042bf8a2699d68b1fe44c73335.kaf
+	Number of opinion expressions: 1
+	Number of opinion targets: 1
+	Number of characters of the text: 3013
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-08-26_tempsreel.nouvelobs.com_c719c9f1eaefec832c9bb7a946984ca0ccc873b3.kaf
+	Number of opinion expressions: 0
+	Number of opinion targets: 0
+	Number of characters of the text: 9156
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-08-26_www.europe1.fr_fbadbddd1cfc95660378bcba6e62f876d23c5376.kaf
+	Number of opinion expressions: 0
+	Number of opinion targets: 0
+	Number of characters of the text: 854
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-08-27_www.europe1.fr_a8f81dd316e46bdc005d93d01de68da69dfbfb7f.kaf
+	Number of opinion expressions: 0
+	Number of opinion targets: 0
+	Number of characters of the text: 774
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-08-29_lci.tf1.fr_f761bc41f82cf03d891fc450560129a32f66c81a.kaf
+	Number of opinion expressions: 1
+	Number of opinion targets: 1
+	Number of characters of the text: 7556
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-08-30_tempsreel.nouvelobs.com_b32319e446db045858d4b6d71e1810af25d27e26.kaf
+	Number of opinion expressions: 0
+	Number of opinion targets: 0
+	Number of characters of the text: 7618
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-08-30_www.europe1.fr_3f047370d3f6e517134ec4b75d94734d7f196b8a.kaf
+	Number of opinion expressions: 0
+	Number of opinion targets: 0
+	Number of characters of the text: 1686
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-08-30_www.lapresse.ca_a98fdf646544681c07985da30084df8335896acf.kaf
+	Number of opinion expressions: 3
+	Number of opinion targets: 2
+	Number of characters of the text: 8316
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-08-30_www.lapresse.ca_cdc752bf43abe9025240635966947627b7388515.kaf
+	Number of opinion expressions: 0
+	Number of opinion targets: 0
+	Number of characters of the text: 8316
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-08-30_www.ledauphine.com_ca53648d7eeb68b21ab3be47d6bdd4089d60de8a.kaf
+	Number of opinion expressions: 1
+	Number of opinion targets: 1
+	Number of characters of the text: 4460
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-08-30_www.ouest-france.fr_801b5bfb44bf08348e2b5d64062f2809dcb633ba.kaf
+	Number of opinion expressions: 1
+	Number of opinion targets: 1
+	Number of characters of the text: 2232
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-08-31_www.liberte-algerie.com_0fd59562537cda0e796d2ce9a45aa9fc15fb1121.kaf
+	Number of opinion expressions: 2
+	Number of opinion targets: 2
+	Number of characters of the text: 5603
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-09-01_www.24heures.ch_ea221f19961575deed735c95fbbd75b26ec9aa0a.kaf
+	Number of opinion expressions: 1
+	Number of opinion targets: 1
+	Number of characters of the text: 3821
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-09-02_www.courrierinternational.com_fd7a4afe5ad59336d572d0e9d7ef6a965e80c090.kaf
+	Number of opinion expressions: 0
+	Number of opinion targets: 0
+	Number of characters of the text: 3151
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-09-06_lci.tf1.fr_cf206707bd277a038e56c1da069975ec443d8b32.kaf
+	Number of opinion expressions: 1
+	Number of opinion targets: 1
+	Number of characters of the text: 9856
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-09-07_tempsreel.nouvelobs.com_87141de89e9415f160f63c937608e7f64d315df1.kaf
+	Number of opinion expressions: 0
+	Number of opinion targets: 0
+	Number of characters of the text: 1495
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-09-15_lecourrier.vnagency.com.vn_1200b31a3cfcdfa9f671e5c274d2a02241ad5786.kaf
+	Number of opinion expressions: 1
+	Number of opinion targets: 1
+	Number of characters of the text: 4026
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-09-20_fr.euronews.com_8ff1ca8f9aab778b36376964a512b447af4a6c39.kaf
+	Number of opinion expressions: 0
+	Number of opinion targets: 0
+	Number of characters of the text: 1745
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-09-20_www.24heures.ch_206da5f01d22450b919e772933860b7902a5bf93.kaf
+	Number of opinion expressions: 0
+	Number of opinion targets: 0
+	Number of characters of the text: 4973
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-09-20_www.leconomiste.com_c8bb333b9bfd2507b41b085024222e63fdba8a4a.kaf
+	Number of opinion expressions: 1
+	Number of opinion targets: 1
+	Number of characters of the text: 4011
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-09-20_www.lematin.ch_b95df1a7a7c9308d155b9eb5bc1511833c2492d8.kaf
+	Number of opinion expressions: 5
+	Number of opinion targets: 5
+	Number of characters of the text: 4999
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-09-20_www.levif.be_4913551263ea35a22de48b5830ffc524317dfa2c.kaf
+	Number of opinion expressions: 4
+	Number of opinion targets: 4
+	Number of characters of the text: 4941
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-09-21_fr.euronews.com_9d70fdcf8a89c92162ee0ffb3154836a1feeccb7.kaf
+	Number of opinion expressions: 2
+	Number of opinion targets: 1
+	Number of characters of the text: 2156
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-09-21_lci.tf1.fr_fd8e7a488d8b9a29016f5789089c8c1a1ac999bd.kaf
+	Number of opinion expressions: 1
+	Number of opinion targets: 1
+	Number of characters of the text: 3674
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-09-21_www.lematin.ch_518ca37c48d577f2b2f037e753719c6cd4f5cdc5.kaf
+	Number of opinion expressions: 2
+	Number of opinion targets: 2
+	Number of characters of the text: 4355
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-09-22_lci.tf1.fr_6657fe3c4aad8c65e7fa9e5979fb7f0f3f1c8819.kaf
+	Number of opinion expressions: 2
+	Number of opinion targets: 1
+	Number of characters of the text: 5672
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-09-22_tempsreel.nouvelobs.com_a842dcac833a1d8074b3276ee3c7bccd95431e04.kaf
+	Number of opinion expressions: 0
+	Number of opinion targets: 0
+	Number of characters of the text: 5909
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-09-22_www.letelegramme.fr_f9b1054879e9b381f6803dfb2be5e4c815f2c54a.kaf
+	Number of opinion expressions: 1
+	Number of opinion targets: 1
+	Number of characters of the text: 4466
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-09-22_www.rtbf.be_2e68124431f456bd2357b0bef511f4f6f7200439.kaf
+	Number of opinion expressions: 1
+	Number of opinion targets: 1
+	Number of characters of the text: 2858
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-09-22_www.tdg.ch_34dbc091366f6f5c03affe3ff017d5d276228690.kaf
+	Number of opinion expressions: 3
+	Number of opinion targets: 3
+	Number of characters of the text: 4451
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-09-23_fr.euronews.com_acf6597baa7d417dd6bd70adf2d05ffa9252c18a.kaf
+	Number of opinion expressions: 1
+	Number of opinion targets: 1
+	Number of characters of the text: 7934
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-09-23_lexpansion.lexpress.fr_6e0f4e5d1222fc3a50ebdde0215eeae509e1b3a2.kaf
+	Number of opinion expressions: 0
+	Number of opinion targets: 0
+	Number of characters of the text: 6078
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-09-23_tempsreel.nouvelobs.com_7a2abe64408e9f8f72630ad6132b9569163f476c.kaf
+	Number of opinion expressions: 0
+	Number of opinion targets: 0
+	Number of characters of the text: 6675
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-09-23_www.courrierinternational.com_a6f5b4c0d27c4dc34562183d44066dc6070f0ae1.kaf
+	Number of opinion expressions: 0
+	Number of opinion targets: 0
+	Number of characters of the text: 1741
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-09-23_www.lapresse.ca_15ada89b82520eef0e036e7a875fecc139dd2f7e.kaf
+	Number of opinion expressions: 3
+	Number of opinion targets: 3
+	Number of characters of the text: 5912
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-09-23_www.tdg.ch_f4927dad70345a8c580406b4d694f546f9d5191f.kaf
+	Number of opinion expressions: 3
+	Number of opinion targets: 3
+	Number of characters of the text: 4866
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-09-27_www.lematin.ch_d0df53c890d99be811dab4cbe932988deacbd57a.kaf
+	Number of opinion expressions: 1
+	Number of opinion targets: 1
+	Number of characters of the text: 3546
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-10-02_www.lemonde.fr_33c002bc39602f372351c4f330178076e3095145.kaf
+	Number of opinion expressions: 3
+	Number of opinion targets: 3
+	Number of characters of the text: 5320
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-10-04_www.bienpublic.com_5d5fa9ba7806a2c1b682e57d051d88e00083d256.kaf
+	Number of opinion expressions: 1
+	Number of opinion targets: 1
+	Number of characters of the text: 2048
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-10-04_www.nicematin.com_f7dbe4fd045947b93a98da4c74264591e7fd9be1.kaf
+	Number of opinion expressions: 2
+	Number of opinion targets: 2
+	Number of characters of the text: 5776
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-10-05_www.24heures.ch_a4bda4d2641f0cdcd339a4e1649dc76e8e662cdd.kaf
+	Number of opinion expressions: 0
+	Number of opinion targets: 0
+	Number of characters of the text: 2281
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-10-10_www.tdg.ch_bb695ff86b22158fd5fbdc17cf0b3ccada03f882.kaf
+	Number of opinion expressions: 2
+	Number of opinion targets: 2
+	Number of characters of the text: 3800
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-10-16_allemagne.blog.lemonde.fr_810999be66fd2773ae285dd4b4c7414b3ca3a433.kaf
+	Number of opinion expressions: 0
+	Number of opinion targets: 0
+	Number of characters of the text: 10706
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-10-23_www.tdg.ch_430ca881e4542f478d6eacf26e76d1215067291a.kaf
+	Number of opinion expressions: 1
+	Number of opinion targets: 1
+	Number of characters of the text: 4343
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-10-24_lecourrier.vnagency.com.vn_873efa74f75105485c3103040dc09994962bcda0.kaf
+	Number of opinion expressions: 1
+	Number of opinion targets: 1
+	Number of characters of the text: 4896
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-10-24_www.lapresse.ca_65e7c548a1c1e151ab8368b9b9da02086d0c554e.kaf
+	Number of opinion expressions: 3
+	Number of opinion targets: 3
+	Number of characters of the text: 5923
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-10-25_fr.euronews.com_3a920cdac97abfef7b33128a983f7b0b5b6b13a6.kaf
+	Number of opinion expressions: 2
+	Number of opinion targets: 0
+	Number of characters of the text: 2090
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-10-25_lecourrier.vnagency.com.vn_104bf97c45cc675bbf35b87a8cbd3abf81fb902d.kaf
+	Number of opinion expressions: 0
+	Number of opinion targets: 0
+	Number of characters of the text: 3970
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-10-25_www.lejdd.fr_92ed641f501547594088593bfa666f0c3edd1a9a.kaf
+	Number of opinion expressions: 2
+	Number of opinion targets: 2
+	Number of characters of the text: 4175
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-10-26_lecourrier.vnagency.com.vn_025ad9f8fa52c6e91910315389283b12a1959997.kaf
+	Number of opinion expressions: 0
+	Number of opinion targets: 0
+	Number of characters of the text: 5997
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-10-27_www.dna.fr_39491ef86bcdf9c04e64f785f9c5d6da9d066993.kaf
+	Number of opinion expressions: 2
+	Number of opinion targets: 2
+	Number of characters of the text: 4599
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-10-27_www.rtl.fr_39bacb0b843fb39299be74de315ed75d64e050bc.kaf
+	Number of opinion expressions: 2
+	Number of opinion targets: 2
+	Number of characters of the text: 6557
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-10-29_fr.euronews.com_03e571b88b80b51881ee823d01ad503a5fe543eb.kaf
+	Number of opinion expressions: 1
+	Number of opinion targets: 1
+	Number of characters of the text: 1672
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-10-29_www.lapresse.ca_dcf6e869abe9f123b933502bcd4b045094045bab.kaf
+	Number of opinion expressions: 2
+	Number of opinion targets: 2
+	Number of characters of the text: 4549
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-11-01_tempsreel.nouvelobs.com_468c7550f44b5d7f7682ba786c0a7517b7e6d607.kaf
+	Number of opinion expressions: 1
+	Number of opinion targets: 1
+	Number of characters of the text: 5005
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-11-01_www.bienpublic.com_4c29ad059d11e2cfbff545e866c9ddeef675770e.kaf
+	Number of opinion expressions: 0
+	Number of opinion targets: 0
+	Number of characters of the text: 4642
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-11-01_www.lematin.ch_3761bdc093f271f2c59626a4102fdb0d3d406439.kaf
+	Number of opinion expressions: 2
+	Number of opinion targets: 2
+	Number of characters of the text: 3389
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-11-09_www.lapresse.ca_83aeaf388ae9d21cfa50b4076bb021c09ca4e297.kaf
+	Number of opinion expressions: 4
+	Number of opinion targets: 3
+	Number of characters of the text: 4711
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-11-12_lci.tf1.fr_b4127da6c5193d20bdf6ac583fc4f298ad1da709.kaf
+	Number of opinion expressions: 1
+	Number of opinion targets: 1
+	Number of characters of the text: 2623
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-11-12_lexpansion.lexpress.fr_0ac5fba95fbecaeda3014c840d673be2cf6f7225.kaf
+	Number of opinion expressions: 0
+	Number of opinion targets: 0
+	Number of characters of the text: 5004
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-11-13_www.tdg.ch_ebf444e49a4580bd2d2caf45b48ea1af8c697d17.kaf
+	Number of opinion expressions: 3
+	Number of opinion targets: 3
+	Number of characters of the text: 4663
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-11-21_www.charentelibre.fr_a6a55b3202256c52b23a65fb4abacf60b5228d4c.kaf
+	Number of opinion expressions: 0
+	Number of opinion targets: 0
+	Number of characters of the text: 1653
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-11-21_www.lejdd.fr_1a3a6272ba689068a4c6e57369f43fed79040d5c.kaf
+	Number of opinion expressions: 3
+	Number of opinion targets: 3
+	Number of characters of the text: 2875
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-11-30_lci.tf1.fr_883677ba7de3cd53593027651b3c876adcc58ba8.kaf
+	Number of opinion expressions: 1
+	Number of opinion targets: 1
+	Number of characters of the text: 5120
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-12-05_tempsreel.nouvelobs.com_6a0d0786843f113f1153fcb3de5d37ad2dc5055f.kaf
+	Number of opinion expressions: 0
+	Number of opinion targets: 0
+	Number of characters of the text: 10442
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-12-17_bourse.lesechos.fr_38cf20d351a006304fc8d92a95c6564ca1c2922c.kaf
+	Number of opinion expressions: 1
+	Number of opinion targets: 1
+	Number of characters of the text: 6853
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-12-17_www.lapresse.ca_95ae99bccfef088a40dde24ec6fbf01c261d8c00.kaf
+	Number of opinion expressions: 2
+	Number of opinion targets: 2
+	Number of characters of the text: 4798
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-12-18_www.nicematin.com_6cd45c6e15d9a171decf19a3420e6e0c050c0eb4.kaf
+	Number of opinion expressions: 1
+	Number of opinion targets: 1
+	Number of characters of the text: 6132
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-12-19_tempsreel.nouvelobs.com_628e360d56444ebed6e16c12e773837275524f76.kaf
+	Number of opinion expressions: 1
+	Number of opinion targets: 1
+	Number of characters of the text: 4743
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-12-19_www.bienpublic.com_39b7155633d507ceccaf5a1d8c82626e7afd156c.kaf
+	Number of opinion expressions: 1
+	Number of opinion targets: 1
+	Number of characters of the text: 2719
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-12-22_lci.tf1.fr_443e2de1b95c92ee5383d4f835fda94d0b386fb5.kaf
+	Number of opinion expressions: 1
+	Number of opinion targets: 1
+	Number of characters of the text: 3128
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2013-12-22_www.levif.be_209c794cc8f8b238a144eb8eb177429c0b985e78.kaf
+	Number of opinion expressions: 2
+	Number of opinion targets: 2
+	Number of characters of the text: 5929
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2014-01-23_www.lexpress.fr_ec76f19acc9891b2a4ad71d9071bc09348de8ae7.kaf
+	Number of opinion expressions: 8
+	Number of opinion targets: 8
+	Number of characters of the text: 8846
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2014-01-24_lci.tf1.fr_7e66d0c11c80e5c6891b48b8008d6a3541efda8d.kaf
+	Number of opinion expressions: 1
+	Number of opinion targets: 0
+	Number of characters of the text: 4006
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2014-01-31_www.lepoint.fr_d7ee3c48cf7482f3f4a86f85c4716867dbe9e856.kaf
+	Number of opinion expressions: 0
+	Number of opinion targets: 0
+	Number of characters of the text: 4441
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2014-01-31_www.lyonne.fr_9d25849d2342efe124a46c62e0885031e4e09ded.kaf
+	Number of opinion expressions: 0
+	Number of opinion targets: 0
+	Number of characters of the text: 4350
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2014-02-06_news.fr.msn.com_59055aed90ab2691030652aaee1efd5d28edfcb0.kaf
+	Number of opinion expressions: 0
+	Number of opinion targets: 0
+	Number of characters of the text: 4845
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2014-02-06_www.euractiv.fr_f02d153dfca37052367edbfbcf7b343492cdb627.kaf
+	Number of opinion expressions: 2
+	Number of opinion targets: 2
+	Number of characters of the text: 4350
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2014-02-07_www.lematin.ch_67a1242b37ff8502eb882798aa567117c90473d0.kaf
+	Number of opinion expressions: 2
+	Number of opinion targets: 2
+	Number of characters of the text: 2461
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2014-02-07_www.lyonne.fr_ffcb02dc557e4520c9bb35bc857641f442a966a8.kaf
+	Number of opinion expressions: 2
+	Number of opinion targets: 2
+	Number of characters of the text: 5554
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2014-02-09_www.lemonde.fr_26e1bb2bdce26d8f1182ae90b75d2633861c99ab.kaf
+	Number of opinion expressions: 2
+	Number of opinion targets: 2
+	Number of characters of the text: 4045
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2014-02-10_www.lematin.ch_26e7d24e18baed1d6018dd2dd0ee9c71b087a2cd.kaf
+	Number of opinion expressions: 3
+	Number of opinion targets: 3
+	Number of characters of the text: 3946
+Processing file /home/izquierdo/data/opinion_annotations_fr/kaf/news/2014-02-10_www.liberation.fr_6e5ae21a3a673acdaaa6a1b62d5b4e293d89e565.kaf
+	Number of opinion expressions: 3
+	Number of opinion targets: 3
+	Number of characters of the text: 4177
+Total unique number of expression#polarity: 319
+Error expression not continuous: pourraient se contenter  Not included in output
+Error expression not continuous: a provoqué une vive émotion nombreuses critiques  Not included in output
+Error expression not continuous: joue de l' apaisement  Not included in output
+Error expression not continuous: inappropriées virulentes incompréhensibles  Not included in output
+Error expression not continuous: réaffirmé le caractère " indispensable "  Not included in output
+Error expression not continuous: va défendre  Not included in output
+Error expression not continuous: n' importe n' investit pas assez  Not included in output
+Total unique number of targets: 277
+Error target not continuous: la reine elizabeth ii elle  Not included in output
+Error target not continuous: le chirurgien , , s' est pendu  Not included in output
+Error target not continuous: françois mme merkel  Not included in output
+Error target not continuous: les mini · jobs les salaires bruts à 8,5 euros de l’ heure  Not included in output
